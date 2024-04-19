@@ -1,41 +1,49 @@
 {
-  "DataBases_Meta": {
+  "CreationWorks": {
     "NumberTales": {
       "Title": "ナンバーテールズ",
       "Title_EN": "NumberTales",
-      "Primary": {
-        "Summary": "ナンバーテールズのうち、公式一次創作作品に登場するキャラクター。\n99以内の非負整数である数字をそれぞれ有している。",
-        "VarsLists": null
-      },
-      "SemiPrimary": {
-        "Summary": "ナンバーテールズのうち、公式または公認の副次創作としてデザインされたキャラクター。\n100以上999以下の非負整数である数字をそれぞれ有している。",
-        "VarsLists": {
-          "Secondaries": {
-            "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.numbertales-radiann.net",
-            "SecondaryWorks": [
-              { "SecondaryCategory": "公式限定", "SecondarySeriesTitle": null },
-              {
-                "SecondaryCategory": "リクエストナンバー",
-                "SecondarySeriesTitle": null
-              }
-            ]
-          }
-        }
-      },
-      "Secondary": {
-        "Summary": "ナンバーテールズのうち、公認された副次創作作品内で登場したキャラクター。\n有している数字に制約はない。",
-        "VarsLists": {
-          "Secondaries": [
-            {
-              "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+      "DataBases": {
+        "General": {
+          "VarsLists": null
+        },
+        "Primary": {
+          "Summary": "ナンバーテールズのうち、公式一次創作作品に登場するキャラクター。\n99以内の非負整数である数字をそれぞれ有している。",
+          "VarsLists": null
+        },
+        "SemiPrimary": {
+          "Summary": "ナンバーテールズのうち、公式または公認の副次創作としてデザインされたキャラクター。\n100以上999以下の非負整数である数字をそれぞれ有している。",
+          "VarsLists": {
+            "Secondaries": {
+              "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.numbertales-radiann.net",
               "SecondaryWorks": [
                 {
-                  "SecondaryCategory": "公式公認うちよそ企画",
-                  "SecondarySeriesTitle": ["ヘキサデミカル・テールズ"]
+                  "SecondaryCategory": "公式限定",
+                  "SecondarySeriesTitle": null
+                },
+                {
+                  "SecondaryCategory": "リクエストナンバー",
+                  "SecondarySeriesTitle": null
                 }
               ]
             }
-          ]
+          }
+        },
+        "Secondary": {
+          "Summary": "ナンバーテールズのうち、公認された副次創作作品内で登場したキャラクター。\n有している数字に制約はない。",
+          "VarsLists": {
+            "Secondaries": [
+              {
+                "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+                "SecondaryWorks": [
+                  {
+                    "SecondaryCategory": "公式公認うちよそ企画",
+                    "SecondarySeriesTitle": ["ヘキサデミカル・テールズ"]
+                  }
+                ]
+              }
+            ]
+          }
         }
       }
     },
@@ -49,98 +57,101 @@
           "ArchivedYear": 2024
         }
       ],
-      "Primary": null
+      "General": { "VarsLists": null },
+      "DataBases": { "Primary": null }
     }
   },
-  "VarsLists_General": {
-    "Def_Released": {
-      "yet": null,
-      "nowCreating": "nowCreating",
-      "released": "released"
-    },
-    "Def_GenderType": {
-      "Female": "Female",
-      "Male": "Male",
-      "Neutral": "Neutral"
-    },
-    "Def_Month": [
-      { "Month": "Jan", "Num": 1 },
-      { "Month": "Feb", "Num": 2 },
-      { "Month": "Mar", "Num": 3 },
-      { "Month": "Apr", "Num": 4 },
-      { "Month": "May", "Num": 5 },
-      { "Month": "Jun", "Num": 6 },
-      { "Month": "Jul", "Num": 7 },
-      { "Month": "Aug", "Num": 8 },
-      { "Month": "Sep", "Num": 9 },
-      { "Month": "Oct", "Num": 10 },
-      { "Month": "Nov", "Num": 11 },
-      { "Month": "Dec", "Num": 12 }
-    ],
-    "Enum_HideText": [
-      "？？？",
-      "データ無",
-      "公開不能",
-      "判定不能",
-      "検証中",
-      "極秘事項",
-      "非公開"
-    ],
-    "Def_Stats": {
-      "Ranks": {
-        "R2_Great": "S",
-        "R3_Good": "A",
-        "R4plus_BasicOrSpecific": "B+",
-        "R4_Normal": "B",
-        "R5_NotSoGood": "C",
-        "R6_Bad": "D",
-        "R7_Worst": "E",
-        "R2plus_Extended": "S+",
-        "R1_OverLimited": "Z",
-        "R8_Dangerous": "ZZ"
+  "General": {
+    "VarsLists": {
+      "Def_Released": {
+        "yet": null,
+        "nowCreating": "nowCreating",
+        "released": "released"
       },
-      "Texts": {
-        "AbilityText_ForRanks": {
-          "R2_Great": "卓越",
-          "R3_Good": "優秀",
-          "R4plus_BasicOrSpecific": "標準",
-          "R4_Normal": "普通",
-          "R5_NotSoGood": "稚拙",
-          "R6_Bad": "欠落",
-          "R7_Worst": "障碍有",
-          "R1_OverLimited": "過剰"
+      "Def_GenderType": {
+        "Female": "Female",
+        "Male": "Male",
+        "Neutral": "Neutral"
+      },
+      "Def_Month": [
+        { "Month": "Jan", "Num": 1 },
+        { "Month": "Feb", "Num": 2 },
+        { "Month": "Mar", "Num": 3 },
+        { "Month": "Apr", "Num": 4 },
+        { "Month": "May", "Num": 5 },
+        { "Month": "Jun", "Num": 6 },
+        { "Month": "Jul", "Num": 7 },
+        { "Month": "Aug", "Num": 8 },
+        { "Month": "Sep", "Num": 9 },
+        { "Month": "Oct", "Num": 10 },
+        { "Month": "Nov", "Num": 11 },
+        { "Month": "Dec", "Num": 12 }
+      ],
+      "Enum_HideText": [
+        "？？？",
+        "データ無",
+        "公開不能",
+        "判定不能",
+        "検証中",
+        "極秘事項",
+        "非公開"
+      ],
+      "Def_Stats": {
+        "Ranks": {
+          "R2_Great": "S",
+          "R3_Good": "A",
+          "R4plus_BasicOrSpecific": "B+",
+          "R4_Normal": "B",
+          "R5_NotSoGood": "C",
+          "R6_Bad": "D",
+          "R7_Worst": "E",
+          "R2plus_Extended": "S+",
+          "R1_OverLimited": "Z",
+          "R8_Dangerous": "ZZ"
         },
-        "EffectTexts_ForRanks": {
-          "R2_Great": ["絶大"],
-          "R3_Good": ["期待", "期待可能"],
-          "R4plus_BasicOrSpecific": ["特殊"],
-          "R4_Normal": ["普通"],
-          "R5_NotSoGood": ["希薄"],
-          "R6_Bad": ["効果無"],
-          "R7_Worst": ["逆効果", "逆効果(仕様)"],
-          "R2plus_Extended": ["強化済"],
-          "R1_OverLimited": ["過剰"],
-          "R8_Dangerous": ["危険"]
-        },
-        "SafetyTexts_ForRanks": {
-          "R2_Great": ["保証"],
-          "R3_Good": ["安全", "安全(奇行有)"],
-          "R4_Normal": ["危害無", "危害無(奇行有)"],
-          "R5_NotSoGood": ["調整中"],
-          "R6_Bad": ["注意"],
-          "R7_Worst": ["厳重注意"],
-          "R2plus_Extended": ["完全保証"]
-        },
-        "SpecLevelText_ForRanks": {
-          "R2_Great": "強力",
-          "R3_Good": "やや強力",
-          "R4_Normal": "標準的",
-          "R5_NotSoGood": "やや弱力",
-          "R6_Bad": "弱力",
-          "R7_Worst": "能力的強度無",
-          "R2plus_Extended": "かなり強力",
-          "R1_OverLimited": "驚異的",
-          "R8_Dangerous": "危険"
+        "Texts": {
+          "AbilityText_ForRanks": {
+            "R2_Great": "卓越",
+            "R3_Good": "優秀",
+            "R4plus_BasicOrSpecific": "標準",
+            "R4_Normal": "普通",
+            "R5_NotSoGood": "稚拙",
+            "R6_Bad": "欠落",
+            "R7_Worst": "障碍有",
+            "R1_OverLimited": "過剰"
+          },
+          "EffectTexts_ForRanks": {
+            "R2_Great": ["絶大"],
+            "R3_Good": ["期待", "期待可能"],
+            "R4plus_BasicOrSpecific": ["特殊"],
+            "R4_Normal": ["普通"],
+            "R5_NotSoGood": ["希薄"],
+            "R6_Bad": ["効果無"],
+            "R7_Worst": ["逆効果", "逆効果(仕様)"],
+            "R2plus_Extended": ["強化済"],
+            "R1_OverLimited": ["過剰"],
+            "R8_Dangerous": ["危険"]
+          },
+          "SafetyTexts_ForRanks": {
+            "R2_Great": ["保証"],
+            "R3_Good": ["安全", "安全(奇行有)"],
+            "R4_Normal": ["危害無", "危害無(奇行有)"],
+            "R5_NotSoGood": ["調整中"],
+            "R6_Bad": ["注意"],
+            "R7_Worst": ["厳重注意"],
+            "R2plus_Extended": ["完全保証"]
+          },
+          "SpecLevelText_ForRanks": {
+            "R2_Great": "強力",
+            "R3_Good": "やや強力",
+            "R4_Normal": "標準的",
+            "R5_NotSoGood": "やや弱力",
+            "R6_Bad": "弱力",
+            "R7_Worst": "能力的強度無",
+            "R2plus_Extended": "かなり強力",
+            "R1_OverLimited": "驚異的",
+            "R8_Dangerous": "危険"
+          }
         }
       }
     }
