@@ -1,0 +1,80 @@
+{
+  "Primary": {
+    "Card": { "Stoat": null, "Num": null },
+    "Name": "",
+    "Name_EN": "",
+    "FormalName": "\n",
+    "FormalName_EN": "\n",
+    "CodeName": "",
+    "CodeName_EN": "",
+    "GenderType": "",
+    "Class": "",
+    "Class_EN": "",
+    "ThisDealer": {
+      "Name": "",
+      "Name_EN": "",
+      "Height_cm": null,
+      "Weight_kg": null,
+      "BustSize": null,
+      "Age": null,
+      "BirthDay": { "DayOfMonth": null, "Month": null }
+    },
+    "Character": "",
+    "Hobby": "",
+    "SpetialSkil": "",
+    "Favor": "",
+    "Unlike": "",
+    "FirstPersonCalling": "",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "",
+    "For79or80thDealerCalling": { "For79thDealer": "", "For80thDealer": "" },
+    "ArcanamspecAbout": "",
+    "Summary": "",
+    "ArcanumspecStats": {
+      "SpecType": {
+        "MaterialType": [
+          { "Material": null, "TypeText": "" },
+          { "Material": null, "TypeText": "" }
+        ],
+        "ActionType": {
+          "KinematicOrStatic": null,
+          "RoleType": null,
+          "TypeText": ""
+        },
+        "DualizePattern": { "Pattern": null, "PatternText": "" },
+        "Physical": { "Rank": null, "EffectText": "" },
+        "Magical": { "Rank": null, "EffectText": "" },
+        "Healing": { "Rank": null, "EffectText": "" },
+        "Violent": { "Rank": null, "EffectText": "" },
+        "Rewriting": { "Rank": null, "EffectText": "" }
+      },
+      "SpetialPattern": [null],
+      "SafetyLevel": { "Rank": null, "SafetyText": "" },
+      "SpecLevel": { "Rank": null, "SafetyText": "" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": null, "AbilityText": "" },
+      "Communicating": { "Rank": null, "AbilityText": "" },
+      "Reading": { "Rank": null, "AbilityText": "" },
+      "Precision": { "Rank": null, "AbilityText": "" },
+      "Technic": { "Rank": null, "AbilityText": "" },
+      "Actuation": { "Rank": null, "AbilityText": "" }
+    },
+    "Backgrounds": "",
+    "DesigningBrief": "",
+    "Relation": {
+      "Related": [
+        {
+          "Card": { "Stoat": null, "Num": null },
+          "Comments": ""
+        }
+      ],
+      "Commented": [
+        {
+          "Card": { "Stoat": null, "Num": null },
+          "Comments": ""
+        }
+      ]
+    }
+  }
+}
