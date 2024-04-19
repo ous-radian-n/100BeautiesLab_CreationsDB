@@ -1,0 +1,381 @@
+[
+  {
+    "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+    "Num": "0xA",
+    "Name": "エース",
+    "Name_EN": "Ace",
+    "FormalName": "ヘキサデミカル-テールズ仮説A番機",
+    "ModelNumber": "AVCR-HxT 0xA\nHexademicalTales #0xA",
+    "GenderType": "Neutral",
+    "Height_cm": [{ "value": 147, "about": "推定" }],
+    "ConseptAge": { "value": 15, "about": "推定" },
+    "AnivDay": { "DayOfMonth": 10, "Month": "Jun" },
+    "Weight_kg": [{ "value": 39, "about": "推定" }],
+    "BustSize": "AA",
+    "TailsUnit": "つぼみ型1本（大1束+小9束）",
+    "Class": "ヘキサデミカル-テールズ",
+    "Class_EN": "HexademicalTales",
+    "FirstPersonCalling": "ボク",
+    "SecondPersonCalling": "キミ",
+    "ThirdPersonCalling": "彼/彼女/[Name]",
+    "ForMasterCalling": "センパイ",
+    "Character": "胸に秘めている思考か読めない不思議系\n「10(ミツル)」と似ている",
+    "Hobby": "賭け事",
+    "SpetialSkil": "ディール",
+    "Favor": "カード",
+    "Unlike": "",
+    "WellmatchedNTsNames": "",
+    "UnmatchedNTsNames": "",
+    "RelationAbouts": "「10(ミツル)」の派生とされている",
+    "NumerospecAbout": "？？？？を操る",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": { "HideText": "非公開" } },
+        "Manetize": { "Rank": { "HideText": "非公開" } },
+        "Working": { "Rank": { "HideText": "非公開" } },
+        "Luck": { "Rank": { "HideText": "非公開" } },
+        "Communication": { "Rank": { "HideText": "非公開" } }
+      },
+      "SpetialPattern": { "HideText": "極秘事項" },
+      "SafetyLevel": { "Rank": { "HideText": "非公開" } }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+", "AbilityText": "標準" },
+      "Communicating": { "Rank": "B", "AbilityText": "普通" },
+      "Reading": { "Rank": "A", "AbilityText": "優秀" },
+      "Precision": { "Rank": "A", "AbilityText": "優秀" },
+      "Technic": { "Rank": "S", "AbilityText": "卓越" },
+      "Actuation": { "Rank": { "HideText": "非公開" } }
+    },
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体",
+    "SecretInfo": "「運命を操る」という潜在能力を持つ",
+    "Relation": {
+      "Related": []
+    },
+    "RelationToPrimaryNTs": {
+      "Commented": [
+        { "Num": 1, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 13, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 44, "Comments": "", "ComeBackedComments": "" },
+        { "Num": "2(-alt)", "Comments": "", "ComeBackedComments": "" }
+      ]
+    }
+  },
+  {
+    "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+    "Num": "0xB",
+    "Name": "ベータ",
+    "Name_EN": "Beta",
+    "FormalName": "ヘキサデミカル-テールズ仮説B番機",
+    "ModelNumber": "AVCR-HxT 0xB\nHexademicalTales #0xB",
+    "GenderType": "Female",
+    "Height_cm": [{ "value": 144, "about": "推定" }],
+    "ConseptAge": { "value": 14, "about": "推定" },
+    "AnivDay": { "DayOfMonth": 11, "Month": "Jun" },
+    "Weight_kg": [{ "value": 36, "about": "推定" }],
+    "BustSize": "D",
+    "TailsUnit": "猫型2本",
+    "Class": "ヘキサデミカル-テールズ",
+    "Class_EN": "HexademicalTales",
+    "FirstPersonCalling": "わたし",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "～さん/先輩(※ナンバーテールズに対して)",
+    "ForMasterCalling": "",
+    "Character": "繊細で泣き虫\n時々単独行動に出ることがある",
+    "Hobby": "",
+    "SpetialSkil": "一緒に泣いて慰める",
+    "Favor": "",
+    "Unlike": "",
+    "WellmatchedNTsNames": "0xA(エース)\n0xF(フォルテ)",
+    "UnmatchedNTsNames": "",
+    "RelationAbouts": "「11(トウイチ)」の派生とされている",
+    "NumerospecAbout": "？？？？させる",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": { "HideText": "検証中" } },
+        "Manetize": { "Rank": "D", "EffectText": "効果無" },
+        "Working": { "Rank": "A", "EffectText": "期待" },
+        "Luck": { "Rank": "S", "EffectText": "絶大" },
+        "Communication": { "Rank": "B+", "EffectText": "特殊" }
+      },
+      "SpetialPattern": { "HideText": "極秘事項" },
+      "SafetyLevel": { "Rank": { "HideText": "検証中" } }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
+      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
+      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
+      "Precision": { "Rank": "C", "AbilityText": "稚拙" },
+      "Technic": { "Rank": "A", "AbilityText": "優秀" },
+      "Actuation": { "Rank": "C", "AbilityText": "稚拙" }
+    },
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体",
+    "SecretInfo": "「完成させる」潜在能力を持つ",
+    "Relation": {
+      "Related": []
+    },
+    "RelationToPrimaryNTs": {
+      "Commented": [
+        { "Num": 4, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 9, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 24, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 29, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 57, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 94, "Comments": "", "ComeBackedComments": "" }
+      ]
+    }
+  },
+  {
+    "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+    "Num": "0xC",
+    "Name": "セレス",
+    "Name_EN": "Ceres",
+    "FormalName": "ヘキサデミカル-テールズ仮説C番機",
+    "ModelNumber": "AVCR-HxT 0xC\nHexademicalTales #0xC",
+    "GenderType": "Male",
+    "Height_cm": [{ "value": 151, "about": "推定" }],
+    "ConseptAge": { "value": 17, "about": "推定" },
+    "AnivDay": { "DayOfMonth": 12, "Month": "Jun" },
+    "Weight_kg": { "about": { "HideText": "未公開希望" } },
+    "TailsUnit": "犬型3本",
+    "Class": "ヘキサデミカル-テールズ",
+    "Class_EN": "HexademicalTales",
+    "FirstPersonCalling": "オレ\nぼく(※ナイーヴ時)",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "＊イツ;[Name]\n先輩(※ナンバーテールズに対して)",
+    "ForMasterCalling": "",
+    "Character": "自分を信じて動いているが、メンタルの変動が激しく少し単純。かわいい\nアイドルを志望している",
+    "Hobby": "アイドルを目指すこと",
+    "SpetialSkil": "",
+    "Favor": "",
+    "Unlike": "メンタルブレイク",
+    "WellmatchedNTsNames": "93(クミ)",
+    "UnmatchedNTsNames": "61(ロクイチ)",
+    "RelationAbouts": "",
+    "NumerospecAbout": "？？？？させる",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B+", "EffectText": "特殊" },
+        "Manetize": { "Rank": { "HideText": "検証中" } },
+        "Working": { "Rank": "D", "EffectText": "効果無" },
+        "Luck": { "Rank": "E", "EffectText": "逆効果" },
+        "Communication": { "Rank": "D", "EffectText": "効果無" }
+      },
+      "SpetialPattern": { "HideText": "極秘事項" },
+      "SafetyLevel": { "Rank": "E", "SafetyText": "厳重注意" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "A", "AbilityText": "優秀" },
+      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
+      "Reading": { "Rank": "D", "AbilityText": "欠落" },
+      "Precision": { "Rank": "D", "AbilityText": "欠落" },
+      "Technic": { "Rank": "B", "AbilityText": "普通" },
+      "Actuation": { "Rank": "C", "AbilityText": "稚拙" }
+    },
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n試験中に機材を暴走させることがあり……",
+    "SecretInfo": "「活性化させる」潜在能力を持つ",
+    "Relation": {
+      "Related": []
+    },
+    "RelationToPrimaryNTs": {
+      "Commented": [
+        { "Num": 42, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 60, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 61, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 66, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 69, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 93, "Comments": "", "ComeBackedComments": "" }
+      ]
+    }
+  },
+  {
+    "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+    "Num": "0xD",
+    "Name": "デプス",
+    "Name_EN": "Depth",
+    "FormalName": "ヘキサデミカル-テールズ仮説D番機",
+    "ModelNumber": "AVCR-HxT 0xD\nHexademicalTales #0xD",
+    "GenderType": "Female",
+    "Height_cm": [{ "value": 130, "about": "推定" }],
+    "ConseptAge": { "value": 12, "about": "推定" },
+    "AnivDay": { "DayOfMonth": 13, "Month": "Jun" },
+    "Weight_kg": { "about": { "HideText": "未公開希望" } },
+    "BustSize": "E",
+    "TailsUnit": "狐型4本",
+    "Class": "ヘキサデミカル-テールズ",
+    "Class_EN": "HexademicalTales",
+    "FirstPersonCalling": "こっち",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "＊っち;[Name]",
+    "ForMasterCalling": "",
+    "Character": "勤勉で几帳面\n仕事熱心で少しストイック\nアニヲタの可能性あり",
+    "Hobby": "興味持ったことをメモすること",
+    "SpetialSkil": "",
+    "Favor": "ノート",
+    "Unlike": "見られたくないものを見られること",
+    "WellmatchedNTsNames": "75(シチゴ)",
+    "UnmatchedNTsNames": "49(ヨチカ)\n0xE(エネ)",
+    "RelationAbouts": "「0xE(エネ)」に特大空ビ化の非検体にされたことがあり…？",
+    "NumerospecAbout": "？？？？する",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "C", "EffectText": "希薄" },
+        "Manetize": { "Rank": "D", "EffectText": "効果無" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "D", "EffectText": "効果無" },
+        "Communication": { "Rank": { "HideText": "検証中" } }
+      },
+      "SpetialPattern": { "HideText": "極秘事項" },
+      "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B", "AbilityText": "普通" },
+      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
+      "Reading": { "Rank": "S", "AbilityText": "卓越" },
+      "Precision": { "Rank": "A", "AbilityText": "優秀" },
+      "Technic": { "Rank": "A", "AbilityText": "優秀" },
+      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+    },
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\nヘキサデミカル-テールズの躯体開発で記録を途中から担うこととなった",
+    "SecretInfo": "「すべてを記録する」能力を持つ",
+    "Relation": {
+      "Related": []
+    },
+    "RelationToPrimaryNTs": {
+      "Commented": [
+        { "Num": 12, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 17, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 33, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 49, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 75, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 85, "Comments": "", "ComeBackedComments": "" }
+      ]
+    }
+  },
+  {
+    "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+    "Num": "0xE",
+    "Name": "エネ",
+    "Name_EN": "Enè",
+    "FormalName": "ヘキサデミカル-テールズ仮説E番機",
+    "ModelNumber": "AVCR-HxT 0xE\nHexademicalTales #0xE",
+    "GenderType": "Neutral",
+    "Height_cm": [{ "value": 143, "about": "推定" }],
+    "ConseptAge": { "value": 18, "about": "推定" },
+    "AnivDay": { "DayOfMonth": 14, "Month": "Jun" },
+    "Weight_kg": [{ "value": 39, "about": "推定" }],
+    "BustSize": "AA",
+    "TailsUnit": "猫型5本",
+    "Class": "ヘキサデミカル-テールズ",
+    "Class_EN": "HexademicalTales",
+    "FirstPersonCalling": "オイラ",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "～殿/＊イツ",
+    "ForMasterCalling": "",
+    "Character": "優しく明るい\nなんでも技術で解決しようとしないと気が済まない",
+    "Hobby": "メンテナンス（魔改造付き）",
+    "SpetialSkil": "魔改造",
+    "Favor": "（魔）改造",
+    "Unlike": "機械で解決できない問題",
+    "WellmatchedNTsNames": "8(ワカツ)",
+    "UnmatchedNTsNames": "62(ロジ)",
+    "RelationAbouts": "ナンバーテールズの改造案を出しているが……",
+    "NumerospecAbout": "？？？？し？？？？する",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "D", "EffectText": "効果無" },
+        "Manetize": { "Rank": "A", "EffectText": "期待" },
+        "Working": { "Rank": { "HideText": "検証中" } },
+        "Luck": { "Rank": { "HideText": "検証中" } },
+        "Communication": { "Rank": "D", "EffectText": "効果無" }
+      },
+      "SpetialPattern": { "HideText": "極秘事項" },
+      "SafetyLevel": { "Rank": "D", "SafetyText": "注意" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "A", "AbilityText": "優秀" },
+      "Communicating": { "Rank": "B", "AbilityText": "普通" },
+      "Reading": "A(優秀)?",
+      "Precision": { "Rank": "S", "AbilityText": "卓越" },
+      "Technic": { "Rank": { "HideText": "非公開" } },
+      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+    },
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n向こう側の電脳世界でもこちらの世界でも、色んなものの魔改造に勤しんでいる",
+    "SecretInfo": "「万物を認知し修理する」能力を持つ",
+    "Relation": {
+      "Related": []
+    },
+    "RelationToPrimaryNTs": {
+      "Commented": [
+        { "Num": 5, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 8, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 14, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 31, "Comments": "", "ComeBackedComments": "" }
+      ]
+    }
+  },
+  {
+    "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+    "Num": "0xF",
+    "Name": "フォルテ",
+    "Name_EN": "Forte",
+    "FormalName": "ヘキサデミカル-テールズ仮説F番機",
+    "ModelNumber": "AVCR-HxT 0xF\nHexademicalTales #0xF",
+    "GenderType": "Female",
+    "Height_cm": [{ "value": 160, "about": "推定" }],
+    "ConseptAge": { "about": "不詳" },
+    "AnivDay": { "DayOfMonth": 15, "Month": "Jun" },
+    "Weight_kg": { "about": { "HideText": "？？？" } },
+    "BustSize": "J",
+    "TailsUnit": "狐型6本",
+    "Class": "ヘキサデミカル-テールズ",
+    "Class_EN": "HexademicalTales",
+    "FirstPersonCalling": "ママ",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "～ちゃん/～(な)コ",
+    "ForMasterCalling": "",
+    "Character": "母性の化身\n全人類のママになろうとしている",
+    "Hobby": "ママになること",
+    "SpetialSkil": "ママになること",
+    "Favor": "ママになること",
+    "Unlike": "機械",
+    "WellmatchedNTsNames": "63(ムツミ)",
+    "UnmatchedNTsNames": "",
+    "RelationAbouts": "",
+    "NumerospecAbout": { "HideText": "公開不能" },
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "ZZ", "EffectText": "危険" },
+        "Manetize": { "Rank": { "HideText": "判定不能" } },
+        "Working": { "Rank": { "HideText": "判定不能" } },
+        "Luck": { "Rank": { "HideText": "判定不能" } },
+        "Communication": { "Rank": { "HideText": "判定不能" } }
+      },
+      "SpetialPattern": { "HideText": "極秘事項" },
+      "SafetyLevel": { "Rank": { "HideText": "公開不能" } }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B", "AbilityText": "普通" },
+      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
+      "Reading": { "Rank": "A", "AbilityText": "優秀" },
+      "Precision": { "Rank": "A", "AbilityText": "優秀" },
+      "Technic": { "Rank": { "HideText": "非公開" } },
+      "Actuation": { "Rank": { "HideText": "非公開" } }
+    },
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n彼女を前にした人々は彼女に「ママ」だと甘えだし……",
+    "SecretInfo": "「異次元に干渉する」能力を有しており、観測者の記録を媒介して「お前を知っている」「お前を見ている」などのメッセージを残すことがある",
+    "Relation": {
+      "Related": []
+    },
+    "RelationToPrimaryNTs": {
+      "Commented": [
+        { "Num": 2, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 6, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 16, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 36, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 63, "Comments": "", "ComeBackedComments": "" },
+        { "Num": 94, "Comments": "", "ComeBackedComments": "" }
+      ]
+    }
+  }
+]
