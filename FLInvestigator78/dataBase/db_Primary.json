@@ -52,7 +52,7 @@
       },
       "SpetialPattern": ["Ptn.B(士気操作)", "Ptn.Q(天変地異)"],
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" },
-      "SpecLevel": { "Rank": "S+", "SafetyText": "かなり強力" }
+      "SpecLevel": { "Rank": "S+", "SpecLevelText": "かなり強力" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "A", "AbilityText": "優秀" },
