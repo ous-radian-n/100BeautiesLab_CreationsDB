@@ -43,7 +43,9 @@
           "RoleType": "Read",
           "TypeText": "動+律"
         },
-        "DualizePattern": { "Pattern": "Prop.", "PatternText": "通常" },
+        "DualizePattern": { "Pattern": "Prop.", "PatternText": "通常" }
+      }, 
+      "EffectStats": {
         "Physical": { "Rank": "B", "EffectText": "普通" },
         "Magical": { "Rank": "S", "EffectText": "絶大" },
         "Healing": { "Rank": "A", "EffectText": "期待" },
