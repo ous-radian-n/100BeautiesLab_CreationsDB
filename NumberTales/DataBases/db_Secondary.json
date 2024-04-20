@@ -11,7 +11,7 @@
     "GenderType": "Neutral",
     "Height_cm": [{ "value": 147, "about": "推定" }],
     "ConseptAge": { "value": 15, "about": "推定" },
-    "AnivDay": { "DayOfMonth": 10, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 10, "Month": "Jun" } },
     "Weight_kg": [{ "value": 39, "about": "推定" }],
     "BustSize": "AA",
     "TailsUnit": "つぼみ型1本（大1束+小9束）",
@@ -42,11 +42,11 @@
       "SafetyLevel": { "Rank": { "HideText": "非公開" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "S" },
       "Actuation": { "Rank": { "HideText": "非公開" } }
     },
     "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体",
@@ -75,7 +75,7 @@
     "GenderType": "Female",
     "Height_cm": [{ "value": 144, "about": "推定" }],
     "ConseptAge": { "value": 14, "about": "推定" },
-    "AnivDay": { "DayOfMonth": 11, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 11, "Month": "Jun" } },
     "Weight_kg": [{ "value": 36, "about": "推定" }],
     "BustSize": "D",
     "TailsUnit": "猫型2本",
@@ -106,12 +106,12 @@
       "SafetyLevel": { "Rank": { "HideText": "検証中" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
-      "Precision": { "Rank": "C", "AbilityText": "稚拙" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "C", "AbilityText": "稚拙" }
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "C" }
     },
     "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体",
     "SecretInfo": "「完成させる」潜在能力を持つ",
@@ -141,7 +141,7 @@
     "GenderType": "Male",
     "Height_cm": [{ "value": 151, "about": "推定" }],
     "ConseptAge": { "value": 17, "about": "推定" },
-    "AnivDay": { "DayOfMonth": 12, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 12, "Month": "Jun" } },
     "Weight_kg": { "about": { "HideText": "未公開希望" } },
     "TailsUnit": "犬型3本",
     "Class": "ヘキサデミカル-テールズ",
@@ -171,12 +171,12 @@
       "SafetyLevel": { "Rank": "E", "SafetyText": "厳重注意" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "D", "AbilityText": "欠落" },
-      "Precision": { "Rank": "D", "AbilityText": "欠落" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "C", "AbilityText": "稚拙" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "D" },
+      "Precision": { "Rank": "D" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "C" }
     },
     "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n試験中に機材を暴走させることがあり……",
     "SecretInfo": "「活性化させる」潜在能力を持つ",
@@ -206,7 +206,7 @@
     "GenderType": "Female",
     "Height_cm": [{ "value": 130, "about": "推定" }],
     "ConseptAge": { "value": 12, "about": "推定" },
-    "AnivDay": { "DayOfMonth": 13, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 13, "Month": "Jun" } },
     "Weight_kg": { "about": { "HideText": "未公開希望" } },
     "BustSize": "E",
     "TailsUnit": "狐型4本",
@@ -237,12 +237,12 @@
       "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\nヘキサデミカル-テールズの躯体開発で記録を途中から担うこととなった",
     "SecretInfo": "「すべてを記録する」能力を持つ",
@@ -272,7 +272,7 @@
     "GenderType": "Neutral",
     "Height_cm": [{ "value": 143, "about": "推定" }],
     "ConseptAge": { "value": 18, "about": "推定" },
-    "AnivDay": { "DayOfMonth": 14, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 14, "Month": "Jun" } },
     "Weight_kg": [{ "value": 39, "about": "推定" }],
     "BustSize": "AA",
     "TailsUnit": "猫型5本",
@@ -303,12 +303,12 @@
       "SafetyLevel": { "Rank": "D", "SafetyText": "注意" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B" },
       "Reading": "A(優秀)?",
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
+      "Precision": { "Rank": "S" },
       "Technic": { "Rank": { "HideText": "非公開" } },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n向こう側の電脳世界でもこちらの世界でも、色んなものの魔改造に勤しんでいる",
     "SecretInfo": "「万物を認知し修理する」能力を持つ",
@@ -336,7 +336,7 @@
     "GenderType": "Female",
     "Height_cm": [{ "value": 160, "about": "推定" }],
     "ConseptAge": { "about": "不詳" },
-    "AnivDay": { "DayOfMonth": 15, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 15, "Month": "Jun" } },
     "Weight_kg": { "about": { "HideText": "？？？" } },
     "BustSize": "J",
     "TailsUnit": "狐型6本",
@@ -367,10 +367,10 @@
       "SafetyLevel": { "Rank": { "HideText": "公開不能" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
       "Technic": { "Rank": { "HideText": "非公開" } },
       "Actuation": { "Rank": { "HideText": "非公開" } }
     },

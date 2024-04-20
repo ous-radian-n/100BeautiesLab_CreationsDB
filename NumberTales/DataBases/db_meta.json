@@ -1,0 +1,110 @@
+{
+  "Databases": {
+    "Primary": {
+      "Summary": "ナンバーテールズのうち、公式一次創作作品に登場するキャラクター。\n99以内の非負整数である数字をそれぞれ有している。",
+      "VarsLists": null
+    },
+    "SemiPrimary": {
+      "Summary": "ナンバーテールズのうち、公式または公認の副次創作としてデザインされたキャラクター。\n100以上999以下の非負整数である数字をそれぞれ有している。",
+      "VarsLists": {
+        "Secondaries": {
+          "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.numbertales-radiann.net",
+          "SecondaryWorks": [
+            {
+              "SecondaryCategory": "公式限定",
+              "SecondarySeriesTitle": null
+            },
+            {
+              "SecondaryCategory": "リクエストナンバー",
+              "SecondarySeriesTitle": null
+            }
+          ]
+        }
+      }
+    },
+    "Secondary": {
+      "Summary": "ナンバーテールズのうち、公認された副次創作作品内で登場したキャラクター。\n有している数字に制約はない。",
+      "VarsLists": {
+        "Secondaries": [
+          {
+            "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
+            "SecondaryWorks": [
+              {
+                "SecondaryCategory": "公式公認うちよそ企画",
+                "SecondarySeriesTitle": ["ヘキサデミカル・テールズ"]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "General": {
+    "VarsLists": {
+      "Def_NumerospecStats": {
+        "Def_EffectStats": {
+          "EffectTexts_ForRanks": {
+            "R2_Great": ["絶大"],
+            "R3_Good": ["期待", "期待可能"],
+            "R4plus_BasicOrSpecific": ["特殊"],
+            "R4_Normal": ["普通"],
+            "R5_NotSoGood": ["希薄"],
+            "R6_Bad": ["効果無"],
+            "R7_Worst": ["逆効果", "逆効果(仕様)"],
+            "R2plus_Extended": ["強化済"],
+            "R1_OverLimited": ["過剰"],
+            "R8_Dangerous": ["危険"]
+          }
+        },
+        "Def_SafetyLevel": {
+          "SafetyTexts_ForRanks": {
+            "R2_Great": ["保証"],
+            "R3_Good": ["安全", "安全(奇行有)"],
+            "R4_Normal": ["危害無", "危害無(奇行有)"],
+            "R5_NotSoGood": ["調整中"],
+            "R6_Bad": ["注意"],
+            "R7_Worst": ["厳重注意"],
+            "R2plus_Extended": ["完全保証"]
+          }
+        },
+        "Def_SpetialPattern": {
+          "Enum_SpetialPattern": [
+            "Ptn.A(行動補正効果)",
+            "Ptn.Ar(能力発揮効果)",
+            "Ptn.Av(能力比例作用)",
+            "Ptn.B(バイタリティ強化効果)",
+            "Ptn.C(状況変化効果)",
+            "Ptn.Dr(目標比例作用)",
+            "Ptn.Dr-(目標比例作用がある傾向)",
+            "Ptn.Ec(士気比例作用)",
+            "Ptn.Es(自己認知効果)",
+            "Ptn.F(超能力保有)",
+            "Ptn.F-(超能力保有の可能性)",
+            "Ptn.Hm(心理安定化効果)",
+            "Ptn.I(高性能知能搭載)",
+            "Ptn.Kn(知性効果)",
+            "Ptn.Lg(思考向上効果)",
+            "Ptn.Lr(幸福実現効果)",
+            "Ptn.M(マネタイズ効果または資産操作能力)",
+            "Ptn.M-(マネタイズ効果または資産操作効果がある傾向)",
+            "Ptn.Ms(自己転化効果)",
+            "Ptn.Pc(平穏増幅効果)",
+            "Ptn.Py(読心効果)",
+            "Ptn.R-(効果保証作用がある傾向)",
+            "Ptn.Rc(救済効果)",
+            "Ptn.Rz(実現性向上効果)",
+            "Ptn.S(感性向上効果)",
+            "Ptn.S-(感性向上効果の可能性)",
+            "Ptn.St(状況比例作用)",
+            "Ptn.X(転化・転送効果)",
+            "Ptn.Z[At](攻撃的思想に注意)",
+            "Ptn.Z[Eg](過剰自我注意)",
+            "Ptn.Z[Ex](興奮注意)",
+            "Ptn.Z[Sp](催眠/洗脳作用注意)",
+            "Ptn.ZZ(逆効能および禁断効果に警戒)"
+          ]
+        }
+      }
+    }
+  }
+}

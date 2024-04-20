@@ -16,7 +16,7 @@
       "Height_cm": 176,
       "Weight_kg": 59,
       "Age": 37,
-      "BirthDay": { "DayOfMonth": 4, "Month": "Jan" }
+      "BirthDay": { "Day": { "DayOfMonth": 4, "Month": "Jan" } }
     },
     "Character": "行動的かつ自発的で、何事にも才能にあふれている",
     "Hobby": "起業した自事業の拡大について計画する",
@@ -34,17 +34,15 @@
     "Summary": "",
     "ArcanumspecStats": {
       "SpecType": {
-        "MaterialType": [
-          { "Material": "Fire", "TypeText": "火" },
-          { "Material": "Quart", "TypeText": "四" }
-        ],
+        "MaterialType": {
+          "Material": ["Fire", "Quart"]
+        },
         "ActionType": {
           "KinematicOrStatic": "Kinematic",
-          "RoleType": "Read",
-          "TypeText": "動+律"
+          "RoleType": "Read"
         },
         "DualizePattern": { "Pattern": "Prop.", "PatternText": "通常" }
-      }, 
+      },
       "EffectStats": {
         "Physical": { "Rank": "B", "EffectText": "普通" },
         "Magical": { "Rank": "S", "EffectText": "絶大" },
@@ -54,15 +52,15 @@
       },
       "SpetialPattern": ["Ptn.B(士気操作)", "Ptn.Q(天変地異)"],
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" },
-      "SpecLevel": { "Rank": "S+", "SpecLevelText": "かなり強力" }
+      "SpecLevel": { "Rank": "S+" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B+" }
     }
   }
 ]

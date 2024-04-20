@@ -50,12 +50,12 @@
       "SafetyLevel": { "Rank": { "HideText": "非公開" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "主人に従事するだけでなく、試作機として機能的な試験を定期的に受けている",
     "Backgrounds": "最初に試作されたナンバーテールズ",
@@ -144,12 +144,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "主人に従事するだけでなく、1桁番のマネジメントも積極的に行っている",
     "Backgrounds": "最初に正規型として設計されたナンバーテールズ「1(ハジメ)」の設計を再利用して誕生",
@@ -197,7 +197,7 @@
     "GenderType": "Neutral",
     "Height_cm": 160,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 3, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "Jan" } },
     "Weight_kg": 43,
     "BustSize": "AA",
     "TailsUnit": "キツネ型3本",
@@ -227,12 +227,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "S", "AbilityText": "卓越" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "S" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "Backgrounds": "試作量産機での試作を経て初めて1号機系と別設計で完成\n以後「9(チカ)」まで続く",
     "DesigningBrief": "「1(ハジメ)」～「10(ミツル)」の読み名は、漢語林に掲載されている漢数字の人名読みから由来している",
@@ -278,7 +278,7 @@
     "GenderType": "Female",
     "Height_cm": 157,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 4, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "Jan" } },
     "Weight_kg": 42,
     "BustSize": "B",
     "TailsUnit": "キツネ型4本",
@@ -310,12 +310,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "B" }
     },
     "DesigningBrief": "数秘術でも「4」と「5」を互いに持つ人同士は付き合いに努力が必要とされる\nちなみに、十一去法において「4」は作者のアナザーナンバー",
     "Relation": {
@@ -363,7 +363,7 @@
     "GenderType": "Female",
     "Height_cm": 156,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 5, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "Jan" } },
     "Weight_kg": 42,
     "BustSize": "AA",
     "TailsUnit": "キツネ型5本",
@@ -396,12 +396,12 @@
       "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "Z", "AbilityText": "過剰" },
+      "Speed": { "Rank": "Z" },
       "Communicating": { "Rank": { "HideText": "判定不能" } },
-      "Reading": { "Rank": "D", "AbilityText": "欠落" },
-      "Precision": { "Rank": "C", "AbilityText": "稚拙" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Reading": { "Rank": "D" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "A" }
     },
     "DesigningBrief": "ゲーム「ウマ娘」のキャラ「ゴールドシップ」に影響されている",
     "Relation": {
@@ -449,7 +449,7 @@
     "GenderType": "Female",
     "Height_cm": 150,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 6, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "Jan" } },
     "Weight_kg": 41,
     "BustSize": "E",
     "TailsUnit": "キツネ型6本",
@@ -481,12 +481,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "A" }
     },
     "SecretInfo": "頭撫で, 添い寝, 尻尾お触り, ハグにかなり弱く、されると猫語を発するほどに発情する",
     "DesigningBrief": "数秘術と作者の観点により「6」にかかわるキャラは、概ね母性/女子力のある女性になる傾向にある",
@@ -532,7 +532,7 @@
     "GenderType": "Neutral",
     "Height_cm": 162,
     "ConseptAge": 22,
-    "AnivDay": { "DayOfMonth": 7, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 7, "Month": "Jan" } },
     "Weight_kg": 44,
     "BustSize": "AA",
     "TailsUnit": "キツネ型7本",
@@ -564,12 +564,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "B+" }
     },
     "DesigningBrief": "口調はゲーム「アズールレーン」のキャラ「高雄」を参考にしている",
     "Relation": {
@@ -614,7 +614,7 @@
     "GenderType": "Female",
     "Height_cm": 158,
     "ConseptAge": 19,
-    "AnivDay": { "DayOfMonth": 8, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Jan" } },
     "Weight_kg": [{ "value": 43, "about": "推定" }],
     "BustSize": "B",
     "TailsUnit": "キツネ型8本",
@@ -647,12 +647,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "B+", "AbilityText": "標準" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B+" }
     },
     "InStory": "試作型の開発支援には協力していないが、ナンバーテールズのエンジニアポジションとされる",
     "SecretInfo": "帽子は外せない（帽子の中でVRゴーグルの通信機が実装されてある特殊な形の耳を見られたくないため）",
@@ -699,7 +699,7 @@
     "GenderType": "Female",
     "Height_cm": 160,
     "ConseptAge": 21,
-    "AnivDay": { "DayOfMonth": 9, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 9, "Month": "Jan" } },
     "Weight_kg": 43,
     "BustSize": "E",
     "TailsUnit": "キツネ型9本",
@@ -731,12 +731,12 @@
       "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "Z", "AbilityText": "過剰" },
-      "Reading": { "Rank": "B+", "AbilityText": "標準" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "Z" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B+" }
     },
     "SecretInfo": "落胆している人を見ると興奮するのは、保護欲や保護する愉悦に浸っているためである\n平和主義者になりたいと思っている",
     "DesigningBrief": "ゲーム「アズールレーン」のキャラ「フリードリヒ・デア・グローセ」(他)に影響されている",
@@ -825,10 +825,10 @@
     },
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "非公開" } },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "S" },
       "Actuation": { "Rank": { "HideText": "非公開" } }
     },
     "InStory": "10号機「ディケ」が退役したきっかけを知る存在",
@@ -879,7 +879,7 @@
     "GenderType": "Neutral",
     "Height_cm": 161,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 11, "Month": "Nov" },
+    "AnivDay": { "Day": { "DayOfMonth": 11, "Month": "Nov" } },
     "Weight_kg": 43,
     "BustSize": "AA",
     "TailsUnit": "猫又型11本",
@@ -911,12 +911,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "マスターテールズ9の代表",
     "Backgrounds": "2号機「バイナ」・10号機「ディケ」での失敗経験が、最も設計で最重要視された\n最後のネーム個体",
@@ -965,7 +965,7 @@
     "GenderType": "Female",
     "Height_cm": 148,
     "ConseptAge": 14,
-    "AnivDay": { "DayOfMonth": 12, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 12, "Month": "Jan" } },
     "Weight_kg": 39,
     "BustSize": "B",
     "TailsUnit": "キツネ(枝分かれ)型2本(上2束1本+下1束1本)",
@@ -997,12 +997,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "眼鏡を完成直後には掛けていたが、いつの間にかしなくなったらしい",
     "Backgrounds": "1号機系,2号機系の開発中の余剰部品から再構成した、初の複合型個体\n以後デュアルズに続く",
@@ -1055,7 +1055,7 @@
     "GenderType": "Female",
     "Height_cm": 148,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 13, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 13, "Month": "Jan" } },
     "Weight_kg": 40,
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型3本(上2束1本+下1束2本)",
@@ -1086,12 +1086,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "B" }
     },
     "Backgrounds": "初めて他のナンバーテールズとの並行開発により完成\nこの個体以後、開発が安定し同時リリースも行われる",
     "Relation": {
@@ -1144,7 +1144,7 @@
     "GenderType": "Female",
     "Height_cm": 146,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 14, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 14, "Month": "Jan" } },
     "Weight_kg": 39,
     "BustSize": "F",
     "TailsUnit": "キツネ(枝分かれ)型4本(上2束1本+下1束3本)",
@@ -1176,12 +1176,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "S", "AbilityText": "卓越" },
-      "Communicating": { "Rank": "D", "AbilityText": "欠落" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "S" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "「あまり活発に動けない」と、コアフォルダ形態で活動することに不服があるようだ",
     "Relation": {
@@ -1273,12 +1273,12 @@
       "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "B", "AbilityText": "普通" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "特異個体「1+5型」のネーム機\nイベント発生要因として、他のナンバーテールズから偏見を抱かれがち",
     "Backgrounds": "ハーネスで背中に装備されているのは安全装置とのこと\n実は未解明な加護がもう一つあるが、詳しい情報は公開されていないという",
@@ -1334,7 +1334,7 @@
     "GenderType": "Female",
     "Height_cm": 147,
     "ConseptAge": { "value": 18, "about": "？" },
-    "AnivDay": { "DayOfMonth": 16, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 16, "Month": "Jan" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "H",
     "TailsUnit": "キツネ(枝分かれ)型6本(上2束1本+下1束5本)",
@@ -1367,12 +1367,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "実績こそ然程ないものの活力に満ち溢れる様子から、他のナンバーテールズから「幸せな貧乏」と称されている",
     "Relation": {
@@ -1425,7 +1425,7 @@
     "GenderType": "Female",
     "Height_cm": 151,
     "ConseptAge": 22,
-    "AnivDay": { "DayOfMonth": 17, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 17, "Month": "Jan" } },
     "Weight_kg": [{ "value": 40, "about": "推定" }],
     "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型7本(上2束1本+下1束6本)",
@@ -1457,12 +1457,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "B+", "AbilityText": "標準" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B" }
     },
     "InStory": "彼女を前に「貧乳」「男の娘」は禁句と言われている",
     "Backgrounds": "性別は「女性」らしいが……",
@@ -1513,7 +1513,7 @@
     "GenderType": "Female",
     "Height_cm": 153,
     "ConseptAge": 20,
-    "AnivDay": { "DayOfMonth": 18, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 18, "Month": "Jan" } },
     "Weight_kg": 42,
     "BustSize": "C",
     "TailsUnit": "キツネ(枝分かれ)型8本(上2束1本+下1束7本)",
@@ -1545,12 +1545,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B+", "AbilityText": "標準" },
-      "Reading": { "Rank": "B+", "AbilityText": "標準" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B" }
     },
     "Relation": {
       "Related": [
@@ -1598,7 +1598,7 @@
     "GenderType": "Neutral",
     "Height_cm": 157,
     "ConseptAge": 20,
-    "AnivDay": { "DayOfMonth": 19, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 19, "Month": "Jan" } },
     "Weight_kg": 42,
     "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型9本(上2束1本+下1束8本)",
@@ -1630,10 +1630,10 @@
     },
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "非公開" } },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "A" },
       "Precision": { "Rank": { "HideText": "非公開" } },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
+      "Technic": { "Rank": "B" },
       "Actuation": { "Rank": { "HideText": "非公開" } }
     },
     "Relation": {
@@ -1679,7 +1679,7 @@
     "GenderType": "Female",
     "Height_cm": 152,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 20, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 20, "Month": "Jan" } },
     "Weight_kg": 41,
     "BustSize": "H",
     "TailsUnit": "キツネ型2本",
@@ -1711,12 +1711,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "Z", "AbilityText": "過剰" },
-      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
-      "Precision": { "Rank": "B+", "AbilityText": "標準" },
-      "Technic": { "Rank": "C", "AbilityText": "稚拙" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "Z" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "A" }
     },
     "Backgrounds": "2号機「バイナ」の設計を完成させた個体\nなお、2号機系は彼女によって完成した",
     "DesigningBrief": "本来の2番機「バイナ」の完成型として、「2」の数秘術的観点が最もデザインに表れている",
@@ -1764,7 +1764,7 @@
     "ModelNumber": "APHR-NT I+II.R\nNumberTales #21",
     "CodeName": "二一",
     "GenderType": "Neutral",
-    "AnivDay": { "DayOfMonth": 21, "Month": "Jan" },
+    "AnivDay": { "Day": { "DayOfMonth": 21, "Month": "Jan" } },
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
     "Character": "無邪気で童心をくすぐるような気質\nどこか強いポテンシャルを持つ",
@@ -1787,7 +1787,7 @@
     "GenderType": "Female",
     "Height_cm": 153,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 22, "Month": "Nov" },
+    "AnivDay": { "Day": { "DayOfMonth": 22, "Month": "Nov" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "I",
     "TailsUnit": "サソリ型2本（それぞれ11束[節]）",
@@ -1819,12 +1819,12 @@
       "SafetyLevel": { "Rank": { "HideText": "検証中" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "D", "AbilityText": "欠落" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "「11(トウイチ)」の後続機(妹個体)\n尻尾の形状が独特という点については……",
     "Backgrounds": "11号機「トウイチ」の応用個体\n零姉弟も当時を疑うほどのオーパーツと称している",
@@ -1880,7 +1880,7 @@
     "GenderType": "Female",
     "Height_cm": 149,
     "ConseptAge": { "value": 16, "about": "？" },
-    "AnivDay": { "DayOfMonth": 3, "Month": "Feb" },
+    "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "Feb" } },
     "Weight_kg": 40,
     "BustSize": "B",
     "TailsUnit": "キツネ(枝分かれ)型3本(上2束2本+下1束1本)",
@@ -1912,12 +1912,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全(奇行有)" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "ふと不在になって顔を出したときに、余計なことへ巻き込むことがあるので、一部のナンバーテールズから迷惑に思われている",
     "Relation": {
@@ -1968,7 +1968,7 @@
     "GenderType": "Female",
     "Height_cm": 158,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 4, "Month": "Feb" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "Feb" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "E",
     "TailsUnit": "キツネ(枝分かれ)型4本(上2束2本+下1束2本)",
@@ -1999,12 +1999,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "B", "AbilityText": "普通" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "C", "AbilityText": "稚拙" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "主人との実績は悪くないが受け身な姿勢でいるため、妹「42(ヨツグ)」を筆頭に玉に瑕だと思われている様子（本当は望みが容易に叶って退屈している）",
     "Relation": {
@@ -2055,7 +2055,7 @@
     "GenderType": "Female",
     "Height_cm": 156,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 5, "Month": "Feb" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "Feb" } },
     "Weight_kg": [{ "value": 42, "about": "推定" }],
     "BustSize": "G",
     "TailsUnit": "キツネ(枝分かれ)型5本(上2束2本+下1束3本)",
@@ -2087,12 +2087,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "B", "AbilityText": "普通" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "A" }
     },
     "Relation": {
       "Related": [
@@ -2137,7 +2137,7 @@
     "ModelNumber": "APHR-NT II+VI.A\nNumberTales #26",
     "CodeName": "二六",
     "GenderType": "Female",
-    "AnivDay": { "DayOfMonth": 6, "Month": "Feb" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "Feb" } },
     "TailsUnit": "キツネ(枝分かれ)型6本(上2束2本+下1束4本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
@@ -2155,7 +2155,7 @@
     "GenderType": "Neutral",
     "Height_cm": 162,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 7, "Month": "Feb" },
+    "AnivDay": { "Day": { "DayOfMonth": 7, "Month": "Feb" } },
     "Weight_kg": 43,
     "BustSize": "B",
     "TailsUnit": "キツネ(枝分かれ)型7本(上2束2本+下1束5本)",
@@ -2186,12 +2186,12 @@
       "SafetyLevel": { "Rank": "D", "SafetyText": "注意" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "B+", "AbilityText": "標準" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B+" }
     },
     "InStory": "「2+7型」のネーム機で、特異個体「72(ナフタ)」と同型個体だが、こちらは特異個体ではない",
     "Relation": {
@@ -2236,7 +2236,7 @@
     "FormalName": "ナンバーテールズ2+8号機甲\nナンバーテールズ28番機",
     "ModelNumber": "APHR-NT II+VIII.A\nNumberTales #28",
     "CodeName": "二八",
-    "AnivDay": { "DayOfMonth": 8, "Month": "Feb" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Feb" } },
     "TailsUnit": "キツネ(枝分かれ)型8本(上2束2本+下1束6本)",
     "Class": "デュアルキャリーズ",
     "Class_EN": "Dual Carries",
@@ -2287,7 +2287,7 @@
     "GenderType": "Female",
     "Height_cm": 150,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 9, "Month": "Feb" },
+    "AnivDay": { "Day": { "DayOfMonth": 9, "Month": "Feb" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "E",
     "TailsUnit": "キツネ(枝分かれ)型9本(上2束2本+下1束7本)",
@@ -2319,12 +2319,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
-      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "B" }
     },
     "Relation": {
       "Related": [
@@ -2370,10 +2370,7 @@
     "GenderType": "Female",
     "Height_cm": 160,
     "ConseptAge": 19,
-    "AnivDay": {
-      "DayOfMonth": 29,
-      "Month": "Feb"
-    },
+    "AnivDay": { "Day": { "DayOfMonth": 29, "Month": "Feb" } },
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
     "FirstPersonCalling": "[Name]",
@@ -2407,7 +2404,7 @@
     "GenderType": "Female",
     "Height_cm": 147,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 1, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "Mar" } },
     "Weight_kg": 40,
     "BustSize": "D",
     "TailsUnit": "キツネ(枝分かれ)型3本(上1束2本+下2束1本)",
@@ -2438,12 +2435,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B+" }
     },
     "Relation": {
       "Related": [
@@ -2494,7 +2491,7 @@
     "GenderType": "Neutral",
     "Height_cm": 149,
     "ConseptAge": { "value": 16, "about": "？" },
-    "AnivDay": { "DayOfMonth": 2, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 2, "Month": "Mar" } },
     "Weight_kg": 40,
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型3本(上1束1本+下2束2本)",
@@ -2525,12 +2522,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "B+", "AbilityText": "標準" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "C", "AbilityText": "稚拙" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "C" }
     },
     "Relation": {
       "Related": [
@@ -2578,7 +2575,7 @@
     "GenderType": "Female",
     "Height_cm": 149,
     "ConseptAge": 15,
-    "AnivDay": { "DayOfMonth": 3, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "Mar" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型 2束x3本",
@@ -2611,11 +2608,11 @@
     },
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "非公開" } },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
+      "Communicating": { "Rank": "C" },
       "Reading": { "Rank": { "HideText": "非公開" } },
       "Precision": { "Rank": { "HideText": "非公開" } },
       "Technic": { "Rank": { "HideText": "非公開" } },
-      "Actuation": { "Rank": "Z", "AbilityText": "過剰" }
+      "Actuation": { "Rank": "Z" }
     },
     "InStory": "「全知全能」を名乗っているが実力は本物\nただしROSの弱点を突かれて玩ばれる一面も",
     "Backgrounds": "初の正規+改良 複合型でかつ初めて、ROSの機能を強化した個体\nナンバーテールズの活動管理クラウドを応用している",
@@ -2669,7 +2666,7 @@
     "CodeName": "三四",
     "SPCodeName": "三十四",
     "GenderType": "Neutral",
-    "AnivDay": { "DayOfMonth": 4, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "Mar" } },
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
     "FirstPersonCalling": "ワイ",
@@ -2709,7 +2706,7 @@
     "ModelNumber": "APHR-NT III+V.A\nNumberTales #35",
     "CodeName": "三五",
     "SPCodeName": "三十五",
-    "AnivDay": { "DayOfMonth": 5, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "Mar" } },
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "感性が高い才能肌",
@@ -2749,7 +2746,7 @@
     "GenderType": "Female",
     "Height_cm": 150,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 6, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "Mar" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "E",
     "TailsUnit": "キツネ(枝分かれ)型6本(上2束3本+下1束3本)",
@@ -2781,12 +2778,12 @@
       "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "B" }
     },
     "InStory": "相手に運をもたらしているが、彼女自身の運は低い",
     "Relation": {
@@ -2835,7 +2832,7 @@
     "GenderType": "Female",
     "Height_cm": 157,
     "ConseptAge": 19,
-    "AnivDay": { "DayOfMonth": 7, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 7, "Month": "Mar" } },
     "Weight_kg": [{ "value": 42, "about": "推定" }],
     "BustSize": "C",
     "TailsUnit": "キツネ(枝分かれ)型7本(上2束3本+下1束4本)",
@@ -2866,12 +2863,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "B+", "AbilityText": "標準" },
-      "Precision": { "Rank": "C", "AbilityText": "稚拙" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B" }
     },
     "Relation": {
       "Related": [
@@ -2916,7 +2913,7 @@
     "ModelNumber": "APHR-NT III+VIII.A\nNumberTales #38",
     "CodeName": "三八",
     "GenderType": "Female",
-    "AnivDay": { "DayOfMonth": 8, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Mar" } },
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
     "NumerospecAbout": "幸運を味方にする\nこの効果は物質的なものにも大いに影響される",
@@ -2954,7 +2951,7 @@
     "GenderType": "Male",
     "Height_cm": 162,
     "ConseptAge": 21,
-    "AnivDay": { "DayOfMonth": 9, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 9, "Month": "Mar" } },
     "Weight_kg": 44,
     "TailsUnit": "キツネ(枝分かれ)型9本(上2束3本+下1束6本)",
     "Class": "デュアルスリーズ",
@@ -2983,12 +2980,12 @@
       "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B+", "AbilityText": "標準" },
-      "Reading": { "Rank": "B", "AbilityText": "普通" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "B" }
     },
     "Backgrounds": "（10号機「ディケ」を除くと）初めての男性個体\nこの頃から男性型にも需要があるとみられる",
     "DesigningBrief": "バーチャルアイドル「初音ミク」との差別化を図ったところがある\nネット作品「言ノ葉project」(第1期)の主人公：「葛葉ツカサ」に影響を受ける",
@@ -3033,7 +3030,7 @@
     "ModelNumber": "APHR-NT [R]IV\nNumberTales #40",
     "CodeName": "四〇",
     "SPCodeName": "四十",
-    "AnivDay": { "DayOfMonth": 31, "Month": "Mar" },
+    "AnivDay": { "Day": { "DayOfMonth": 31, "Month": "Mar" } },
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
     "NumerospecAbout": "実現化する\nこの効果は行動や意志に呼応するが、発動範囲が多様なため詳細は不明",
@@ -3068,7 +3065,7 @@
     "CodeName": "四一",
     "SPCodeName": "四十一",
     "GenderType": "Neutral",
-    "AnivDay": { "DayOfMonth": 1, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "Apr" } },
     "Class": "デュアルファイブズ",
     "Class_EN": "Dual Sum-5s",
     "Character": "挑戦的だが、ほんの若干マゾ",
@@ -3101,7 +3098,7 @@
     "GenderType": "Female",
     "Height_cm": 157,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 2, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 2, "Month": "Apr" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "C",
     "TailsUnit": "キツネ(枝分かれ)型4本(上1束2本+下2束2本)",
@@ -3129,12 +3126,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "B+" }
     },
     "InStory": "主人に固執されることがある",
     "DesigningBrief": "映画「銀河系ヒッチハイク-ガイド」内の「万物について究極の答え＝42」という一説を自慢話にしているなどネタの伏線として描かれることもある",
@@ -3179,7 +3176,7 @@
     "ModelNumber": "APHR-NT III+IV.B\nNumberTales #43",
     "CodeName": "四三",
     "SPCodeName": "四十三",
-    "AnivDay": { "DayOfMonth": 3, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "Apr" } },
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
     "Character": "前向きでなんでも良き過程として捉える",
@@ -3210,7 +3207,7 @@
     "GenderType": "Male",
     "Height_cm": 150,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 4, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "Apr" } },
     "Weight_kg": { "about": { "HideText": "？？？" } },
     "TailsUnit": "キツネ(枝分かれ)型 2束x4本",
     "Class": "マスターテールズ9",
@@ -3245,12 +3242,12 @@
       "SafetyLevel": { "Rank": "B", "SafetyText": "無危害(奇行有)" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "S", "AbilityText": "卓越" },
-      "Communicating": { "Rank": "D", "AbilityText": "欠落" },
-      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
-      "Precision": { "Rank": "Z", "AbilityText": "過剰" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "Z", "AbilityText": "過剰" }
+      "Speed": { "Rank": "S" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "Z" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "Z" }
     },
     "DesigningBrief": "設定を考えるうえで念頭に置いたこととして一応「男の娘」である\nボーカロイド楽曲「ギャンビット」(雄之助)のMVに影響されている",
     "Relation": {
@@ -3309,7 +3306,7 @@
     "GenderType": "Neutral",
     "Height_cm": 154,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 5, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "Apr" } },
     "Weight_kg": 42,
     "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型5本(上2束4本+下1束1本)",
@@ -3338,12 +3335,12 @@
       "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "B+", "AbilityText": "標準" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B" }
     },
     "InStory": "火消案件で活躍している",
     "Relation": {
@@ -3390,7 +3387,7 @@
     "GenderType": "Neutral",
     "Height_cm": 147,
     "ConseptAge": 15,
-    "AnivDay": { "DayOfMonth": 6, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "Apr" } },
     "Weight_kg": 39,
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型6本(上2束4本+下1束2本)",
@@ -3419,11 +3416,11 @@
       "SafetyLevel": { "Rank": "D", "SafetyText": "注意" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "Z", "AbilityText": "過剰" },
-      "Communicating": { "Rank": "D", "AbilityText": "欠落" },
-      "Reading": { "Rank": "D", "AbilityText": "欠落" },
-      "Precision": { "Rank": "D", "AbilityText": "欠落" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
+      "Speed": { "Rank": "Z" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "D" },
+      "Precision": { "Rank": "D" },
+      "Technic": { "Rank": "B" },
       "Actuation": { "Rank": { "HideText": "非公開" } }
     },
     "InStory": "特殊個体「4+6型」の一人\n実績と人気度が乏しく、実況の副業をしている",
@@ -3508,12 +3505,12 @@
       "SafetyLevel": { "Rank": { "HideText": "検証中" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
+      "Speed": { "Rank": "A" },
       "Communicating": { "Rank": { "HideText": "検証中" } },
       "Reading": { "Rank": { "HideText": "検証中" } },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "特異個体「4+7型」の一人。応援は通じるが、加護の認知については話が嚙み合わない傾向にある",
     "Backgrounds": "加護については偶然の産物と言ってもいいほどで、零姉弟も彼女の加護について全く知見が無いようだ",
@@ -3558,7 +3555,7 @@
     "FormalName": "ナンバーテールズ4+8号機甲\nナンバーテールズ48番機",
     "ModelNumber": "APHR-NT IV+VIII.A\nNumberTales #48",
     "CodeName": "四八",
-    "AnivDay": { "DayOfMonth": 8, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Apr" } },
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
     "Character": "根性強く諦めの悪い\n理想と現実の両方を尊重している",
@@ -3585,7 +3582,7 @@
     "GenderType": "Neutral",
     "Height_cm": 148,
     "ConseptAge": { "value": 16, "about": "？" },
-    "AnivDay": { "DayOfMonth": 9, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 9, "Month": "Apr" } },
     "Weight_kg": [{ "value": 39, "about": "推定" }],
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型9本(上1束5本+下2束4本)",
@@ -3617,12 +3614,12 @@
       "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "B+", "AbilityText": "標準" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B" }
     },
     "DesigningBrief": "ゲーム「夢職人と忘れじの黒い妖精」のキャラ「ナヴィ」から、「94(ツクシ)」の兄/姉としても 個性の点で参考にしたところがある",
     "Relation": {
@@ -3665,7 +3662,7 @@
     "CodeName": "五〇",
     "SPCodeName": "半",
     "SPCodeName_EN": "Half(of Percent)",
-    "AnivDay": { "DayOfMonth": 30, "Month": "Apr" },
+    "AnivDay": { "Day": { "DayOfMonth": 30, "Month": "Apr" } },
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
     "InStory": "特異個体「1+5型」の安定最適化版",
@@ -3698,7 +3695,7 @@
     "CodeName": "五一",
     "SPCodeName": "五十一",
     "GenderType": "Male",
-    "AnivDay": { "DayOfMonth": 1, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "May" } },
     "Class": "デュアルシックスズ",
     "Class_EN": "Dual Sum-6s",
     "Character": "発想力が高くアイディアマンとしても名高い",
@@ -3753,12 +3750,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B+" }
     },
     "Backgrounds": "姉「25(フィズ)」の代替機体とも呼称され、姉妹で業務を後退している一面も見られる",
     "Relation": {
@@ -3806,7 +3803,7 @@
     "FormalName": "ナンバーテールズ3+5号機乙\nナンバーテールズ53番機",
     "ModelNumber": "APHR-NT III+V.B\nNumberTales #53",
     "CodeName": "五三",
-    "AnivDay": { "DayOfMonth": 3, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "May" } },
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Relation": {
@@ -3824,7 +3821,7 @@
     "FormalName": "ナンバーテールズ4+5号機乙\nナンバーテールズ54番機",
     "ModelNumber": "APHR-NT IV+V.B\nNumberTales #54",
     "CodeName": "五四",
-    "AnivDay": { "DayOfMonth": 4, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "May" } },
     "Class": "9倍2桁番(ナインズデュアルズ)",
     "Class_EN": "Nines Duals",
     "NumerospecAbout": "主人に転機を与える\nこの効果は逆境を問わず発動する",
@@ -3854,7 +3851,7 @@
     "GenderType": "Female",
     "Height_cm": 165,
     "ConseptAge": 21,
-    "AnivDay": { "DayOfMonth": 5, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "May" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型 2束x5本",
@@ -3885,12 +3882,12 @@
       "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "B", "AbilityText": "普通" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "C", "AbilityText": "稚拙" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "B+" }
     },
     "Backgrounds": "開発中も幾度か災難に巻き込まれたと百は供述している",
     "SecretInfo": "怒ったときの顔は滅多にお目にかかることは無いが、「サイコパスに見える」と言われている（目撃者情報）",
@@ -3941,7 +3938,7 @@
     "GenderType": "Female",
     "Height_cm": 142,
     "ConseptAge": 12,
-    "AnivDay": { "DayOfMonth": 6, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "May" } },
     "Weight_kg": [{ "value": 39, "about": "推定" }],
     "BustSize": "B",
     "TailsUnit": "キツネ(枝分かれ)型6本(上2束5本+下1束1本)",
@@ -3972,12 +3969,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "D", "AbilityText": "欠落" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "D" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "Backgrounds": "ナンバーテールズで設定年齢が取分け低い「5+6型」の一人\n不審者接触防止機能も備わっている（らしい）",
     "Relation": {
@@ -4026,7 +4023,7 @@
     "GenderType": "Neutral",
     "Height_cm": 152,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 7, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 7, "Month": "May" } },
     "Weight_kg": 42,
     "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型7本(上2束5本+下1束2本)",
@@ -4058,12 +4055,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "B+", "AbilityText": "標準" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B+" }
     },
     "Backgrounds": "双子型として「75(シチゴ)」と同時に開発されたが、兄/弟[姉/妹]の区別はない",
     "Relation": {
@@ -4113,7 +4110,7 @@
     "GenderType": "Female",
     "Height_cm": 149,
     "ConseptAge": { "value": 17, "about": "？" },
-    "AnivDay": { "DayOfMonth": 8, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "May" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "F",
     "TailsUnit": "キツネ(枝分かれ)型8本(上2束5本+下1束3本)",
@@ -4142,12 +4139,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "B", "AbilityText": "普通" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "A" }
     },
     "Relation": {
       "Related": [
@@ -4191,7 +4188,7 @@
     "FormalName": "ナンバーテールズ5+9号機甲\nナンバーテールズ59番機",
     "ModelNumber": "APHR-NT V+IX.A\nNumberTales #59",
     "CodeName": "五九",
-    "AnivDay": { "DayOfMonth": 9, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 9, "Month": "May" } },
     "Class": "デュアルファイブズ",
     "Class_EN": "Dual Sum-5s",
     "NumerospecAbout": "不測の事態を招く\nこの効果にもメリットがあるらしいが、詳細は不明",
@@ -4218,7 +4215,7 @@
     "GenderType": "Female",
     "Height_cm": 152,
     "ConseptAge": { "value": 16, "about": "？" },
-    "AnivDay": { "DayOfMonth": 31, "Month": "May" },
+    "AnivDay": { "Day": { "DayOfMonth": 31, "Month": "May" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "G",
     "TailsUnit": "キツネ型6本",
@@ -4250,12 +4247,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B+", "AbilityText": "標準" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "S" }
     },
     "Relation": {
       "Related": [
@@ -4315,7 +4312,7 @@
     "GenderType": "Female",
     "Height_cm": 143,
     "ConseptAge": { "about": "不詳" },
-    "AnivDay": { "DayOfMonth": 1, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "Jun" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "H",
     "TailsUnit": "キツネ(枝分かれ)型6本(上1束5本+下2束1本)",
@@ -4347,12 +4344,12 @@
       "SafetyLevel": { "Rank": "B", "SafetyText": "危害無(奇行有)" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "S", "AbilityText": "卓越" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "D", "AbilityText": "欠落" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "S" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "D" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "ナンバーテールズのアイドルポジション担当？",
     "Backgrounds": "主人への奉仕活動を「舞台に立つ」と表現することに、零は個性的だけどノリやすいキャラだと弁明している",
@@ -4398,7 +4395,7 @@
     "FormalName": "ナンバーテールズ2+6号機乙\nナンバーテールズ62番機",
     "ModelNumber": "APHR-NT II+VI.B\nNumberTales #62",
     "CodeName": "六二",
-    "AnivDay": { "DayOfMonth": 2, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 2, "Month": "Jun" } },
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "発想力が高く生産的",
@@ -4438,7 +4435,7 @@
     "GenderType": "Female",
     "Height_cm": 142,
     "ConseptAge": 15,
-    "AnivDay": { "DayOfMonth": 3, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "Jun" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "D",
     "TailsUnit": "キツネ(枝分かれ)型6本(上1束3本+下2束3本)",
@@ -4468,12 +4465,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
-      "Reading": { "Rank": "B+", "AbilityText": "標準" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "C", "AbilityText": "稚拙" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "B+" }
     },
     "Relation": {
       "Related": [
@@ -4522,7 +4519,7 @@
     "GenderType": "Female",
     "Height_cm": 146,
     "ConseptAge": { "about": "不詳" },
-    "AnivDay": { "DayOfMonth": 4, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "Jun" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "Class": "デュアルキャリーズ",
     "Class_EN": "Dual Carries",
@@ -4553,11 +4550,11 @@
       "SafetyLevel": { "Rank": "E", "SafetyText": "厳重注意" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
+      "Speed": { "Rank": "A" },
       "Communicating": { "Rank": { "HideText": "公開不能" } },
-      "Reading": { "Rank": "D", "AbilityText": "欠落" },
+      "Reading": { "Rank": "D" },
       "Precision": { "Rank": { "HideText": "公開不能" } },
-      "Technic": { "Rank": "C", "AbilityText": "稚拙" },
+      "Technic": { "Rank": "C" },
       "Actuation": { "Rank": { "HideText": "公開不能" } }
     },
     "InStory": "特殊個体「4+6型」の一人で問題児\n実績が乏しく赤字であるだけでなく……",
@@ -4613,7 +4610,7 @@
     "GenderType": "Female",
     "Height_cm": 135,
     "ConseptAge": 10,
-    "AnivDay": { "DayOfMonth": 5, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "Jun" } },
     "Weight_kg": 37,
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型6本(上1束1本+下2束5本)",
@@ -4643,12 +4640,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "B" },
       "Reading": { "Rank": { "HideText": "データ無" } },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
+      "Precision": { "Rank": "A" },
       "Technic": { "Rank": { "HideText": "データ無" } },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Actuation": { "Rank": "B" }
     },
     "Backgrounds": "ナンバーテールズ99体の設定年齢で最年少となる個体\n不審者接触防止機能も備わっている（らしい）",
     "DesigningBrief": "同名（「65」という名前）のキャラが登場する作品を読んでいた、幼女好きな友人からリクエストナンバーを頂いた制作背景も表れている",
@@ -4698,7 +4695,7 @@
     "GenderType": "Female",
     "Height_cm": 154,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 6, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "Jun" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "F",
     "TailsUnit": "キツネ(枝分かれ)型 2束x6本",
@@ -4730,12 +4727,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B+", "AbilityText": "標準" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "A" }
     },
     "DesigningBrief": "以前の設定資料で「祈る」という記述が色濃く記載されたため、シスターの服装をしている（なおコスプレ設定）",
     "Relation": {
@@ -4787,7 +4784,7 @@
     "GenderType": "Male",
     "Height_cm": 165,
     "ConseptAge": { "value": 22, "about": "？" },
-    "AnivDay": { "DayOfMonth": 7, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 7, "Month": "Jun" } },
     "Class": "デュアルフォーズ",
     "Class_EN": "Dual Sum-4s",
     "FirstPersonCalling": "俺",
@@ -4809,12 +4806,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "S", "AbilityText": "卓越" },
-      "Communicating": { "Rank": "D", "AbilityText": "欠落" },
-      "Reading": { "Rank": "B", "AbilityText": "普通" },
-      "Precision": { "Rank": "D", "AbilityText": "欠落" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "S" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "D" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "S" }
     },
     "Backgrounds": "ナンバーテールズ99体の中では珍しく、体調面も支援している",
     "DesigningBrief": "理想を言うなら、筋肉主義者に寄せたい\n参考に ゲーム「夢職人と忘れじの黒い妖精」のキャラ「ティオ」が挙げられる",
@@ -4840,7 +4837,7 @@
     "GenderType": "Neutral",
     "Height_cm": 147,
     "ConseptAge": 14,
-    "AnivDay": { "DayOfMonth": 8, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Jun" } },
     "Weight_kg": 39,
     "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型8本(上2束6本+下1束2本)",
@@ -4870,12 +4867,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全(奇行有)" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "S", "AbilityText": "卓越" },
-      "Communicating": { "Rank": "D", "AbilityText": "欠落" },
-      "Reading": { "Rank": "B+", "AbilityText": "標準" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "S" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "ナンバーテールズの掃除担当？",
     "Relation": {
@@ -4922,7 +4919,7 @@
     "GenderType": "Male",
     "Height_cm": 156,
     "ConseptAge": { "value": 20, "about": "？" },
-    "AnivDay": { "DayOfMonth": 9, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 9, "Month": "Jun" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "TailsUnit": "キツネ(枝分かれ)型9本(上2束6本+下1束3本)",
     "Class": "デュアルシックスズ",
@@ -4951,12 +4948,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B+", "AbilityText": "標準" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "Z", "AbilityText": "過剰" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "Z", "AbilityText": "過剰" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "Z" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "Z" }
     },
     "InStory": "特殊個体「6+9型」のネーム版\n自分を見失ってないか心配がられることもしばしば",
     "Backgrounds": "契約プランで彼に好きなキャラを演じてもらう、という独自システムがある",
@@ -5003,7 +5000,7 @@
     "GenderType": "Male",
     "Height_cm": 159,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 30, "Month": "Jun" },
+    "AnivDay": { "Day": { "DayOfMonth": 30, "Month": "Jun" } },
     "Weight_kg": 43,
     "TailsUnit": "キツネ型7本",
     "Class": "10倍番(テンズデジッツ)",
@@ -5033,12 +5030,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "C", "AbilityText": "稚拙" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "S" }
     },
     "Backgrounds": "開発中は完成すると趣味が合いそうだと思った、と零が供述している",
     "Relation": {
@@ -5084,7 +5081,7 @@
     "ModelNumber": "APHR-NT I+VII.B\nNumberTales #71",
     "CodeName": "七一",
     "GenderType": "Male",
-    "AnivDay": { "DayOfMonth": 1, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "Jul" } },
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "知的思考が豊富で努力家な好青年",
@@ -5111,7 +5108,7 @@
     "GenderType": "Neutral",
     "Height_cm": 162,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 2, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 2, "Month": "Jul" } },
     "Weight_kg": 43,
     "BustSize": "B",
     "TailsUnit": "キツネ(枝分かれ)型7本(上1束5本+下2束2本)",
@@ -5141,12 +5138,12 @@
       "SafetyLevel": { "Rank": { "HideText": "検証中" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
+      "Speed": { "Rank": "B" },
       "Communicating": { "Rank": { "HideText": "データ無" } },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "Z", "AbilityText": "過剰" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "Z" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "彼(女)の機械寄りな人間味や個性について、他のナンバーテールズからの見解は様々らしい",
     "Backgrounds": "ROSの機能が学習という別の目的で強化された、唯一の教材型個体\nROS完成以来零は彼女に罪悪感を…？",
@@ -5197,7 +5194,7 @@
     "GenderType": "Female",
     "Height_cm": 154,
     "ConseptAge": { "value": 16, "about": "？" },
-    "AnivDay": { "DayOfMonth": 3, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "Jul" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "C",
     "TailsUnit": "キツネ(枝分かれ)型7本(上1束4本+下2束3本)",
@@ -5227,12 +5224,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全(奇行有)" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "E", "AbilityText": "障碍有" },
-      "Precision": { "Rank": "C", "AbilityText": "稚拙" },
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "E" },
+      "Precision": { "Rank": "C" },
       "Technic": { "Rank": "C", "AbilityText": "極端" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "良からぬ噂を鵜呑みにするため、姉「37(サナ)」他から心配されている",
     "Backgrounds": "宣伝効果も兼ねて動画配信も行っている",
@@ -5285,7 +5282,7 @@
     "GenderType": "Female",
     "Height_cm": 148,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 4, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "Jul" } },
     "Weight_kg": [{ "value": 39 }, { "value": 1, "about": "マント" }],
     "BustSize": "B",
     "TailsUnit": "キツネ(枝分かれ)型7本(上1束3本+下2束4本)",
@@ -5314,12 +5311,12 @@
       "SafetyLevel": { "Rank": { "HideText": "検証中" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
+      "Speed": { "Rank": "A" },
       "Communicating": { "Rank": { "HideText": "検証中" } },
       "Reading": { "Rank": { "HideText": "検証中" } },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "特異個体「4+7型」の一人",
     "Backgrounds": "加護については偶然の産物と言ってもいいほどで、零姉弟も彼女の加護についてほぼ知見が無いようだ",
@@ -5367,7 +5364,7 @@
     "GenderType": "Neutral",
     "Height_cm": 152,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 5, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "Jul" } },
     "Weight_kg": 42,
     "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型7本(上1束2本+下2束5本)",
@@ -5399,12 +5396,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "B+", "AbilityText": "標準" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B+" }
     },
     "Backgrounds": "双子型として「57(イズナ)」と同時に開発されたが、兄/弟[姉/妹]の区別はない",
     "Relation": {
@@ -5449,7 +5446,7 @@
     "FormalName": "ナンバーテールズ6+7号機乙\nナンバーテールズ76番機",
     "ModelNumber": "APHR-NT VI-VII.B\nNumberTales #76",
     "CodeName": "七六",
-    "AnivDay": { "DayOfMonth": 6, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "Jul" } },
     "Class": "デュアルフォーズ",
     "Class_EN": "Dual Sum-4s",
     "Character": "知識欲旺盛で教養を重んじており、自分に磨きを掛けるため日々学びを深めている",
@@ -5475,7 +5472,7 @@
     "GenderType": "Neutral",
     "Height_cm": 147,
     "ConseptAge": { "value": 14, "about": "？" },
-    "AnivDay": { "DayOfMonth": 7, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 7, "Month": "Jul" } },
     "Weight_kg": [{ "value": 39, "about": "推定" }],
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型 2束x7本",
@@ -5510,12 +5507,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "B+", "AbilityText": "標準" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "あだ名が独特\n実績も今後伸びしろがあると評されるダークホース",
     "Relation": {
@@ -5564,7 +5561,7 @@
     "FormalName": "ナンバーテールズ7+8号機甲\nナンバーテールズ78番機",
     "ModelNumber": "APHR-NT VII+VIII.A\nNumberTales #78",
     "CodeName": "七八",
-    "AnivDay": { "DayOfMonth": 8, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Jul" } },
     "Class": "デュアルシックスズ",
     "Class_EN": "Dual Sum-6s",
     "ThisMasters": "錦野 舞（後の シンフォニー.ゼクズィン所属 デザインエンジニア）",
@@ -5591,7 +5588,7 @@
     "FormalName": "ナンバーテールズ7+9号機乙\nナンバーテールズ79番機",
     "ModelNumber": "APHR-NT VII+IX.A\nNumberTales #79",
     "CodeName": "七九",
-    "AnivDay": { "DayOfMonth": 9, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 9, "Month": "Jul" } },
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
     "Favor": "開運情報",
@@ -5612,7 +5609,7 @@
     "ModelNumber": "APHR-NT [R]VIII\nNumberTales #80",
     "CodeName": "八〇",
     "SPCodeName": "八十",
-    "AnivDay": { "DayOfMonth": 31, "Month": "Jul" },
+    "AnivDay": { "Day": { "DayOfMonth": 31, "Month": "Jul" } },
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
     "WellmatchedNTsNames": "88(ヤソハチ)",
@@ -5647,7 +5644,7 @@
     "GenderType": "Female",
     "Height_cm": 149,
     "ConseptAge": 18,
-    "AnivDay": { "DayOfMonth": 1, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "Aug" } },
     "Weight_kg": 41,
     "BustSize": "D",
     "TailsUnit": "キツネ(枝分かれ)型8本(上1束7本+下2束1本)",
@@ -5679,12 +5676,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "A", "AbilityText": "優秀" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B" }
     },
     "Relation": {
       "Related": [
@@ -5725,7 +5722,7 @@
     "ModelNumber": "APHR-NT II+VIII.B\nNumberTales #82",
     "CodeName": "八二",
     "SPCodeName": "八十二",
-    "AnivDay": { "DayOfMonth": 2, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 2, "Month": "Aug" } },
     "Class": "デュアルキャリーズ",
     "Class_EN": "Dual Carries",
     "NumerospecAbout": "物乞いを叶える\nただしこの効果は周囲の物品状況に影響されやすい",
@@ -5745,7 +5742,7 @@
     "ModelNumber": "APHR-NT III+VIII.B\nNumberTales #83",
     "CodeName": "八三",
     "GenderType": "Male",
-    "AnivDay": { "DayOfMonth": 3, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "Aug" } },
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
     "SecondPersonCalling": "お前",
@@ -5780,7 +5777,7 @@
     "ModelNumber": "APHR-NT IV+VIII.B\nNumberTales #84",
     "CodeName": "八四",
     "SPCodeName": "八十四",
-    "AnivDay": { "DayOfMonth": 4, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "Aug" } },
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
     "Relation": {
@@ -5805,7 +5802,7 @@
     "GenderType": "Female",
     "Height_cm": 147,
     "ConseptAge": 17,
-    "AnivDay": { "DayOfMonth": 5, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "Aug" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型8本(上1束3本+下2束5本)",
@@ -5838,12 +5835,12 @@
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "D", "AbilityText": "欠落" },
-      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "S", "AbilityText": "卓越" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B" }
     },
     "Backgrounds": "88(ヤソハチ)に不気味がられているが、思ったよりは嫌われていない",
     "Relation": {
@@ -5882,7 +5879,7 @@
     "FormalName": "ナンバーテールズ6+8号機乙\nナンバーテールズ86番機",
     "ModelNumber": "APHR-NT VI+VIII.B\nNumberTales #86",
     "CodeName": "八六",
-    "AnivDay": { "DayOfMonth": 6, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "Aug" } },
     "Class": "デュアルファイブズ",
     "Class_EN": "Dual Sum-5s",
     "NumerospecAbout": "富と才能を恵む\nただしこの効果の大きさは日頃の行いの良さに比例する"
@@ -5894,7 +5891,7 @@
     "FormalName": "ナンバーテールズ7+8号機乙\nナンバーテールズ87番機",
     "ModelNumber": "APHR-NT VII+VIII.B\nNumberTales #87",
     "CodeName": "八七",
-    "AnivDay": { "DayOfMonth": 7, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 7, "Month": "Aug" } },
     "Class": "デュアルシックスズ",
     "Class_EN": "Dual Sum-6s",
     "NumerospecAbout": "金運を上げ、物欲を叶える\nただしこの効果は対象の物欲の種類に影響されやすい"
@@ -5911,7 +5908,7 @@
     "GenderType": "Male",
     "Height_cm": 167,
     "ConseptAge": 24,
-    "AnivDay": { "DayOfMonth": 8, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Aug" } },
     "Weight_kg": 45,
     "TailsUnit": "キツネ(枝分かれ)型 2束x8本",
     "Class": "マスターテールズ9",
@@ -5944,12 +5941,12 @@
       "SafetyLevel": { "Rank": { "HideText": "検証中" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "S", "AbilityText": "卓越" },
-      "Precision": { "Rank": "S", "AbilityText": "卓越" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "どこから資金や資産を得ているのか、他のナンバーテールズや一部界隈からも不気味がられている",
     "Backgrounds": "加護については偶然の産物と言ってもいいほどで、零姉弟も彼女の加護についてほぼ知見が無いようだ",
@@ -6005,7 +6002,7 @@
     "GenderType": "Female",
     "Height_cm": 158,
     "ConseptAge": 21,
-    "AnivDay": { "DayOfMonth": 9, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 9, "Month": "Aug" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型9本(上1束6本+下2束3本)",
@@ -6035,12 +6032,12 @@
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "B", "AbilityText": "普通" },
-      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "D", "AbilityText": "欠落" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "D" },
+      "Actuation": { "Rank": "A" }
     },
     "Relation": {
       "Commented": [
@@ -6083,7 +6080,7 @@
     "ModelNumber": "APHR-NT [R]IX\nNumberTales #90",
     "CodeName": "九〇",
     "SPCodeName": "九十",
-    "AnivDay": { "DayOfMonth": 31, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 31, "Month": "Aug" } },
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
     "NumerospecAbout": "締めくくりや最終手段で本領発揮させる",
@@ -6103,7 +6100,7 @@
     "ModelNumber": "APHR-NT I+IX.B\nNumberTales #91",
     "CodeName": "九一",
     "GenderType": "Neutral",
-    "AnivDay": { "DayOfMonth": 1, "Month": "Sep" },
+    "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "Sep" } },
     "Class": "デュアルキャリーズ",
     "Class_EN": "Dual Carries",
     "NumerospecAbout": "気持ちを切り替えさせる\nこの効果は物事の節目に最大となる",
@@ -6130,7 +6127,7 @@
     "CodeName": "九二",
     "SPCodeName": "九十二",
     "GenderType": "Male",
-    "AnivDay": { "DayOfMonth": 2, "Month": "Sep" },
+    "AnivDay": { "Day": { "DayOfMonth": 2, "Month": "Sep" } },
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
     "Relation": {
@@ -6190,12 +6187,12 @@
       "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "B", "AbilityText": "普通" },
-      "Reading": { "Rank": "A", "AbilityText": "優秀" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "主人と信頼関係が築かれる前は主人より意気込むあまり、感情が暴走する恐れがあった（現在は収束している）",
     "Backgrounds": "野望が強い性格のため、ROS開発中も幾度か暴走寸前になったことがあった",
@@ -6247,7 +6244,7 @@
     "GenderType": "Neutral",
     "Height_cm": 145,
     "ConseptAge": { "value": 13, "about": "？" },
-    "AnivDay": { "DayOfMonth": 4, "Month": "Sep" },
+    "AnivDay": { "Day": { "DayOfMonth": 4, "Month": "Sep" } },
     "Weight_kg": 39,
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型9本(上1束5本+下2束4本)",
@@ -6283,11 +6280,11 @@
     },
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "データ無" } },
-      "Communicating": { "Rank": "A", "AbilityText": "優秀" },
-      "Reading": { "Rank": "D", "AbilityText": "欠落" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "C", "AbilityText": "稚拙" },
-      "Actuation": { "Rank": "B", "AbilityText": "普通" }
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "D" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "B" }
     },
     "InStory": "滅多に活動しない個体のためマッチングを活用し、効果を最大限に発揮できる主人とだけ契約している\n無気力な活動展開だが、愛おしいと支持者も多い",
     "Relation": {
@@ -6326,7 +6323,7 @@
     "FormalName": "ナンバーテールズ5+9号機乙\nナンバーテールズ95番機",
     "ModelNumber": "APHR-NT V+IX.B\nNumberTales #95",
     "CodeName": "九五",
-    "AnivDay": { "DayOfMonth": 5, "Month": "Sep" },
+    "AnivDay": { "Day": { "DayOfMonth": 5, "Month": "Sep" } },
     "Class": "デュアルファイブズ",
     "Class_EN": "Dual Sum-5s",
     "Character": "癖で万が一のことを考えている\n異世界転生に興味があるらしいが…",
@@ -6361,7 +6358,7 @@
     "GenderType": "Female",
     "Height_cm": 153,
     "ConseptAge": { "about": "不詳" },
-    "AnivDay": { "DayOfMonth": 6, "Month": "Sep" },
+    "AnivDay": { "Day": { "DayOfMonth": 6, "Month": "Sep" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "G",
     "TailsUnit": "キツネ(枝分かれ)型9本(上1束3本+下2束6本)",
@@ -6393,12 +6390,12 @@
       "SafetyLevel": { "Rank": "B", "SafetyText": "危害無(奇行有)" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
-      "Communicating": { "Rank": "E", "AbilityText": "障碍有" },
-      "Reading": { "Rank": "B+", "AbilityText": "標準" },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "E" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "特殊個体「6+9型」の改良(性転換)版\n衣服から立ち振る舞いまで流行に肖ってしまうため、他のナンバーテールズからも素を掴められていない",
     "Backgrounds": "仮面を装着しだしたのは、完成後自らの判断によるものらしい\n兄「69(ロック)」の性転化版として開発されたが…",
@@ -6445,7 +6442,7 @@
     "GenderType": "Female",
     "Height_cm": 141,
     "ConseptAge": { "about": "不詳" },
-    "AnivDay": { "DayOfMonth": 7, "Month": "Sep" },
+    "AnivDay": { "Day": { "DayOfMonth": 7, "Month": "Sep" } },
     "Weight_kg": 39,
     "BustSize": "E",
     "TailsUnit": "キツネ(枝分かれ)型9本(上1束2本+下2束7本)",
@@ -6476,12 +6473,12 @@
       "SafetyLevel": { "Rank": "A", "SafetyText": "安全(奇行有)" }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "C", "AbilityText": "稚拙" },
-      "Communicating": { "Rank": "C", "AbilityText": "稚拙" },
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "C" },
       "Reading": { "Rank": "C", "AbilityText": "極端" },
-      "Precision": { "Rank": "B", "AbilityText": "普通" },
+      "Precision": { "Rank": "B" },
       "Technic": { "Rank": "C", "AbilityText": "極端" },
-      "Actuation": { "Rank": "S", "AbilityText": "卓越" }
+      "Actuation": { "Rank": "S" }
     },
     "InStory": "礼拝などの信仰に執着するあまり、他のナンバーテールズから距離を置かれがち",
     "Relation": {
@@ -6523,7 +6520,7 @@
     "ModelNumber": "APHR-NT VIII+IX.B\nNumberTales #98",
     "CodeName": "九八",
     "GenderType": "Female",
-    "AnivDay": { "DayOfMonth": 8, "Month": "Sep" },
+    "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Sep" } },
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Relation": {
@@ -6550,7 +6547,7 @@
     "GenderType": "Neutral",
     "Height_cm": 159,
     "ConseptAge": 16,
-    "AnivDay": { "DayOfMonth": 31, "Month": "Dec" },
+    "AnivDay": { "Day": { "DayOfMonth": 31, "Month": "Dec" } },
     "Weight_kg": 43,
     "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型 2束x9本",
@@ -6582,12 +6579,12 @@
       "SafetyLevel": { "Rank": { "HideText": "公開不能" } }
     },
     "AbilityStats": {
-      "Speed": { "Rank": "A", "AbilityText": "優秀" },
+      "Speed": { "Rank": "A" },
       "Communicating": { "Rank": { "HideText": "判定不能" } },
       "Reading": { "Rank": { "HideText": "非公開" } },
-      "Precision": { "Rank": "A", "AbilityText": "優秀" },
-      "Technic": { "Rank": "B", "AbilityText": "普通" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B" },
+      "Actuation": { "Rank": "A" }
     },
     "Backgrounds": "最後の正規型個体\n数字表記は漢数字となっている\n加護については偶然の産物（以下略）",
     "SecretInfo": "デジャヴ現象のような加護を持ち、別世界線やありうる未来が記憶として繋がっている\n「10(ミツル)」に心当たりがあるのもこれに関連している",
@@ -6670,11 +6667,11 @@
     },
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "検証中" } },
-      "Communicating": { "Rank": "S", "AbilityText": "卓越" },
-      "Reading": { "Rank": "C", "AbilityText": "稚拙" },
-      "Precision": { "Rank": "C", "AbilityText": "稚拙" },
-      "Technic": { "Rank": "B+", "AbilityText": "標準" },
-      "Actuation": { "Rank": "A", "AbilityText": "優秀" }
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "A" }
     },
     "InStory": "ハードウェアの開発トラブルにより完成前に退役\n現在はROSのみで存在し、開発支援に徹している",
     "Backgrounds": "百の機械設計が零のファームウェア設計と遅れたことが原因、百の最初の挫折となる",
@@ -6735,7 +6732,7 @@
     "GenderType": "Neutral",
     "Height_cm": 165,
     "ConseptAge": 25,
-    "AnivDay": { "DayOfMonth": 15, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 15, "Month": "Aug" } },
     "Weight_kg": { "about": { "HideText": "？？？" } },
     "BustSize": "A",
     "Class": "営業補助用個体",
@@ -6762,7 +6759,7 @@
     "GenderType": "Female",
     "Height_cm": 165,
     "ConseptAge": 25,
-    "AnivDay": { "DayOfMonth": 15, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 15, "Month": "Aug" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "D",
     "Class": "開発者",
@@ -6789,7 +6786,7 @@
     "GenderType": "Male",
     "Height_cm": 165,
     "ConseptAge": 25,
-    "AnivDay": { "DayOfMonth": 15, "Month": "Aug" },
+    "AnivDay": { "Day": { "DayOfMonth": 15, "Month": "Aug" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "Class": "開発者",
     "Class_EN": "Developer",

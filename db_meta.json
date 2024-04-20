@@ -2,88 +2,7 @@
   "CreationWorks": {
     "NumberTales": {
       "Title": "ナンバーテールズ",
-      "Title_EN": "NumberTales",
-      "DataBases": {
-        "General": {
-          "VarsLists": {
-            "Def_NumerospecStats": {
-              "SpetialPattern": [
-                "Ptn.A(行動補正効果)",
-                "Ptn.Ar(能力発揮効果)",
-                "Ptn.Av(能力比例作用)",
-                "Ptn.B(バイタリティ強化効果)",
-                "Ptn.C(状況変化効果)",
-                "Ptn.Dr(目標比例作用)",
-                "Ptn.Dr-(目標比例作用がある傾向)",
-                "Ptn.Ec(士気比例作用)",
-                "Ptn.Es(自己認知効果)",
-                "Ptn.F(超能力保有)",
-                "Ptn.F-(超能力保有の可能性)",
-                "Ptn.Hm(心理安定化効果)",
-                "Ptn.I(高性能知能搭載)",
-                "Ptn.Kn(知性効果)",
-                "Ptn.Lg(思考向上効果)",
-                "Ptn.Lr(幸福実現効果)",
-                "Ptn.M(マネタイズ効果または資産操作能力)",
-                "Ptn.M-(マネタイズ効果または資産操作効果がある傾向)",
-                "Ptn.Ms(自己転化効果)",
-                "Ptn.Pc(平穏増幅効果)",
-                "Ptn.Py(読心効果)",
-                "Ptn.R-(効果保証作用がある傾向)",
-                "Ptn.Rc(救済効果)",
-                "Ptn.Rz(実現性向上効果)",
-                "Ptn.S(感性向上効果)",
-                "Ptn.S-(感性向上効果の可能性)",
-                "Ptn.St(状況比例作用)",
-                "Ptn.X(転化・転送効果)",
-                "Ptn.Z[At](攻撃的思想に注意)",
-                "Ptn.Z[Eg](過剰自我注意)",
-                "Ptn.Z[Ex](興奮注意)",
-                "Ptn.Z[Sp](催眠/洗脳作用注意)",
-                "Ptn.ZZ(逆効能および禁断効果に警戒)"
-              ]
-            }
-          }
-        },
-        "Primary": {
-          "Summary": "ナンバーテールズのうち、公式一次創作作品に登場するキャラクター。\n99以内の非負整数である数字をそれぞれ有している。",
-          "VarsLists": null
-        },
-        "SemiPrimary": {
-          "Summary": "ナンバーテールズのうち、公式または公認の副次創作としてデザインされたキャラクター。\n100以上999以下の非負整数である数字をそれぞれ有している。",
-          "VarsLists": {
-            "Secondaries": {
-              "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.numbertales-radiann.net",
-              "SecondaryWorks": [
-                {
-                  "SecondaryCategory": "公式限定",
-                  "SecondarySeriesTitle": null
-                },
-                {
-                  "SecondaryCategory": "リクエストナンバー",
-                  "SecondarySeriesTitle": null
-                }
-              ]
-            }
-          }
-        },
-        "Secondary": {
-          "Summary": "ナンバーテールズのうち、公認された副次創作作品内で登場したキャラクター。\n有している数字に制約はない。",
-          "VarsLists": {
-            "Secondaries": [
-              {
-                "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
-                "SecondaryWorks": [
-                  {
-                    "SecondaryCategory": "公式公認うちよそ企画",
-                    "SecondarySeriesTitle": ["ヘキサデミカル・テールズ"]
-                  }
-                ]
-              }
-            ]
-          }
-        }
-      }
+      "Title_EN": "NumberTales"
     },
     "FLInvestigator78": {
       "Title": "運命線探偵78",
@@ -94,9 +13,7 @@
           "Title_EN": "OCTOGINTA the Destiny Detectives",
           "ArchivedYear": 2024
         }
-      ],
-      "General": { "VarsLists": null },
-      "DataBases": { "Primary": null }
+      ]
     }
   },
   "General": {
@@ -111,20 +28,22 @@
         "Male": "Male",
         "Neutral": "Neutral"
       },
-      "Def_Month": [
-        { "Month": "Jan", "Num": 1 },
-        { "Month": "Feb", "Num": 2 },
-        { "Month": "Mar", "Num": 3 },
-        { "Month": "Apr", "Num": 4 },
-        { "Month": "May", "Num": 5 },
-        { "Month": "Jun", "Num": 6 },
-        { "Month": "Jul", "Num": 7 },
-        { "Month": "Aug", "Num": 8 },
-        { "Month": "Sep", "Num": 9 },
-        { "Month": "Oct", "Num": 10 },
-        { "Month": "Nov", "Num": 11 },
-        { "Month": "Dec", "Num": 12 }
-      ],
+      "Def_Day": {
+        "List_Month": [
+          { "Month": "Jan", "Num": 1 },
+          { "Month": "Feb", "Num": 2 },
+          { "Month": "Mar", "Num": 3 },
+          { "Month": "Apr", "Num": 4 },
+          { "Month": "May", "Num": 5 },
+          { "Month": "Jun", "Num": 6 },
+          { "Month": "Jul", "Num": 7 },
+          { "Month": "Aug", "Num": 8 },
+          { "Month": "Sep", "Num": 9 },
+          { "Month": "Oct", "Num": 10 },
+          { "Month": "Nov", "Num": 11 },
+          { "Month": "Dec", "Num": 12 }
+        ]
+      },
       "Enum_HideText": [
         "？？？",
         "データ無",
@@ -147,7 +66,7 @@
           "R1_OverLimited": "Z",
           "R8_Dangerous": "ZZ"
         },
-        "Texts": {
+        "Def_AbilityStats": {
           "AbilityText_ForRanks": {
             "R2_Great": "卓越",
             "R3_Good": "優秀",
@@ -157,38 +76,6 @@
             "R6_Bad": "欠落",
             "R7_Worst": "障碍有",
             "R1_OverLimited": "過剰"
-          },
-          "EffectTexts_ForRanks": {
-            "R2_Great": ["絶大"],
-            "R3_Good": ["期待", "期待可能"],
-            "R4plus_BasicOrSpecific": ["特殊"],
-            "R4_Normal": ["普通"],
-            "R5_NotSoGood": ["希薄"],
-            "R6_Bad": ["効果無"],
-            "R7_Worst": ["逆効果", "逆効果(仕様)"],
-            "R2plus_Extended": ["強化済"],
-            "R1_OverLimited": ["過剰"],
-            "R8_Dangerous": ["危険"]
-          },
-          "SafetyTexts_ForRanks": {
-            "R2_Great": ["保証"],
-            "R3_Good": ["安全", "安全(奇行有)"],
-            "R4_Normal": ["危害無", "危害無(奇行有)"],
-            "R5_NotSoGood": ["調整中"],
-            "R6_Bad": ["注意"],
-            "R7_Worst": ["厳重注意"],
-            "R2plus_Extended": ["完全保証"]
-          },
-          "SpecLevelText_ForRanks": {
-            "R2_Great": "強力",
-            "R3_Good": "やや強力",
-            "R4_Normal": "標準的",
-            "R5_NotSoGood": "やや弱力",
-            "R6_Bad": "弱力",
-            "R7_Worst": "能力的強度無",
-            "R2plus_Extended": "かなり強力",
-            "R1_OverLimited": "驚異的",
-            "R8_Dangerous": "危険"
           }
         }
       }
