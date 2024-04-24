@@ -14,16 +14,20 @@
           "ArchivedYear": 2024
         }
       ]
+    },
+    "ShouArRiders": {
+      "Title": "獣爾騎兵",
+      "Title_EN": "Shou'ar Riders"
     }
   },
   "General": {
     "VarsLists": {
-      "Def_Released": {
+      "EL_Released": {
         "yet": null,
         "nowCreating": "nowCreating",
         "released": "released"
       },
-      "Def_GenderType": {
+      "EL_GenderType": {
         "Female": "Female",
         "Male": "Male",
         "Neutral": "Neutral"
@@ -54,7 +58,7 @@
         "非公開"
       ],
       "Def_Stats": {
-        "Ranks": {
+        "EL_Rank": {
           "R2_Great": "S",
           "R3_Good": "A",
           "R4plus_BasicOrSpecific": "B+",

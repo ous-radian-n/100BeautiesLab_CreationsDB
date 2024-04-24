@@ -48,7 +48,7 @@
         },
         "Def_SafetyLevel": {
           "SafetyTexts_ForRanks": {
-            "R2_Great": null,
+            "R2_Great": ["保証可能"],
             "R3_Good": ["安全"],
             "R4_Normal": ["危害無"],
             "R5_NotSoGood": null,

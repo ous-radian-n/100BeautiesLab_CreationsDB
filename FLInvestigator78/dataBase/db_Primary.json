@@ -51,7 +51,7 @@
         "Rewriting": { "Rank": { "HideText": "検証中" } }
       },
       "SpetialPattern": ["Ptn.B(士気操作)", "Ptn.Q(天変地異)"],
-      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証可能" },
       "SpecLevel": { "Rank": "S+" }
     },
     "AbilityStats": {
