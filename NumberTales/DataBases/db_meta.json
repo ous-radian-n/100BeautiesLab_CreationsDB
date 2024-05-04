@@ -37,6 +37,43 @@
           }
         ]
       }
+    },
+    "NumberizingTales": {
+      "Summary": "他者および他創作キャラクターをナンバーテールズ化したキャラクター。\n有している数秘については、ナンバーテールズ化の対象となる他者および他創作キャラクターの名と、創作ガイドラインに準拠し かつナンバーテールズ化の対象に向けて数秘が選定された3桁の数字列の、合計2種とする。\nなお、他者および他創作についての解釈や考察等が大いに含まれるため、 このキャラクターを元にした創作は慎重に行うこと。",
+      "VarsLists": {
+        "Secondaries": [
+          {
+            "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+            "SecondaryWorks": [
+              {
+                "SecondaryCategory": "反応公募タグ企画",
+                "SecondarySeriesTitle": ["ナンバーテールズ化"],
+				"SecondaryDesigningFor": [
+					"でんねこ\n@denneko@misskey.io",
+					"散狐アタスト\n@atast@misskey.io",
+					"ヨシアミ@4735\n@yoshiami4735@misskey.io",
+					"SIANO\n@sloani0831_2@misskey.io",
+					"リヘラナ人形\n@riherana0024@misskey.io",
+					"さふ\n@tune_konnyaku@misskey.io",
+					"「み」のひと\n@mi_nohito@misskey.io",
+					"つくえちゃん\n@Tukuesan@misskey.io",
+					"みるく・フローランス\n@flowlanss@misskey.io",
+					"青木凪\n@tanzanite@misskey.io",
+					"いるいる\n@iruiru@misskey.io",
+					"猫餅\n@nekomottin@misskey.io",
+					"みとにゃん\n@Mitten@misskey.io",
+					"猫吉よりお\n@nekokitiyorio@misskey.io",
+					"おゆうわちゃん\n@oyuchi@misskey.io",
+					"蓬\n@hatyulove@misskey.io",
+					"キノアダモスデキノ\n@kinokinoadamosude@misskey.io",
+					"さくらば\n@Sakuraba_f9@misskey.io",
+					"きたやこ\n@KTYCO300PHz@misskey.io"
+				]
+              }
+            ]
+          }
+        ]
+      }
     }
   },
   "General": {
