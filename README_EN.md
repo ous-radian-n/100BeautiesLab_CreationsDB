@@ -26,6 +26,7 @@ if you would like to create a secondary works based on a character from a primar
 ## Violations
 
 **The following acts ARE PROHIBITED AS VIOLATIONS of the guidelines**:
+
 (1) **Secondary creation that excessively infringes on R18G.**
 （i.g.: Excessive expressions of grotesque/gore to the extent
 　 that they cause physiological fear, use in horror works, etc.
