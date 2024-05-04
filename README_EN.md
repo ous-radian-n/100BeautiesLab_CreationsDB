@@ -20,8 +20,8 @@ In principle, permission is required for third parties to use images of works th
 if you would like to create a secondary works based on a character from a primary works, please provide a link to Misskey of these author: "RadianN_kswg"("ラジアン(柏木主税)", @RadianN_kswg@misskey.io or @RadianN_kswg) or Misskey of the official "100BeautiesLab"("百花繚乱研究所", @official). Although it is optional, we would appreciate it if you could make use of the following tags for the relevant series.
 
 (1) "#ナンバーテールズ" (NumberTales) series
-　　 → "#ナンバーテールズの主人より" (Dear NumberTales, From your Master)
-　(2) Others → "#運命線に届け" (Deliver to the Fate-Line).
+　 → "#ナンバーテールズの主人より" (Dear NumberTales, From your Master)
+(2) Others → "#運命線に届け" (Deliver to the Fate-Line).
 
 ## Violations
 
