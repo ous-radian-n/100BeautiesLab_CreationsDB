@@ -3067,10 +3067,44 @@
     "SPCodeName": "四十一",
     "GenderType": "Neutral",
     "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "Apr" } },
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型4本(上1束3本+下2束1本)",
     "Class": "デュアルファイブズ",
     "Class_EN": "Dual Sum-5s",
+    "FirstPersonCalling": "俺",
+    "SecondPersonCalling": "君(,あんた)",
+    "ThirdPersonCalling": "*いつ;*れ;[Name]",
+    "ForMasterCalling": "主人",
     "Character": "挑戦的だが、ほんの若干マゾ",
-    "NumerospecAbout": "失敗する恐れ/可能性を中和する\nこれにより行動に対し自信を持たせることもある",
+    "Hobby": "",
+    "SpetialSkil": "",
+    "Favor": "",
+    "Unlike": "",
+    "RelationAbouts": "",
+    "NumerospecAbout": "失敗する恐れ/可能性を中和する\nこれにより自分の行動に自信を持たせることもある",
+    "Summary": "",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "S", "EffectText": "絶大" },
+        "Manetize": { "Rank": { "HideText": "検証中" } },
+        "Working": { "Rank": "A", "EffectText": "期待" },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": [
+        "Ptn.Hm(心理安定化効果)",
+        "Ptn.C-(状況変化効果がある傾向)"
+      ],
+      "SafetyLevel": { "Rank": "A", "SafetyText": "安全(奇行有)" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "D" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "B" }
+    },
     "Relation": {
       "Commented": [
         {
@@ -6522,9 +6556,47 @@
     "ModelNumber": "APHR-NT VIII+IX.B\nNumberTales #98",
     "CodeName": "九八",
     "GenderType": "Female",
+    "Height_cm": 154,
+    "ConseptAge": { "value": 20, "about": "？" },
     "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Sep" } },
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "B",
+    "TailsUnit": "キツネ(枝分かれ)型9本(上1束1本+下2束8本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "FirstPersonCalling": "私(わたし)",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "彼/彼女/～さん;[Name]",
+    "ForMasterCalling": "～先生",
+    "Character": "飽き症で何事にも投げ遣り気味",
+    "Hobby": "",
+    "SpetialSkil": "",
+    "Favor": "",
+    "Unlike": "",
+    "NumerospecAbout": "諦め時を見極める\nこれにより、より即座に結果を伴わせることがあるらしい",
+    "Summary": "",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "Z", "EffectText": "過剰" },
+        "Manetize": { "Rank": { "HideText": "検証中" } },
+        "Working": { "Rank": { "HideText": "検証中" } },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "D", "EffectText": "効果無" }
+      },
+      "SpetialPattern": [
+        "Ptn.Rz-(実現性向上効果がある傾向)",
+        "Ptn.Rc-(救済効果がある傾向)"
+      ],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証(稀に奇行有)" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "B" }
+    },
     "Relation": {
       "Commented": [
         {
