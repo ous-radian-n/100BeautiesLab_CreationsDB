@@ -48,27 +48,28 @@
               {
                 "SecondaryCategory": "反応公募タグ企画",
                 "SecondarySeriesTitle": ["ナンバーテールズ化"],
-				"SecondaryDesigningFor": [
-					"でんねこ\n@denneko@misskey.io",
-					"散狐アタスト\n@atast@misskey.io",
-					"ヨシアミ@4735\n@yoshiami4735@misskey.io",
-					"SIANO\n@sloani0831_2@misskey.io",
-					"リヘラナ人形\n@riherana0024@misskey.io",
-					"さふ\n@tune_konnyaku@misskey.io",
-					"「み」のひと\n@mi_nohito@misskey.io",
-					"つくえちゃん\n@Tukuesan@misskey.io",
-					"みるく・フローランス\n@flowlanss@misskey.io",
-					"青木凪\n@tanzanite@misskey.io",
-					"いるいる\n@iruiru@misskey.io",
-					"猫餅\n@nekomottin@misskey.io",
-					"みとにゃん\n@Mitten@misskey.io",
-					"猫吉よりお\n@nekokitiyorio@misskey.io",
-					"おゆうわちゃん\n@oyuchi@misskey.io",
-					"蓬\n@hatyulove@misskey.io",
-					"キノアダモスデキノ\n@kinokinoadamosude@misskey.io",
-					"さくらば\n@Sakuraba_f9@misskey.io",
-					"きたやこ\n@KTYCO300PHz@misskey.io"
-				]
+                "SecondaryDesigningFor": [
+                  "でんねこ\n@denneko@misskey.io",
+                  "散狐アタスト\n@atast@misskey.io",
+                  "ヨシアミ@4735\n@yoshiami4735@misskey.io",
+                  "SIANO\n@sloani0831_2@misskey.io",
+                  "リヘラナ人形\n@riherana0024@misskey.io",
+                  "さふ\n@tune_konnyaku@misskey.io",
+                  "「み」のひと\n@mi_nohito@misskey.io",
+                  "つくえちゃん\n@Tukuesan@misskey.io",
+                  "みるく・フローランス\n@flowlanss@misskey.io",
+                  "青木凪\n@tanzanite@misskey.io",
+                  "いるいる\n@iruiru@misskey.io",
+                  "猫餅\n@nekomottin@misskey.io",
+                  "みとにゃん\n@Mitten@misskey.io",
+                  "猫吉よりお\n@nekokitiyorio@misskey.io",
+                  "おゆうわちゃん\n@oyuchi@misskey.io",
+                  "蓬\n@hatyulove@misskey.io",
+                  "キノアダモスデキノ\n@kinokinoadamosude@misskey.io",
+                  "さくらば\n@Sakuraba_f9@misskey.io",
+                  "きたやこ\n@KTYCO300PHz@misskey.io",
+                  "エメラルド\n@gameboyadvance@misskey.io"
+                ]
               }
             ]
           }
