@@ -45,7 +45,7 @@
         "Def_EffectStats": {
           "EffectTexts_ForRanks": {
             "R2_Great": ["絶大"],
-            "R3_Good": ["期待", "期待可能"],
+            "R3_Good": ["特化", "期待", "期待可能"],
             "R4plus_BasicOrSpecific": ["特殊"],
             "R4_Normal": ["普通"],
             "R5_NotSoGood": ["希薄"],
@@ -58,7 +58,7 @@
         },
         "Def_SafetyLevel": {
           "SafetyTexts_ForRanks": {
-            "R2_Great": ["保証"],
+            "R2_Great": ["保証", "保証(稀に奇行有)"],
             "R3_Good": ["安全", "安全(奇行有)"],
             "R4_Normal": ["危害無", "危害無(奇行有)"],
             "R5_NotSoGood": ["調整中"],
@@ -74,6 +74,7 @@
             "Ptn.Av(能力比例作用)",
             "Ptn.B(バイタリティ強化効果)",
             "Ptn.C(状況変化効果)",
+            "Ptn.C-(状況変化効果がある傾向)",
             "Ptn.Dr(目標比例作用)",
             "Ptn.Dr-(目標比例作用がある傾向)",
             "Ptn.Ec(士気比例作用)",
@@ -92,7 +93,9 @@
             "Ptn.Py(読心効果)",
             "Ptn.R-(効果保証作用がある傾向)",
             "Ptn.Rc(救済効果)",
+            "Ptn.Rc-(救済効果がある傾向)",
             "Ptn.Rz(実現性向上効果)",
+            "Ptn.Rz-(実現性向上効果がある傾向)",
             "Ptn.S(感性向上効果)",
             "Ptn.S-(感性向上効果の可能性)",
             "Ptn.St(状況比例作用)",

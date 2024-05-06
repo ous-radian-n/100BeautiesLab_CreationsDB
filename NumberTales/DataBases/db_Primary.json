@@ -60,7 +60,6 @@
     "InStory": "主人に従事するだけでなく、試作機として機能的な試験を定期的に受けている",
     "Backgrounds": "最初に試作されたナンバーテールズ",
 
-
     "Relation": {
       "Related": [
         {
@@ -153,7 +152,6 @@
     },
     "InStory": "主人に従事するだけでなく、1桁番のマネジメントも積極的に行っている",
     "Backgrounds": "最初に正規型として設計されたナンバーテールズ「1(ハジメ)」の設計を再利用して誕生",
-
 
     "Relation": {
       "Related": [
@@ -489,7 +487,6 @@
       "Actuation": { "Rank": "A" }
     },
 
-
     "Relation": {
       "Related": [
         {
@@ -656,7 +653,6 @@
     },
     "InStory": "試作型の開発支援には協力していないが、ナンバーテールズのエンジニアポジションとされる",
 
-
     "Relation": {
       "Related": [
         {
@@ -738,7 +734,6 @@
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B+" }
     },
-
 
     "Relation": {
       "Related": [
@@ -833,7 +828,6 @@
     },
     "InStory": "10号機「ディケ」が退役したきっかけを知る存在",
     "Backgrounds": "「10(ツナイ)[ディケ]」の暴走事件・退役を受け、量産試作機のハードウェアを再利用して誕生",
-
 
     "Relation": {
       "Related": [
@@ -1006,7 +1000,6 @@
     },
     "InStory": "眼鏡を完成直後には掛けていたが、いつの間にかしなくなったらしい",
     "Backgrounds": "1号機系,2号機系の開発中の余剰部品から再構成した、初の複合型個体\n以後デュアルズに続く",
-
 
     "Relation": {
       "Related": [
@@ -1282,7 +1275,6 @@
     },
     "InStory": "特異個体「1+5型」のネーム機\nイベント発生要因として、他のナンバーテールズから偏見を抱かれがち",
     "Backgrounds": "ハーネスで背中に装備されているのは安全装置とのこと\n実は未解明な加護がもう一つあるが、詳しい情報は公開されていないという",
-
 
     "Relation": {
       "Related": [
@@ -1828,7 +1820,6 @@
     },
     "InStory": "「11(トウイチ)」の後続機(妹個体)\n尻尾の形状が独特という点については……",
     "Backgrounds": "11号機「トウイチ」の応用個体\n零姉弟も当時を疑うほどのオーパーツと称している",
-
 
     "Relation": {
       "Related": [
@@ -2617,7 +2608,6 @@
     "InStory": "「全知全能」を名乗っているが実力は本物\nただしROSの弱点を突かれて玩ばれる一面も",
     "Backgrounds": "初の正規+改良 複合型でかつ初めて、ROSの機能を強化した個体\nナンバーテールズの活動管理クラウドを応用している",
 
-
     "Relation": {
       "Related": [
         {
@@ -3067,10 +3057,44 @@
     "SPCodeName": "四十一",
     "GenderType": "Neutral",
     "AnivDay": { "Day": { "DayOfMonth": 1, "Month": "Apr" } },
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型4本(上1束3本+下2束1本)",
     "Class": "デュアルファイブズ",
     "Class_EN": "Dual Sum-5s",
+    "FirstPersonCalling": "俺",
+    "SecondPersonCalling": "君(,あんた)",
+    "ThirdPersonCalling": "*いつ;*れ;[Name]",
+    "ForMasterCalling": "主人",
     "Character": "挑戦的だが、ほんの若干マゾ",
-    "NumerospecAbout": "失敗する恐れ/可能性を中和する\nこれにより行動に対し自信を持たせることもある",
+    "Hobby": "",
+    "SpetialSkil": "",
+    "Favor": "",
+    "Unlike": "",
+    "RelationAbouts": "",
+    "NumerospecAbout": "失敗する恐れ/可能性を中和する\nこれにより自分の行動に自信を持たせることもある",
+    "Summary": "",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "S", "EffectText": "絶大" },
+        "Manetize": { "Rank": { "HideText": "検証中" } },
+        "Working": { "Rank": "A", "EffectText": "期待" },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": [
+        "Ptn.Hm(心理安定化効果)",
+        "Ptn.C-(状況変化効果がある傾向)"
+      ],
+      "SafetyLevel": { "Rank": "A", "SafetyText": "安全(奇行有)" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "D" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "B" }
+    },
     "Relation": {
       "Commented": [
         {
@@ -4561,7 +4585,6 @@
     "InStory": "特殊個体「4+6型」の一人で問題児\n実績が乏しく赤字であるだけでなく……",
     "Backgrounds": "稀に快感を求める故に不認可の副業に手を染めかけたり、あらぬ欲情をしてしまったりするため零も酷く頭を抱えている",
 
-
     "Relation": {
       "Related": [
         {
@@ -5148,7 +5171,6 @@
     },
     "InStory": "彼(女)の機械寄りな人間味や個性について、他のナンバーテールズからの見解は様々らしい",
     "Backgrounds": "ROSの機能が学習という別の目的で強化された、唯一の教材型個体\nROS完成以来零は彼女に罪悪感を…？",
-
 
     "Relation": {
       "Commented": [
@@ -6522,9 +6544,47 @@
     "ModelNumber": "APHR-NT VIII+IX.B\nNumberTales #98",
     "CodeName": "九八",
     "GenderType": "Female",
+    "Height_cm": 154,
+    "ConseptAge": { "value": 20, "about": "？" },
     "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Sep" } },
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "B",
+    "TailsUnit": "キツネ(枝分かれ)型9本(上1束1本+下2束8本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "FirstPersonCalling": "私(わたし)",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "彼/彼女/～さん;[Name]",
+    "ForMasterCalling": "～先生",
+    "Character": "飽き症で何事にも投げ遣り気味",
+    "Hobby": "",
+    "SpetialSkil": "",
+    "Favor": "",
+    "Unlike": "",
+    "NumerospecAbout": "諦め時を見極める\nこれにより、より即座に結果を伴わせることがあるらしい",
+    "Summary": "",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "Z", "EffectText": "過剰" },
+        "Manetize": { "Rank": { "HideText": "検証中" } },
+        "Working": { "Rank": { "HideText": "検証中" } },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "D", "EffectText": "効果無" }
+      },
+      "SpetialPattern": [
+        "Ptn.Rz-(実現性向上効果がある傾向)",
+        "Ptn.Rc-(救済効果がある傾向)"
+      ],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証(稀に奇行有)" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "B" }
+    },
     "Relation": {
       "Commented": [
         {
@@ -6589,7 +6649,6 @@
       "Actuation": { "Rank": "A" }
     },
     "Backgrounds": "最後の正規型個体\n数字表記は漢数字となっている\n加護については偶然の産物（以下略）",
-
 
     "Relation": {
       "Related": [
