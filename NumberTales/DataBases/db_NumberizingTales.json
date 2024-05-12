@@ -48,11 +48,33 @@
     "SecondaryCategory": "反応公募タグ企画",
     "SecondarySeriesTitle": "ナンバーテールズ化",
     "Num": {
+      "Num": 258,
+      "SecondaryDesigningFor": "CoiL25\n@CoiL25@misskey.io"
+    },
+    "Released": "released",
+    "GenderType": "Neutral"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
       "Num": 265,
       "SecondaryDesigningFor": "青木凪\n@tanzanite@misskey.io"
     },
     "Released": "released",
-    "GenderType": "Neutral"
+    "GenderType": "Female"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": 294,
+      "SecondaryDesigningFor": "ALK!(プロトタイプ《あるくちゃん》)\n@alk_first@misskey.io"
+    },
+    "Released": "nowCreating",
+    "GenderType": "Female"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -63,7 +85,7 @@
       "SecondaryDesigningFor": "いるいる\n@iruiru@misskey.io"
     },
     "Released": "released",
-    "GenderType": "Neutral"
+    "GenderType": "Female"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -86,6 +108,17 @@
     },
     "Released": "released",
     "GenderType": "Female"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": 377,
+      "SecondaryDesigningFor": "爪葉京(ツメハケイ)\n@tsumeha0213@misskey.io"
+    },
+    "Released": "released",
+    "GenderType": "Male"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -151,7 +184,7 @@
       "SecondaryDesigningFor": "さふ\n@tune_konnyaku@misskey.io"
     },
     "Released": "released",
-    "GenderType": "Neutral"
+    "GenderType": "Female"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -181,7 +214,7 @@
       "SecondaryDesigningFor": "猫餅\n@nekomottin@misskey.io"
     },
     "Released": "released",
-    "GenderType": "Neutral"
+    "GenderType": "Female"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -192,7 +225,7 @@
       "SecondaryDesigningFor": "みとにゃん\n@Mitten@misskey.io"
     },
     "Released": "released",
-    "GenderType": "Neutral"
+    "GenderType": "Female"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -203,7 +236,18 @@
       "SecondaryDesigningFor": "みるく・フローランス\n@flowlanss@misskey.io"
     },
     "Released": "released",
-    "GenderType": "Neutral"
+    "GenderType": "Female"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": 773,
+      "SecondaryDesigningFor": "テンタクル七海\nTentacle_nanami@misskey.io"
+    },
+    "Released": "released",
+    "GenderType": "Female"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -214,6 +258,50 @@
       "SecondaryDesigningFor": "さくらば\n@Sakuraba_f9@misskey.io"
     },
     "Released": "released",
+    "GenderType": "Female"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": null,
+      "SecondaryDesigningFor": "うどん\n@oudono@misskey.io"
+    },
+    "Released": null,
+    "GenderType": "Female"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": null,
+      "SecondaryDesigningFor": "キアラン\n@kiarann2@misskey.io"
+    },
+    "Released": null,
+    "GenderType": "Neutral"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": null,
+      "SecondaryDesigningFor": "Nor東\n@nsoku1@misskey.io"
+    },
+    "Released": null,
+    "GenderType": "Neutral"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": null,
+      "SecondaryDesigningFor": "月凪葉茶\n@tukinagi@misskey.io"
+    },
+    "Released": null,
     "GenderType": "Female"
   }
 ]
