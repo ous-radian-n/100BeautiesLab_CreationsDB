@@ -2710,7 +2710,7 @@
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "感性が高い才能肌",
-    "NumerospecAbout": "物事を発展させる",
+    "NumerospecAbout": "物事や進捗を発展させる",
     "Relation": {
       "Commented": [
         {
@@ -3075,12 +3075,13 @@
     "SecondPersonCalling": "君(,あんた)",
     "ThirdPersonCalling": "*いつ;*れ;[Name]",
     "ForMasterCalling": "主人",
-    "Character": "挑戦的だが、ほんの若干マゾ",
-    "Hobby": "",
-    "SpetialSkil": "",
-    "Favor": "",
-    "Unlike": "",
-    "RelationAbouts": "",
+    "Character": "挑戦的で楽観的、不器用でほんの若干マゾ",
+    "Hobby": "ポーカー",
+    "SpetialSkil": "カード透視（カードなどが配られた場所をほぼすべて把握する）",
+    "Favor": "賭けゲーム",
+    "Unlike": "胸糞の悪い話",
+    "UnmatchedNTsNames": "58(イソヤ)",
+    "RelationAbouts": "確率計算のできる「58(イソヤ)」とは好きなポーカーや賭けゲームを一切持ち込めずにいる",
     "NumerospecAbout": "失敗する恐れ/可能性を中和する\nこれにより自分の行動に自信を持たせることもある",
     "Summary": "",
     "NumerospecStats": {
@@ -3103,21 +3104,36 @@
       "Reading": { "Rank": "A" },
       "Precision": { "Rank": "D" },
       "Technic": { "Rank": "B+" },
-      "Actuation": { "Rank": "B" }
+      "Actuation": { "Rank": "A" }
     },
+    "InStory": "コアフォルダ形態などについては、身動きの取れない状況を挙って嫌う姉の「14(トヨ)」とは対照的に 身動きの取れない姿になってもできることを最大限に活かそうとしている（しかし不器用なので結局は身動きが取れていない）",
     "Relation": {
+      "Related": [
+        {
+          "Num": 58,
+          "Comments": "「インチキ」っていってくる割にはさぁ…"
+        }
+      ],
       "Commented": [
         {
-          "Num": 4
+          "Num": 4,
+          "Comments": "もっと積極的になってもいい気はする"
         },
         {
-          "Num": 50
+          "Num": 14,
+          "Comments": "ちょっと面倒いけど自慢の姉貴"
         },
         {
-          "Num": 61
+          "Num": 50,
+          "Comments": "流石に流されすぎじゃないか？"
         },
         {
-          "Num": 95
+          "Num": 61,
+          "Comments": "馬鹿と天才は紙一重だなー…"
+        },
+        {
+          "Num": 95,
+          "Comments": "なんなんだよこいつ……"
         }
       ]
     }
@@ -3841,6 +3857,7 @@
     "AnivDay": { "Day": { "DayOfMonth": 3, "Month": "May" } },
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "NumerospecAbout": "転機を連続して招く\nこの効果は対象が積極的に受ければ受けるほど持続する",
     "Relation": {
       "Commented": [
         {
@@ -4160,6 +4177,8 @@
     "SpetialSkil": "確率計算",
     "Favor": "大吉の御御籤(おみくじ)\n甘やかされること",
     "Unlike": "クソゲー(理不尽なゲーム)",
+    "UnmatchedNTsNames": "41(ヨソイチ)",
+    "RelationAbouts": "カードの透視が可能な41(ヨソイチ)を忌避している",
     "NumerospecAbout": "臨時収入を呼ぶ(臨時的な裕福をもたらす)\nこの効果は多岐にわたるため詳細な説明ができない",
     "Summary": "臨時収入などの物質的な幸運をもたらすという“加護”を有しているが、多岐多様な効果が確認されており詳細にどのような効果であるかは説明できない。\n他個体をからかったりおちょくったりするためＳっ気のあるように思われているが、オマセで甘えん坊な一面が拭えないところも含め、非常に可愛がられている。\nカードゲームが好きで13(トミ)たちとよく遊んでいるが、強運の持ち主で確立計算も巧みなためすぐ捻じ伏せて厭きられてしまう。",
     "NumerospecStats": {
@@ -4186,6 +4205,10 @@
         {
           "Num": 13,
           "Comments": "負けて悔しがってるところも含めてかわいい♪"
+        },
+        {
+          "Num": 41,
+          "Comments": "強運仲間にされるとちょっと違う気がする…"
         }
       ],
       "Commented": [
@@ -4204,10 +4227,6 @@
         {
           "Num": 40,
           "Comments": "どうしても甘えちゃいたくなる"
-        },
-        {
-          "Num": 41,
-          "Comments": "強運仲間にされるとちょっと違う気がする…"
         },
         {
           "Num": 85,
@@ -6568,18 +6587,19 @@
     "SecondPersonCalling": "あなた",
     "ThirdPersonCalling": "彼/彼女/～さん;[Name]",
     "ForMasterCalling": "～先生",
-    "Character": "飽き症で何事にも投げ遣り気味",
-    "Hobby": "",
-    "SpetialSkil": "",
-    "Favor": "",
-    "Unlike": "",
+    "Character": "飽き症で何事にも投げ遣り気味。ほんの少しだけシスターコンプレックス",
+    "Hobby": "買い出し",
+    "SpetialSkil": "時間制限や手数制限のある作業",
+    "Favor": "キリ番から少し減らされ下2桁が「98」になった数字",
+    "Unlike": "残業",
+    "WellmatchedNTsNames": "68(ロクヤ)",
     "NumerospecAbout": "諦め時を見極める\nこれにより、より即座に結果を伴わせることがあるらしい",
     "Summary": "",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "Z", "EffectText": "過剰" },
         "Manetize": { "Rank": { "HideText": "検証中" } },
-        "Working": { "Rank": { "HideText": "検証中" } },
+        "Working": { "Rank": { "HideText": "条件による" } },
         "Luck": { "Rank": "A", "EffectText": "期待可能" },
         "Communication": { "Rank": "D", "EffectText": "効果無" }
       },
@@ -6598,12 +6618,36 @@
       "Actuation": { "Rank": "B" }
     },
     "Relation": {
+      "Related": [
+        {
+          "Num": 68,
+          "Comments": "いつもありが…ってそれも捨てるの!?"
+        }
+      ],
       "Commented": [
         {
-          "Num": 80
+          "Num": 19,
+          "Comments": "お姉に近寄らないで。しっ、しっ！"
         },
         {
-          "Num": 89
+          "Num": 27,
+          "Comments": "スパルタ教…いえ、なんでもありません！"
+        },
+        {
+          "Num": 44,
+          "Comments": "あんな不良男児の何がいいの？"
+        },
+        {
+          "Num": 53,
+          "Comments": "単純というかおバカというか…"
+        },
+        {
+          "Num": 80,
+          "Comments": "ゲンキン(現金主義)でなんかやだ"
+        },
+        {
+          "Num": 89,
+          "Comments": "尊敬できるお姉、なかなか構ってくれない"
         }
       ]
     }
