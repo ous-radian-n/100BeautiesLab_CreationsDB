@@ -6568,7 +6568,7 @@
   },
   {
     "Num": 98,
-    "Released": "nowCreating",
+    "Released": "released",
     "Name": "キュウヤ",
     "Name_EN": "Nineigha",
     "FormalName": "ナンバーテールズ8+9号機乙\nナンバーテールズ98番機",
@@ -6594,7 +6594,7 @@
     "Unlike": "残業",
     "WellmatchedNTsNames": "68(ロクヤ)",
     "NumerospecAbout": "諦め時を見極める\nこれにより、より即座に結果を伴わせることがあるらしい",
-    "Summary": "",
+    "Summary": "何事にも投げ遣り気味ですぐに物事を切り上げようとするため、少し大雑把に思われているナンバーテールズ。\nしかしながら「諦め時を見極める」ことに優れた従事活動を展開しており、結果が即座に出て助かると一部の主人から定評を集めている。\n姉の「89(ヤスモ)」とは少し距離を置かれがちだが、同様の気質を有する「68(ロクヤ)」と時折行動を共にしている。",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "Z", "EffectText": "過剰" },
