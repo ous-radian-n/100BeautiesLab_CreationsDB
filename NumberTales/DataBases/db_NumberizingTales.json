@@ -26,6 +26,17 @@
     "SecondaryCategory": "反応公募タグ企画",
     "SecondarySeriesTitle": "ナンバーテールズ化",
     "Num": {
+      "Num": 232,
+      "SecondaryDesigningFor": "広小路トトカ\n@totoka@misskey.io"
+    },
+    "Released": null,
+    "GenderType": "Female"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
       "Num": 238,
       "SecondaryDesigningFor": "「み」のひと\n@mi_nohito@misskey.io"
     },
@@ -73,7 +84,7 @@
       "Num": 294,
       "SecondaryDesigningFor": "ALK!(プロトタイプ《あるくちゃん》)\n@alk_first@misskey.io"
     },
-    "Released": "nowCreating",
+    "Released": "released",
     "GenderType": "Female"
   },
   {
@@ -97,6 +108,17 @@
     },
     "Released": "released",
     "GenderType": "Neutral"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": 366,
+      "SecondaryDesigningFor": "うどん\n@oudono@misskey.io"
+    },
+    "Released": "nowCreating",
+    "GenderType": "Female"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -266,17 +288,6 @@
     "SecondarySeriesTitle": "ナンバーテールズ化",
     "Num": {
       "Num": null,
-      "SecondaryDesigningFor": "うどん\n@oudono@misskey.io"
-    },
-    "Released": null,
-    "GenderType": "Female"
-  },
-  {
-    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
-    "SecondaryCategory": "反応公募タグ企画",
-    "SecondarySeriesTitle": "ナンバーテールズ化",
-    "Num": {
-      "Num": null,
       "SecondaryDesigningFor": "キアラン\n@kiarann2@misskey.io"
     },
     "Released": null,
@@ -300,6 +311,17 @@
     "Num": {
       "Num": null,
       "SecondaryDesigningFor": "月凪葉茶\n@tukinagi@misskey.io"
+    },
+    "Released": null,
+    "GenderType": "Female"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": null,
+      "SecondaryDesigningFor": "しおん\n@shion_neko@misskey.io"
     },
     "Released": null,
     "GenderType": "Female"
