@@ -18,7 +18,7 @@
       "Num": 148,
       "SecondaryDesigningFor": "よだれ\n@yodare0p0@misskey.io"
     },
-    "Released": null,
+    "Released": "released",
     "GenderType": "Neutral"
   },
   {
@@ -128,7 +128,7 @@
       "Num": 366,
       "SecondaryDesigningFor": "うどん\n@oudono@misskey.io"
     },
-    "Released": "nowCreating",
+    "Released": "released",
     "GenderType": "Female"
   },
   {
