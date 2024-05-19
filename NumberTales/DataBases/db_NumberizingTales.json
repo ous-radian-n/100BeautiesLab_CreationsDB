@@ -40,7 +40,7 @@
       "Num": 232,
       "SecondaryDesigningFor": "広小路トトカ\n@totoka@misskey.io"
     },
-    "Released": null,
+    "Released": "released",
     "GenderType": "Female"
   },
   {
@@ -163,6 +163,17 @@
     },
     "Released": "released",
     "GenderType": "Neutral"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
+    "SecondaryCategory": "反応公募タグ企画",
+    "SecondarySeriesTitle": "ナンバーテールズ化",
+    "Num": {
+      "Num": 401,
+      "SecondaryDesigningFor": "江小森えこ\n@eko_ekomori@misskey.io"
+    },
+    "Released": "released",
+    "GenderType": "Female"
   },
   {
     "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
@@ -325,16 +336,5 @@
     },
     "Released": null,
     "GenderType": "Female"
-  },
-  {
-    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.io",
-    "SecondaryCategory": "反応公募タグ企画",
-    "SecondarySeriesTitle": "ナンバーテールズ化",
-    "Num": {
-      "Num": null,
-      "SecondaryDesigningFor": "江小森えこ\n@eko_ekomori@misskey.io"
-    },
-    "Released": null,
-    "GenderType": "Neutral"
   }
 ]
