@@ -16,6 +16,7 @@
       "Height_cm": 176,
       "Weight_kg": 59,
       "Age": 37,
+      "Generation": 3,
       "BirthDay": { "Day": { "DayOfMonth": 4, "Month": "Jan" } }
     },
     "Character": "行動的かつ自発的で、何事にも才能にあふれている",
@@ -41,7 +42,7 @@
           "KinematicOrStatic": "Kinematic",
           "RoleType": "Read"
         },
-        "DualizePattern": { "Pattern": "Prop.", "PatternText": "通常" }
+        "DualizePattern": { "Pattern": "Prop.(通常)" }
       },
       "EffectStats": {
         "Physical": { "Rank": "B", "EffectText": "普通" },
@@ -61,6 +62,136 @@
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B+" }
+    }
+  },
+  {
+    "Card": { "Stoat": "major", "Num": 2 },
+    "Name": "ヨハネ",
+    "Name_EN": "John",
+    "FormalName": "四法の女教皇\nヨハネ.ヴィンコスティ",
+    "FormalName_EN": "High-Priestess of TORA\nJohn.Vincosti",
+    "CodeName": "女教皇",
+    "CodeName_EN": "High-Priestess",
+    "GenderType": "Female",
+    "Class": "第2幹部/最高幹部",
+    "Class_EN": "Executive.2/Top",
+    "ThisDealer": {
+      "Name": "二宮 律",
+      "Name_EN": "Liz Ninomiya",
+      "Height_cm": 174,
+      "Weight_kg": 54,
+      "Age": 29,
+      "Generation": 3,
+      "BirthDay": { "Day": { "DayOfMonth": 8, "Month": "Mar" } }
+    },
+    "Character": "博識かつ知力的で冷淡",
+    "Hobby": "教養についての資料を集める/読む",
+    "SpetialSkil": "六法全書を暗記している",
+    "Favor": "静かな場所",
+    "Unlike": "女性的ストレス",
+    "FirstPersonCalling": "私(わたくし)",
+    "SecondPersonCalling": "貴方(あなた)",
+    "ThirdPersonCalling": "彼/彼女/[Name]",
+    "For79or80thDealerCalling": {
+      "For79thDealer": "舞",
+      "For80thDealer": "歌"
+    },
+    "ArcanamspecAbout": "正気度を操る",
+    "Summary": "",
+    "ArcanumspecStats": {
+      "SpecType": {
+        "MaterialType": {
+          "Material": ["Water"]
+        },
+        "ActionType": {
+          "KinematicOrStatic": "Static",
+          "RoleType": "Hide"
+        },
+        "DualizePattern": { "Pattern": "Prop." }
+      },
+      "EffectStats": {
+        "Physical": { "Rank": "D", "EffectText": "効果無" },
+        "Magical": { "Rank": "C", "EffectText": "希薄" },
+        "Healing": { "Rank": "A", "EffectText": "期待" },
+        "Violent": { "Rank": { "HideText": "検証中" } },
+        "Rewriting": { "Rank": "C", "EffectText": "希薄" }
+      },
+      "SpetialPattern": ["Ptn.L(転化)", "Ptn.M(精神操作)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証可能" },
+      "SpecLevel": { "Rank": "S" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "B+" }
+    }
+  },
+  {
+    "Card": { "Stoat": "major", "Num": 3 },
+    "Name": "ウェヌス",
+    "Name_EN": "Venus",
+    "FormalName": "九星の女帝\nウェヌス.ハピネス",
+    "FormalName_EN": "Empress of Universe\nVenus.Happiness",
+    "CodeName": "女帝",
+    "CodeName_EN": "Empress",
+    "GenderType": "Female",
+    "Class": "第3幹部",
+    "Class_EN": "Executive.3",
+    "ThisDealer": {
+      "Name": "三笠 めぐ",
+      "Name_EN": "Meg Mikasa",
+      "Height_cm": 166,
+      "Weight_kg": { "about": { "HideText": "非公開" } },
+      "Age": 19,
+      "Generation": 4,
+      "BirthDay": { "Day": { "DayOfMonth": 3, "Month": "Apr" } }
+    },
+    "Character": "母性と女子力があり、相手の男性を駄目にしがち",
+    "Hobby": "晩餐会",
+    "SpetialSkil": "泣いている赤子を泣き止ませる",
+    "Favor": "自然豊かな休憩所",
+    "Unlike": "空腹",
+    "FirstPersonCalling": "わたし",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "*のこ/[Name]",
+    "For79or80thDealerCalling": {
+      "For79thDealer": "舞(まい)",
+      "For80thDealer": "歌嫁(うたか)"
+    },
+    "ArcanamspecAbout": "自身が止まっている間だけ、周囲の人々の精神状態を操作する",
+    "Summary": "",
+    "ArcanumspecStats": {
+      "SpecType": {
+        "MaterialType": {
+          "Material": ["Water", "Object"]
+        },
+        "ActionType": {
+          "KinematicOrStatic": "Pre-Static",
+          "RoleType": "Hide"
+        },
+        "DualizePattern": { "Pattern": "Prop." }
+      },
+      "EffectStats": {
+        "Physical": { "Rank": "C", "EffectText": "希薄" },
+        "Magical": { "Rank": "D", "EffectText": "効果無" },
+        "Healing": { "Rank": { "HideText": "条件による" } },
+        "Violent": { "Rank": "D", "EffectText": "効果無" },
+        "Rewriting": { "Rank": "C", "EffectText": "希薄" }
+      },
+      "SpetialPattern": ["Ptn.H(癒術)", "Ptn.M(精神操作)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証可能" },
+      "SpecLevel": { "Rank": "A" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "D" },
+      "Communicating": { "Rank": "S" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "B" }
     }
   }
 ]
