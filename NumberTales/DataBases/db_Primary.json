@@ -2,6 +2,9 @@
   {
     "Num": 1,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image1"
+    },
     "Name": "ハジメ",
     "Name_EN": "Unitta",
     "FormalName": "ナンバーテールズ試作型1号機\nナンバーテールズ1番機",
@@ -95,6 +98,9 @@
   {
     "Num": 2,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image2"
+    },
     "Name": "ツグ",
     "Name_EN": "Twiny",
     "FormalName": "ナンバーテールズ1号機改\nナンバーテールズ2番機",
@@ -189,6 +195,9 @@
   {
     "Num": 3,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image3"
+    },
     "Name": "ナオ",
     "Name_EN": "Treiya",
     "FormalName": "ナンバーテールズ3号機\nナンバーテールズ3番機",
@@ -270,6 +279,10 @@
   {
     "Num": 4,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image4",
+      "catalog_PNGName": "chr-dsgn_catalog4"
+    },
     "Name": "モチ",
     "Name_EN": "Forna",
     "FormalName": "ナンバーテールズ4号機\nナンバーテールズ4番機",
@@ -355,6 +368,9 @@
   {
     "Num": 5,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image5"
+    },
     "Name": "イズ",
     "Name_EN": "Fifa",
     "FormalName": "ナンバーテールズ5号機\nナンバーテールズ5番機",
@@ -441,6 +457,10 @@
   {
     "Num": 6,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image6",
+      "catalog_PNGName": "chr-dsgn_catalog6"
+    },
     "Name": "ムイ",
     "Name_EN": "Sics",
     "FormalName": "ナンバーテールズ6号機\nナンバーテールズ6番機",
@@ -524,6 +544,9 @@
   {
     "Num": 7,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image7"
+    },
     "Name": "ナナ",
     "Name_EN": "Sevan",
     "FormalName": "ナンバーテールズ7号機\nナンバーテールズ7番機",
@@ -606,6 +629,9 @@
   {
     "Num": 8,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image8"
+    },
     "Name": "ワカツ",
     "Name_EN": "Eighas",
     "FormalName": "ナンバーテールズ8号機\nナンバーテールズ8番機",
@@ -691,6 +717,9 @@
   {
     "Num": 9,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image9"
+    },
     "Name": "チカ",
     "Name_EN": "Nina",
     "FormalName": "ナンバーテールズ9号機\nナンバーテールズ9番機",
@@ -774,6 +803,9 @@
   {
     "Num": 10,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image10"
+    },
     "Name": "ミツル",
     "Name_EN": "Tenim",
     "FormalName": "ナンバーテールズ1号機最終版\nナンバーテールズ10番機",
@@ -869,6 +901,9 @@
   {
     "Num": 11,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image11"
+    },
     "Name": "トウイチ",
     "Name_EN": "Elevan",
     "FormalName": "ナンバーテールズ11号機\nナンバーテールズ11番機",
@@ -955,6 +990,9 @@
   {
     "Num": 12,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image12"
+    },
     "Name": "トウジ",
     "Name_EN": "Twelva",
     "FormalName": "ナンバーテールズ1+2号機\nナンバーテールズ12番機",
@@ -1046,6 +1084,9 @@
   {
     "Num": 13,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image13"
+    },
     "Name": "トミ",
     "Name_EN": "Thirteena",
     "FormalName": "ナンバーテールズ1+3号機甲\nナンバーテールズ13番機",
@@ -1135,6 +1176,9 @@
   {
     "Num": 14,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image14"
+    },
     "Name": "トヨ",
     "Name_EN": "Forteels",
     "FormalName": "ナンバーテールズ1+4号機甲\nナンバーテールズ14番機",
@@ -1222,6 +1266,9 @@
   {
     "Num": 15,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image15"
+    },
     "Name": "トウゴ",
     "Name_EN": "Fifteeld",
     "FormalName": "ナンバーテールズ1+5号機甲\nナンバーテールズ15番機",
@@ -1325,6 +1372,10 @@
   {
     "Num": 16,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image16",
+      "catalog_PNGName": "chr-dsgn_catalog16"
+    },
     "Name": "ソロク",
     "Name_EN": "Sixteely",
     "FormalName": "ナンバーテールズ1+6号機甲\nナンバーテールズ16番機",
@@ -1416,6 +1467,9 @@
   {
     "Num": 17,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image17"
+    },
     "Name": "トナ",
     "Name_EN": "Sevteena",
     "FormalName": "ナンバーテールズ1+7号機甲\nナンバーテールズ17番機",
@@ -1504,6 +1558,9 @@
   {
     "Num": 18,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image18"
+    },
     "Name": "トウヤ",
     "Name_EN": "Eighteeld",
     "FormalName": "ナンバーテールズ1+8号機甲\nナンバーテールズ18番機",
@@ -1589,6 +1646,9 @@
   {
     "Num": 19,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image19"
+    },
     "Name": "トク",
     "Name_EN": "Ninteels",
     "FormalName": "ナンバーテールズ1+9号機甲\nナンバーテールズ19番機",
@@ -1670,6 +1730,9 @@
   {
     "Num": 20,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image20"
+    },
     "Name": "ハツカ",
     "Name_EN": "Twentia",
     "FormalName": "ナンバーテールズ2号機改\nナンバーテールズ20番機",
@@ -1777,6 +1840,9 @@
   {
     "Num": 22,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image22"
+    },
     "Name": "フジ",
     "Name_EN": "Twin-twina",
     "FormalName": "ナンバーテールズ11+11号機\nナンバーテールズ22番機",
@@ -1872,6 +1938,10 @@
   {
     "Num": 23,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image23",
+      "catalog_PNGName": "chr-dsgn_catalog23"
+    },
     "Name": "ツグミ",
     "Name_EN": "Twinthery",
     "FormalName": "ナンバーテールズ2+3号機甲\nナンバーテールズ23番機",
@@ -1958,6 +2028,9 @@
   {
     "Num": 24,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image24"
+    },
     "Name": "フトシ",
     "Name_EN": "Hourds",
     "FormalName": "ナンバーテールズ2+4号機甲\nナンバーテールズ24番機",
@@ -2045,6 +2118,9 @@
   {
     "Num": 25,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image25"
+    },
     "Name": "フィズ",
     "Name_EN": "Quartels",
     "FormalName": "ナンバーテールズ2+5号機\nナンバーテールズ25番機",
@@ -2147,6 +2223,9 @@
   {
     "Num": 27,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image27"
+    },
     "Name": "ツギナ",
     "Name_EN": "Twißven",
     "FormalName": "ナンバーテールズ2+7号機\nナンバーテールズ27番機",
@@ -2278,6 +2357,9 @@
   {
     "Num": 29,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image29"
+    },
     "Name": "ニトク",
     "Name_EN": "Twenina",
     "FormalName": "ナンバーテールズ2+9号機甲\nナンバーテールズ29番機",
@@ -2396,6 +2478,9 @@
   {
     "Num": 31,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image31"
+    },
     "Name": "ミツイ",
     "Name_EN": "Thirtone",
     "FormalName": "ナンバーテールズ1+3号機乙\nナンバーテールズ31番機",
@@ -2483,6 +2568,9 @@
   {
     "Num": 32,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image32"
+    },
     "Name": "ミツギ",
     "Name_EN": "Thirtwis",
     "FormalName": "ナンバーテールズ2+3号機乙\nナンバーテールズ32番機",
@@ -2567,6 +2655,9 @@
   {
     "Num": 33,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image33"
+    },
     "Name": "ミサ",
     "Name_EN": "Thirthrey",
     "FormalName": "ナンバーテールズ正規+改良型3号機\nナンバーテールズ33番機",
@@ -2737,6 +2828,9 @@
   {
     "Num": 36,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image36"
+    },
     "Name": "ミトム",
     "Name_EN": "Trisixa",
     "FormalName": "ナンバーテールズ3+6号機甲\nナンバーテールズ36番機",
@@ -2824,6 +2918,9 @@
   {
     "Num": 37,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image37"
+    },
     "Name": "サナ",
     "Name_EN": "Trißven",
     "FormalName": "ナンバーテールズ3+7号機甲\nナンバーテールズ37番機",
@@ -2943,6 +3040,10 @@
   {
     "Num": 39,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image39",
+      "catalog_PNGName": "chr-dsgn_catalog39"
+    },
     "Name": "サク",
     "Name_EN": "Trenína",
     "FormalName": "ナンバーテールズ3+9号機甲\nナンバーテールズ39番機",
@@ -3141,6 +3242,9 @@
   {
     "Num": 42,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image42"
+    },
     "Name": "ヨツグ",
     "Name_EN": "Fortwis",
     "FormalName": "ナンバーテールズ2+4号機乙\nナンバーテールズ42番機",
@@ -3249,6 +3353,9 @@
   {
     "Num": 44,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image44"
+    },
     "Name": "シトシ",
     "Name_EN": "Folfourn",
     "FormalName": "ナンバーテールズ正規+改良型4号機\nナンバーテールズ44番機",
@@ -3349,6 +3456,9 @@
   {
     "Num": 45,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image45"
+    },
     "Name": "シゴ",
     "Name_EN": "Folfivas",
     "FormalName": "ナンバーテールズ4+5号機甲\nナンバーテールズ45番機",
@@ -3430,6 +3540,9 @@
   {
     "Num": 46,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image46"
+    },
     "Name": "シロー",
     "Name_EN": "Forsixen",
     "FormalName": "ナンバーテールズ4+6号機甲\nナンバーテールズ46番機",
@@ -3511,6 +3624,9 @@
   {
     "Num": 47,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image47"
+    },
     "Name": "シナ",
     "Name_EN": "Fourséve",
     "FormalName": "ナンバーテールズ4+7号機甲\nナンバーテールズ47番機",
@@ -3625,6 +3741,10 @@
   {
     "Num": 49,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image49",
+      "catalog_PNGName": "chr-dsgn_catalog49"
+    },
     "Name": "ヨチカ",
     "Name_EN": "Fornins",
     "FormalName": "ナンバーテールズ4+9号機甲\nナンバーテールズ49番機",
@@ -3755,6 +3875,9 @@
   {
     "Num": 52,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image52"
+    },
     "Name": "イツギ",
     "Name_EN": "Fiftwis",
     "FormalName": "ナンバーテールズ2+5号機代替版\nナンバーテールズ52番機",
@@ -3894,6 +4017,9 @@
   {
     "Num": 55,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image55"
+    },
     "Name": "イソゴ",
     "Name_EN": "Fifívan",
     "FormalName": "ナンバーテールズ正規+改良型5号機\nナンバーテールズ55番機",
@@ -3981,6 +4107,9 @@
   {
     "Num": 56,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image56"
+    },
     "Name": "イソロク",
     "Name_EN": "Fivsix",
     "FormalName": "ナンバーテールズ5+6号機甲\nナンバーテールズ56番機",
@@ -4067,6 +4196,10 @@
   {
     "Num": 57,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image57",
+      "catalog_PNGName": "chr-dsgn_catalog57"
+    },
     "Name": "イズナ",
     "Name_EN": "Fivens",
     "FormalName": "ナンバーテールズ5+7号機甲\nナンバーテールズ57番機",
@@ -4153,6 +4286,9 @@
   {
     "Num": 58,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image58"
+    },
     "Name": "イソヤ",
     "Name_EN": "Fiveighs",
     "FormalName": "ナンバーテールズ5+8号機甲\nナンバーテールズ58番機",
@@ -4260,6 +4396,9 @@
   {
     "Num": 60,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image60"
+    },
     "Name": "ムソウ",
     "Name_EN": "Sixtina",
     "FormalName": "ナンバーテールズ改良型6号機\nナンバーテールズ60番機",
@@ -4358,6 +4497,10 @@
   {
     "Num": 61,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image61",
+      "catalog_PNGName": "chr-dsgn_catalog61"
+    },
     "Name": "ロクイチ\nロイ",
     "Name_EN": "Síxone\nSíon",
     "FormalName": "ナンバーテールズ1+6号機乙\nナンバーテールズ61番機",
@@ -4481,6 +4624,9 @@
   {
     "Num": 63,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image63"
+    },
     "Name": "ムツミ",
     "Name_EN": "Sicthrey",
     "FormalName": "ナンバーテールズ3+6号機乙\nナンバーテールズ63番機",
@@ -4564,6 +4710,9 @@
   {
     "Num": 64,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image64"
+    },
     "Name": "ムトシ",
     "Name_EN": "Sixforns",
     "FormalName": "ナンバーテールズ4+6号機乙\nナンバーテールズ64番機",
@@ -4656,6 +4805,9 @@
   {
     "Num": 65,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image65"
+    },
     "Name": "ロクゴ",
     "Name_EN": "Sixfivie",
     "FormalName": "ナンバーテールズ5+6号機乙\nナンバーテールズ65番機",
@@ -4741,6 +4893,9 @@
   {
     "Num": 66,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image66"
+    },
     "Name": "ムロク",
     "Name_EN": "Sixis",
     "FormalName": "ナンバーテールズ正規+改良型6号機\nナンバーテールズ66番機",
@@ -4883,6 +5038,9 @@
   {
     "Num": 68,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image68"
+    },
     "Name": "ロクヤ",
     "Name_EN": "Siceighns",
     "FormalName": "ナンバーテールズ6+8号機甲\nナンバーテールズ68番機",
@@ -4965,6 +5123,9 @@
   {
     "Num": 69,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image69"
+    },
     "Name": "ロック",
     "Name_EN": "Signine",
     "FormalName": "ナンバーテールズ6+9号機\nナンバーテールズ69番機",
@@ -5045,6 +5206,9 @@
   {
     "Num": 70,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image70"
+    },
     "Name": "ナナト",
     "Name_EN": "Seventia",
     "FormalName": "ナンバーテールズ改良型7号機\nナンバーテールズ70番機",
@@ -5154,6 +5318,9 @@
   {
     "Num": 72,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image72"
+    },
     "Name": "ナフタ",
     "Name_EN": "Sevtwína",
     "FormalName": "ナンバーテールズ2+7号機改良版\nナンバーテールズ72番機",
@@ -5239,6 +5406,10 @@
   {
     "Num": 73,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image73",
+      "catalog_PNGName": "chr-dsgn_catalog73"
+    },
     "Name": "ナトミ",
     "Name_EN": "Sevthira",
     "FormalName": "ナンバーテールズ3+7号機乙\nナンバーテールズ73番機",
@@ -5328,6 +5499,9 @@
   {
     "Num": 74,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image74"
+    },
     "Name": "ナナヨ",
     "Name_EN": "Sefoury",
     "FormalName": "ナンバーテールズ4+7号機乙\nナンバーテールズ74番機",
@@ -5410,6 +5584,9 @@
   {
     "Num": 75,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image75"
+    },
     "Name": "シチゴ",
     "Name_EN": "Sefievn",
     "FormalName": "ナンバーテールズ5+7号機乙\nナンバーテールズ75番機",
@@ -5517,6 +5694,9 @@
   {
     "Num": 77,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image77"
+    },
     "Name": "ナヅナ",
     "Name_EN": "Sefvens",
     "FormalName": "ナンバーテールズ正規+改良型7号機\nナンバーテールズ77番機",
@@ -5690,6 +5870,9 @@
   {
     "Num": 81,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image81"
+    },
     "Name": "ヤイチ",
     "Name_EN": "Eightone",
     "FormalName": "ナンバーテールズ1+8号機乙\nナンバーテールズ81番機",
@@ -5848,6 +6031,10 @@
   {
     "Num": 85,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image85",
+      "catalog_PNGName": "chr-dsgn_catalog85"
+    },
     "Name": "ハッコ\nパコ",
     "Name_EN": "Eightifie\nEigfie",
     "FormalName": "ナンバーテールズ5+8号機乙\nナンバーテールズ85番機",
@@ -5953,6 +6140,9 @@
   {
     "Num": 88,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image88"
+    },
     "Name": "ヤソハチ",
     "Name_EN": "Infinights",
     "FormalName": "ナンバーテールズ正規+改良型8号機\nナンバーテールズ88番機",
@@ -6047,6 +6237,9 @@
   {
     "Num": 89,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image89"
+    },
     "Name": "ヤスモ",
     "Name_EN": "Eightine",
     "FormalName": "ナンバーテールズ8+9号機甲\nナンバーテールズ89番機",
@@ -6195,6 +6388,10 @@
   {
     "Num": 93,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image93",
+      "catalog_PNGName": "chr-dsgn_catalog93"
+    },
     "Name": "クミ",
     "Name_EN": "Nintris",
     "FormalName": "ナンバーテールズ3+9号機乙\nナンバーテールズ93番機",
@@ -6289,6 +6486,9 @@
   {
     "Num": 94,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image94"
+    },
     "Name": "ツクシ",
     "Name_EN": "Ninfors",
     "FormalName": "ナンバーテールズ4+9号機乙\nナンバーテールズ94番機",
@@ -6402,6 +6602,9 @@
   {
     "Num": 96,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image96"
+    },
     "Name": "クルリ",
     "Name_EN": "Rota",
     "FormalName": "ナンバーテールズ6+9号機転化版\nナンバーテールズ96番機",
@@ -6488,6 +6691,9 @@
   {
     "Num": 97,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image97"
+    },
     "Name": "ココナ",
     "Name_EN": "Ninsefie",
     "FormalName": "ナンバーテールズ7+9号機乙\nナンバーテールズ97番機",
@@ -6569,6 +6775,9 @@
   {
     "Num": 98,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image98"
+    },
     "Name": "キュウヤ",
     "Name_EN": "Nineigha",
     "FormalName": "ナンバーテールズ8+9号機乙\nナンバーテールズ98番機",
@@ -6655,6 +6864,9 @@
   {
     "Num": 99,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image99"
+    },
     "Name": "ツクモ",
     "Name_EN": "Thukumo",
     "FormalName": "ナンバーテールズ改良拡張型9号機\nナンバーテールズ99番機",
@@ -6745,6 +6957,9 @@
   {
     "Num": "2(-alt)",
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image2-alt"
+    },
     "Name": "ツギ\nバイナ",
     "Name_EN": "Binor\nTwicy",
     "FormalName": "ナンバーテールズ試作型2号機\nナンバーテールズ開発支援機",
@@ -6840,6 +7055,9 @@
   {
     "Num": "000",
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image000"
+    },
     "Name": "チトセ",
     "Name_EN": "Thouser",
     "FormalName": "ナンバーテールズ0番機",
