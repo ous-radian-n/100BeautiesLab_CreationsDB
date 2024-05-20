@@ -22,9 +22,13 @@
           "Def_ActionType": {
             "List_KinematicOrStatic": [
               { "KinematicOrStatic": "Kinematic", "ActionTypeText": "動" },
-              { "KinematicOrStatic": "Static", "ActionTypeText": "静" }
+              { "KinematicOrStatic": "Static", "ActionTypeText": "静" },
+              { "KinematicOrStatic": "Pre-Static", "ActionTypeText": "情" }
             ],
-            "List_RoleType": [{ "RoleType": "Read", "ActionTypeText": "律" }],
+            "List_RoleType": [
+              { "RoleType": "Read", "ActionTypeText": "律" },
+              { "RoleType": "Hide", "ActionTypeText": "秘" }
+            ],
             "ActionTypeText_feedingChar": "+"
           },
           "List_DualizePattern": [{ "Pattern": "Prop.", "PatternText": "通常" }]
