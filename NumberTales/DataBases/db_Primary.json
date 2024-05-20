@@ -6545,8 +6545,6 @@
     "GenderType": "Female",
     "Height_cm": 154,
     "ConseptAge": { "value": 20, "about": "？" },
-    "Height_cm": 154,
-    "ConseptAge": { "value": 20, "about": "？" },
     "AnivDay": { "Day": { "DayOfMonth": 8, "Month": "Sep" } },
     "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "B",
