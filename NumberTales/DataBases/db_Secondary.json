@@ -28,9 +28,7 @@
     "Hobby": "賭け事",
     "SpetialSkil": "ディール",
     "Favor": "カード",
-    "Unlike": "",
-    "WellmatchedNTsNames": "",
-    "UnmatchedNTsNames": "",
+    "Unlike": null,
     "RelationAbouts": "「10(ミツル)」の派生とされている",
     "NumerospecAbout": { "HideText": "極秘事項" },
     "NumerospecStats": {
@@ -52,7 +50,7 @@
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": { "HideText": "非公開" } }
     },
-    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体",
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n彼(女)が切るカードには強い潜在能力が秘められていると推測されているようだが…？",
     "SecretInfo": "「運命を操る」という潜在能力を持つ",
     "Relation": {
       "Related": []
@@ -104,16 +102,15 @@
     "Class": "ヘキサデミカル-テールズ",
     "Class_EN": "HexademicalTales",
     "FirstPersonCalling": "わたし",
-    "SecondPersonCalling": "",
+    "SecondPersonCalling": null,
     "ThirdPersonCalling": "～さん/先輩(※ナンバーテールズに対して)",
-    "ForMasterCalling": "",
+    "ForMasterCalling": null,
     "Character": "繊細で泣き虫\n時々単独行動に出ることがある",
-    "Hobby": "",
+    "Hobby": null,
     "SpetialSkil": "一緒に泣いて慰める",
-    "Favor": "",
-    "Unlike": "",
+    "Favor": null,
+    "Unlike": null,
     "WellmatchedNTsNames": "0xA(エース)\n0xF(フォルテ)",
-    "UnmatchedNTsNames": "",
     "RelationAbouts": "「11(トウイチ)」の派生とされている",
     "NumerospecAbout": { "HideText": "極秘事項" },
     "NumerospecStats": {
@@ -135,7 +132,7 @@
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "C" }
     },
-    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体",
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n試験を受けた後に突然 自分自身の性能が良くなることがあるらしく……",
     "SecretInfo": "「完成させる」潜在能力を持つ",
     "Relation": {
       "Related": []
@@ -196,17 +193,17 @@
     "Class": "ヘキサデミカル-テールズ",
     "Class_EN": "HexademicalTales",
     "FirstPersonCalling": "オレ\nぼく(※ナイーヴ時)",
-    "SecondPersonCalling": "",
+    "SecondPersonCalling": null,
     "ThirdPersonCalling": "＊イツ;[Name]\n先輩(※ナンバーテールズに対して)",
-    "ForMasterCalling": "",
+    "ForMasterCalling": null,
     "Character": "自分を信じて動いているが、メンタルの変動が激しく少し単純。かわいい\nアイドルを志望している",
     "Hobby": "アイドルを目指すこと",
-    "SpetialSkil": "",
-    "Favor": "",
+    "SpetialSkil": null,
+    "Favor": null,
     "Unlike": "メンタルブレイク",
     "WellmatchedNTsNames": "93(クミ)",
     "UnmatchedNTsNames": "61(ロクイチ)",
-    "RelationAbouts": "",
+    "RelationAbouts": "アイドルを志望しているが、アイドルの素質があるナンバーテールズとは少しすれ違い気味らしい",
     "NumerospecAbout": { "HideText": "極秘事項" },
     "NumerospecStats": {
       "EffectStats": {
@@ -291,10 +288,10 @@
     "FirstPersonCalling": "こっち",
     "SecondPersonCalling": "あなた",
     "ThirdPersonCalling": "*っち;*の子[Name]",
-    "ForMasterCalling": "",
+    "ForMasterCalling": null,
     "Character": "勤勉で几帳面\n仕事熱心で少しストイック\nアニヲタの可能性あり",
     "Hobby": "興味持ったことをメモすること",
-    "SpetialSkil": "",
+    "SpetialSkil": null,
     "Favor": "ノート",
     "Unlike": "見られたくないものを見られること",
     "WellmatchedNTsNames": "75(シチゴ)",
@@ -320,7 +317,7 @@
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "A" }
     },
-    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\nヘキサデミカル-テールズの躯体開発で記録を途中から担うこととなった",
+    "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n高い記録能力から、ヘキサデミカル-テールズの躯体開発で途中から記録担当を務めることとなった",
     "SecretInfo": "「すべてを記録する」能力を持つ",
     "Relation": {
       "Related": []
@@ -384,7 +381,7 @@
     "FirstPersonCalling": "オイラ\n俺っち",
     "SecondPersonCalling": "[三人称]\n貴殿(きでん) ※稀",
     "ThirdPersonCalling": "～殿/＊イツ",
-    "ForMasterCalling": "",
+    "ForMasterCalling": null,
     "Character": "優しく明るい\nなんでも技術で解決しようとしないと気が済まない",
     "Hobby": "メンテナンス（魔改造付き）",
     "SpetialSkil": "魔改造",
@@ -465,17 +462,16 @@
     "Class": "ヘキサデミカル-テールズ",
     "Class_EN": "HexademicalTales",
     "FirstPersonCalling": "ママ",
-    "SecondPersonCalling": "",
+    "SecondPersonCalling": null,
     "ThirdPersonCalling": "～ちゃん/～(な)コ",
-    "ForMasterCalling": "",
+    "ForMasterCalling": null,
     "Character": "母性の化身\n全人類のママになろうとしている",
     "Hobby": "ママになること",
     "SpetialSkil": "ママになること",
     "Favor": "ママになること",
     "Unlike": "機械",
     "WellmatchedNTsNames": "63(ムツミ)",
-    "UnmatchedNTsNames": "",
-    "RelationAbouts": "",
+    "RelationAbouts": "他のヘキサデミカル-テールズの心の支えになっているらしい",
     "NumerospecAbout": { "HideText": "公開不能" },
     "NumerospecStats": {
       "EffectStats": {
@@ -497,7 +493,7 @@
       "Actuation": { "Rank": { "HideText": "判定失敗" } }
     },
     "InStory": "「エイゼルベット」の観測者「シグマ-クロステールズ」の元で観測を受けている、ある電脳世界との間で生まれた個体\n彼女を前にした人々は彼女に「ママ」だと甘えだし……",
-    "SecretInfo": "「異次元に干渉する」能力を有しており、観測者の記録を媒介して「お前を知っている」「お前を見ている」などのメッセージを残すことがある",
+    "SecretInfo": "「異次元に干渉する」能力を有しており、観測者の記録を媒介して「お前を知っている」「お前を見ている」などのメッセージ(暗号文)を残すことがある",
     "Relation": {
       "Related": []
     },

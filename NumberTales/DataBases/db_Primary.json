@@ -582,7 +582,7 @@
     "SpetialSkil": "習字",
     "Favor": "ハースストーン",
     "Unlike": "非常識",
-    "WellmatchedNTsNames": "9(チカ)",
+    "WellmatchedNTsNames": "9(チカ)\n70(ナナト)",
     "UnmatchedNTsNames": "5(イズ)",
     "RelationAbouts": "「5(イズ)」に対し対抗意識がある\n「70(ナナト)」とは就学仲間",
     "NumerospecAbout": "修行や瞑想をする\nこれによる効果は主人にも少し分け与えられる",
@@ -616,6 +616,10 @@
         {
           "Num": 9,
           "Comments": "良からぬことに愛憎がないといいが…"
+        },
+        {
+          "Num": 70,
+          "Comments": "お互い見習い合える仲"
         }
       ],
       "Commented": [
@@ -626,10 +630,6 @@
         {
           "Num": 25,
           "Comments": "悪くない意味で恐ろしい感性がある"
-        },
-        {
-          "Num": 70,
-          "Comments": "お互い見習い合える仲"
         },
         {
           "Num": 88,
