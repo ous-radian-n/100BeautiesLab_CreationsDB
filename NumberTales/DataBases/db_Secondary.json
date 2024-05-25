@@ -4,6 +4,9 @@
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xA",
+    "Images": {
+      "conseptImage_PNGName": "cnsp_image0xA"
+    },
     "Name": "エース",
     "Name_EN": "Ace",
     "FormalName": "ヘキサデミカル-テールズ仮説A番機",
@@ -67,6 +70,9 @@
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xB",
+    "Images": {
+      "conseptImage_PNGName": "cnsp_image0xB"
+    },
     "Name": "ベータ",
     "Name_EN": "Beta",
     "FormalName": "ヘキサデミカル-テールズ仮説B番機",
@@ -132,6 +138,9 @@
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xC",
+    "Images": {
+      "conseptImage_PNGName": "cnsp_image0xC"
+    },
     "Name": "セレス",
     "Name_EN": "Ceres",
     "FormalName": "ヘキサデミカル-テールズ仮説C番機",
@@ -196,6 +205,9 @@
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xD",
+    "Images": {
+      "conseptImage_PNGName": "cnsp_image0xD"
+    },
     "Name": "デプス",
     "Name_EN": "Depth",
     "FormalName": "ヘキサデミカル-テールズ仮説D番機",
@@ -261,6 +273,9 @@
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xE",
+    "Images": {
+      "conseptImage_PNGName": "cnsp_image0xE"
+    },
     "Name": "エネ",
     "Name_EN": "Enè",
     "FormalName": "ヘキサデミカル-テールズ仮説E番機",
@@ -301,7 +316,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B" },
-      "Reading": {"Rank": {"Rank": "A", "about": "？"} },
+      "Reading": { "Rank": { "Rank": "A", "about": "？" } },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": { "HideText": "非公開" } },
       "Actuation": { "Rank": "S" }
@@ -324,6 +339,9 @@
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xF",
+    "Images": {
+      "conseptImage_PNGName": "cnsp_image0xF"
+    },
     "Name": "フォルテ",
     "Name_EN": "Forte",
     "FormalName": "ヘキサデミカル-テールズ仮説F番機",
