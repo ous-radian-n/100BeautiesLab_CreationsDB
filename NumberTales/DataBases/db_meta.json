@@ -40,6 +40,9 @@
     }
   },
   "General": {
+    "Images": {
+      "catalog_PNGName": ["chr-dsgn_catalog-summary"]
+    },
     "VarsLists": {
       "Def_NumerospecStats": {
         "Def_EffectStats": {
