@@ -331,10 +331,10 @@
     "SecondaryCategory": "反応公募タグ企画",
     "SecondarySeriesTitle": "ナンバーテールズ化",
     "Num": {
-      "Num": null,
+      "Num": 1122,
       "SecondaryDesigningFor": "しおん\n@shion_neko@misskey.io"
     },
-    "Released": "nowCreating",
+    "Released": "released",
     "GenderType": "Female"
   }
 ]
