@@ -3218,7 +3218,10 @@
   },
   {
     "Num": 41,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image41"
+    },
     "Name": "ヨソイチ",
     "Name_EN": "Forone",
     "FormalName": "ナンバーテールズ1+4号機乙\nナンバーテールズ41番機",
@@ -3226,10 +3229,13 @@
     "CodeName": "四一",
     "SPCodeName": "四十一",
     "GenderType": "Neutral",
+    "Height_cm": 157,
+    "ConseptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
-    "BustSize": "A",
+    "Weight_kg": 41,
+    "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型4本(上1束3本+下2束1本)",
     "Class": "デュアルファイブズ",
     "Class_EN": "Dual Sum-5s",
@@ -3237,7 +3243,7 @@
     "SecondPersonCalling": "君(,あんた)",
     "ThirdPersonCalling": "*いつ;*れ;[Name]",
     "ForMasterCalling": "主人",
-    "Character": "挑戦的で楽観的、不器用でほんの若干マゾ",
+    "Character": "挑戦的で楽観的だが、不器用で少し頑固。ほんの若干マゾ",
     "Hobby": "ポーカー",
     "SpetialSkil": "カード透視（カードなどが配られた場所をほぼすべて把握する）",
     "Favor": "賭けゲーム",
@@ -3245,7 +3251,7 @@
     "UnmatchedNTsNames": "58(イソヤ)",
     "RelationAbouts": "確率計算のできる「58(イソヤ)」とは好きなポーカーや賭けゲームを一切持ち込めずにいる",
     "NumerospecAbout": "失敗する恐れ/可能性を中和する\nこれにより自分の行動に自信を持たせることもある",
-    "Summary": "",
+    "Summary": "新しい試みに怖気づくことなく、常に挑戦的に行動しているチャレンジャー。\nいつも楽観的で自信に溢れている気質は、周囲にも好評価を賜っている。\nただそのせいか、コアフォルダ形態でも無理やり動けると頑固に信じている様子。\n運動機能が優れず身体動作が不器用ではあるが、ほぼ全てのカード位置を記憶する“カード透視”を得意とするため賭けポーカーでは比類の強さを誇っている。",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "S", "EffectText": "絶大" },
@@ -3268,7 +3274,7 @@
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
     },
-    "InStory": "コアフォルダ形態などについては、身動きの取れない状況を挙って嫌う姉の「14(トヨ)」とは対照的に 身動きの取れない姿になってもできることを最大限に活かそうとしている（しかし不器用なので結局は身動きが取れていない）",
+    "InStory": "コアフォルダ形態などについては身動きの取れない状況を挙って嫌う姉の「14(トヨ)」とは対称的に、身動きの取れない姿になってもできることを最大限にやろうとしている（しかし不器用なので結局は身動きが取れない）",
     "Relation": {
       "Related": [
         {
