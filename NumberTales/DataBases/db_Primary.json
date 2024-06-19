@@ -2253,6 +2253,7 @@
   },
   {
     "Num": 26,
+    "Released": "nowCreating",
     "Name": "ニロク",
     "Name_EN": "Twinsix",
     "FormalName": "ナンバーテールズ2+6号機甲\nナンバーテールズ26番機",
@@ -2266,7 +2267,27 @@
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "愛情に対する感性が優れている\n優しくて思いやりの良い母親のような存在",
-    "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる"
+    "Hobby": "ドラマ鑑賞",
+    "SpetialSkil": "コーディネート",
+    "Favor": "愛情",
+    "Unlike": "無関心，憎悪",
+    "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる",
+    "Relation": {
+      "Commented": [
+        {
+          "Num": 17
+        },
+        {
+          "Num": 24
+        },
+        {
+          "Num": 62
+        },
+        {
+          "Num": 63
+        }
+      ]
+    }
   },
   {
     "Num": 27,
@@ -4709,6 +4730,7 @@
   },
   {
     "Num": 62,
+    "Released": "nowCreating",
     "Name": "ロジ",
     "Name_EN": "Sictwéna",
     "FormalName": "ナンバーテールズ2+6号機乙\nナンバーテールズ62番機",
@@ -4717,6 +4739,7 @@
     "AnivDay": [
       { "Day": { "DayOfMonth": 2, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
+    "TailsUnit": "キツネ(枝分かれ)型6本(上1束4本+下2束2本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "発想力が高く生産的",
