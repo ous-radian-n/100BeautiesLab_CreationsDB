@@ -31,7 +31,7 @@
     "Class_EN": "for Testing\nUni-Digits",
     "ThisMasters": "雪乙女 しいな（夜月機関 幹部/如月研究所）",
     "FirstPersonCalling": "ぼく",
-    "SecondPersonCalling": "君",
+    "SecondPersonCalling": "きみ",
     "ThirdPersonCalling": "彼/彼女/～君;[Name]",
     "ForMasterCalling": "～兄(にぃ)/～姉(ねぇ)",
     "Character": "行動意欲が突出している怖いもの知らず\n自分らしさを前向きに受け入れている",
@@ -838,7 +838,7 @@
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
     "ThisMasters": "（専属契約不可）\n扇 小春",
-    "FirstPersonCalling": "僕",
+    "FirstPersonCalling": "ボク",
     "SecondPersonCalling": "キミ",
     "ThirdPersonCalling": "彼/彼女/[Name]",
     "ForMasterCalling": "センパイ",
@@ -2238,20 +2238,70 @@
   },
   {
     "Num": 26,
+    "Released": "released",
     "Name": "ニロク",
     "Name_EN": "Twinsix",
     "FormalName": "ナンバーテールズ2+6号機甲\nナンバーテールズ26番機",
     "ModelNumber": "APHR-NT II+VI.A\nNumberTales #26",
     "CodeName": "二六",
     "GenderType": "Female",
+    "Height_cm": 153,
+    "ConseptAge": { "value": 22, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "G",
     "TailsUnit": "キツネ(枝分かれ)型6本(上2束2本+下1束4本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
-    "Character": "愛情に対する感性が優れている\n優しくて思いやりの良い母親のような存在",
-    "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる"
+    "FirstPersonCalling": "わたし",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name], ~さん\n~さま",
+    "ForMasterCalling": "ご主人さま",
+    "Character": "愛情に対する感性が優れている\n優しくて思いやりの良い姉のような存在",
+    "Hobby": "ドラマ鑑賞",
+    "SpetialSkil": "コーディネート",
+    "Favor": "愛情，マタニティに対する配慮",
+    "Unlike": "無関心，憎悪，マタハラ",
+    "RelationAbouts": "「16(ソロク)」を甘やかそうとしている\n「62(ロジ)」のおめかし用にコーディネートをよくしている\n「63(ムツミ)」とはママ友(ママ属性友達)らしいが、「26(ニロク)」自身は「63(ムツミ)」と比較意識があるようで…？",
+    "wellmatchedNTsNames": "16(ソロク),62(ロジ),63(ムツミ)?",
+    "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる",
+    "Summary": "女子力の高く温厚で思いやりの強い個体。\n優しさや愛情に対する理解がかなり深く、ファッションセンスも秀でている。\nしかしながらママ友(=ママ属性友達)である個体同士のコミュニティでは、自分に足りない優しさを追求するあまり「63(ムツミ)」相手を筆頭に少し比較意識がある。\n女子力に乏しい妹個体の「62(ロジ)」を着せ替え人形にしたり、秘かに「16(ソロク)」の甘え待ちをしたりと、稀に行き過ぎた女子本能が見える一面も。",
+    "Relation": {
+      "Related": [
+        {
+          "Num": 16,
+          "Comments": "甘えたいときはいつでもおいで♡"
+        },
+        {
+          "Num": 62,
+          "Comments": "おしゃれなら任せて♡"
+        },
+        {
+          "Num": 63,
+          "Comments": "わたしも負けてられないな……"
+        }
+      ],
+      "Commented": [
+        {
+          "Num": 17,
+          "Comments": "いつも勤勉で頑張ってるね"
+        },
+        {
+          "Num": 20,
+          "Comments": "いつも優しくて尊敬できる"
+        },
+        {
+          "Num": 24,
+          "Comments": "どこかつまらなさそう"
+        },
+        {
+          "Num": 53,
+          "Comments": "お調子者でなんだかかわいい"
+        }
+      ]
+    }
   },
   {
     "Num": 27,
@@ -4065,6 +4115,7 @@
     ],
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "Character": "単純で調子に乗りやすい",
     "NumerospecAbout": "転機を連続して招く\nこの効果は対象が積極的に受ければ受けるほど持続する",
     "Relation": {
       "Commented": [
@@ -4687,38 +4738,68 @@
   },
   {
     "Num": 62,
+    "Released": "released",
     "Name": "ロジ",
     "Name_EN": "Sictwéna",
     "FormalName": "ナンバーテールズ2+6号機乙\nナンバーテールズ62番機",
     "ModelNumber": "APHR-NT II+VI.B\nNumberTales #62",
     "CodeName": "六二",
+    "GenderType": "Female",
+    "Height_cm": 153,
+    "ConseptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 2, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": 43,
+    "BustSize": "F",
+    "TailsUnit": "キツネ(枝分かれ)型6本(上1束4本+下2束2本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
-    "Character": "発想力が高く生産的",
-    "Hobby": "モノづくり",
+    "FirstPersonCalling": "あたし",
+    "SecondPersonCalling": "あんた, あなた",
+    "ThirdPersonCalling": "[Name], ~先輩",
+    "ForMasterCalling": "ご主人先輩",
+    "Character": "発想力が高く生産的\n女々しい一面も",
+    "Hobby": "工芸品づくり",
     "SpetialSkil": "バリアフリー化",
-    "Favor": "女性をモチーフにしたもの",
+    "Favor": "女性をモチーフにしたもの\n女性向けファッション",
     "Unlike": "実用性の全くない魔改造",
-    "RelationAbouts": "「8(ワカツ)」とものづくりの縁がある",
+    "RelationAbouts": "「8(ワカツ)」や「85(ハッコ)」とものづくり関連で縁があるが…\n大切なイベントに着る衣装は「26(ニロク)」に頼りがち",
     "NumerospecAbout": "発想を形にさせる\nこの効果は男性的よりも女性的な作用をもたらす",
+    "Summary": "発想力の高く生産的でクリエイティブな個体。\n中でも女性に焦点を当てた意匠やデザインに取分け興味関心を示している。\nしかしながら機械技術的なものや知的要素には抵抗があるらしく、モノづくり関連で縁ができ（てしまっ）た「8(ワカツ)」に振り回されている。\n工芸品に執着するあまり他個体との交流や対人および女子力で難があり、勝負服のコーディネートなどを「26(ニロク)」に任せっきりな一面も。",
+    "wellmatchedNTsNames": "26(ニロク),85(ハッコ)?",
+    "UnmatchedNTsNames": "8(ワカツ)?",
     "Relation": {
       "Related": [
         {
-          "Num": 8
+          "Num": 8,
+          "Comments": "もう勘弁してくださいよ…"
+        },
+        {
+          "Num": 26,
+          "Comments": "女子力が高い自慢の姉貴！"
+        },
+        {
+          "Num": 85,
+          "Comments": "あたしの自信作を鑑定して欲しい！"
         }
       ],
       "Commented": [
         {
-          "Num": 26
+          "Num": 35,
+          "Comments": "すごい人なのはわかる"
         },
         {
-          "Num": 68
+          "Num": 68,
+          "Comments": "あたしの作品は捨ててないよね…？"
         },
         {
-          "Num": 85
+          "Num": 71,
+          "Comments": "すごすぎて、話聞くと頭が痛くなる…"
+        },
+        {
+          "Num": 81,
+          "Comments": "収益化とか難しいこと言われても…！"
         }
       ]
     }
