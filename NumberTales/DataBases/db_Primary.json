@@ -2254,6 +2254,9 @@
   {
     "Num": 26,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image26"
+    },
     "Name": "ニロク",
     "Name_EN": "Twinsix",
     "FormalName": "ナンバーテールズ2+6号機甲\nナンバーテールズ26番機",
@@ -4761,6 +4764,9 @@
   {
     "Num": 62,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image62"
+    },
     "Name": "ロジ",
     "Name_EN": "Sictwéna",
     "FormalName": "ナンバーテールズ2+6号機乙\nナンバーテールズ62番機",
