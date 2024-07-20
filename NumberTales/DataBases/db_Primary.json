@@ -2286,6 +2286,24 @@
     "wellmatchedNTsNames": "16(ソロク),62(ロジ),63(ムツミ)?",
     "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる",
     "Summary": "女子力の高く温厚で思いやりの強い個体。\n優しさや愛情に対する理解がかなり深く、ファッションセンスも秀でている。\nしかしながらママ友(=ママ属性友達)である個体同士のコミュニティでは、自分に足りない優しさを追求するあまり「63(ムツミ)」相手を筆頭に少し比較意識がある。\n女子力に乏しい妹個体の「62(ロジ)」を着せ替え人形にしたり、秘かに「16(ソロク)」の甘え待ちをしたりと、稀に行き過ぎた女子本能が見える一面も。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "S", "EffectText": "絶大" },
+        "Manetize": { "Rank": "C", "EffectText": "希薄" },
+        "Working": { "Rank": "C", "EffectText": "希薄" },
+        "Luck": { "Rank": "B", "EffectText": "普通" },
+        "Communication": { "Rank": "A", "EffectText": "期待" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "D" },
+      "Actuation": { "Rank": "A" }
+    },
     "Relation": {
       "Related": [
         {
@@ -2927,7 +2945,7 @@
     "ConseptAge": 14,
     "Weight_kg": 36,
     "BustSize": "A",
-    "TailsUnit": "キツネ(枝分かれ)型 26本(上2束3本+下1束2本)",
+    "TailsUnit": "キツネ(枝分かれ)型 5本(上2束3本+下1束2本)",
     "FirstPersonCalling": "私(わたし)",
     "SecondPersonCalling": "あなた",
     "ThirdPersonCalling": "[Name]",
@@ -4832,6 +4850,24 @@
     "Summary": "発想力の高く生産的でクリエイティブな個体。\n中でも女性に焦点を当てた意匠やデザインに取分け興味関心を示している。\nしかしながら機械技術的なものや知的要素には抵抗があるらしく、モノづくり関連で縁ができ（てしまっ）た「8(ワカツ)」に振り回されている。\n工芸品に執着するあまり他個体との交流や対人および女子力で難があり、勝負服のコーディネートなどを「26(ニロク)」に任せっきりな一面も。",
     "wellmatchedNTsNames": "26(ニロク),85(ハッコ)?",
     "UnmatchedNTsNames": "8(ワカツ)?",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "C", "EffectText": "希薄" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "C" }
+    },
     "Relation": {
       "Related": [
         {
