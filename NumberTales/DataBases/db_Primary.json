@@ -2908,8 +2908,9 @@
   },
   {
     "Num": 35,
-    "Name": "サトコ",
-    "Name_EN": "Thirfivan",
+    "Released": "nowCreating",
+    "Name": "サトコ\nミコ",
+    "Name_EN": "Thirfivan\nMíko",
     "FormalName": "ナンバーテールズ3+5号機甲\nナンバーテールズ35番機",
     "ModelNumber": "APHR-NT III+V.A\nNumberTales #35",
     "CodeName": "三五",
@@ -2921,6 +2922,40 @@
     "Class_EN": "Dual Sum-8s",
     "Character": "感性が高い才能肌",
     "NumerospecAbout": "物事や進捗を発展させる",
+    "GenderType": "Neutral",
+    "Height_cm": 139,
+    "ConseptAge": 14,
+    "Weight_kg": 36,
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型 26本(上2束3本+下1束2本)",
+    "FirstPersonCalling": "私(わたし)",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name]",
+    "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
+    "Hobby": "掃除・整理整頓",
+    "SpetialSkil": "お祓い",
+    "Favor": "きつねうどん",
+    "Unlike": "",
+    "Summary": "",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "S", "EffectText": "絶大" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "S" }
+    },
+    "InStory": "名前のゲン担ぎで巫女のバイトを始めた結果、得意分野である庭園掃除や儀式の丁寧さが功を成し 現在副業にまで発展している（「ミコ」という通称もこのため）",
     "Relation": {
       "Commented": [
         {
