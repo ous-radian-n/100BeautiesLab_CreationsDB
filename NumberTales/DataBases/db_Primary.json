@@ -2926,7 +2926,10 @@
   },
   {
     "Num": 35,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image35"
+    },
     "Name": "サトコ\nミコ",
     "Name_EN": "Thirfivan\nMíko",
     "FormalName": "ナンバーテールズ3+5号機甲\nナンバーテールズ35番機",
@@ -2938,7 +2941,7 @@
     ],
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
-    "Character": "感性が高い才能肌",
+    "Character": "感性が高い才能肌\n几帳面な一面も",
     "NumerospecAbout": "物事や進捗を発展させる",
     "GenderType": "Neutral",
     "Height_cm": 139,
@@ -2950,11 +2953,11 @@
     "SecondPersonCalling": "あなた",
     "ThirdPersonCalling": "[Name]",
     "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
-    "Hobby": "掃除・整理整頓",
+    "Hobby": "企画",
     "SpetialSkil": "お祓い",
-    "Favor": "きつねうどん",
-    "Unlike": "",
-    "Summary": "",
+    "Favor": "掃除・整理整頓",
+    "Unlike": "危険予知を疎かにしている環境",
+    "Summary": "感覚的な才能に恵まれており、主人たちの物事の進展に大きく貢献している。\n加えて整理整頓や清掃を得意とする几帳面さも相まって、個人だけでなく企業との主従契約でも今後実績が期待されている。\nちなみに副業で巫女活動も展開しており、その清掃能力から庭園を保全したり、動作が繊細なお祓いの儀式にも定評がある。\nこのことに対し本人は曰く、「番号の語呂で軽率に勧められただけで、本業にするつもりは全くない」とのことだが、本業と同程度に実績があるのは言うまでもない。",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "B", "EffectText": "普通" },
@@ -2977,22 +2980,36 @@
     "Relation": {
       "Commented": [
         {
-          "Num": 3
+          "Num": 3,
+          "Comments": "優秀で見習いたい"
         },
         {
-          "Num": 5
+          "Num": 5,
+          "Comments": "危なっかしい"
         },
         {
-          "Num": 8
+          "Num": 8,
+          "Comments": "工場から案件でももらえそう"
         },
         {
-          "Num": 44
+          "Num": 32,
+          "Comments": "副業のことで絡まないでよ…"
         },
         {
-          "Num": 53
+          "Num": 44,
+          "Comments": "懸命なフリした狂犬"
         },
         {
-          "Num": 98
+          "Num": 53,
+          "Comments": "ちょっとは気を付けてよ…"
+        },
+        {
+          "Num": 75,
+          "Comments": "真面目でいい子"
+        },
+        {
+          "Num": 98,
+          "Comments": "何かに焦っていそうまであるけど"
         }
       ]
     }
