@@ -31,7 +31,7 @@
     "Class_EN": "for Testing\nUni-Digits",
     "ThisMasters": "雪乙女 しいな（夜月機関 幹部/如月研究所）",
     "FirstPersonCalling": "ぼく",
-    "SecondPersonCalling": "君",
+    "SecondPersonCalling": "きみ",
     "ThirdPersonCalling": "彼/彼女/～君;[Name]",
     "ForMasterCalling": "～兄(にぃ)/～姉(ねぇ)",
     "Character": "行動意欲が突出している怖いもの知らず\n自分らしさを前向きに受け入れている",
@@ -582,7 +582,7 @@
     "SpetialSkil": "習字",
     "Favor": "ハースストーン",
     "Unlike": "非常識",
-    "WellmatchedNTsNames": "9(チカ)",
+    "WellmatchedNTsNames": "9(チカ)\n70(ナナト)",
     "UnmatchedNTsNames": "5(イズ)",
     "RelationAbouts": "「5(イズ)」に対し対抗意識がある\n「70(ナナト)」とは就学仲間",
     "NumerospecAbout": "修行や瞑想をする\nこれによる効果は主人にも少し分け与えられる",
@@ -616,6 +616,10 @@
         {
           "Num": 9,
           "Comments": "良からぬことに愛憎がないといいが…"
+        },
+        {
+          "Num": 70,
+          "Comments": "お互い見習い合える仲"
         }
       ],
       "Commented": [
@@ -626,10 +630,6 @@
         {
           "Num": 25,
           "Comments": "悪くない意味で恐ろしい感性がある"
-        },
-        {
-          "Num": 70,
-          "Comments": "お互い見習い合える仲"
         },
         {
           "Num": 88,
@@ -847,7 +847,7 @@
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
     "ThisMasters": "（専属契約不可）\n扇 小春",
-    "FirstPersonCalling": "僕",
+    "FirstPersonCalling": "ボク",
     "SecondPersonCalling": "キミ",
     "ThirdPersonCalling": "彼/彼女/[Name]",
     "ForMasterCalling": "センパイ",
@@ -2253,20 +2253,91 @@
   },
   {
     "Num": 26,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image26"
+    },
     "Name": "ニロク",
     "Name_EN": "Twinsix",
     "FormalName": "ナンバーテールズ2+6号機甲\nナンバーテールズ26番機",
     "ModelNumber": "APHR-NT II+VI.A\nNumberTales #26",
     "CodeName": "二六",
     "GenderType": "Female",
+    "Height_cm": 153,
+    "ConseptAge": { "value": 22, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "G",
     "TailsUnit": "キツネ(枝分かれ)型6本(上2束2本+下1束4本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
-    "Character": "愛情に対する感性が優れている\n優しくて思いやりの良い母親のような存在",
-    "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる"
+    "FirstPersonCalling": "わたし",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name], ~さん\n~さま",
+    "ForMasterCalling": "ご主人さま",
+    "Character": "愛情に対する感性が優れている\n優しくて思いやりの良い姉のような存在",
+    "Hobby": "ドラマ鑑賞",
+    "SpetialSkil": "コーディネート",
+    "Favor": "愛情，マタニティに対する配慮",
+    "Unlike": "無関心，憎悪，マタハラ",
+    "RelationAbouts": "「16(ソロク)」を甘やかそうとしている\n「62(ロジ)」のおめかし用にコーディネートをよくしている\n「63(ムツミ)」とはママ友(ママ属性友達)らしいが、「26(ニロク)」自身は「63(ムツミ)」と比較意識があるようで…？",
+    "wellmatchedNTsNames": "16(ソロク),62(ロジ),63(ムツミ)?",
+    "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる",
+    "Summary": "女子力の高く温厚で思いやりの強い個体。\n優しさや愛情に対する理解がかなり深く、ファッションセンスも秀でている。\nしかしながらママ友(=ママ属性友達)である個体同士のコミュニティでは、自分に足りない優しさを追求するあまり「63(ムツミ)」相手を筆頭に少し比較意識がある。\n女子力に乏しい妹個体の「62(ロジ)」を着せ替え人形にしたり、秘かに「16(ソロク)」の甘え待ちをしたりと、稀に行き過ぎた女子本能が見える一面も。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "S", "EffectText": "絶大" },
+        "Manetize": { "Rank": "C", "EffectText": "希薄" },
+        "Working": { "Rank": "C", "EffectText": "希薄" },
+        "Luck": { "Rank": "B", "EffectText": "普通" },
+        "Communication": { "Rank": "A", "EffectText": "期待" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "D" },
+      "Actuation": { "Rank": "A" }
+    },
+    "Relation": {
+      "Related": [
+        {
+          "Num": 16,
+          "Comments": "甘えたいときはいつでもおいで♡"
+        },
+        {
+          "Num": 62,
+          "Comments": "おしゃれなら任せて♡"
+        },
+        {
+          "Num": 63,
+          "Comments": "わたしも負けてられないな……"
+        }
+      ],
+      "Commented": [
+        {
+          "Num": 17,
+          "Comments": "いつも勤勉で頑張ってるね"
+        },
+        {
+          "Num": 20,
+          "Comments": "いつも優しくて尊敬できる"
+        },
+        {
+          "Num": 24,
+          "Comments": "どこかつまらなさそう"
+        },
+        {
+          "Num": 53,
+          "Comments": "お調子者でなんだかかわいい"
+        }
+      ]
+    }
   },
   {
     "Num": 27,
@@ -2855,8 +2926,12 @@
   },
   {
     "Num": 35,
-    "Name": "サトコ",
-    "Name_EN": "Thirfivan",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image35"
+    },
+    "Name": "サトコ\nミコ",
+    "Name_EN": "Thirfivan\nMíko",
     "FormalName": "ナンバーテールズ3+5号機甲\nナンバーテールズ35番機",
     "ModelNumber": "APHR-NT III+V.A\nNumberTales #35",
     "CodeName": "三五",
@@ -2866,27 +2941,75 @@
     ],
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
-    "Character": "感性が高い才能肌",
+    "Character": "感性が高い才能肌\n几帳面な一面も",
     "NumerospecAbout": "物事や進捗を発展させる",
+    "GenderType": "Neutral",
+    "Height_cm": 139,
+    "ConseptAge": 14,
+    "Weight_kg": 36,
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型 5本(上2束3本+下1束2本)",
+    "FirstPersonCalling": "私(わたし)",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name]",
+    "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
+    "Hobby": "企画",
+    "SpetialSkil": "お祓い",
+    "Favor": "掃除・整理整頓",
+    "Unlike": "危険予知を疎かにしている環境",
+    "Summary": "感覚的な才能に恵まれており、主人たちの物事の進展に大きく貢献している。\n加えて整理整頓や清掃を得意とする几帳面さも相まって、個人だけでなく企業との主従契約でも今後実績が期待されている。\nちなみに副業で巫女活動も展開しており、その清掃能力から庭園を保全したり、動作が繊細なお祓いの儀式にも定評がある。\nこのことに対し本人は曰く、「番号の語呂で軽率に勧められただけで、本業にするつもりは全くない」とのことだが、本業と同程度に実績があるのは言うまでもない。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "S", "EffectText": "絶大" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "S" }
+    },
+    "InStory": "名前のゲン担ぎで巫女のバイトを始めた結果、得意分野である庭園掃除や儀式の丁寧さが功を成し 現在副業にまで発展している（「ミコ」という通称もこのため）",
     "Relation": {
       "Commented": [
         {
-          "Num": 3
+          "Num": 3,
+          "Comments": "優秀で見習いたい"
         },
         {
-          "Num": 5
+          "Num": 5,
+          "Comments": "危なっかしい"
         },
         {
-          "Num": 8
+          "Num": 8,
+          "Comments": "工場から案件でももらえそう"
         },
         {
-          "Num": 44
+          "Num": 32,
+          "Comments": "副業のことで絡まないでよ…"
         },
         {
-          "Num": 53
+          "Num": 44,
+          "Comments": "懸命なフリした狂犬"
         },
         {
-          "Num": 98
+          "Num": 53,
+          "Comments": "ちょっとは気を付けてよ…"
+        },
+        {
+          "Num": 75,
+          "Comments": "真面目でいい子"
+        },
+        {
+          "Num": 98,
+          "Comments": "何かに焦っていそうまであるけど"
         }
       ]
     }
@@ -3235,7 +3358,10 @@
   },
   {
     "Num": 41,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image41"
+    },
     "Name": "ヨソイチ",
     "Name_EN": "Forone",
     "FormalName": "ナンバーテールズ1+4号機乙\nナンバーテールズ41番機",
@@ -3243,10 +3369,13 @@
     "CodeName": "四一",
     "SPCodeName": "四十一",
     "GenderType": "Neutral",
+    "Height_cm": 157,
+    "ConseptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
-    "BustSize": "A",
+    "Weight_kg": 41,
+    "BustSize": "AA",
     "TailsUnit": "キツネ(枝分かれ)型4本(上1束3本+下2束1本)",
     "Class": "デュアルファイブズ",
     "Class_EN": "Dual Sum-5s",
@@ -3254,7 +3383,7 @@
     "SecondPersonCalling": "君(,あんた)",
     "ThirdPersonCalling": "*いつ;*れ;[Name]",
     "ForMasterCalling": "主人",
-    "Character": "挑戦的で楽観的、不器用でほんの若干マゾ",
+    "Character": "挑戦的で楽観的だが、不器用で少し頑固。ほんの若干マゾ",
     "Hobby": "ポーカー",
     "SpetialSkil": "カード透視（カードなどが配られた場所をほぼすべて把握する）",
     "Favor": "賭けゲーム",
@@ -3262,7 +3391,7 @@
     "UnmatchedNTsNames": "58(イソヤ)",
     "RelationAbouts": "確率計算のできる「58(イソヤ)」とは好きなポーカーや賭けゲームを一切持ち込めずにいる",
     "NumerospecAbout": "失敗する恐れ/可能性を中和する\nこれにより自分の行動に自信を持たせることもある",
-    "Summary": "",
+    "Summary": "新しい試みに怖気づくことなく、常に挑戦的に行動しているチャレンジャー。\nいつも楽観的で自信に溢れている気質は、周囲にも好評価を賜っている。\nただそのせいか、コアフォルダ形態でも無理やり動けると頑固に信じている様子。\n運動機能が優れず身体動作が不器用ではあるが、ほぼ全てのカード位置を記憶する“カード透視”を得意とするため賭けポーカーでは比類の強さを誇っている。",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "S", "EffectText": "絶大" },
@@ -3285,7 +3414,7 @@
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
     },
-    "InStory": "コアフォルダ形態などについては、身動きの取れない状況を挙って嫌う姉の「14(トヨ)」とは対照的に 身動きの取れない姿になってもできることを最大限に活かそうとしている（しかし不器用なので結局は身動きが取れていない）",
+    "InStory": "コアフォルダ形態などについては身動きの取れない状況を挙って嫌う姉の「14(トヨ)」とは対称的に、身動きの取れない姿になってもできることを最大限にやろうとしている（しかし不器用なので結局は身動きが取れない）",
     "Relation": {
       "Related": [
         {
@@ -4080,6 +4209,7 @@
     ],
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "Character": "単純で調子に乗りやすい",
     "NumerospecAbout": "転機を連続して招く\nこの効果は対象が積極的に受ければ受けるほど持続する",
     "Relation": {
       "Commented": [
@@ -4703,38 +4833,89 @@
   },
   {
     "Num": 62,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image62"
+    },
     "Name": "ロジ",
     "Name_EN": "Sictwéna",
     "FormalName": "ナンバーテールズ2+6号機乙\nナンバーテールズ62番機",
     "ModelNumber": "APHR-NT II+VI.B\nNumberTales #62",
     "CodeName": "六二",
+    "GenderType": "Female",
+    "Height_cm": 153,
+    "ConseptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 2, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": 43,
+    "BustSize": "F",
+    "TailsUnit": "キツネ(枝分かれ)型6本(上1束4本+下2束2本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
-    "Character": "発想力が高く生産的",
-    "Hobby": "モノづくり",
+    "FirstPersonCalling": "あたし",
+    "SecondPersonCalling": "あんた, あなた",
+    "ThirdPersonCalling": "[Name], ~先輩",
+    "ForMasterCalling": "ご主人先輩",
+    "Character": "発想力が高く生産的\n女々しい一面も",
+    "Hobby": "工芸品づくり",
     "SpetialSkil": "バリアフリー化",
-    "Favor": "女性をモチーフにしたもの",
+    "Favor": "女性をモチーフにしたもの\n女性向けファッション",
     "Unlike": "実用性の全くない魔改造",
-    "RelationAbouts": "「8(ワカツ)」とものづくりの縁がある",
+    "RelationAbouts": "「8(ワカツ)」や「85(ハッコ)」とものづくり関連で縁があるが…\n大切なイベントに着る衣装は「26(ニロク)」に頼りがち",
     "NumerospecAbout": "発想を形にさせる\nこの効果は男性的よりも女性的な作用をもたらす",
+    "Summary": "発想力の高く生産的でクリエイティブな個体。\n中でも女性に焦点を当てた意匠やデザインに取分け興味関心を示している。\nしかしながら機械技術的なものや知的要素には抵抗があるらしく、モノづくり関連で縁ができ（てしまっ）た「8(ワカツ)」に振り回されている。\n工芸品に執着するあまり他個体との交流や対人および女子力で難があり、勝負服のコーディネートなどを「26(ニロク)」に任せっきりな一面も。",
+    "wellmatchedNTsNames": "26(ニロク),85(ハッコ)?",
+    "UnmatchedNTsNames": "8(ワカツ)?",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "C", "EffectText": "希薄" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "C" }
+    },
     "Relation": {
       "Related": [
         {
-          "Num": 8
+          "Num": 8,
+          "Comments": "もう勘弁してくださいよ…"
+        },
+        {
+          "Num": 26,
+          "Comments": "女子力が高い自慢の姉貴！"
+        },
+        {
+          "Num": 85,
+          "Comments": "あたしの自信作を鑑定して欲しい！"
         }
       ],
       "Commented": [
         {
-          "Num": 26
+          "Num": 35,
+          "Comments": "すごい人なのはわかる"
         },
         {
-          "Num": 68
+          "Num": 68,
+          "Comments": "あたしの作品は捨ててないよね…？"
         },
         {
-          "Num": 85
+          "Num": 71,
+          "Comments": "すごすぎて、話聞くと頭が痛くなる…"
+        },
+        {
+          "Num": 81,
+          "Comments": "収益化とか難しいこと言われても…！"
         }
       ]
     }
