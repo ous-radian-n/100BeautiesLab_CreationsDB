@@ -1873,7 +1873,64 @@
     "SpetialSkil": "初見でRPG1作を\n21時間以内にクリアできる",
     "Favor": "感謝されること",
     "Unlike": "邪な思考",
-    "NumerospecAbout": "心を清らかにする"
+    "WellmatchedNTsNames": "28(ニハチ)?",
+    "UnmatchedNTsNames": "12(トウジ)?",
+    "RelationAbouts": "「28(ニハチ)」の“加護”を暴走させている？\n姉「12(トウジ)」とはすれ違い気味だが…",
+    "NumerospecAbout": "心を清らかにする",
+    "Summary": "",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "S", "EffectText": "絶大" },
+        "Manetize": { "Rank": "D", "EffectText": "効果無" },
+        "Working": { "Rank": "A", "EffectText": "期待可能" },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "A", "EffectText": "期待可能" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "B" }
+    },
+    "Backgrounds": "初の複合型個体である姉「12(トウジ)」の調整個体",
+    "Relation": {
+      "Related": [
+        {
+          "Num": 12,
+          "Comments": "隠し事持たない方が良いのか悪いのか…"
+        },
+        {
+          "Num": 28,
+          "Comments": "わわわ!! もうこれ以上はいらないって!!"
+        }
+      ],
+      "Commented": [
+        {
+          "Num": 3,
+          "Comments": "敵にしたら相手にならなさそう"
+        },
+        {
+          "Num": 11,
+          "Comments": "とにかく半端なく凄い存在"
+        },
+        {
+          "Num": 20,
+          "Comments": "いつか気負い過ぎで倒れそうだなぁ…"
+        },
+        {
+          "Num": 57,
+          "Comments": "楽観的なとこは見習うべき"
+        },
+        {
+          "Num": 84,
+          "Comments": "変なところで理屈っぽい"
+        }
+      ]
+    }
   },
   {
     "Num": 22,
@@ -2283,7 +2340,7 @@
     "Favor": "愛情，マタニティに対する配慮",
     "Unlike": "無関心，憎悪，マタハラ",
     "RelationAbouts": "「16(ソロク)」を甘やかそうとしている\n「62(ロジ)」のおめかし用にコーディネートをよくしている\n「63(ムツミ)」とはママ友(ママ属性友達)らしいが、「26(ニロク)」自身は「63(ムツミ)」と比較意識があるようで…？",
-    "wellmatchedNTsNames": "16(ソロク),62(ロジ),63(ムツミ)?",
+    "WellmatchedNTsNames": "16(ソロク),62(ロジ),63(ムツミ)?",
     "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる",
     "Summary": "女子力の高く温厚で思いやりの強い個体。\n優しさや愛情に対する理解がかなり深く、ファッションセンスも秀でている。\nしかしながらママ友(=ママ属性友達)である個体同士のコミュニティでは、自分に足りない優しさを追求するあまり「63(ムツミ)」相手を筆頭に少し比較意識がある。\n女子力に乏しい妹個体の「62(ロジ)」を着せ替え人形にしたり、秘かに「16(ソロク)」の甘え待ちをしたりと、稀に行き過ぎた女子本能が見える一面も。",
     "NumerospecStats": {
@@ -4865,7 +4922,7 @@
     "RelationAbouts": "「8(ワカツ)」や「85(ハッコ)」とものづくり関連で縁があるが…\n大切なイベントに着る衣装は「26(ニロク)」に頼りがち",
     "NumerospecAbout": "発想を形にさせる\nこの効果は男性的よりも女性的な作用をもたらす",
     "Summary": "発想力の高く生産的でクリエイティブな個体。\n中でも女性に焦点を当てた意匠やデザインに取分け興味関心を示している。\nしかしながら機械技術的なものや知的要素には抵抗があるらしく、モノづくり関連で縁ができ（てしまっ）た「8(ワカツ)」に振り回されている。\n工芸品に執着するあまり他個体との交流や対人および女子力で難があり、勝負服のコーディネートなどを「26(ニロク)」に任せっきりな一面も。",
-    "wellmatchedNTsNames": "26(ニロク),85(ハッコ)?",
+    "WellmatchedNTsNames": "26(ニロク),85(ハッコ)?",
     "UnmatchedNTsNames": "8(ワカツ)?",
     "NumerospecStats": {
       "EffectStats": {
@@ -6360,6 +6417,7 @@
     ],
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
+    "NumerospecAbout": "計画性に比例した結果を呼び寄せる",
     "Relation": {
       "Commented": [
         {
