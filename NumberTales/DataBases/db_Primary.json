@@ -2239,6 +2239,9 @@
   {
     "Num": 26,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image26"
+    },
     "Name": "ニロク",
     "Name_EN": "Twinsix",
     "FormalName": "ナンバーテールズ2+6号機甲\nナンバーテールズ26番機",
@@ -2268,6 +2271,24 @@
     "wellmatchedNTsNames": "16(ソロク),62(ロジ),63(ムツミ)?",
     "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる",
     "Summary": "女子力の高く温厚で思いやりの強い個体。\n優しさや愛情に対する理解がかなり深く、ファッションセンスも秀でている。\nしかしながらママ友(=ママ属性友達)である個体同士のコミュニティでは、自分に足りない優しさを追求するあまり「63(ムツミ)」相手を筆頭に少し比較意識がある。\n女子力に乏しい妹個体の「62(ロジ)」を着せ替え人形にしたり、秘かに「16(ソロク)」の甘え待ちをしたりと、稀に行き過ぎた女子本能が見える一面も。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "S", "EffectText": "絶大" },
+        "Manetize": { "Rank": "C", "EffectText": "希薄" },
+        "Working": { "Rank": "C", "EffectText": "希薄" },
+        "Luck": { "Rank": "B", "EffectText": "普通" },
+        "Communication": { "Rank": "A", "EffectText": "期待" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "D" },
+      "Actuation": { "Rank": "A" }
+    },
     "Relation": {
       "Related": [
         {
@@ -2889,8 +2910,12 @@
   },
   {
     "Num": 35,
-    "Name": "サトコ",
-    "Name_EN": "Thirfivan",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image35"
+    },
+    "Name": "サトコ\nミコ",
+    "Name_EN": "Thirfivan\nMíko",
     "FormalName": "ナンバーテールズ3+5号機甲\nナンバーテールズ35番機",
     "ModelNumber": "APHR-NT III+V.A\nNumberTales #35",
     "CodeName": "三五",
@@ -2900,27 +2925,75 @@
     ],
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
-    "Character": "感性が高い才能肌",
+    "Character": "感性が高い才能肌\n几帳面な一面も",
     "NumerospecAbout": "物事や進捗を発展させる",
+    "GenderType": "Neutral",
+    "Height_cm": 139,
+    "ConseptAge": 14,
+    "Weight_kg": 36,
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型 5本(上2束3本+下1束2本)",
+    "FirstPersonCalling": "私(わたし)",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name]",
+    "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
+    "Hobby": "企画",
+    "SpetialSkil": "お祓い",
+    "Favor": "掃除・整理整頓",
+    "Unlike": "危険予知を疎かにしている環境",
+    "Summary": "感覚的な才能に恵まれており、主人たちの物事の進展に大きく貢献している。\n加えて整理整頓や清掃を得意とする几帳面さも相まって、個人だけでなく企業との主従契約でも今後実績が期待されている。\nちなみに副業で巫女活動も展開しており、その清掃能力から庭園を保全したり、動作が繊細なお祓いの儀式にも定評がある。\nこのことに対し本人は曰く、「番号の語呂で軽率に勧められただけで、本業にするつもりは全くない」とのことだが、本業と同程度に実績があるのは言うまでもない。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "S", "EffectText": "絶大" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "C" },
+      "Actuation": { "Rank": "S" }
+    },
+    "InStory": "名前のゲン担ぎで巫女のバイトを始めた結果、得意分野である庭園掃除や儀式の丁寧さが功を成し 現在副業にまで発展している（「ミコ」という通称もこのため）",
     "Relation": {
       "Commented": [
         {
-          "Num": 3
+          "Num": 3,
+          "Comments": "優秀で見習いたい"
         },
         {
-          "Num": 5
+          "Num": 5,
+          "Comments": "危なっかしい"
         },
         {
-          "Num": 8
+          "Num": 8,
+          "Comments": "工場から案件でももらえそう"
         },
         {
-          "Num": 44
+          "Num": 32,
+          "Comments": "副業のことで絡まないでよ…"
         },
         {
-          "Num": 53
+          "Num": 44,
+          "Comments": "懸命なフリした狂犬"
         },
         {
-          "Num": 98
+          "Num": 53,
+          "Comments": "ちょっとは気を付けてよ…"
+        },
+        {
+          "Num": 75,
+          "Comments": "真面目でいい子"
+        },
+        {
+          "Num": 98,
+          "Comments": "何かに焦っていそうまであるけど"
         }
       ]
     }
@@ -4739,6 +4812,9 @@
   {
     "Num": 62,
     "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image62"
+    },
     "Name": "ロジ",
     "Name_EN": "Sictwéna",
     "FormalName": "ナンバーテールズ2+6号機乙\nナンバーテールズ62番機",
@@ -4769,6 +4845,24 @@
     "Summary": "発想力の高く生産的でクリエイティブな個体。\n中でも女性に焦点を当てた意匠やデザインに取分け興味関心を示している。\nしかしながら機械技術的なものや知的要素には抵抗があるらしく、モノづくり関連で縁ができ（てしまっ）た「8(ワカツ)」に振り回されている。\n工芸品に執着するあまり他個体との交流や対人および女子力で難があり、勝負服のコーディネートなどを「26(ニロク)」に任せっきりな一面も。",
     "wellmatchedNTsNames": "26(ニロク),85(ハッコ)?",
     "UnmatchedNTsNames": "8(ワカツ)?",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "C", "EffectText": "希薄" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "C" }
+    },
     "Relation": {
       "Related": [
         {
