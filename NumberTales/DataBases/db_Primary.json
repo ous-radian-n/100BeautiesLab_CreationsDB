@@ -1866,6 +1866,7 @@
     "ModelNumber": "APHR-NT I+II.R\nNumberTales #21",
     "CodeName": "二一",
     "GenderType": "Neutral",
+    "Height_cm": 148,
     "AnivDay": [
       { "Day": { "DayOfMonth": 21, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
