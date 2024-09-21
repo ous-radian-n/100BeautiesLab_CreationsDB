@@ -1856,7 +1856,10 @@
   },
   {
     "Num": 21,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image21"
+    },
     "Name": "ハツヒ",
     "Name_EN": "Twinone",
     "FormalName": "ナンバーテールズ1+2号機改\nナンバーテールズ21番機",
@@ -1877,7 +1880,7 @@
     "UnmatchedNTsNames": "12(トウジ)?",
     "RelationAbouts": "「28(ニハチ)」の“加護”を暴走させている？\n姉「12(トウジ)」とはすれ違い気味だが…",
     "NumerospecAbout": "心を清らかにする",
-    "Summary": "",
+    "Summary": "2種類の数字を持つ複合型で最初の個体である「12(トウジ)」の設計が調整された個体。\n無邪気さとポテンシャルの高さが好評のナンバーテールズで、特に人助けに積極的なこともあり周囲から信頼されている。\nただその一方で 他人への粘着など邪な思考に対し強い抵抗があったり、純粋さに反応する「28(ニハチ)」の“加護”を暴走させたりと自身の気質が裏目に出てしまうことも。",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "S", "EffectText": "絶大" },
