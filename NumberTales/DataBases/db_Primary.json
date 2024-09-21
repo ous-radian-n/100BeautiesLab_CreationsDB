@@ -1870,6 +1870,7 @@
     "AnivDay": [
       { "Day": { "DayOfMonth": 21, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": 39,
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
     "FirstPersonCalling": "僕",
