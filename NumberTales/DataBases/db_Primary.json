@@ -417,7 +417,7 @@
         "Communication": { "Rank": { "HideText": "判定不能" } }
       },
       "SpetialPattern": ["Ptn.C(状況変化効果)", "Ptn.Ms(自己転化効果)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "Z" },
@@ -773,7 +773,7 @@
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
       "SpetialPattern": ["Ptn.Rc(救済効果)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "C" },
@@ -1296,7 +1296,7 @@
     },
     "Name": "トウゴ",
     "Name_EN": "Fifteeld",
-    "FormalName": "ナンバーテールズ1+5号機甲\nナンバーテールズ15番機",
+    "FormalName": "ナンバーテールズ1+5号機\nナンバーテールズ15番機",
     "ModelNumber": "APHR-NT I+V\nNumberTales #15",
     "CodeName": "一五",
     "SPCodeName": "十五\n(一半十)",
@@ -1720,7 +1720,7 @@
         "Communication": { "Rank": "D", "EffectText": "効果無" }
       },
       "SpetialPattern": ["Ptn.St(状況比例作用)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "非公開" } },
@@ -2634,7 +2634,10 @@
   },
   {
     "Num": 30,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image30"
+    },
     "Name": "ミツト",
     "Name_EN": "Thirtens",
     "FormalName": "ナンバーテールズ改良型3号機\nナンバーテールズ30番機",
@@ -2649,23 +2652,67 @@
     ],
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
-    "FirstPersonCalling": "[Name]",
+    "FirstPersonCalling": "[Name]\n私(わたし)",
+    "SecondPersonCalling": "あなた",
     "ThirdPersonCalling": "～ちゃん",
+    "ForMasterCalling": "ご主人",
     "Character": "幸福感あふれる気質\n創造力にあふれている\n少しオマセで背伸びしているような風格",
     "Hobby": "手芸、クラフト",
     "SpetialSkil": "ゲーム開発",
-    "Favor": "コアフォルダ形態の人形",
+    "Favor": "コアフォルダ形態\nぬいぐるみ",
     "Unlike": "血",
-    "Summary": "",
     "NumerospecAbout": "幸運を味方にする\nこの効果はイメージを具現化し運勢的なものに関与する",
+    "Summary": "幸福感と創造力に溢れるナンバーテールズのオマセなムードメーカ。\nお人好しで少し背伸びをしたような様子は、周囲から愛着を持たれている。\n手芸やクラフトなどが得意で、妹の様な存在である「33(ミサ)」と一緒にぬいぐるみ製作をしている一面がよく見られる。\nコアフォルダ形態に強い愛着があり、ナンバーテールズの契約特典で贈呈されるコアフォルダ縫い(1/2スケール)の製作を進んで担っているらしい。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "A", "EffectText": "期待" },
+        "Manetize": { "Rank": "D", "EffectText": "効果無" },
+        "Working": { "Rank": "B", "EffectText": "普通" },
+        "Luck": { "Rank": { "HideText": "条件による" } },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B" }
+    },
     "Backgrounds": "ネーム個体の設計を応用した、初の改良型個体",
     "Relation": {
-      "Commented": [
+      "Related": [
         {
-          "Num": 33
+          "Num": 33,
+          "Comments": "可愛い妹のような存在"
         },
         {
-          "Num": 39
+          "Num": 36,
+          "Comments": "えへへ…いつもありがとう♡"
+        }
+      ],
+      "Commented": [
+        {
+          "Num": 3,
+          "Comments": "お兄ちゃんのような存在"
+        },
+        {
+          "Num": 12,
+          "Comments": "真面目さと素直さが裏目にでちゃいそう…"
+        },
+        {
+          "Num": 39,
+          "Comments": "ちょっと怖いけど、いい人だと思う"
+        },
+        {
+          "Num": 63,
+          "Comments": "すごく優しくて落ち着く"
+        },
+        {
+          "Num": 93,
+          "Comments": "無理しないでね…？"
         }
       ]
     }
@@ -3128,7 +3175,7 @@
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
       "SpetialPattern": ["Ptn.X(転化・転送効果)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "C" },
@@ -3776,7 +3823,7 @@
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
       "SpetialPattern": ["Ptn.Ec(士気比例作用)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
@@ -4072,7 +4119,7 @@
         "Communication": { "Rank": "D", "EffectText": "効果無" }
       },
       "SpetialPattern": ["Ptn.St(状況比例作用)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "A" },
@@ -4128,7 +4175,7 @@
     ],
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
-    "InStory": "特異個体「1+5型」の安定最適化版",
+    "Character": "どんな状況でも落ち着いている",
     "Relation": {
       "Commented": [
         {
@@ -4153,7 +4200,7 @@
     "Num": 51,
     "Name": "イソイチ",
     "Name_EN": "Fivone",
-    "FormalName": "ナンバーテールズ1+5号機乙\nナンバーテールズ51番機",
+    "FormalName": "ナンバーテールズ1+5号機改\nナンバーテールズ51番機",
     "ModelNumber": "APHR-NT I+V.R\nNumberTales #51",
     "CodeName": "五一",
     "SPCodeName": "五十一",
@@ -4164,7 +4211,8 @@
     "Class": "デュアルシックスズ",
     "Class_EN": "Dual Sum-6s",
     "Character": "発想力が高くアイディアマンとしても名高い",
-    "NumerospecAbout": "閃きをもたらす"
+    "NumerospecAbout": "閃きをもたらす",
+    "InStory": "特異個体「1+5型」の安定最適化版"
   },
   {
     "Num": 52,
@@ -4267,7 +4315,10 @@
   },
   {
     "Num": 53,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image53"
+    },
     "Name": "イツゾウ",
     "Name_EN": "Fifthren",
     "FormalName": "ナンバーテールズ3+5号機乙\nナンバーテールズ53番機",
@@ -4278,7 +4329,6 @@
     ],
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
-    "Character": "単純で調子に乗りやすい",
     "GenderType": "Neutral",
     "Height_cm": 139,
     "ConseptAge": 14,
@@ -4289,16 +4339,62 @@
     "SecondPersonCalling": "あなた",
     "ThirdPersonCalling": "[Name]",
     "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
-    "Hobby": "",
-    "SpetialSkil": "",
-    "Favor": "",
-    "Unlike": "",
-    "Summary": "",
+    "Character": "単純で調子に乗りやすい",
+    "Hobby": "ボードゲーム",
+    "SpetialSkil": "ゴルフ",
+    "Favor": "アクション映画",
+    "Unlike": "挑発\n姉[兄]に避けられていること",
+    "Summary": "転機を恵むと一部の層から定評であり、主人たちの活動へ貢献している。\n活動実績は然程大きくはないが、中でも彼(女)の招いたチャンスを最大限に受容できるような主人とは相性が良い傾向にある。\nただ性格で単純さが目立っており、煽(おだ)てられるとすぐに調子に乗ってしまうところなどがある。\nそのため、彼(女)の良し悪しについては主人だけでなく他のナンバーテールズからも意見が分かれている様子。",
     "NumerospecAbout": "転機を連続して招く\nこの効果は対象が積極的に受ければ受けるほど持続する",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "C", "EffectText": "希薄" },
+        "Manetize": { "Rank": { "HideText": "検証中" } },
+        "Working": { "Rank": "B", "EffectText": "普通" },
+        "Luck": { "Rank": { "HideText": "条件による" } },
+        "Communication": { "Rank": "C", "EffectText": "希薄" }
+      },
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "A" }
+    },
     "Relation": {
+      "Related": [
+        {
+          "Num": 35,
+          "Comments": "なんで僕のこと避けようとするのさ！"
+        }
+      ],
       "Commented": [
         {
-          "Num": 80
+          "Num": 23,
+          "Comments": "トラブルメーカっぽいところある"
+        },
+        {
+          "Num": 30,
+          "Comments": "見てて和む"
+        },
+        {
+          "Num": 50,
+          "Comments": "肝が据わりすぎて逆に怖い"
+        },
+        {
+          "Num": 57,
+          "Comments": "勝負強そう"
+        },
+        {
+          "Num": 80,
+          "Comments": "良く解んないことを平然とやってのけてる"
+        },
+        {
+          "Num": 89,
+          "Comments": "あれでも僕のずっと下の代なんだよね…？"
         }
       ]
     }
@@ -4868,7 +4964,7 @@
         "Communication": { "Rank": "D", "EffectText": "効果無" }
       },
       "SpetialPattern": ["Ptn.S(感性向上効果)", "Ptn.Z[Sp](催眠/洗脳作用注意)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無(奇行有)" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害(奇行有)" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "S" },
@@ -7094,7 +7190,7 @@
         "Communication": { "Rank": "E", "EffectText": "逆効果(仕様)" }
       },
       "SpetialPattern": ["Ptn.Ms(自己転化効果)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無(奇行有)" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害(奇行有)" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "A" },
