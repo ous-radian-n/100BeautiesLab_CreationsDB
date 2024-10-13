@@ -2634,6 +2634,7 @@
   },
   {
     "Num": 30,
+    "Released": "nowCreating",
     "Name": "ミツト",
     "Name_EN": "Thirtens",
     "FormalName": "ナンバーテールズ改良型3号機\nナンバーテールズ30番機",
@@ -2655,6 +2656,7 @@
     "SpetialSkil": "ゲーム開発",
     "Favor": "コアフォルダ形態の人形",
     "Unlike": "血",
+    "Summary": "",
     "NumerospecAbout": "幸運を味方にする\nこの効果はイメージを具現化し運勢的なものに関与する",
     "Backgrounds": "ネーム個体の設計を応用した、初の改良型個体",
     "Relation": {
@@ -4277,6 +4279,21 @@
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "単純で調子に乗りやすい",
+    "GenderType": "Neutral",
+    "Height_cm": 139,
+    "ConseptAge": 14,
+    "Weight_kg": 36,
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型 5本(上1束2本+下2束3本)",
+    "FirstPersonCalling": "僕",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name]",
+    "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
+    "Hobby": "",
+    "SpetialSkil": "",
+    "Favor": "",
+    "Unlike": "",
+    "Summary": "",
     "NumerospecAbout": "転機を連続して招く\nこの効果は対象が積極的に受ければ受けるほど持続する",
     "Relation": {
       "Commented": [
