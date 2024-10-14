@@ -2646,6 +2646,7 @@
     "SPCodeName": "三十",
     "GenderType": "Female",
     "Height_cm": 157,
+    "Weight_kg": { "about": { "HideText": "非公開" } },
     "ConseptAge": { "value": 17, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 29, "Month": "Feb" }, "DayAbout": "開発記念" }
