@@ -2645,11 +2645,13 @@
     "CodeName": "三〇",
     "SPCodeName": "三十",
     "GenderType": "Female",
-    "Height_cm": 160,
-    "ConseptAge": 19,
+    "Height_cm": 157,
+    "ConseptAge": { "value": 17, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 29, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
+    "BustSize": "F",
+    "TailsUnit": "キツネ型3本",
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
     "FirstPersonCalling": "[Name]\n私(わたし)",
