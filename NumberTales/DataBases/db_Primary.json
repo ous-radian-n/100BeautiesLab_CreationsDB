@@ -2497,50 +2497,72 @@
   },
   {
     "Num": 28,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image28"
+    },
     "Name": "ニハチ",
     "Name_EN": "Tweighan",
     "FormalName": "ナンバーテールズ2+8号機甲\nナンバーテールズ28番機",
     "ModelNumber": "APHR-NT II+VIII.A\nNumberTales #28",
     "CodeName": "二八",
+    "GenderType": "Female",
+    "Height_cm": 164,
+    "ConseptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
     "TailsUnit": "キツネ(枝分かれ)型8本(上2束2本+下1束6本)",
     "Class": "デュアルキャリーズ",
     "Class_EN": "Dual Carries",
+    "FirstPersonCalling": "私(わたし)",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name]",
+    "ForMasterCalling": "ご主人",
     "Character": "物欲が激しく少しやさぐれているが、根は優しい\n完全数が好きな痛い数学徒でもある",
+    "Hobby": "アクセサリー収集",
+    "SpetialSkil": "素因数分解",
+    "Favor": "数学、「28」という数字",
+    "Unlike": "凶数の存在、見捨てられること",
     "WellmatchedNTsNames": "31(ミツイ)\n78(ナナハ)",
     "RelationAbouts": "「31(ミツイ)」と数学徒としてつながりがある\n「78(ナナハ)」と競っている一面が…？",
     "NumerospecAbout": "物乞いを叶える\nただしこの効果は対象者の純粋さに左右される",
-    "Summary": "主人の物乞いや物欲を叶える才能があるとされていたが、最近はあまりその潜在能力の真価を発揮できず実績が下火傾向にある個体。\nちなみに、完全数である自分の数字「28」に強い信念がある数学徒のような一面もある。",
+    "Summary": "主人の物乞いや物欲を叶える才能があるとされていたが、最近はあまりその潜在能力の真価を発揮できず実績が下火傾向にある個体。\nその所為か 最近は人間や自分に自信が持てず性格もすれてきてしまった。\n物欲が強くアクセサリー系の収集にハマっているが、耳に付けているイヤリングはとても気に入っているので別の装飾に替えたことがない。\nちなみに、完全数である自分の数字「28」に強い信念がある数学徒のような一面もある。",
     "Relation": {
       "Related": [
         {
-          "Num": 31
+          "Num": 31,
+          "Comments": "またお話聴かせて？"
         },
         {
-          "Num": 78
+          "Num": 78,
+          "Comments": "(荒く消されていて読めない)"
         }
       ],
       "Commented": [
         {
-          "Num": 1
+          "Num": 1,
+          "Comments": "裏方は似合ってないと思うけど"
         },
         {
-          "Num": 10
+          "Num": 10,
+          "Comments": "余計なお世話よ……"
         },
         {
-          "Num": 24
+          "Num": 24,
+          "Comments": "素直じゃない（他人のことはいえないけど）"
         },
         {
-          "Num": 46
+          "Num": 46,
+          "Comments": "うるさい"
         },
         {
-          "Num": 73
+          "Num": 73,
+          "Comments": "世間知らずすぎ"
         },
         {
-          "Num": 86
+          "Num": 86,
+          "Comments": "似た者同士と思ってたのに……"
         }
       ]
     }
