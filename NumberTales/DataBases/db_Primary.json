@@ -6231,7 +6231,10 @@
   },
   {
     "Num": 76,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image76"
+    },
     "Name": "シチロク",
     "Name_EN": "Sevsix",
     "FormalName": "ナンバーテールズ6+7号機乙\nナンバーテールズ76番機",
@@ -6243,6 +6246,7 @@
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "BustSize": "G",
     "Class": "デュアルフォーズ",
     "Class_EN": "Dual Sum-4s",
     "FirstPersonCalling": "わたし",
@@ -6251,11 +6255,11 @@
     "ForMasterCalling": "主人先生",
     "Character": "知識欲旺盛、自分に自信がなく不要に理知的",
     "Hobby": "読書",
-    "SpetialSkil": "六法全書を暗記している",
+    "SpetialSkil": "複数文献の斜め読み",
     "Favor": "専門書、同人誌",
     "Unlike": "非合理的・非常識なこと",
     "NumerospecAbout": "知識や教養から自らに磨きを掛ける",
-    "Summary": "",
+    "Summary": "何かと理論的・知的に物事を考えがちで、読書を何よりも好む事から図書委員の様に周りから風刺されている。\n眼鏡付きのヘッドセットを外した時の容姿に反して本人は性格や内面に自信がないため、敢えてそのような風格を出しているという噂も。\nとはいえ知識を自分の美意識に適応する感性はとりわけ高いので、特定少数の主人層ではそこそこ高い好感度を安定して得ているらしい。",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "C", "EffectText": "希薄" },
@@ -6279,7 +6283,28 @@
     "Relation": {
       "Commented": [
         {
-          "Num": 56
+          "Num": 4,
+          "Comments": "真面目でいい人"
+        },
+        {
+          "Num": 31,
+          "Comments": "わからなくもないですが…"
+        },
+        {
+          "Num": 40,
+          "Comments": "意味わからないです…"
+        },
+        {
+          "Num": 56,
+          "Comments": "ちゃんと勉強しようね"
+        },
+        {
+          "Num": 71,
+          "Comments": "羨ましい、というよりズルいです"
+        },
+        {
+          "Num": 94,
+          "Comments": "絵本や漫画でも寝ちゃうんですね…"
         }
       ]
     }
