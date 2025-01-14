@@ -2360,6 +2360,7 @@
         "Luck": { "Rank": "B", "EffectText": "普通" },
         "Communication": { "Rank": "A", "EffectText": "期待" }
       },
+      "SpetialPattern": ["Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
@@ -2528,6 +2529,28 @@
     "RelationAbouts": "「31(ミツイ)」と数学徒としてつながりがある\n「78(ナナハ)」と競っている一面が…？",
     "NumerospecAbout": "物乞いを叶える\nただしこの効果は対象者の純粋さに左右される",
     "Summary": "主人の物乞いや物欲を叶える才能があるとされていたが、最近はあまりその潜在能力の真価を発揮できず実績が下火傾向にある個体。\nその所為か 最近は人間や自分に自信が持てず性格もすれてきてしまった。\n物欲が強くアクセサリー系の収集にハマっているが、耳に付けているイヤリングはとても気に入っているので別の装飾に替えたことがない。\nちなみに、完全数である自分の数字「28」に強い信念がある数学徒のような一面もある。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": { "HideText": "条件による" } },
+        "Working": { "Rank": "B", "EffectText": "普通" },
+        "Luck": { "Rank": { "HideText": "条件による" } },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": [
+        "Ptn.Lr-(条件付き幸福実現効果)",
+        "Ptn.Z[Fr](欲求不満傾向)"
+      ],
+      "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B+" }
+    },
     "Relation": {
       "Related": [
         {
@@ -2613,6 +2636,7 @@
         "Luck": { "Rank": "A", "EffectText": "期待" },
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
+      "SpetialPattern": ["Ptn.Hm(心理安定化効果)", "Ptn.Rc(救済効果)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
@@ -2698,6 +2722,7 @@
         "Luck": { "Rank": { "HideText": "条件による" } },
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
+      "SpetialPattern": ["Ptn.Lr-(条件付き幸福実現効果)"],
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
@@ -3084,7 +3109,6 @@
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "感性が高い才能肌\n几帳面な一面も",
-    "NumerospecAbout": "物事や進捗を発展させる",
     "GenderType": "Neutral",
     "Height_cm": 139,
     "ConseptAge": 14,
@@ -3099,6 +3123,7 @@
     "SpetialSkil": "お祓い",
     "Favor": "掃除・整理整頓",
     "Unlike": "危険予知を疎かにしている環境",
+    "NumerospecAbout": "物事や進捗を発展させる",
     "Summary": "感覚的な才能に恵まれており、主人たちの物事の進展に大きく貢献している。\n加えて整理整頓や清掃を得意とする几帳面さも相まって、個人だけでなく企業との主従契約でも今後実績が期待されている。\nちなみに副業で巫女活動も展開しており、その清掃能力から庭園を保全したり、動作が繊細なお祓いの儀式にも定評がある。\nこのことに対し本人は曰く、「番号の語呂で軽率に勧められただけで、本業にするつもりは全くない」とのことだが、本業と同程度に実績があるのは言うまでもない。",
     "NumerospecStats": {
       "EffectStats": {
@@ -4381,6 +4406,7 @@
         "Luck": { "Rank": { "HideText": "条件による" } },
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
+      "SpetialPattern": ["Ptn.C(状況変化効果)", "Ptn.Ch(連鎖効果有)"],
       "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
@@ -5082,6 +5108,7 @@
         "Luck": { "Rank": "C", "EffectText": "希薄" },
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
+      "SpetialPattern": ["Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
@@ -5169,7 +5196,7 @@
         "Luck": { "Rank": "S", "EffectText": "絶大" },
         "Communication": { "Rank": "S", "EffectText": "絶大" }
       },
-      "SpetialPattern": ["Ptn.Pc(平穏増幅効果)"],
+      "SpetialPattern": ["Ptn.Pc(平穏増幅効果)", "Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
