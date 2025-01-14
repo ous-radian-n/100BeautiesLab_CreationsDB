@@ -6204,18 +6204,50 @@
   },
   {
     "Num": 76,
+    "Released": "nowCreating",
     "Name": "シチロク",
     "Name_EN": "Sevsix",
     "FormalName": "ナンバーテールズ6+7号機乙\nナンバーテールズ76番機",
     "ModelNumber": "APHR-NT VI-VII.B\nNumberTales #76",
     "CodeName": "七六",
+    "GenderType": "Female",
+    "Height_cm": 144,
+    "ConseptAge": { "value": 14, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
     "Class": "デュアルフォーズ",
     "Class_EN": "Dual Sum-4s",
-    "Character": "知識欲旺盛で教養を重んじており、自分に磨きを掛けるため日々学びを深めている",
+    "FirstPersonCalling": "わたし",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "彼/彼女/～さん",
+    "ForMasterCalling": "主人先生",
+    "Character": "知識欲旺盛、自分に自信がなく不要に理知的",
+    "Hobby": "読書",
+    "SpetialSkil": "六法全書を暗記している",
+    "Favor": "専門書、同人誌",
+    "Unlike": "非合理的・非常識なこと",
     "NumerospecAbout": "知識や教養から自らに磨きを掛ける",
+    "Summary": "",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "C", "EffectText": "希薄" },
+        "Manetize": { "Rank": "B", "EffectText": "普通" },
+        "Working": { "Rank": "A", "EffectText": "期待" },
+        "Luck": { "Rank": "C", "EffectText": "希薄" },
+        "Communication": { "Rank": "D", "EffectText": "効果無" }
+      },
+      "SpetialPattern": ["Ptn.Kn(知性効果)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "D" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "C" }
+    },
     "InStory": "知識への執着が強い余り変人に見られている",
     "Relation": {
       "Commented": [
