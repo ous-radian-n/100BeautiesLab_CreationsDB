@@ -2983,6 +2983,7 @@
     "Favor": "可愛い手芸品",
     "Unlike": "失敗\n自分にできないこと",
     "WellmatchedNTsNames": "30(ミツト)",
+    "UnmatchedNTsNames": "44(シトシ)",
     "RelationAbouts": "「30(ミツト)」に妙な愛着が…？",
     "NumerospecAbout": "全域の知識および技能を習得できる（※ROSの機能）\nただし発動条件としてオンライン状態である必要がある",
     "Summary": "オンライン上で様々な知識と機能を自ら実装するシステムにより、99人の中でも最も万能な個体。\nその優れた性能は「全知全能」と称されるほど。\nそれを追い風に、様々なことに対して自分が「可能であること」と捉え、自信と誇りに満ち溢れている。\nしかし「不可能だったこと」への耐性が極めて弱く、そこを突かれて玩ばれることも。\n「30(ミツト)」に謎の親近感が…？",
@@ -3050,6 +3051,7 @@
   },
   {
     "Num": 34,
+    "Released": "nowCreating",
     "Name": "サトシ",
     "Name_EN": "Thirfory",
     "FormalName": "ナンバーテールズ3+4号機甲\nナンバーテールズ34番機",
@@ -3057,36 +3059,53 @@
     "CodeName": "三四",
     "SPCodeName": "三十四",
     "GenderType": "Neutral",
+    "Height_cm": 143,
+    "ConseptAge": { "value": 15, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型4本(上2束3本+下1束1本)",
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
     "FirstPersonCalling": "ワイ",
+    "SecondPersonCalling": "旦那さん/奥さん\nアンタ",
+    "ThirdPersonCalling": "[二人称];[Name];*イツ",
+    "ForMasterCalling": "旦那様（/奥様）\nご主人様（/お嬢様）",
     "Character": "少し頑固で不器用、一寸膨大にとらえがち\n小規模なことより大規模なことを好んでいる",
+    "Hobby": "怪しい交渉を持ちかける",
+    "SpetialSkil": "ギャンブルで誰が負けるかの予想",
     "Favor": "一騎当千できるアクションゲーム",
     "Unlike": "妥協",
+    "UnmatchedNTsNames": "43(シトミ)",
     "NumerospecAbout": "規模を発展させる",
     "InStory": "関西弁を真似たような口調",
     "Relation": {
       "Commented": [
         {
-          "Num": 7
+          "Num": 7,
+          "Comments": "生真面目なやっちゃなぁ"
         },
         {
-          "Num": 30
+          "Num": 30,
+          "Comments": "初々しいところも可愛え子"
         },
         {
-          "Num": 32
+          "Num": 32,
+          "Comments": "コイツには負けてられへん…!!"
         },
         {
-          "Num": 40
+          "Num": 40,
+          "Comments": "なんかずるいわアイツ…"
         },
         {
-          "Num": 43
+          "Num": 43,
+          "Comments": "（※検閲で削除されている…）"
         },
         {
-          "Num": 70
+          "Num": 70,
+          "Comments": "ようわからんけどやりおるな…"
         }
       ]
     }
@@ -3701,19 +3720,26 @@
   },
   {
     "Num": 43,
+    "Released": "nowCreating",
     "Name": "シトミ",
     "Name_EN": "Forthren",
     "FormalName": "ナンバーテールズ3+4号機乙\nナンバーテールズ43番機",
     "ModelNumber": "APHR-NT III+IV.B\nNumberTales #43",
     "CodeName": "四三",
     "SPCodeName": "四十三",
+    "GenderType": "Female",
+    "Height_cm": 134,
+    "ConseptAge": 13,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
-    "Character": "前向きでなんでも良き過程として捉える",
+    "Character": "メスガキ、前向きでなんでも良き過程として捉える",
+    "Hobby": "対戦ゲーム",
+    "SpetialSkil": "挑発",
     "NumerospecAbout": "望みを広げる",
+    "DesigningBrief": "ボーカロイド楽曲/ボイスロイド劇場「永遠にゲームで対戦したいキリタン」(GYARI)に影響されている",
     "Relation": {
       "Commented": [
         {
@@ -4102,25 +4128,52 @@
   },
   {
     "Num": 48,
+    "Released": "nowCreating",
     "Name": "シハチ",
     "Name_EN": "Foreighn",
     "FormalName": "ナンバーテールズ4+8号機甲\nナンバーテールズ48番機",
     "ModelNumber": "APHR-NT IV+VIII.A\nNumberTales #48",
     "CodeName": "四八",
+    "GenderType": "Male",
+    "Height_cm": 161,
+    "ConseptAge": 20,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "TailsUnit": "キツネ(枝分かれ)型8本(上2束4本+下1束4本)",
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
+    "FirstPersonCalling": "私(わたし)\n俺(おれ)",
+    "SecondPersonCalling": "貴方(あなた)\nお前",
+    "ThirdPersonCalling": "彼/彼女;~さん;*ちら\n[Name];*いつ;*れ",
+    "ForMasterCalling": "主様(あるじさま)",
     "Character": "根性強く諦めの悪い\n理想と現実の両方を尊重している",
+    "Hobby": "クラウドソーシングで副収入を得ること",
+    "SpetialSkil": "データ分析",
+    "Favor": "学園番長の存在",
+    "Unlike": "怠惰な人",
     "NumerospecAbout": "現実をよりよくする\nこの効果は対象が現実逃避していない時に真価を発揮する",
     "Relation": {
       "Commented": [
         {
-          "Num": 30
+          "Num": 12,
+          "Comments": "妙に幼いところがある"
         },
         {
-          "Num": 82
+          "Num": 30,
+          "Comments": "見ていてなぜか和む"
+        },
+        {
+          "Num": 34,
+          "Comments": "ちょっとは加減を知れ……"
+        },
+        {
+          "Num": 75,
+          "Comments": "知的積極性はあるから話は通じる"
+        },
+        {
+          "Num": 83
         }
       ]
     }
@@ -5842,26 +5895,46 @@
   },
   {
     "Num": 71,
+    "Released": "nowCreating",
     "Name": "ナナヒ",
     "Name_EN": "Sevone",
     "FormalName": "ナンバーテールズ1+7号機乙\nナンバーテールズ71番機",
     "ModelNumber": "APHR-NT I+VII.B\nNumberTales #71",
     "CodeName": "七一",
     "GenderType": "Male",
+    "Height_cm": 144,
+    "ConseptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": [{ "value": 40, "about": "推定" }],
+    "TailsUnit": "キツネ(枝分かれ)型7本(上1束6本+下2束1本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "FirstPersonCalling": "ぼく",
+    "SecondPersonCalling": "きみ",
+    "ThirdPersonCalling": "彼/彼女;*れ;[Name]",
+    "ForMasterCalling": "先生",
     "Character": "知的思考が豊富で努力家な好青年",
+    "Hobby": "研究",
     "SpetialSkil": "PDCAなどのフレームワーク",
     "Favor": "青春",
     "Unlike": "無知無能",
     "NumerospecAbout": "主人へ学びを1日1つ恵む",
     "Relation": {
+      "Related": [
+        { "Num": 17, "Comments": "ぼくにとって尊敬できる姉です！" },
+        { "Num": "0", "Comments": "なんだかとっても憧れます…!!" }
+      ],
       "Commented": [
         {
+          "Num": 35
+        },
+        {
           "Num": 80
+        },
+        {
+          "Num": 98
         }
       ]
     }
@@ -6247,6 +6320,7 @@
       { "Day": { "DayOfMonth": 6, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
     "BustSize": "G",
+    "TailsUnit": "キツネ(枝分かれ)型7本(上1束1本+下2束6本)",
     "Class": "デュアルフォーズ",
     "Class_EN": "Dual Sum-4s",
     "FirstPersonCalling": "わたし",
@@ -7016,6 +7090,7 @@
   },
   {
     "Num": 92,
+    "Released": "nowCreating",
     "Name": "コトジ",
     "Name_EN": "Nintwina",
     "FormalName": "ナンバーテールズ2+9号機乙\nナンバーテールズ92番機",
@@ -7028,6 +7103,16 @@
     ],
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
+    "FirstPersonCalling": "僕",
+    "SecondPersonCalling": "君\n貴方",
+    "ThirdPersonCalling": "彼/彼女/[Name]",
+    "ForMasterCalling": "兄さん/姉さん",
+    "Character": "接し方は温厚だか気質は淡泊でドライ、話が長いことがあるので聞き専に回っている",
+    "Hobby": "エンタメ番組を見ること",
+    "SpetialSkil": "感情の整理",
+    "Favor": "冬、コアフォルダが寄り添っている様子",
+    "Unlike": "姉を筆頭に怖がられていること",
+    "NumerospecAbout": "心を慰める\nただしこの効果は会話を通してのみ発動する",
     "Relation": {
       "Commented": [
         {
