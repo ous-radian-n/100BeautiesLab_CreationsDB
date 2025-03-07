@@ -2345,6 +2345,7 @@
         "Luck": { "Rank": "B", "EffectText": "普通" },
         "Communication": { "Rank": "A", "EffectText": "期待" }
       },
+      "SpetialPattern": ["Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
@@ -2482,48 +2483,94 @@
   },
   {
     "Num": 28,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image28"
+    },
     "Name": "ニハチ",
     "Name_EN": "Tweighan",
     "FormalName": "ナンバーテールズ2+8号機甲\nナンバーテールズ28番機",
     "ModelNumber": "APHR-NT II+VIII.A\nNumberTales #28",
     "CodeName": "二八",
+    "GenderType": "Female",
+    "Height_cm": 164,
+    "ConseptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
     "TailsUnit": "キツネ(枝分かれ)型8本(上2束2本+下1束6本)",
     "Class": "デュアルキャリーズ",
     "Class_EN": "Dual Carries",
-    "Character": "物欲が激しいが活動必需品には困らない体質\n完全数が好きな痛い数学徒でもある",
+    "FirstPersonCalling": "私(わたし)",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name]",
+    "ForMasterCalling": "ご主人",
+    "Character": "物欲が激しく少しやさぐれているが、根は優しい\n完全数が好きな痛い数学徒でもある",
+    "Hobby": "アクセサリー収集",
+    "SpetialSkil": "素因数分解",
+    "Favor": "数学、「28」という数字",
+    "Unlike": "凶数の存在、見捨てられること",
     "WellmatchedNTsNames": "31(ミツイ)\n78(ナナハ)",
     "RelationAbouts": "「31(ミツイ)」と数学徒としてつながりがある\n「78(ナナハ)」と競っている一面が…？",
     "NumerospecAbout": "物乞いを叶える\nただしこの効果は対象者の純粋さに左右される",
+    "Summary": "主人の物乞いや物欲を叶える才能があるとされていたが、最近はあまりその潜在能力の真価を発揮できず実績が下火傾向にある個体。\nその所為か 最近は人間や自分に自信が持てず性格もすれてきてしまった。\n物欲が強くアクセサリー系の収集にハマっているが、耳に付けているイヤリングはとても気に入っているので別の装飾に替えたことがない。\nちなみに、完全数である自分の数字「28」に強い信念がある数学徒のような一面もある。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": { "HideText": "条件による" } },
+        "Working": { "Rank": "B", "EffectText": "普通" },
+        "Luck": { "Rank": { "HideText": "条件による" } },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": [
+        "Ptn.Lr-(条件付き幸福実現効果)",
+        "Ptn.Z[Fr](欲求不満傾向)"
+      ],
+      "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B+" }
+    },
     "Relation": {
       "Related": [
         {
-          "Num": 31
+          "Num": 31,
+          "Comments": "またお話聴かせて？"
         },
         {
-          "Num": 78
+          "Num": 78,
+          "Comments": "(荒く消されていて読めない)"
         }
       ],
       "Commented": [
         {
-          "Num": 1
+          "Num": 1,
+          "Comments": "裏方は似合ってないと思うけど"
         },
         {
-          "Num": 10
+          "Num": 10,
+          "Comments": "余計なお世話よ……"
         },
         {
-          "Num": 24
+          "Num": 24,
+          "Comments": "素直じゃない（他人のことはいえないけど）"
         },
         {
-          "Num": 46
+          "Num": 46,
+          "Comments": "うるさい"
         },
         {
-          "Num": 73
+          "Num": 73,
+          "Comments": "世間知らずすぎ"
         },
         {
-          "Num": 86
+          "Num": 86,
+          "Comments": "似た者同士と思ってたのに……"
         }
       ]
     }
@@ -2574,6 +2621,7 @@
         "Luck": { "Rank": "A", "EffectText": "期待" },
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
+      "SpetialPattern": ["Ptn.Hm(心理安定化効果)", "Ptn.Rc(救済効果)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
@@ -2659,6 +2707,7 @@
         "Luck": { "Rank": { "HideText": "条件による" } },
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
+      "SpetialPattern": ["Ptn.Lr-(条件付き幸福実現効果)"],
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
@@ -2919,6 +2968,7 @@
     "Favor": "可愛い手芸品",
     "Unlike": "失敗\n自分にできないこと",
     "WellmatchedNTsNames": "30(ミツト)",
+    "UnmatchedNTsNames": "44(シトシ)",
     "RelationAbouts": "「30(ミツト)」に妙な愛着が…？",
     "NumerospecAbout": "全域の知識および技能を習得できる（※ROSの機能）\nただし発動条件としてオンライン状態である必要がある",
     "Summary": "オンライン上で様々な知識と機能を自ら実装するシステムにより、99人の中でも最も万能な個体。\nその優れた性能は「全知全能」と称されるほど。\nそれを追い風に、様々なことに対して自分が「可能であること」と捉え、自信と誇りに満ち溢れている。\nしかし「不可能だったこと」への耐性が極めて弱く、そこを突かれて玩ばれることも。\n「30(ミツト)」に謎の親近感が…？",
@@ -2985,6 +3035,7 @@
   },
   {
     "Num": 34,
+    "Released": "nowCreating",
     "Name": "サトシ",
     "Name_EN": "Thirfory",
     "FormalName": "ナンバーテールズ3+4号機甲\nナンバーテールズ34番機",
@@ -2992,36 +3043,53 @@
     "CodeName": "三四",
     "SPCodeName": "三十四",
     "GenderType": "Neutral",
+    "Height_cm": 143,
+    "ConseptAge": { "value": 15, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型4本(上2束3本+下1束1本)",
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
     "FirstPersonCalling": "ワイ",
+    "SecondPersonCalling": "旦那さん/奥さん\nアンタ",
+    "ThirdPersonCalling": "[二人称];[Name];*イツ",
+    "ForMasterCalling": "旦那様（/奥様）\nご主人様（/お嬢様）",
     "Character": "少し頑固で不器用、一寸膨大にとらえがち\n小規模なことより大規模なことを好んでいる",
+    "Hobby": "怪しい交渉を持ちかける",
+    "SpetialSkil": "ギャンブルで誰が負けるかの予想",
     "Favor": "一騎当千できるアクションゲーム",
     "Unlike": "妥協",
+    "UnmatchedNTsNames": "43(シトミ)",
     "NumerospecAbout": "規模を発展させる",
     "InStory": "関西弁を真似たような口調",
     "Relation": {
       "Commented": [
         {
-          "Num": 7
+          "Num": 7,
+          "Comments": "生真面目なやっちゃなぁ"
         },
         {
-          "Num": 30
+          "Num": 30,
+          "Comments": "初々しいところも可愛え子"
         },
         {
-          "Num": 32
+          "Num": 32,
+          "Comments": "コイツには負けてられへん…!!"
         },
         {
-          "Num": 40
+          "Num": 40,
+          "Comments": "なんかずるいわアイツ…"
         },
         {
-          "Num": 43
+          "Num": 43,
+          "Comments": "（※検閲で削除されている…）"
         },
         {
-          "Num": 70
+          "Num": 70,
+          "Comments": "ようわからんけどやりおるな…"
         }
       ]
     }
@@ -3044,7 +3112,6 @@
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "感性が高い才能肌\n几帳面な一面も",
-    "NumerospecAbout": "物事や進捗を発展させる",
     "GenderType": "Neutral",
     "Height_cm": 139,
     "ConseptAge": 14,
@@ -3059,6 +3126,7 @@
     "SpetialSkil": "お祓い",
     "Favor": "掃除・整理整頓",
     "Unlike": "危険予知を疎かにしている環境",
+    "NumerospecAbout": "物事や進捗を発展させる",
     "Summary": "感覚的な才能に恵まれており、主人たちの物事の進展に大きく貢献している。\n加えて整理整頓や清掃を得意とする几帳面さも相まって、個人だけでなく企業との主従契約でも今後実績が期待されている。\nちなみに副業で巫女活動も展開しており、その清掃能力から庭園を保全したり、動作が繊細なお祓いの儀式にも定評がある。\nこのことに対し本人は曰く、「番号の語呂で軽率に勧められただけで、本業にするつもりは全くない」とのことだが、本業と同程度に実績があるのは言うまでもない。",
     "NumerospecStats": {
       "EffectStats": {
@@ -3634,18 +3702,24 @@
   },
   {
     "Num": 43,
+    "Released": "nowCreating",
     "Name": "シトミ",
     "Name_EN": "Forthren",
     "FormalName": "ナンバーテールズ3+4号機乙\nナンバーテールズ43番機",
     "ModelNumber": "APHR-NT III+IV.B\nNumberTales #43",
     "CodeName": "四三",
     "SPCodeName": "四十三",
+    "GenderType": "Female",
+    "Height_cm": 134,
+    "ConseptAge": 13,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
-    "Character": "前向きでなんでも良き過程として捉える",
+    "Character": "メスガキ、前向きでなんでも良き過程として捉える",
+    "Hobby": "対戦ゲーム",
+    "SpetialSkil": "挑発",
     "NumerospecAbout": "望みを広げる",
     "Relation": {
       "Commented": [
@@ -3791,13 +3865,13 @@
     "SecondPersonCalling": "おぬし",
     "ThirdPersonCalling": "[Name]",
     "ForMasterCalling": "主人",
-    "Character": "善意の味方に付きたい系の「雷神/風神」\n人為的なトラブルメーカーであるのが引け目",
+    "Character": "善意の味方に付きたい系、良心がよく威勢のいい",
     "Hobby": "縁側でくつろぐ",
     "SpetialSkil": "和太鼓",
     "Favor": "伝統工芸品",
     "Unlike": "風評被害",
     "NumerospecAbout": "主人を奮い立たせる\n特に主人が行動を起こすべき立場にあると発動する",
-    "Summary": "稲妻を落とす雷神のように相手に衝動を与え、風を送る風神のように相手を奮い立たせる“加護”を持ち、変化を起こすことを必要としている多くの主人を後押ししている。\nもちろんそれはおおむね攻撃的な目的ではないので、彼(女)が従事した主人が愛と勇気をもった「正義の味方」に成長すると定評。\nただ最も人間関係のトラブルに遭った1人とも…",
+    "Summary": "稲妻を落とす雷神のように相手に衝動を与え、風を送る風神のように相手を奮い立たせる“加護”を持ち、変化を起こすことを必要としている多くの主人を後押ししている。\nもちろんそれはおおむね攻撃的な目的ではないので、彼(女)が従事した主人が愛と勇気をもった「正義の味方」に成長すると定評。\nただ、本人は平穏とした生き方を好んでおり…",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "A", "EffectText": "特化" },
@@ -4033,25 +4107,52 @@
   },
   {
     "Num": 48,
+    "Released": "nowCreating",
     "Name": "シハチ",
     "Name_EN": "Foreighn",
     "FormalName": "ナンバーテールズ4+8号機甲\nナンバーテールズ48番機",
     "ModelNumber": "APHR-NT IV+VIII.A\nNumberTales #48",
     "CodeName": "四八",
+    "GenderType": "Male",
+    "Height_cm": 161,
+    "ConseptAge": 20,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "TailsUnit": "キツネ(枝分かれ)型8本(上2束4本+下1束4本)",
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
+    "FirstPersonCalling": "私(わたし)\n俺(おれ)",
+    "SecondPersonCalling": "貴方(あなた)\nお前",
+    "ThirdPersonCalling": "彼/彼女;~さん;*ちら\n[Name];*いつ;*れ",
+    "ForMasterCalling": "主様(あるじさま)",
     "Character": "根性強く諦めの悪い\n理想と現実の両方を尊重している",
+    "Hobby": "クラウドソーシングで副収入を得ること",
+    "SpetialSkil": "データ分析",
+    "Favor": "学園番長の存在",
+    "Unlike": "怠惰な人",
     "NumerospecAbout": "現実をよりよくする\nこの効果は対象が現実逃避していない時に真価を発揮する",
     "Relation": {
       "Commented": [
         {
-          "Num": 30
+          "Num": 12,
+          "Comments": "妙に幼いところがある"
         },
         {
-          "Num": 82
+          "Num": 30,
+          "Comments": "見ていてなぜか和む"
+        },
+        {
+          "Num": 34,
+          "Comments": "ちょっとは加減を知れ……"
+        },
+        {
+          "Num": 75,
+          "Comments": "知的積極性はあるから話は通じる"
+        },
+        {
+          "Num": 83
         }
       ]
     }
@@ -4336,6 +4437,7 @@
         "Luck": { "Rank": { "HideText": "条件による" } },
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
+      "SpetialPattern": ["Ptn.C(状況変化効果)", "Ptn.Ch(連鎖効果有)"],
       "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
@@ -5036,6 +5138,7 @@
         "Luck": { "Rank": "C", "EffectText": "希薄" },
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
+      "SpetialPattern": ["Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
@@ -5123,7 +5226,7 @@
         "Luck": { "Rank": "S", "EffectText": "絶大" },
         "Communication": { "Rank": "S", "EffectText": "絶大" }
       },
-      "SpetialPattern": ["Ptn.Pc(平穏増幅効果)"],
+      "SpetialPattern": ["Ptn.Pc(平穏増幅効果)", "Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
@@ -5765,26 +5868,46 @@
   },
   {
     "Num": 71,
+    "Released": "nowCreating",
     "Name": "ナナヒ",
     "Name_EN": "Sevone",
     "FormalName": "ナンバーテールズ1+7号機乙\nナンバーテールズ71番機",
     "ModelNumber": "APHR-NT I+VII.B\nNumberTales #71",
     "CodeName": "七一",
     "GenderType": "Male",
+    "Height_cm": 144,
+    "ConseptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": [{ "value": 40, "about": "推定" }],
+    "TailsUnit": "キツネ(枝分かれ)型7本(上1束6本+下2束1本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "FirstPersonCalling": "ぼく",
+    "SecondPersonCalling": "きみ",
+    "ThirdPersonCalling": "彼/彼女;*れ;[Name]",
+    "ForMasterCalling": "先生",
     "Character": "知的思考が豊富で努力家な好青年",
+    "Hobby": "研究",
     "SpetialSkil": "PDCAなどのフレームワーク",
     "Favor": "青春",
     "Unlike": "無知無能",
     "NumerospecAbout": "主人へ学びを1日1つ恵む",
     "Relation": {
+      "Related": [
+        { "Num": 17, "Comments": "ぼくにとって尊敬できる姉です！" },
+        { "Num": "0", "Comments": "なんだかとっても憧れます…!!" }
+      ],
       "Commented": [
         {
+          "Num": 35
+        },
+        {
           "Num": 80
+        },
+        {
+          "Num": 98
         }
       ]
     }
@@ -6153,23 +6276,81 @@
   },
   {
     "Num": 76,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image76"
+    },
     "Name": "シチロク",
     "Name_EN": "Sevsix",
     "FormalName": "ナンバーテールズ6+7号機乙\nナンバーテールズ76番機",
     "ModelNumber": "APHR-NT VI-VII.B\nNumberTales #76",
     "CodeName": "七六",
+    "GenderType": "Female",
+    "Height_cm": 144,
+    "ConseptAge": { "value": 14, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "BustSize": "G",
+    "TailsUnit": "キツネ(枝分かれ)型7本(上1束1本+下2束6本)",
     "Class": "デュアルフォーズ",
     "Class_EN": "Dual Sum-4s",
-    "Character": "知識欲旺盛で教養を重んじており、自分に磨きを掛けるため日々学びを深めている",
+    "FirstPersonCalling": "わたし",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "彼/彼女/～さん",
+    "ForMasterCalling": "主人先生",
+    "Character": "知識欲旺盛、自分に自信がなく不要に理知的",
+    "Hobby": "読書",
+    "SpetialSkil": "複数文献の斜め読み",
+    "Favor": "専門書、同人誌",
+    "Unlike": "非合理的・非常識なこと",
     "NumerospecAbout": "知識や教養から自らに磨きを掛ける",
+    "Summary": "何かと理論的・知的に物事を考えがちで、読書を何よりも好む事から図書委員の様に周りから風刺されている。\n眼鏡付きのヘッドセットを外した時の容姿に反して本人は性格や内面に自信がないため、敢えてそのような風格を出しているという噂も。\nとはいえ知識を自分の美意識に適応する感性はとりわけ高いので、特定少数の主人層ではそこそこ高い好感度を安定して得ているらしい。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "C", "EffectText": "希薄" },
+        "Manetize": { "Rank": "B", "EffectText": "普通" },
+        "Working": { "Rank": "A", "EffectText": "期待" },
+        "Luck": { "Rank": "C", "EffectText": "希薄" },
+        "Communication": { "Rank": "D", "EffectText": "効果無" }
+      },
+      "SpetialPattern": ["Ptn.Kn(知性効果)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "D" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "C" }
+    },
     "InStory": "知識への執着が強い余り変人に見られている",
     "Relation": {
       "Commented": [
         {
-          "Num": 56
+          "Num": 4,
+          "Comments": "真面目でいい人"
+        },
+        {
+          "Num": 31,
+          "Comments": "わからなくもないですが…"
+        },
+        {
+          "Num": 40,
+          "Comments": "意味わからないです…"
+        },
+        {
+          "Num": 56,
+          "Comments": "ちゃんと勉強しようね"
+        },
+        {
+          "Num": 71,
+          "Comments": "羨ましい、というよりズルいです"
+        },
+        {
+          "Num": 94,
+          "Comments": "絵本や漫画でも寝ちゃうんですね…"
         }
       ]
     }
@@ -6879,6 +7060,7 @@
   },
   {
     "Num": 92,
+    "Released": "nowCreating",
     "Name": "コトジ",
     "Name_EN": "Nintwina",
     "FormalName": "ナンバーテールズ2+9号機乙\nナンバーテールズ92番機",
@@ -6891,6 +7073,16 @@
     ],
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
+    "FirstPersonCalling": "僕",
+    "SecondPersonCalling": "君\n貴方",
+    "ThirdPersonCalling": "彼/彼女/[Name]",
+    "ForMasterCalling": "兄さん/姉さん",
+    "Character": "接し方は温厚だか気質は淡泊でドライ、話が長いことがあるので聞き専に回っている",
+    "Hobby": "エンタメ番組を見ること",
+    "SpetialSkil": "感情の整理",
+    "Favor": "冬、コアフォルダが寄り添っている様子",
+    "Unlike": "姉を筆頭に怖がられていること",
+    "NumerospecAbout": "心を慰める\nただしこの効果は会話を通してのみ発動する",
     "Relation": {
       "Commented": [
         {
