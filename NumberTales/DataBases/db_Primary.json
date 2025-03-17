@@ -4128,7 +4128,7 @@
   },
   {
     "Num": 48,
-    "Released": "nowCreating",
+    "Released": "released",
     "Name": "シハチ",
     "Name_EN": "Foreighn",
     "FormalName": "ナンバーテールズ4+8号機甲\nナンバーテールズ48番機",
@@ -4154,6 +4154,26 @@
     "Favor": "学園番長の存在",
     "Unlike": "怠惰な人",
     "NumerospecAbout": "現実をよりよくする\nこの効果は対象が現実逃避していない時に真価を発揮する",
+    "Summary": "マーケティングやビジネススキルなどに精通しており、副業や事業展開を目標とする主人層から好評を受けている。\n至って紳士的で勤勉な気質だと表向きでは評されているが、本性的には喧嘩っ早く勝気の強い性格にどこか憧れを感じているらしい。\n理想を現実にするためにあの手この手を尽くそうとする頑固な一面も。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "S", "EffectText": "絶大" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "A", "EffectText": "期待" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": ["Ptn.Ec(士気比例作用)", "Ptn.Rz(実現性向上効果)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "S+" },
+      "Actuation": { "Rank": "C" }
+    },
     "Relation": {
       "Commented": [
         {
@@ -4169,11 +4189,20 @@
           "Comments": "ちょっとは加減を知れ……"
         },
         {
+          "Num": 53,
+          "Comments": "腹が立つ"
+        },
+        {
           "Num": 75,
           "Comments": "知的積極性はあるから話は通じる"
         },
         {
-          "Num": 83
+          "Num": 83,
+          "Comments": "卑怯すぎるぞ全く……"
+        },
+        {
+          "Num": 94,
+          "Comments": "それで主従契約が成り立つのか…？"
         }
       ]
     }
@@ -5925,6 +5954,29 @@
     "Unlike": "無知無能",
     "NumerospecAbout": "主人へ学びを1日1つ恵む",
     "Summary": "知的好奇心が豊富で努力家であるため、この上ない成長が期待されている。\nその好青年な気質に感化され、契約した主人から感謝状が出ることも。\nこちらは見た目に反し男性型個体であるが、初々しい学生のような愛嬌があると特定の客層から可愛がられている。\nただ、時折その幼い見た目から想像もできない実績を会得していることもあり、カリスマ起業家に標的にされているとか…",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待可能" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "A", "EffectText": "期待可能" }
+      },
+      "SpetialPattern": [
+        "Ptn.Kn(知性効果)",
+        "Ptn.Lg(思考向上効果)",
+        "Ptn.Rz-(実現性向上効果がある傾向)"
+      ],
+      "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B" }
+    },
     "Relation": {
       "Related": [
         { "Num": 17, "Comments": "ぼくにとって尊敬できる姉です！" },
@@ -6704,6 +6756,7 @@
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
     "SecondPersonCalling": "お前",
+    "NumerospecAbout": "勝機を恵む\nこの効果は報酬的な効果として作用する",
     "Relation": {
       "Commented": [
         {
