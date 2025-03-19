@@ -38,7 +38,7 @@
 			"For79thDealer": "ウタカ（※毎回逆になる）",
 			"For80thDealer": "マイ（※毎回逆になる）"
 		},
-		"ArcanamspecAbout": "火元素の力を纏う",
+		"ArcanamspecAbout": "火元素の力を纏い、すべての攻撃を躱す\nこの効果が発動中、周囲の危険度が変動する",
 		"Summary": "",
 		"ArcanumspecStats": {
 			"SpecType": {
@@ -78,10 +78,13 @@
 					}
 				}
 			},
-			"SpetialPattern": [],
+			"SpetialPattern": [
+				"Ptn.A(覚醒)",
+				"Ptn.Q(天変地異)"
+			],
 			"SafetyLevel": {
-				"Rank": "S",
-				"SafetyText": "保証可能"
+				"Rank": "B+",
+				"SafetyText": "危険度を有効活用可能"
 			},
 			"SpecLevel": {
 				"Rank": "S+"
@@ -153,7 +156,6 @@
 			"SpecType": {
 				"MaterialType": {
 					"Material": [
-						"Fire",
 						"Quart"
 					]
 				},
