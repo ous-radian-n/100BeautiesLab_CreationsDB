@@ -6386,6 +6386,7 @@
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "G",
     "TailsUnit": "キツネ(枝分かれ)型7本(上1束1本+下2束6本)",
     "Class": "デュアルフォーズ",
@@ -6468,7 +6469,7 @@
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
-    "Weight_kg": [{ "value": 39, "about": "推定" }],
+    "Weight_kg": { "value": 39, "about": "推定" },
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型 2束x7本",
     "Class": "マスターテールズ9",
@@ -6551,18 +6552,34 @@
   },
   {
     "Num": 78,
+    "Released": "nowCreating",
     "Name": "ナナハ",
     "Name_EN": "Seveights",
     "FormalName": "ナンバーテールズ7+8号機甲\nナンバーテールズ78番機",
     "ModelNumber": "APHR-NT VII+VIII.A\nNumberTales #78",
     "CodeName": "七八",
+    "GenderType": "Female",
+    "Height_cm": 157,
+    "ConseptAge": 25,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "E",
+    "TailsUnit": "キツネ(枝分かれ)型8本(上2束1本+下1束7本)",
     "Class": "デュアルシックスズ",
     "Class_EN": "Dual Sum-6s",
+    "FirstPersonCalling": "私(わたくし)",
+    "SecondPersonCalling": "あなた様",
+    "ThirdPersonCalling": "彼/彼女/~様;*ちら",
+    "ForMasterCalling": "[二人称];ご主人様",
+    "Character": "清く美しい精神の持ち主だが、何故か胡散臭がられているのが玉に瑕",
+    "Hobby": "タロットカード",
+    "SpetialSkil": "アドリブ祝辞",
+    "Favor": "トランプ、タロットカード",
+    "Unlike": "傲慢な態度",
     "ThisMasters": "錦野 舞（後の シンフォニー.ゼクズィン所属 デザインエンジニア）",
-    "NumerospecAbout": "物乞いを叶える\nただしこの効果は対象の日々の行いに影響されやすい",
+    "NumerospecAbout": "経験・報酬を反省から生む\nただしこの効果は対象の性格に影響されやすい",
     "InStory": "宗教科学者のように疑われがち",
     "Relation": {
       "Commented": [
