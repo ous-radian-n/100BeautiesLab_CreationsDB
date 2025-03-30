@@ -19,12 +19,7 @@
       "Height_cm": 161,
       "Weight_kg": 46,
       "Age": 21,
-      "BirthDay": {
-        "Day": {
-          "DayOfMonth": 1,
-          "Month": "Apr"
-        }
-      }
+      "BirthDay": { "Day": { "DayOfMonth": 1, "Month": "Apr" } }
     },
     "Character": "能天気でどこか浮いている",
     "Hobby": "面白い出来事の散策",
@@ -42,68 +37,31 @@
     "Summary": "",
     "ArcanumspecStats": {
       "SpecType": {
-        "MaterialType": {
-          "Material": ["Fire"]
-        },
+        "MaterialType": { "Material": ["Fire"] },
         "ActionType": {
           "KinematicOrStatic": "Kinematic",
           "RoleType": "Frier"
         },
-        "DualizePattern": {
-          "Pattern": "Prop.(通常)"
-        }
+        "DualizePattern": { "Pattern": "Prop." }
       },
       "EffectStats": {
-        "Physical": {
-          "Rank": "C",
-          "EffectText": "希薄"
-        },
-        "Magical": {
-          "Rank": "S",
-          "EffectText": "絶大"
-        },
-        "Healing": {
-          "Rank": "A",
-          "EffectText": "期待"
-        },
-        "Violent": {
-          "Rank": "D",
-          "EffectText": "効果無"
-        },
-        "Rewriting": {
-          "Rank": {
-            "HideText": "検証中"
-          }
-        }
+        "Physical": { "Rank": "C", "EffectText": "希薄" },
+        "Magical": { "Rank": "S", "EffectText": "絶大" },
+        "Healing": { "Rank": "A", "EffectText": "期待" },
+        "Violent": { "Rank": "D", "EffectText": "効果無" },
+        "Rewriting": { "Rank": { "HideText": "検証中" } }
       },
       "SpetialPattern": ["Ptn.A(覚醒)", "Ptn.Q(天変地異)"],
-      "SafetyLevel": {
-        "Rank": "B+",
-        "SafetyText": "危険度を有効活用可能"
-      },
-      "SpecLevel": {
-        "Rank": "S+"
-      }
+      "SafetyLevel": { "Rank": "B+", "SafetyText": "危険度を有効活用可能" },
+      "SpecLevel": { "Rank": "S+" }
     },
     "AbilityStats": {
-      "Speed": {
-        "Rank": "A"
-      },
-      "Communicating": {
-        "Rank": "B+"
-      },
-      "Reading": {
-        "Rank": "B"
-      },
-      "Precision": {
-        "Rank": "A"
-      },
-      "Technic": {
-        "Rank": "B+"
-      },
-      "Actuation": {
-        "Rank": "S"
-      }
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "S" }
     }
   },
   {
