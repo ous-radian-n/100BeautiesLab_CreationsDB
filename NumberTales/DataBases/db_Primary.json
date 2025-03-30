@@ -2449,7 +2449,7 @@
         "Luck": { "Rank": "D", "EffectText": "効果無" },
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
-      "SpetialPattern": ["Ptn.Kn(知性効果)", "Ptn.Z[Eg](過剰自我注意)"],
+      "SpetialPattern": ["Ptn.Kn(知性効果)", "Ptn.Z[Eg](過剰自我に注意)"],
       "SafetyLevel": { "Rank": "D", "SafetyText": "注意" }
     },
     "AbilityStats": {
@@ -3801,7 +3801,7 @@
       },
       "SpetialPattern": [
         "Ptn.R-(効果保証作用がある傾向)",
-        "Ptn.Z[Eg](過剰自我注意)"
+        "Ptn.Z[Eg](過剰自我に注意)"
       ],
       "SafetyLevel": { "Rank": "B", "SafetyText": "無危害(奇行有)" }
     },
@@ -6552,7 +6552,10 @@
   },
   {
     "Num": 78,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image78"
+    },
     "Name": "ナナハ",
     "Name_EN": "Seveights",
     "FormalName": "ナンバーテールズ7+8号機甲\nナンバーテールズ78番機",
@@ -6573,24 +6576,67 @@
     "SecondPersonCalling": "あなた様",
     "ThirdPersonCalling": "彼/彼女/~様;*ちら",
     "ForMasterCalling": "[二人称];ご主人様",
-    "Character": "清く美しい精神の持ち主だが、何故か胡散臭がられているのが玉に瑕",
+    "Character": "清く美しい精神の持ち主だが、ややネガティヴ気味で胡散臭がられているのが玉に瑕",
     "Hobby": "タロットカード",
     "SpetialSkil": "アドリブ祝辞",
     "Favor": "トランプ、タロットカード",
     "Unlike": "傲慢な態度",
+    "WellmatchedNTsNames": "76(シチロク)",
     "ThisMasters": "錦野 舞（後の シンフォニー.ゼクズィン所属 デザインエンジニア）",
-    "NumerospecAbout": "経験・報酬を反省から生む\nただしこの効果は対象の性格に影響されやすい",
+    "NumerospecAbout": "経験・報酬を反省から生む\nただしこの効果は対象の性格と相互に影響する",
+    "Summary": "反省からの学びを強めることに秀でているとされているナンバーテールズ。\n技術適正が極めて高く、エンジニアとして働いている主人からの支持が手厚い。\nしかしながらどこか自分に自信がなくアイテムに縋ることでしか自分を評価できないところがあり、彼女をよく知る別の個体によっては心配されたり胡散臭がられたりしている。\nとはいえ誠心誠意で自らも反省しながら精進する姿は誰よりも評価されている。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "Z", "EffectText": "極めて絶大(場合により逆効果)" },
+        "Manetize": { "Rank": "B+", "EffectText": "特殊" },
+        "Working": { "Rank": "B+", "EffectText": "特殊" },
+        "Luck": { "Rank": "E", "EffectText": "逆効果(仕様)" },
+        "Communication": { "Rank": "C", "EffectText": "希薄" }
+      },
+      "SpetialPattern": [
+        "Ptn.Lg(思考向上効果)",
+        "Ptn.Rc-(救済効果がある傾向)",
+        "Ptn.Rz-(実現性向上効果がある傾向)",
+        "Ptn.Z[Hd](効果に一定の精神的耐性が必要)"
+      ],
+      "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "S+" },
+      "Actuation": { "Rank": "B" }
+    },
     "InStory": "宗教科学者のように疑われがち",
     "Relation": {
+      "Related": [
+        {
+          "Num": 76,
+          "Comments": "何処か共感できる部分はあります"
+        }
+      ],
       "Commented": [
         {
-          "Num": 7
+          "Num": 7,
+          "Comments": "畏れ多くも、難しいことはよく解りません…"
         },
         {
-          "Num": 8
+          "Num": 8,
+          "Comments": "作業を見てると少し心が躍るような…"
         },
         {
-          "Num": 87
+          "Num": 51,
+          "Comments": "後先が心配になってしまいます…"
+        },
+        {
+          "Num": 68,
+          "Comments": "吹っ切れたお方で…いえ、すみません…"
+        },
+        {
+          "Num": 87,
+          "Comments": "姉としても今後が怖い存在です…"
         }
       ]
     }
