@@ -2434,7 +2434,7 @@
         "Luck": { "Rank": "D", "EffectText": "効果無" },
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
-      "SpetialPattern": ["Ptn.Kn(知性効果)", "Ptn.Z[Eg](過剰自我注意)"],
+      "SpetialPattern": ["Ptn.Kn(知性効果)", "Ptn.Z[Eg](過剰自我に注意)"],
       "SafetyLevel": { "Rank": "D", "SafetyText": "注意" }
     },
     "AbilityStats": {
@@ -3721,6 +3721,7 @@
     "Hobby": "対戦ゲーム",
     "SpetialSkil": "挑発",
     "NumerospecAbout": "望みを広げる",
+    "DesigningBrief": "ボーカロイド楽曲/ボイスロイド劇場「永遠にゲームで対戦したいキリタン」(GYARI)に影響されている",
     "Relation": {
       "Commented": [
         {
@@ -3782,7 +3783,7 @@
       },
       "SpetialPattern": [
         "Ptn.R-(効果保証作用がある傾向)",
-        "Ptn.Z[Eg](過剰自我注意)"
+        "Ptn.Z[Eg](過剰自我に注意)"
       ],
       "SafetyLevel": { "Rank": "B", "SafetyText": "無危害(奇行有)" }
     },
@@ -4107,7 +4108,7 @@
   },
   {
     "Num": 48,
-    "Released": "nowCreating",
+    "Released": "released",
     "Name": "シハチ",
     "Name_EN": "Foreighn",
     "FormalName": "ナンバーテールズ4+8号機甲\nナンバーテールズ48番機",
@@ -4133,6 +4134,26 @@
     "Favor": "学園番長の存在",
     "Unlike": "怠惰な人",
     "NumerospecAbout": "現実をよりよくする\nこの効果は対象が現実逃避していない時に真価を発揮する",
+    "Summary": "マーケティングやビジネススキルなどに精通しており、副業や事業展開を目標とする主人層から好評を受けている。\n至って紳士的で勤勉な気質だと表向きでは評されているが、本性的には喧嘩っ早く勝気の強い性格にどこか憧れを感じているらしい。\n理想を現実にするためにあの手この手を尽くそうとする頑固な一面も。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "S", "EffectText": "絶大" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "A", "EffectText": "期待" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": ["Ptn.Ec(士気比例作用)", "Ptn.Rz(実現性向上効果)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "S+" },
+      "Actuation": { "Rank": "C" }
+    },
     "Relation": {
       "Commented": [
         {
@@ -4148,11 +4169,20 @@
           "Comments": "ちょっとは加減を知れ……"
         },
         {
+          "Num": 53,
+          "Comments": "腹が立つ"
+        },
+        {
           "Num": 75,
           "Comments": "知的積極性はあるから話は通じる"
         },
         {
-          "Num": 83
+          "Num": 83,
+          "Comments": "卑怯すぎるぞ全く……"
+        },
+        {
+          "Num": 94,
+          "Comments": "それで主従契約が成り立つのか…？"
         }
       ]
     }
@@ -5868,7 +5898,10 @@
   },
   {
     "Num": 71,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image71"
+    },
     "Name": "ナナヒ",
     "Name_EN": "Sevone",
     "FormalName": "ナンバーテールズ1+7号機乙\nナンバーテールズ71番機",
@@ -5894,6 +5927,30 @@
     "Favor": "青春",
     "Unlike": "無知無能",
     "NumerospecAbout": "主人へ学びを1日1つ恵む",
+    "Summary": "知的好奇心が豊富で努力家であるため、この上ない成長が期待されている。\nその好青年な気質に感化され、契約した主人から感謝状が出ることも。\nこちらは見た目に反し男性型個体であるが、初々しい学生のような愛嬌があると特定の客層から可愛がられている。\nただ、時折その幼い見た目から想像もできない実績を会得していることもあり、カリスマ起業家に標的にされているとか…",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待可能" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "A", "EffectText": "期待可能" }
+      },
+      "SpetialPattern": [
+        "Ptn.Kn(知性効果)",
+        "Ptn.Lg(思考向上効果)",
+        "Ptn.Rz-(実現性向上効果がある傾向)"
+      ],
+      "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B" }
+    },
     "Relation": {
       "Related": [
         { "Num": 17, "Comments": "ぼくにとって尊敬できる姉です！" },
@@ -5904,10 +5961,24 @@
           "Num": 35
         },
         {
-          "Num": 80
+          "Num": 25,
+          "Comments": "どんなときも軽やかでかっこいい"
         },
         {
-          "Num": 98
+          "Num": 35,
+          "Comments": "仕事ができてすごく頼れます"
+        },
+        {
+          "Num": 52,
+          "Comments": "一緒にいるととても安心します"
+        },
+        {
+          "Num": 80,
+          "Comments": "妙にソワソワするんですよね…"
+        },
+        {
+          "Num": 98,
+          "Comments": "途中で投げ出すのもどうかと思うけどなぁ…"
         }
       ]
     }
@@ -6291,6 +6362,7 @@
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
     "BustSize": "G",
     "TailsUnit": "キツネ(枝分かれ)型7本(上1束1本+下2束6本)",
     "Class": "デュアルフォーズ",
@@ -6373,7 +6445,7 @@
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
-    "Weight_kg": [{ "value": 39, "about": "推定" }],
+    "Weight_kg": { "value": 39, "about": "推定" },
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型 2束x7本",
     "Class": "マスターテールズ9",
@@ -6456,29 +6528,91 @@
   },
   {
     "Num": 78,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image78"
+    },
     "Name": "ナナハ",
     "Name_EN": "Seveights",
     "FormalName": "ナンバーテールズ7+8号機甲\nナンバーテールズ78番機",
     "ModelNumber": "APHR-NT VII+VIII.A\nNumberTales #78",
     "CodeName": "七八",
+    "GenderType": "Female",
+    "Height_cm": 157,
+    "ConseptAge": 25,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "E",
+    "TailsUnit": "キツネ(枝分かれ)型8本(上2束1本+下1束7本)",
     "Class": "デュアルシックスズ",
     "Class_EN": "Dual Sum-6s",
+    "FirstPersonCalling": "私(わたくし)",
+    "SecondPersonCalling": "あなた様",
+    "ThirdPersonCalling": "彼/彼女/~様;*ちら",
+    "ForMasterCalling": "[二人称];ご主人様",
+    "Character": "清く美しい精神の持ち主だが、ややネガティヴ気味で胡散臭がられているのが玉に瑕",
+    "Hobby": "タロットカード",
+    "SpetialSkil": "アドリブ祝辞",
+    "Favor": "トランプ、タロットカード",
+    "Unlike": "傲慢な態度",
+    "WellmatchedNTsNames": "76(シチロク)",
     "ThisMasters": "錦野 舞（後の シンフォニー.ゼクズィン所属 デザインエンジニア）",
-    "NumerospecAbout": "物乞いを叶える\nただしこの効果は対象の日々の行いに影響されやすい",
+    "NumerospecAbout": "経験・報酬を反省から生む\nただしこの効果は対象の性格と相互に影響する",
+    "Summary": "反省からの学びを強めることに秀でているとされているナンバーテールズ。\n技術適正が極めて高く、エンジニアとして働いている主人からの支持が手厚い。\nしかしながらどこか自分に自信がなくアイテムに縋ることでしか自分を評価できないところがあり、彼女をよく知る別の個体によっては心配されたり胡散臭がられたりしている。\nとはいえ誠心誠意で自らも反省しながら精進する姿は誰よりも評価されている。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "Z", "EffectText": "極めて絶大(場合により逆効果)" },
+        "Manetize": { "Rank": "B+", "EffectText": "特殊" },
+        "Working": { "Rank": "B+", "EffectText": "特殊" },
+        "Luck": { "Rank": "E", "EffectText": "逆効果(仕様)" },
+        "Communication": { "Rank": "C", "EffectText": "希薄" }
+      },
+      "SpetialPattern": [
+        "Ptn.Lg(思考向上効果)",
+        "Ptn.Rc-(救済効果がある傾向)",
+        "Ptn.Rz-(実現性向上効果がある傾向)",
+        "Ptn.Z[Hd](効果に一定の精神的耐性が必要)"
+      ],
+      "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "S+" },
+      "Actuation": { "Rank": "B" }
+    },
     "InStory": "宗教科学者のように疑われがち",
     "Relation": {
+      "Related": [
+        {
+          "Num": 76,
+          "Comments": "何処か共感できる部分はあります"
+        }
+      ],
       "Commented": [
         {
-          "Num": 7
+          "Num": 7,
+          "Comments": "畏れ多くも、難しいことはよく解りません…"
         },
         {
-          "Num": 8
+          "Num": 8,
+          "Comments": "作業を見てると少し心が躍るような…"
         },
         {
-          "Num": 87
+          "Num": 51,
+          "Comments": "後先が心配になってしまいます…"
+        },
+        {
+          "Num": 68,
+          "Comments": "吹っ切れたお方で…いえ、すみません…"
+        },
+        {
+          "Num": 87,
+          "Comments": "姉としても今後が怖い存在です…"
         }
       ]
     }
@@ -6660,6 +6794,7 @@
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
     "SecondPersonCalling": "お前",
+    "NumerospecAbout": "勝機を恵む\nこの効果は報酬的な効果として作用する",
     "Relation": {
       "Commented": [
         {
