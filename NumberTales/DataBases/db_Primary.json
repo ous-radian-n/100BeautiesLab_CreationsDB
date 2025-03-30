@@ -63,8 +63,7 @@
     },
     "InStory": "主人に従事するだけでなく、試作機として機能的な試験を定期的に受けている",
     "Backgrounds": "最初に試作されたナンバーテールズ",
-    "SecretInfo": "実は「マスターテールズ9」含む他のナンバーテールズよりも、はるかに強力で万能な加護を有しているらしい",
-    "DesigningBrief": "漫画「サイボーグ009」に登場するサイボーグから少し着想を得ている\nちなみに、「1」は作者のチャレンジナンバー",
+
     "Relation": {
       "Related": [
         {
@@ -161,8 +160,7 @@
     },
     "InStory": "主人に従事するだけでなく、1桁番のマネジメントも積極的に行っている",
     "Backgrounds": "最初に正規型として設計されたナンバーテールズ「1(ハジメ)」の設計を再利用して誕生",
-    "SecretInfo": "複製し調整を経た個体であるため、加護が通常より薄められている\n彼女だけ眼鏡をつけているのは、他のナンバーテールズに「1(ハジメ)」と間違われないため",
-    "DesigningBrief": "1番機と2番機が双子関係なのは原案時点からのもので、「バイナ」は最近考案された",
+
     "Relation": {
       "Related": [
         {
@@ -248,7 +246,6 @@
       "Actuation": { "Rank": "A" }
     },
     "Backgrounds": "試作量産機での試作を経て初めて1号機系と別設計で完成\n以後「9(チカ)」まで続く",
-    "DesigningBrief": "「1(ハジメ)」～「10(ミツル)」の読み名は、漢語林に掲載されている漢数字の人名読みから由来している",
     "Relation": {
       "Related": [
         {
@@ -336,7 +333,6 @@
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "B" }
     },
-    "DesigningBrief": "数秘術でも「4」と「5」を互いに持つ人同士は付き合いに努力が必要とされる\nちなみに、十一去法において「4」は作者のアナザーナンバー",
     "Relation": {
       "Related": [
         {
@@ -417,7 +413,7 @@
         "Communication": { "Rank": { "HideText": "判定不能" } }
       },
       "SpetialPattern": ["Ptn.C(状況変化効果)", "Ptn.Ms(自己転化効果)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "Z" },
@@ -427,7 +423,6 @@
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
     },
-    "DesigningBrief": "ゲーム「ウマ娘」のキャラ「ゴールドシップ」に影響されている",
     "Relation": {
       "Related": [
         {
@@ -518,8 +513,7 @@
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
     },
-    "SecretInfo": "頭撫で, 添い寝, 尻尾お触り, ハグにかなり弱く、されると猫語を発するほどに発情する",
-    "DesigningBrief": "数秘術と作者の観点により「6」にかかわるキャラは、概ね母性/女子力のある女性になる傾向にある",
+
     "Relation": {
       "Related": [
         {
@@ -606,7 +600,6 @@
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "B+" }
     },
-    "DesigningBrief": "口調はゲーム「アズールレーン」のキャラ「高雄」を参考にしている",
     "Relation": {
       "Related": [
         {
@@ -695,8 +688,7 @@
       "Actuation": { "Rank": "B+" }
     },
     "InStory": "試作型の開発支援には協力していないが、ナンバーテールズのエンジニアポジションとされる",
-    "SecretInfo": "帽子は外せない（帽子の中でVRゴーグルの通信機が実装されてある特殊な形の耳を見られたくないため）",
-    "DesigningBrief": "ちなみに、「8」は作者のエンジェルナンバー\n数秘術の観点で「1」と「8」の相性から彼女は「1(ハジメ)」が苦手とも？",
+
     "Relation": {
       "Related": [
         {
@@ -773,7 +765,7 @@
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
       "SpetialPattern": ["Ptn.Rc(救済効果)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "C" },
@@ -783,8 +775,7 @@
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B+" }
     },
-    "SecretInfo": "落胆している人を見ると興奮するのは、保護欲や保護する愉悦に浸っているためである\n平和主義者になりたいと思っている",
-    "DesigningBrief": "ゲーム「アズールレーン」のキャラ「フリードリヒ・デア・グローセ」(他)に影響されている",
+
     "Relation": {
       "Related": [
         {
@@ -882,8 +873,7 @@
     },
     "InStory": "10号機「ディケ」が退役したきっかけを知る存在",
     "Backgrounds": "「10(ツナイ)[ディケ]」の暴走事件・退役を受け、量産試作機のハードウェアを再利用して誕生",
-    "SecretInfo": "「ナンバーテールズの暴走を阻止する」という役割(ロール)が実装されており、10日後以内に起こりうるナンバーテールズの暴走を予知できる\nちなみに、作中で専属契約している「扇 小春」という人物は、この創作作品の原作者に相当する",
-    "DesigningBrief": "ゲーム「PSO2」のキャラ「エルミル」に影響されている（「ディケ」も概ね同様）",
+
     "Relation": {
       "Related": [
         {
@@ -974,7 +964,6 @@
     },
     "InStory": "マスターテールズ9の代表",
     "Backgrounds": "2号機「バイナ」・10号機「ディケ」での失敗経験が、最も設計で最重要視された\n最後のネーム個体",
-    "SecretInfo": "「1(ハジメ)」を慕いすぎるあまり、陰でストーキングや盗撮をしているという事案がある",
     "Relation": {
       "Related": [
         {
@@ -1065,8 +1054,7 @@
     },
     "InStory": "眼鏡を完成直後には掛けていたが、いつの間にかしなくなったらしい",
     "Backgrounds": "1号機系,2号機系の開発中の余剰部品から再構成した、初の複合型個体\n以後デュアルズに続く",
-    "SecretInfo": "2号機「バイナ」（「2(ツギ)」）の完成を心待ちにしているあまり、1号機系である「2(ツグ)」が2番機であることに不本意ながら少し不服がある",
-    "DesigningBrief": "原案のデザインに記憶の限り寄せており、当時は2番機（「2(ツグ)」）と同様に眼鏡を掛けていた",
+
     "Relation": {
       "Related": [
         {
@@ -1296,7 +1284,7 @@
     },
     "Name": "トウゴ",
     "Name_EN": "Fifteeld",
-    "FormalName": "ナンバーテールズ1+5号機甲\nナンバーテールズ15番機",
+    "FormalName": "ナンバーテールズ1+5号機\nナンバーテールズ15番機",
     "ModelNumber": "APHR-NT I+V\nNumberTales #15",
     "CodeName": "一五",
     "SPCodeName": "十五\n(一半十)",
@@ -1355,8 +1343,7 @@
     },
     "InStory": "特異個体「1+5型」のネーム機\nイベント発生要因として、他のナンバーテールズから偏見を抱かれがち",
     "Backgrounds": "ハーネスで背中に装備されているのは安全装置とのこと\n実は未解明な加護がもう一つあるが、詳しい情報は公開されていないという",
-    "SecretInfo": "加護の実装における試験が危うく暴走事故に発展しかけたことを受け、「10(ミツル)」が所有する特殊な加護を運用した安全装置が装備されている\nこれにより「自身の暴走を防止し自己修復する」という第2の加護も持つ",
-    "DesigningBrief": "印字がローマ数字「XV」であるのは、設計が10番機系に影響された表れ\n配色が漫画「ジョジョの奇妙な冒険」第3部に登場する「花京院典明」寄り？",
+
     "Relation": {
       "Related": [
         {
@@ -1720,7 +1707,7 @@
         "Communication": { "Rank": "D", "EffectText": "効果無" }
       },
       "SpetialPattern": ["Ptn.St(状況比例作用)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "非公開" } },
@@ -1818,7 +1805,6 @@
       "Actuation": { "Rank": "A" }
     },
     "Backgrounds": "2号機「バイナ」の設計を完成させた個体\nなお、2号機系は彼女によって完成した",
-    "DesigningBrief": "本来の2番機「バイナ」の完成型として、「2」の数秘術的観点が最もデザインに表れている",
     "Relation": {
       "Related": [
         {
@@ -1856,24 +1842,90 @@
   },
   {
     "Num": 21,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image21"
+    },
     "Name": "ハツヒ",
     "Name_EN": "Twinone",
     "FormalName": "ナンバーテールズ1+2号機改\nナンバーテールズ21番機",
     "ModelNumber": "APHR-NT I+II.R\nNumberTales #21",
     "CodeName": "二一",
     "GenderType": "Neutral",
+    "Height_cm": 148,
     "AnivDay": [
       { "Day": { "DayOfMonth": 21, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": 39,
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
+    "FirstPersonCalling": "僕",
+    "SecondPersonCalling": "君",
+    "ThirdPersonCalling": "彼/彼女/～さん;[Name]",
+    "ForMasterCalling": "お兄(にぃ)/お姉(ねぇ)",
     "Character": "無邪気で童心をくすぐるような気質\nどこか強いポテンシャルを持つ",
     "Hobby": "人助け",
-    "SpetialSkil": "初見でRPG1作を\n21時間以内にクリアできる",
+    "SpetialSkil": "初見でRPG1作を21時間以内にクリアできる",
     "Favor": "感謝されること",
     "Unlike": "邪な思考",
-    "NumerospecAbout": "心を清らかにする"
+    "WellmatchedNTsNames": "28(ニハチ)?",
+    "UnmatchedNTsNames": "12(トウジ)?",
+    "RelationAbouts": "「28(ニハチ)」の“加護”を暴走させている？\n姉「12(トウジ)」とはすれ違い気味だが…",
+    "NumerospecAbout": "心を清らかにする",
+    "Summary": "2種類の数字を持つ複合型で最初の個体である「12(トウジ)」の設計が調整された個体。\n無邪気さとポテンシャルの高さが好評のナンバーテールズで、特に人助けに積極的なこともあり周囲から信頼されている。\nただその一方で 他人への粘着など邪な思考に対し強い抵抗があったり、純粋さに反応する「28(ニハチ)」の“加護”を暴走させたりと自身の気質が裏目に出てしまうことも。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "S", "EffectText": "絶大" },
+        "Manetize": { "Rank": "D", "EffectText": "効果無" },
+        "Working": { "Rank": "A", "EffectText": "期待可能" },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "A", "EffectText": "期待可能" }
+      },
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "A" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "B" }
+    },
+    "Backgrounds": "初の複合型個体である姉「12(トウジ)」の調整個体",
+    "Relation": {
+      "Related": [
+        {
+          "Num": 12,
+          "Comments": "隠し事持たない方が良いのか悪いのか…"
+        },
+        {
+          "Num": 28,
+          "Comments": "わわわ!! もうこれ以上はいらないって!!"
+        }
+      ],
+      "Commented": [
+        {
+          "Num": 3,
+          "Comments": "敵にしたら相手にならなさそう"
+        },
+        {
+          "Num": 11,
+          "Comments": "とにかく半端なく凄い存在"
+        },
+        {
+          "Num": 20,
+          "Comments": "いつか気負い過ぎで倒れそうだなぁ…"
+        },
+        {
+          "Num": 57,
+          "Comments": "楽観的なとこは見習うべき"
+        },
+        {
+          "Num": 84,
+          "Comments": "変なところで理屈っぽい"
+        }
+      ]
+    }
   },
   {
     "Num": 22,
@@ -1934,8 +1986,7 @@
     },
     "InStory": "「11(トウイチ)」の後続機(妹個体)\n尻尾の形状が独特という点については……",
     "Backgrounds": "11号機「トウイチ」の応用個体\n零姉弟も当時を疑うほどのオーパーツと称している",
-    "SecretInfo": "尻尾は、11号機/11番機「トウイチ」の11尾を起点とした更新をする際、リリース予定日周辺でも苦戦を強いられ、土壇場で2本のサソリ型となったとか",
-    "DesigningBrief": "作者自身も 尻尾の形は完成後本当に悩んだし、全桁の数字を忠実に表現するんじゃなかったと少し後悔する要因でさえある",
+
     "Relation": {
       "Related": [
         {
@@ -2283,7 +2334,7 @@
     "Favor": "愛情，マタニティに対する配慮",
     "Unlike": "無関心，憎悪，マタハラ",
     "RelationAbouts": "「16(ソロク)」を甘やかそうとしている\n「62(ロジ)」のおめかし用にコーディネートをよくしている\n「63(ムツミ)」とはママ友(ママ属性友達)らしいが、「26(ニロク)」自身は「63(ムツミ)」と比較意識があるようで…？",
-    "wellmatchedNTsNames": "16(ソロク),62(ロジ),63(ムツミ)?",
+    "WellmatchedNTsNames": "16(ソロク),62(ロジ),63(ムツミ)?",
     "NumerospecAbout": "愛情あふれる感性を恵む\n特に女性の魅力を高める効果が期待できる",
     "Summary": "女子力の高く温厚で思いやりの強い個体。\n優しさや愛情に対する理解がかなり深く、ファッションセンスも秀でている。\nしかしながらママ友(=ママ属性友達)である個体同士のコミュニティでは、自分に足りない優しさを追求するあまり「63(ムツミ)」相手を筆頭に少し比較意識がある。\n女子力に乏しい妹個体の「62(ロジ)」を着せ替え人形にしたり、秘かに「16(ソロク)」の甘え待ちをしたりと、稀に行き過ぎた女子本能が見える一面も。",
     "NumerospecStats": {
@@ -2294,6 +2345,7 @@
         "Luck": { "Rank": "B", "EffectText": "普通" },
         "Communication": { "Rank": "A", "EffectText": "期待" }
       },
+      "SpetialPattern": ["Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
     },
     "AbilityStats": {
@@ -2382,7 +2434,7 @@
         "Luck": { "Rank": "D", "EffectText": "効果無" },
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
-      "SpetialPattern": ["Ptn.Kn(知性効果)", "Ptn.Z[Eg](過剰自我注意)"],
+      "SpetialPattern": ["Ptn.Kn(知性効果)", "Ptn.Z[Eg](過剰自我に注意)"],
       "SafetyLevel": { "Rank": "D", "SafetyText": "注意" }
     },
     "AbilityStats": {
@@ -2431,48 +2483,94 @@
   },
   {
     "Num": 28,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image28"
+    },
     "Name": "ニハチ",
     "Name_EN": "Tweighan",
     "FormalName": "ナンバーテールズ2+8号機甲\nナンバーテールズ28番機",
     "ModelNumber": "APHR-NT II+VIII.A\nNumberTales #28",
     "CodeName": "二八",
+    "GenderType": "Female",
+    "Height_cm": 164,
+    "ConseptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
     "TailsUnit": "キツネ(枝分かれ)型8本(上2束2本+下1束6本)",
     "Class": "デュアルキャリーズ",
     "Class_EN": "Dual Carries",
-    "Character": "物欲が激しいが活動必需品には困らない体質\n完全数が好きな痛い数学徒でもある",
+    "FirstPersonCalling": "私(わたし)",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name]",
+    "ForMasterCalling": "ご主人",
+    "Character": "物欲が激しく少しやさぐれているが、根は優しい\n完全数が好きな痛い数学徒でもある",
+    "Hobby": "アクセサリー収集",
+    "SpetialSkil": "素因数分解",
+    "Favor": "数学、「28」という数字",
+    "Unlike": "凶数の存在、見捨てられること",
     "WellmatchedNTsNames": "31(ミツイ)\n78(ナナハ)",
     "RelationAbouts": "「31(ミツイ)」と数学徒としてつながりがある\n「78(ナナハ)」と競っている一面が…？",
     "NumerospecAbout": "物乞いを叶える\nただしこの効果は対象者の純粋さに左右される",
+    "Summary": "主人の物乞いや物欲を叶える才能があるとされていたが、最近はあまりその潜在能力の真価を発揮できず実績が下火傾向にある個体。\nその所為か 最近は人間や自分に自信が持てず性格もすれてきてしまった。\n物欲が強くアクセサリー系の収集にハマっているが、耳に付けているイヤリングはとても気に入っているので別の装飾に替えたことがない。\nちなみに、完全数である自分の数字「28」に強い信念がある数学徒のような一面もある。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": { "HideText": "条件による" } },
+        "Working": { "Rank": "B", "EffectText": "普通" },
+        "Luck": { "Rank": { "HideText": "条件による" } },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": [
+        "Ptn.Lr-(条件付き幸福実現効果)",
+        "Ptn.Z[Fr](欲求不満傾向)"
+      ],
+      "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B+" },
+      "Communicating": { "Rank": "B" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "B" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B+" }
+    },
     "Relation": {
       "Related": [
         {
-          "Num": 31
+          "Num": 31,
+          "Comments": "またお話聴かせて？"
         },
         {
-          "Num": 78
+          "Num": 78,
+          "Comments": "(荒く消されていて読めない)"
         }
       ],
       "Commented": [
         {
-          "Num": 1
+          "Num": 1,
+          "Comments": "裏方は似合ってないと思うけど"
         },
         {
-          "Num": 10
+          "Num": 10,
+          "Comments": "余計なお世話よ……"
         },
         {
-          "Num": 24
+          "Num": 24,
+          "Comments": "素直じゃない（他人のことはいえないけど）"
         },
         {
-          "Num": 46
+          "Num": 46,
+          "Comments": "うるさい"
         },
         {
-          "Num": 73
+          "Num": 73,
+          "Comments": "世間知らずすぎ"
         },
         {
-          "Num": 86
+          "Num": 86,
+          "Comments": "似た者同士と思ってたのに……"
         }
       ]
     }
@@ -2523,6 +2621,7 @@
         "Luck": { "Rank": "A", "EffectText": "期待" },
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
+      "SpetialPattern": ["Ptn.Hm(心理安定化効果)", "Ptn.Rc(救済効果)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
@@ -2568,6 +2667,10 @@
   },
   {
     "Num": 30,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image30"
+    },
     "Name": "ミツト",
     "Name_EN": "Thirtens",
     "FormalName": "ナンバーテールズ改良型3号機\nナンバーテールズ30番機",
@@ -2575,29 +2678,78 @@
     "CodeName": "三〇",
     "SPCodeName": "三十",
     "GenderType": "Female",
-    "Height_cm": 160,
-    "ConseptAge": 19,
+    "Height_cm": 157,
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "ConseptAge": { "value": 17, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 29, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
+    "BustSize": "F",
+    "TailsUnit": "キツネ型3本",
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
-    "FirstPersonCalling": "[Name]",
+    "FirstPersonCalling": "[Name]\n私(わたし)",
+    "SecondPersonCalling": "あなた",
     "ThirdPersonCalling": "～ちゃん",
+    "ForMasterCalling": "ご主人",
     "Character": "幸福感あふれる気質\n創造力にあふれている\n少しオマセで背伸びしているような風格",
     "Hobby": "手芸、クラフト",
     "SpetialSkil": "ゲーム開発",
-    "Favor": "コアフォルダ形態の人形",
+    "Favor": "コアフォルダ形態\nぬいぐるみ",
     "Unlike": "血",
     "NumerospecAbout": "幸運を味方にする\nこの効果はイメージを具現化し運勢的なものに関与する",
+    "Summary": "幸福感と創造力に溢れるナンバーテールズのオマセなムードメーカ。\nお人好しで少し背伸びをしたような様子は、周囲から愛着を持たれている。\n手芸やクラフトなどが得意で、妹の様な存在である「33(ミサ)」と一緒にぬいぐるみ製作をしている一面がよく見られる。\nコアフォルダ形態に強い愛着があり、ナンバーテールズの契約特典で贈呈されるコアフォルダ縫い(1/2スケール)の製作を進んで担っているらしい。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "A", "EffectText": "期待" },
+        "Manetize": { "Rank": "D", "EffectText": "効果無" },
+        "Working": { "Rank": "B", "EffectText": "普通" },
+        "Luck": { "Rank": { "HideText": "条件による" } },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": ["Ptn.Lr-(条件付き幸福実現効果)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "C" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "B" }
+    },
     "Backgrounds": "ネーム個体の設計を応用した、初の改良型個体",
     "Relation": {
-      "Commented": [
+      "Related": [
         {
-          "Num": 33
+          "Num": 33,
+          "Comments": "可愛い妹のような存在"
         },
         {
-          "Num": 39
+          "Num": 36,
+          "Comments": "えへへ…いつもありがとう♡"
+        }
+      ],
+      "Commented": [
+        {
+          "Num": 3,
+          "Comments": "お兄ちゃんのような存在"
+        },
+        {
+          "Num": 12,
+          "Comments": "真面目さと素直さが裏目にでちゃいそう…"
+        },
+        {
+          "Num": 39,
+          "Comments": "ちょっと怖いけど、いい人だと思う"
+        },
+        {
+          "Num": 63,
+          "Comments": "すごく優しくて落ち着く"
+        },
+        {
+          "Num": 93,
+          "Comments": "無理しないでね…？"
         }
       ]
     }
@@ -2816,6 +2968,7 @@
     "Favor": "可愛い手芸品",
     "Unlike": "失敗\n自分にできないこと",
     "WellmatchedNTsNames": "30(ミツト)",
+    "UnmatchedNTsNames": "44(シトシ)",
     "RelationAbouts": "「30(ミツト)」に妙な愛着が…？",
     "NumerospecAbout": "全域の知識および技能を習得できる（※ROSの機能）\nただし発動条件としてオンライン状態である必要がある",
     "Summary": "オンライン上で様々な知識と機能を自ら実装するシステムにより、99人の中でも最も万能な個体。\nその優れた性能は「全知全能」と称されるほど。\nそれを追い風に、様々なことに対して自分が「可能であること」と捉え、自信と誇りに満ち溢れている。\nしかし「不可能だったこと」への耐性が極めて弱く、そこを突かれて玩ばれることも。\n「30(ミツト)」に謎の親近感が…？",
@@ -2840,8 +2993,7 @@
     },
     "InStory": "「全知全能」を名乗っているが実力は本物\nただしROSの弱点を突かれて玩ばれる一面も",
     "Backgrounds": "初の正規+改良 複合型でかつ初めて、ROSの機能を強化した個体\nナンバーテールズの活動管理クラウドを応用している",
-    "SecretInfo": "コアフォルダ形態時にのみ圏外エリアでオンライン状態になれる方法がある（USBテザリングなど、I/Oポートを使用する）",
-    "DesigningBrief": "ゲーム「アズールレーン」のキャラ：「白竜」(他)に影響され、弱体化キャラとしても色濃くデザインされた",
+
     "Relation": {
       "Related": [
         {
@@ -2883,6 +3035,7 @@
   },
   {
     "Num": 34,
+    "Released": "nowCreating",
     "Name": "サトシ",
     "Name_EN": "Thirfory",
     "FormalName": "ナンバーテールズ3+4号機甲\nナンバーテールズ34番機",
@@ -2890,36 +3043,53 @@
     "CodeName": "三四",
     "SPCodeName": "三十四",
     "GenderType": "Neutral",
+    "Height_cm": 143,
+    "ConseptAge": { "value": 15, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型4本(上2束3本+下1束1本)",
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
     "FirstPersonCalling": "ワイ",
+    "SecondPersonCalling": "旦那さん/奥さん\nアンタ",
+    "ThirdPersonCalling": "[二人称];[Name];*イツ",
+    "ForMasterCalling": "旦那様（/奥様）\nご主人様（/お嬢様）",
     "Character": "少し頑固で不器用、一寸膨大にとらえがち\n小規模なことより大規模なことを好んでいる",
+    "Hobby": "怪しい交渉を持ちかける",
+    "SpetialSkil": "ギャンブルで誰が負けるかの予想",
     "Favor": "一騎当千できるアクションゲーム",
     "Unlike": "妥協",
+    "UnmatchedNTsNames": "43(シトミ)",
     "NumerospecAbout": "規模を発展させる",
     "InStory": "関西弁を真似たような口調",
     "Relation": {
       "Commented": [
         {
-          "Num": 7
+          "Num": 7,
+          "Comments": "生真面目なやっちゃなぁ"
         },
         {
-          "Num": 30
+          "Num": 30,
+          "Comments": "初々しいところも可愛え子"
         },
         {
-          "Num": 32
+          "Num": 32,
+          "Comments": "コイツには負けてられへん…!!"
         },
         {
-          "Num": 40
+          "Num": 40,
+          "Comments": "なんかずるいわアイツ…"
         },
         {
-          "Num": 43
+          "Num": 43,
+          "Comments": "（※検閲で削除されている…）"
         },
         {
-          "Num": 70
+          "Num": 70,
+          "Comments": "ようわからんけどやりおるな…"
         }
       ]
     }
@@ -2942,7 +3112,6 @@
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
     "Character": "感性が高い才能肌\n几帳面な一面も",
-    "NumerospecAbout": "物事や進捗を発展させる",
     "GenderType": "Neutral",
     "Height_cm": 139,
     "ConseptAge": 14,
@@ -2957,6 +3126,7 @@
     "SpetialSkil": "お祓い",
     "Favor": "掃除・整理整頓",
     "Unlike": "危険予知を疎かにしている環境",
+    "NumerospecAbout": "物事や進捗を発展させる",
     "Summary": "感覚的な才能に恵まれており、主人たちの物事の進展に大きく貢献している。\n加えて整理整頓や清掃を得意とする几帳面さも相まって、個人だけでなく企業との主従契約でも今後実績が期待されている。\nちなみに副業で巫女活動も展開しており、その清掃能力から庭園を保全したり、動作が繊細なお祓いの儀式にも定評がある。\nこのことに対し本人は曰く、「番号の語呂で軽率に勧められただけで、本業にするつもりは全くない」とのことだが、本業と同程度に実績があるのは言うまでもない。",
     "NumerospecStats": {
       "EffectStats": {
@@ -3060,7 +3230,7 @@
         "Communication": { "Rank": "C", "EffectText": "希薄" }
       },
       "SpetialPattern": ["Ptn.X(転化・転送効果)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "C" },
@@ -3286,7 +3456,6 @@
       "Actuation": { "Rank": "B" }
     },
     "Backgrounds": "（10号機「ディケ」を除くと）初めての男性個体\nこの頃から男性型にも需要があるとみられる",
-    "DesigningBrief": "バーチャルアイドル「初音ミク」との差別化を図ったところがある\nネット作品「言ノ葉project」(第1期)の主人公：「葛葉ツカサ」に影響を受ける",
     "Relation": {
       "Commented": [
         {
@@ -3498,7 +3667,6 @@
       "Actuation": { "Rank": "B+" }
     },
     "InStory": "主人に固執されることがある",
-    "DesigningBrief": "映画「銀河系ヒッチハイク-ガイド」内の「万物について究極の答え＝42」という一説を自慢話にしているなどネタの伏線として描かれることもある",
     "Relation": {
       "Commented": [
         {
@@ -3534,19 +3702,26 @@
   },
   {
     "Num": 43,
+    "Released": "nowCreating",
     "Name": "シトミ",
     "Name_EN": "Forthren",
     "FormalName": "ナンバーテールズ3+4号機乙\nナンバーテールズ43番機",
     "ModelNumber": "APHR-NT III+IV.B\nNumberTales #43",
     "CodeName": "四三",
     "SPCodeName": "四十三",
+    "GenderType": "Female",
+    "Height_cm": 134,
+    "ConseptAge": 13,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
-    "Character": "前向きでなんでも良き過程として捉える",
+    "Character": "メスガキ、前向きでなんでも良き過程として捉える",
+    "Hobby": "対戦ゲーム",
+    "SpetialSkil": "挑発",
     "NumerospecAbout": "望みを広げる",
+    "DesigningBrief": "ボーカロイド楽曲/ボイスロイド劇場「永遠にゲームで対戦したいキリタン」(GYARI)に影響されている",
     "Relation": {
       "Commented": [
         {
@@ -3608,7 +3783,7 @@
       },
       "SpetialPattern": [
         "Ptn.R-(効果保証作用がある傾向)",
-        "Ptn.Z[Eg](過剰自我注意)"
+        "Ptn.Z[Eg](過剰自我に注意)"
       ],
       "SafetyLevel": { "Rank": "B", "SafetyText": "無危害(奇行有)" }
     },
@@ -3620,7 +3795,6 @@
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "Z" }
     },
-    "DesigningBrief": "設定を考えるうえで念頭に置いたこととして一応「男の娘」である\nボーカロイド楽曲「ギャンビット」(雄之助)のMVに影響されている",
     "Relation": {
       "Related": [
         {
@@ -3692,13 +3866,13 @@
     "SecondPersonCalling": "おぬし",
     "ThirdPersonCalling": "[Name]",
     "ForMasterCalling": "主人",
-    "Character": "善意の味方に付きたい系の「雷神/風神」\n人為的なトラブルメーカーであるのが引け目",
+    "Character": "善意の味方に付きたい系、良心がよく威勢のいい",
     "Hobby": "縁側でくつろぐ",
     "SpetialSkil": "和太鼓",
     "Favor": "伝統工芸品",
     "Unlike": "風評被害",
     "NumerospecAbout": "主人を奮い立たせる\n特に主人が行動を起こすべき立場にあると発動する",
-    "Summary": "稲妻を落とす雷神のように相手に衝動を与え、風を送る風神のように相手を奮い立たせる“加護”を持ち、変化を起こすことを必要としている多くの主人を後押ししている。\nもちろんそれはおおむね攻撃的な目的ではないので、彼(女)が従事した主人が愛と勇気をもった「正義の味方」に成長すると定評。\nただ最も人間関係のトラブルに遭った1人とも…",
+    "Summary": "稲妻を落とす雷神のように相手に衝動を与え、風を送る風神のように相手を奮い立たせる“加護”を持ち、変化を起こすことを必要としている多くの主人を後押ししている。\nもちろんそれはおおむね攻撃的な目的ではないので、彼(女)が従事した主人が愛と勇気をもった「正義の味方」に成長すると定評。\nただ、本人は平穏とした生き方を好んでおり…",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "A", "EffectText": "特化" },
@@ -3708,7 +3882,7 @@
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
       "SpetialPattern": ["Ptn.Ec(士気比例作用)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
@@ -3899,7 +4073,6 @@
     },
     "InStory": "特異個体「4+7型」の一人。応援は通じるが、加護の認知については話が嚙み合わない傾向にある",
     "Backgrounds": "加護については偶然の産物と言ってもいいほどで、零姉弟も彼女の加護について全く知見が無いようだ",
-    "DesigningBrief": "作者の地元である赤穂市の偉人「赤穂浪士」も47人であるため、特殊要因として色濃くデザインされた",
     "Relation": {
       "Commented": [
         {
@@ -3935,25 +4108,81 @@
   },
   {
     "Num": 48,
+    "Released": "released",
     "Name": "シハチ",
     "Name_EN": "Foreighn",
     "FormalName": "ナンバーテールズ4+8号機甲\nナンバーテールズ48番機",
     "ModelNumber": "APHR-NT IV+VIII.A\nNumberTales #48",
     "CodeName": "四八",
+    "GenderType": "Male",
+    "Height_cm": 161,
+    "ConseptAge": 20,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "TailsUnit": "キツネ(枝分かれ)型8本(上2束4本+下1束4本)",
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
+    "FirstPersonCalling": "私(わたし)\n俺(おれ)",
+    "SecondPersonCalling": "貴方(あなた)\nお前",
+    "ThirdPersonCalling": "彼/彼女;~さん;*ちら\n[Name];*いつ;*れ",
+    "ForMasterCalling": "主様(あるじさま)",
     "Character": "根性強く諦めの悪い\n理想と現実の両方を尊重している",
+    "Hobby": "クラウドソーシングで副収入を得ること",
+    "SpetialSkil": "データ分析",
+    "Favor": "学園番長の存在",
+    "Unlike": "怠惰な人",
     "NumerospecAbout": "現実をよりよくする\nこの効果は対象が現実逃避していない時に真価を発揮する",
+    "Summary": "マーケティングやビジネススキルなどに精通しており、副業や事業展開を目標とする主人層から好評を受けている。\n至って紳士的で勤勉な気質だと表向きでは評されているが、本性的には喧嘩っ早く勝気の強い性格にどこか憧れを感じているらしい。\n理想を現実にするためにあの手この手を尽くそうとする頑固な一面も。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "S", "EffectText": "絶大" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "A", "EffectText": "期待" },
+        "Communication": { "Rank": "B", "EffectText": "普通" }
+      },
+      "SpetialPattern": ["Ptn.Ec(士気比例作用)", "Ptn.Rz(実現性向上効果)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "B+" },
+      "Reading": { "Rank": "S" },
+      "Precision": { "Rank": "A" },
+      "Technic": { "Rank": "S+" },
+      "Actuation": { "Rank": "C" }
+    },
     "Relation": {
       "Commented": [
         {
-          "Num": 30
+          "Num": 12,
+          "Comments": "妙に幼いところがある"
         },
         {
-          "Num": 82
+          "Num": 30,
+          "Comments": "見ていてなぜか和む"
+        },
+        {
+          "Num": 34,
+          "Comments": "ちょっとは加減を知れ……"
+        },
+        {
+          "Num": 53,
+          "Comments": "腹が立つ"
+        },
+        {
+          "Num": 75,
+          "Comments": "知的積極性はあるから話は通じる"
+        },
+        {
+          "Num": 83,
+          "Comments": "卑怯すぎるぞ全く……"
+        },
+        {
+          "Num": 94,
+          "Comments": "それで主従契約が成り立つのか…？"
         }
       ]
     }
@@ -4004,7 +4233,7 @@
         "Communication": { "Rank": "D", "EffectText": "効果無" }
       },
       "SpetialPattern": ["Ptn.St(状況比例作用)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "A" },
@@ -4014,7 +4243,6 @@
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B" }
     },
-    "DesigningBrief": "ゲーム「夢職人と忘れじの黒い妖精」のキャラ「ナヴィ」から、「94(ツクシ)」の兄/姉としても 個性の点で参考にしたところがある",
     "Relation": {
       "Related": [
         {
@@ -4060,7 +4288,7 @@
     ],
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
-    "InStory": "特異個体「1+5型」の安定最適化版",
+    "Character": "どんな状況でも落ち着いている",
     "Relation": {
       "Commented": [
         {
@@ -4085,7 +4313,7 @@
     "Num": 51,
     "Name": "イソイチ",
     "Name_EN": "Fivone",
-    "FormalName": "ナンバーテールズ1+5号機乙\nナンバーテールズ51番機",
+    "FormalName": "ナンバーテールズ1+5号機改\nナンバーテールズ51番機",
     "ModelNumber": "APHR-NT I+V.R\nNumberTales #51",
     "CodeName": "五一",
     "SPCodeName": "五十一",
@@ -4096,7 +4324,8 @@
     "Class": "デュアルシックスズ",
     "Class_EN": "Dual Sum-6s",
     "Character": "発想力が高くアイディアマンとしても名高い",
-    "NumerospecAbout": "閃きをもたらす"
+    "NumerospecAbout": "閃きをもたらす",
+    "InStory": "特異個体「1+5型」の安定最適化版"
   },
   {
     "Num": 52,
@@ -4199,6 +4428,10 @@
   },
   {
     "Num": 53,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image53"
+    },
     "Name": "イツゾウ",
     "Name_EN": "Fifthren",
     "FormalName": "ナンバーテールズ3+5号機乙\nナンバーテールズ53番機",
@@ -4209,12 +4442,73 @@
     ],
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "GenderType": "Neutral",
+    "Height_cm": 139,
+    "ConseptAge": 14,
+    "Weight_kg": 36,
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型 5本(上1束2本+下2束3本)",
+    "FirstPersonCalling": "僕",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "[Name]",
+    "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
     "Character": "単純で調子に乗りやすい",
+    "Hobby": "ボードゲーム",
+    "SpetialSkil": "ゴルフ",
+    "Favor": "アクション映画",
+    "Unlike": "挑発\n姉[兄]に避けられていること",
+    "Summary": "転機を恵むと一部の層から定評であり、主人たちの活動へ貢献している。\n活動実績は然程大きくはないが、中でも彼(女)の招いたチャンスを最大限に受容できるような主人とは相性が良い傾向にある。\nただ性格で単純さが目立っており、煽(おだ)てられるとすぐに調子に乗ってしまうところなどがある。\nそのため、彼(女)の良し悪しについては主人だけでなく他のナンバーテールズからも意見が分かれている様子。",
     "NumerospecAbout": "転機を連続して招く\nこの効果は対象が積極的に受ければ受けるほど持続する",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "C", "EffectText": "希薄" },
+        "Manetize": { "Rank": { "HideText": "検証中" } },
+        "Working": { "Rank": "B", "EffectText": "普通" },
+        "Luck": { "Rank": { "HideText": "条件による" } },
+        "Communication": { "Rank": "C", "EffectText": "希薄" }
+      },
+      "SpetialPattern": ["Ptn.C(状況変化効果)", "Ptn.Ch(連鎖効果有)"],
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "A" },
+      "Communicating": { "Rank": "C" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "B+" },
+      "Actuation": { "Rank": "A" }
+    },
     "Relation": {
+      "Related": [
+        {
+          "Num": 35,
+          "Comments": "なんで僕のこと避けようとするのさ！"
+        }
+      ],
       "Commented": [
         {
-          "Num": 80
+          "Num": 23,
+          "Comments": "トラブルメーカっぽいところある"
+        },
+        {
+          "Num": 30,
+          "Comments": "見てて和む"
+        },
+        {
+          "Num": 50,
+          "Comments": "肝が据わりすぎて逆に怖い"
+        },
+        {
+          "Num": 57,
+          "Comments": "勝負強そう"
+        },
+        {
+          "Num": 80,
+          "Comments": "良く解んないことを平然とやってのけてる"
+        },
+        {
+          "Num": 89,
+          "Comments": "あれでも僕のずっと下の代なんだよね…？"
         }
       ]
     }
@@ -4302,7 +4596,6 @@
       "Actuation": { "Rank": "B+" }
     },
     "Backgrounds": "開発中も幾度か災難に巻き込まれたと百は供述している",
-    "SecretInfo": "怒ったときの顔は滅多にお目にかかることは無いが、「サイコパスに見える」と言われている（目撃者情報）",
     "Relation": {
       "Related": [
         {
@@ -4784,7 +5077,7 @@
         "Communication": { "Rank": "D", "EffectText": "効果無" }
       },
       "SpetialPattern": ["Ptn.S(感性向上効果)", "Ptn.Z[Sp](催眠/洗脳作用注意)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無(奇行有)" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害(奇行有)" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "S" },
@@ -4865,7 +5158,7 @@
     "RelationAbouts": "「8(ワカツ)」や「85(ハッコ)」とものづくり関連で縁があるが…\n大切なイベントに着る衣装は「26(ニロク)」に頼りがち",
     "NumerospecAbout": "発想を形にさせる\nこの効果は男性的よりも女性的な作用をもたらす",
     "Summary": "発想力の高く生産的でクリエイティブな個体。\n中でも女性に焦点を当てた意匠やデザインに取分け興味関心を示している。\nしかしながら機械技術的なものや知的要素には抵抗があるらしく、モノづくり関連で縁ができ（てしまっ）た「8(ワカツ)」に振り回されている。\n工芸品に執着するあまり他個体との交流や対人および女子力で難があり、勝負服のコーディネートなどを「26(ニロク)」に任せっきりな一面も。",
-    "wellmatchedNTsNames": "26(ニロク),85(ハッコ)?",
+    "WellmatchedNTsNames": "26(ニロク),85(ハッコ)?",
     "UnmatchedNTsNames": "8(ワカツ)?",
     "NumerospecStats": {
       "EffectStats": {
@@ -4875,6 +5168,7 @@
         "Luck": { "Rank": "C", "EffectText": "希薄" },
         "Communication": { "Rank": "B", "EffectText": "普通" }
       },
+      "SpetialPattern": ["Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
@@ -4962,7 +5256,7 @@
         "Luck": { "Rank": "S", "EffectText": "絶大" },
         "Communication": { "Rank": "S", "EffectText": "絶大" }
       },
-      "SpetialPattern": ["Ptn.Pc(平穏増幅効果)"],
+      "SpetialPattern": ["Ptn.Pc(平穏増幅効果)", "Ptn.Mt(母性的作用の傾向)"],
       "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
     },
     "AbilityStats": {
@@ -5065,8 +5359,7 @@
     },
     "InStory": "特殊個体「4+6型」の一人で問題児\n実績が乏しく赤字であるだけでなく……",
     "Backgrounds": "稀に快感を求める故に不認可の副業に手を染めかけたり、あらぬ欲情をしてしまったりするため零も酷く頭を抱えている",
-    "SecretInfo": "実は唯一「実績が無い」「自ら違反行為に身を投じかねない」「暴走する危険性が拭えない」の三拍子が揃い、欠番化(除名)の危機を常に抱えている。",
-    "DesigningBrief": "数秘からデザインした結果 ナンバーテールズで唯一「如何わしい」キャラ設定となってしまったので、色々隠すしかない状況である。困った",
+
     "Relation": {
       "Related": [
         {
@@ -5159,7 +5452,6 @@
       "Actuation": { "Rank": "B" }
     },
     "Backgrounds": "ナンバーテールズ99体の設定年齢で最年少となる個体\n不審者接触防止機能も備わっている（らしい）",
-    "DesigningBrief": "同名（「65」という名前）のキャラが登場する作品を読んでいた、幼女好きな友人からリクエストナンバーを頂いた制作背景も表れている",
     "Relation": {
       "Related": [
         {
@@ -5250,7 +5542,6 @@
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "A" }
     },
-    "DesigningBrief": "以前の設定資料で「祈る」という記述が色濃く記載されたため、シスターの服装をしている（なおコスプレ設定）",
     "Relation": {
       "Related": [
         {
@@ -5332,7 +5623,6 @@
       "Actuation": { "Rank": "S" }
     },
     "Backgrounds": "ナンバーテールズ99体の中では珍しく、体調面も支援している",
-    "DesigningBrief": "理想を言うなら、筋肉主義者に寄せたい\n参考に ゲーム「夢職人と忘れじの黒い妖精」のキャラ「ティオ」が挙げられる",
     "Relation": {
       "Commented": [
         {
@@ -5608,26 +5898,84 @@
   },
   {
     "Num": 71,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image71"
+    },
     "Name": "ナナヒ",
     "Name_EN": "Sevone",
     "FormalName": "ナンバーテールズ1+7号機乙\nナンバーテールズ71番機",
     "ModelNumber": "APHR-NT I+VII.B\nNumberTales #71",
     "CodeName": "七一",
     "GenderType": "Male",
+    "Height_cm": 144,
+    "ConseptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": [{ "value": 40, "about": "推定" }],
+    "TailsUnit": "キツネ(枝分かれ)型7本(上1束6本+下2束1本)",
     "Class": "デュアルエイツ",
     "Class_EN": "Dual Sum-8s",
+    "FirstPersonCalling": "ぼく",
+    "SecondPersonCalling": "きみ",
+    "ThirdPersonCalling": "彼/彼女;*れ;[Name]",
+    "ForMasterCalling": "先生",
     "Character": "知的思考が豊富で努力家な好青年",
+    "Hobby": "研究",
     "SpetialSkil": "PDCAなどのフレームワーク",
     "Favor": "青春",
     "Unlike": "無知無能",
     "NumerospecAbout": "主人へ学びを1日1つ恵む",
+    "Summary": "知的好奇心が豊富で努力家であるため、この上ない成長が期待されている。\nその好青年な気質に感化され、契約した主人から感謝状が出ることも。\nこちらは見た目に反し男性型個体であるが、初々しい学生のような愛嬌があると特定の客層から可愛がられている。\nただ、時折その幼い見た目から想像もできない実績を会得していることもあり、カリスマ起業家に標的にされているとか…",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "B", "EffectText": "普通" },
+        "Manetize": { "Rank": "A", "EffectText": "期待可能" },
+        "Working": { "Rank": "S", "EffectText": "絶大" },
+        "Luck": { "Rank": "A", "EffectText": "期待可能" },
+        "Communication": { "Rank": "A", "EffectText": "期待可能" }
+      },
+      "SpetialPattern": [
+        "Ptn.Kn(知性効果)",
+        "Ptn.Lg(思考向上効果)",
+        "Ptn.Rz-(実現性向上効果がある傾向)"
+      ],
+      "SafetyLevel": { "Rank": "S+", "SafetyText": "完全保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "A" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "B+" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B" }
+    },
     "Relation": {
+      "Related": [
+        { "Num": 17, "Comments": "ぼくにとって尊敬できる姉です！" },
+        { "Num": "0", "Comments": "なんだかとっても憧れます…!!" }
+      ],
       "Commented": [
         {
-          "Num": 80
+          "Num": 25,
+          "Comments": "どんなときも軽やかでかっこいい"
+        },
+        {
+          "Num": 35,
+          "Comments": "仕事ができてすごく頼れます"
+        },
+        {
+          "Num": 52,
+          "Comments": "一緒にいるととても安心します"
+        },
+        {
+          "Num": 80,
+          "Comments": "妙にソワソワするんですよね…"
+        },
+        {
+          "Num": 98,
+          "Comments": "途中で投げ出すのもどうかと思うけどなぁ…"
         }
       ]
     }
@@ -5687,8 +6035,7 @@
     },
     "InStory": "彼(女)の機械寄りな人間味や個性について、他のナンバーテールズからの見解は様々らしい",
     "Backgrounds": "ROSの機能が学習という別の目的で強化された、唯一の教材型個体\nROS完成以来零は彼女に罪悪感を…？",
-    "SecretInfo": "学修データが膨大で、活動データの保存は、コアフォルダ形態でのみ行われる（処理が圧迫するため）",
-    "DesigningBrief": "以前の設定資料で「72はカバラで神を表す」という記述があったため、原案では神々しいデザインだった",
+
     "Relation": {
       "Commented": [
         {
@@ -5997,23 +6344,82 @@
   },
   {
     "Num": 76,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image76"
+    },
     "Name": "シチロク",
     "Name_EN": "Sevsix",
     "FormalName": "ナンバーテールズ6+7号機乙\nナンバーテールズ76番機",
     "ModelNumber": "APHR-NT VI-VII.B\nNumberTales #76",
     "CodeName": "七六",
+    "GenderType": "Female",
+    "Height_cm": 144,
+    "ConseptAge": { "value": 14, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "G",
+    "TailsUnit": "キツネ(枝分かれ)型7本(上1束1本+下2束6本)",
     "Class": "デュアルフォーズ",
     "Class_EN": "Dual Sum-4s",
-    "Character": "知識欲旺盛で教養を重んじており、自分に磨きを掛けるため日々学びを深めている",
+    "FirstPersonCalling": "わたし",
+    "SecondPersonCalling": "あなた",
+    "ThirdPersonCalling": "彼/彼女/～さん",
+    "ForMasterCalling": "主人先生",
+    "Character": "知識欲旺盛、自分に自信がなく不要に理知的",
+    "Hobby": "読書",
+    "SpetialSkil": "複数文献の斜め読み",
+    "Favor": "専門書、同人誌",
+    "Unlike": "非合理的・非常識なこと",
     "NumerospecAbout": "知識や教養から自らに磨きを掛ける",
+    "Summary": "何かと理論的・知的に物事を考えがちで、読書を何よりも好む事から図書委員の様に周りから風刺されている。\n眼鏡付きのヘッドセットを外した時の容姿に反して本人は性格や内面に自信がないため、敢えてそのような風格を出しているという噂も。\nとはいえ知識を自分の美意識に適応する感性はとりわけ高いので、特定少数の主人層ではそこそこ高い好感度を安定して得ているらしい。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "C", "EffectText": "希薄" },
+        "Manetize": { "Rank": "B", "EffectText": "普通" },
+        "Working": { "Rank": "A", "EffectText": "期待" },
+        "Luck": { "Rank": "C", "EffectText": "希薄" },
+        "Communication": { "Rank": "D", "EffectText": "効果無" }
+      },
+      "SpetialPattern": ["Ptn.Kn(知性効果)"],
+      "SafetyLevel": { "Rank": "S", "SafetyText": "保証" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "D" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "B+" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "S" },
+      "Actuation": { "Rank": "C" }
+    },
     "InStory": "知識への執着が強い余り変人に見られている",
     "Relation": {
       "Commented": [
         {
-          "Num": 56
+          "Num": 4,
+          "Comments": "真面目でいい人"
+        },
+        {
+          "Num": 31,
+          "Comments": "わからなくもないですが…"
+        },
+        {
+          "Num": 40,
+          "Comments": "意味わからないです…"
+        },
+        {
+          "Num": 56,
+          "Comments": "ちゃんと勉強しようね"
+        },
+        {
+          "Num": 71,
+          "Comments": "羨ましい、というよりズルいです"
+        },
+        {
+          "Num": 94,
+          "Comments": "絵本や漫画でも寝ちゃうんですね…"
         }
       ]
     }
@@ -6036,7 +6442,7 @@
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
-    "Weight_kg": [{ "value": 39, "about": "推定" }],
+    "Weight_kg": { "value": 39, "about": "推定" },
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型 2束x7本",
     "Class": "マスターテールズ9",
@@ -6119,29 +6525,91 @@
   },
   {
     "Num": 78,
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image78"
+    },
     "Name": "ナナハ",
     "Name_EN": "Seveights",
     "FormalName": "ナンバーテールズ7+8号機甲\nナンバーテールズ78番機",
     "ModelNumber": "APHR-NT VII+VIII.A\nNumberTales #78",
     "CodeName": "七八",
+    "GenderType": "Female",
+    "Height_cm": 157,
+    "ConseptAge": 25,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "BustSize": "E",
+    "TailsUnit": "キツネ(枝分かれ)型8本(上2束1本+下1束7本)",
     "Class": "デュアルシックスズ",
     "Class_EN": "Dual Sum-6s",
+    "FirstPersonCalling": "私(わたくし)",
+    "SecondPersonCalling": "あなた様",
+    "ThirdPersonCalling": "彼/彼女/~様;*ちら",
+    "ForMasterCalling": "[二人称];ご主人様",
+    "Character": "清く美しい精神の持ち主だが、ややネガティヴ気味で胡散臭がられているのが玉に瑕",
+    "Hobby": "タロットカード",
+    "SpetialSkil": "アドリブ祝辞",
+    "Favor": "トランプ、タロットカード",
+    "Unlike": "傲慢な態度",
+    "WellmatchedNTsNames": "76(シチロク)",
     "ThisMasters": "錦野 舞（後の シンフォニー.ゼクズィン所属 デザインエンジニア）",
-    "NumerospecAbout": "物乞いを叶える\nただしこの効果は対象の日々の行いに影響されやすい",
+    "NumerospecAbout": "経験・報酬を反省から生む\nただしこの効果は対象の性格と相互に影響する",
+    "Summary": "反省からの学びを強めることに秀でているとされているナンバーテールズ。\n技術適正が極めて高く、エンジニアとして働いている主人からの支持が手厚い。\nしかしながらどこか自分に自信がなくアイテムに縋ることでしか自分を評価できないところがあり、彼女をよく知る別の個体によっては心配されたり胡散臭がられたりしている。\nとはいえ誠心誠意で自らも反省しながら精進する姿は誰よりも評価されている。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "Z", "EffectText": "極めて絶大(場合により逆効果)" },
+        "Manetize": { "Rank": "B+", "EffectText": "特殊" },
+        "Working": { "Rank": "B+", "EffectText": "特殊" },
+        "Luck": { "Rank": "E", "EffectText": "逆効果(仕様)" },
+        "Communication": { "Rank": "C", "EffectText": "希薄" }
+      },
+      "SpetialPattern": [
+        "Ptn.Lg(思考向上効果)",
+        "Ptn.Rc-(救済効果がある傾向)",
+        "Ptn.Rz-(実現性向上効果がある傾向)",
+        "Ptn.Z[Hd](効果に一定の精神的耐性が必要)"
+      ],
+      "SafetyLevel": { "Rank": "C", "SafetyText": "調整中" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": "D" },
+      "Reading": { "Rank": "C" },
+      "Precision": { "Rank": "C" },
+      "Technic": { "Rank": "S+" },
+      "Actuation": { "Rank": "B" }
+    },
     "InStory": "宗教科学者のように疑われがち",
     "Relation": {
+      "Related": [
+        {
+          "Num": 76,
+          "Comments": "何処か共感できる部分はあります"
+        }
+      ],
       "Commented": [
         {
-          "Num": 7
+          "Num": 7,
+          "Comments": "畏れ多くも、難しいことはよく解りません…"
         },
         {
-          "Num": 8
+          "Num": 8,
+          "Comments": "作業を見てると少し心が躍るような…"
         },
         {
-          "Num": 87
+          "Num": 51,
+          "Comments": "後先が心配になってしまいます…"
+        },
+        {
+          "Num": 68,
+          "Comments": "吹っ切れたお方で…いえ、すみません…"
+        },
+        {
+          "Num": 87,
+          "Comments": "姉としても今後が怖い存在です…"
         }
       ]
     }
@@ -6184,7 +6652,6 @@
     "WellmatchedNTsNames": "88(ヤソハチ)",
     "RelationAbouts": "「88(ヤソハチ)」と何か関係が…？",
     "NumerospecAbout": "物流を体感できる",
-    "SecretInfo": "「88(ヤソハチ)」「000(チトセ)」「零零」と結託し、主人応援資金のための投資活動を陰で展開させている",
     "Relation": {
       "Commented": [
         {
@@ -6324,6 +6791,7 @@
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
     "SecondPersonCalling": "お前",
+    "NumerospecAbout": "勝機を恵む\nこの効果は報酬的な効果として作用する",
     "Relation": {
       "Commented": [
         {
@@ -6360,6 +6828,7 @@
     ],
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
+    "NumerospecAbout": "計画性に比例した結果を呼び寄せる",
     "Relation": {
       "Commented": [
         {
@@ -6545,7 +7014,6 @@
     },
     "InStory": "どこから資金や資産を得ているのか、他のナンバーテールズや一部界隈からも不気味がられている",
     "Backgrounds": "加護については偶然の産物と言ってもいいほどで、零姉弟も彼女の加護についてほぼ知見が無いようだ",
-    "DesigningBrief": "趣味のピアノ演奏について、ピアノの鍵盤数が88であることが由来",
     "Relation": {
       "Related": [
         {
@@ -6724,6 +7192,7 @@
   },
   {
     "Num": 92,
+    "Released": "nowCreating",
     "Name": "コトジ",
     "Name_EN": "Nintwina",
     "FormalName": "ナンバーテールズ2+9号機乙\nナンバーテールズ92番機",
@@ -6736,6 +7205,16 @@
     ],
     "Class": "デュアルイレブンズ",
     "Class_EN": "Dual Sum-11s",
+    "FirstPersonCalling": "僕",
+    "SecondPersonCalling": "君\n貴方",
+    "ThirdPersonCalling": "彼/彼女/[Name]",
+    "ForMasterCalling": "兄さん/姉さん",
+    "Character": "接し方は温厚だか気質は淡泊でドライ、話が長いことがあるので聞き専に回っている",
+    "Hobby": "エンタメ番組を見ること",
+    "SpetialSkil": "感情の整理",
+    "Favor": "冬、コアフォルダが寄り添っている様子",
+    "Unlike": "姉を筆頭に怖がられていること",
+    "NumerospecAbout": "心を慰める\nただしこの効果は会話を通してのみ発動する",
     "Relation": {
       "Commented": [
         {
@@ -6806,7 +7285,6 @@
     },
     "InStory": "主人と信頼関係が築かれる前は主人より意気込むあまり、感情が暴走する恐れがあった（現在は収束している）",
     "Backgrounds": "野望が強い性格のため、ROS開発中も幾度か暴走寸前になったことがあった",
-    "DesigningBrief": "デザインでゲーム「ウマ娘」のキャラ：「ハルウララ」などを参考にした",
     "Relation": {
       "Related": [
         {
@@ -6953,7 +7431,6 @@
     "NumerospecAbout": "現環境から離れたときの支えになる\nただし発動条件が極めて限られており、情報が少ない",
     "InStory": "滅多に本領が発揮されない個体のため、主人に指名されてもマッチングで契約が頓挫しがち",
     "Backgrounds": "ROS開発中で暴走による自壊寸前になったことがあった",
-    "SecretInfo": "「15(トウゴ)」の持つ第2の加護を実装させる試みがあり、暴走で自壊寸前となったところを阻止した第1人者も「15(トウゴ)」である",
     "Relation": {
       "Related": [
         {
@@ -7009,7 +7486,7 @@
         "Communication": { "Rank": "E", "EffectText": "逆効果(仕様)" }
       },
       "SpetialPattern": ["Ptn.Ms(自己転化効果)"],
-      "SafetyLevel": { "Rank": "B", "SafetyText": "危害無(奇行有)" }
+      "SafetyLevel": { "Rank": "B", "SafetyText": "無危害(奇行有)" }
     },
     "AbilityStats": {
       "Speed": { "Rank": "A" },
@@ -7021,7 +7498,6 @@
     },
     "InStory": "特殊個体「6+9型」の改良(性転換)版\n衣服から立ち振る舞いまで流行に肖ってしまうため、他のナンバーテールズからも素を掴められていない",
     "Backgrounds": "仮面を装着しだしたのは、完成後自らの判断によるものらしい\n兄「69(ロック)」の性転化版として開発されたが…",
-    "SecretInfo": "素はロリババァ風で、その時の一人称は「あたしゃ」\n流行に乗ることで加護に相反する素の自分を隠そうとしている\n自分の顔は（他人から見られている以上に）更けているとも思っている？",
     "Relation": {
       "Related": [
         {
@@ -7288,8 +7764,7 @@
       "Actuation": { "Rank": "A" }
     },
     "Backgrounds": "最後の正規型個体\n数字表記は漢数字となっている\n加護については偶然の産物（以下略）",
-    "SecretInfo": "デジャヴ現象のような加護を持ち、別世界線やありうる未来が記憶として繋がっている\n「10(ミツル)」に心当たりがあるのもこれに関連している",
-    "DesigningBrief": "ゲーム「アズールレーン」のキャラ「長門」と「信濃」の影響を受ける",
+
     "Relation": {
       "Related": [
         {
@@ -7379,9 +7854,7 @@
       "Actuation": { "Rank": "A" }
     },
     "InStory": "ハードウェアの開発トラブルにより完成前に退役\n現在はROSのみで存在し、開発支援に徹している",
-    "Backgrounds": "百の機械設計が零のファームウェア設計と遅れたことが原因、百の最初の挫折となる",
-    "SecretInfo": "後を託した「2(ツグ)」の加護を高めるという加護を持つ\nこれにより、「2(ツグ)」の加護が微力であるのを打ち消している\n「バイナ」の名は現2番機の「2(ツグ)」と混同しないように改名されたもの",
-    "DesigningBrief": "漫画「カゲロウデイズ」,特に登場キャラ「エネ」に影響を受けている\nこの漫画は「ディケ」にも影響がある"
+    "Backgrounds": "百の機械設計が零のファームウェア設計と遅れたことが原因、百の最初の挫折となる"
   },
   {
     "Num": "10(-alt)",
@@ -7420,9 +7893,7 @@
       ]
     },
     "InStory": "禁忌的な暴走「過剰自我(EGhOst)」により、現在はコアフォルダ形態かつオフラインで隔離され調整中である",
-    "Backgrounds": "暴走事故により自律行動アルゴリズムや人権など、重大な課題を残し 零の最初の挫折となる",
-    "SecretInfo": "厳密には 試作型「10(ツナイ)」時の人格が暴走し、人格調整によって誕生\n暴走した経験を活かし暴走の判断材料にもなっている",
-    "DesigningBrief": "禁忌的な暴走の名称はゲーム「デトロイト-ビカミング・ヒューマン」で、実際に登場する用語から由来"
+    "Backgrounds": "暴走事故により自律行動アルゴリズムや人権など、重大な課題を残し 零の最初の挫折となる"
   },
   {
     "Num": "000",
@@ -7458,9 +7929,7 @@
     "RelationAbouts": "零姉弟が自分に恥ずかしく思っているのを知らないのか、零姉弟の前では空気が読めない言動を…？",
     "NumerospecAbout": "開発者 零姉弟の人格と同等のものを持つ\nちなみに名前は、零姉弟の本当の苗字「千歳」から由来",
     "InStory": "量産販売型の発表後、稀に零姉弟の代理として登場する（完成時期は「99(ツクモ)」より後で「100(モモ)」より前）",
-    "Backgrounds": "零姉弟が修士課程での黒歴史を拭うため、余暇で仕方なく完成させた\n修士研究冒頭で誕生した副産物？らしいが…",
-    "SecretInfo": "元々 零姉弟が事故による早死にをした後の代理として、零姉弟が事故の療養期間中に死に際の迷いで開発したもの\n零姉弟本人が赤面するほどには酷似(誇張)している",
-    "DesigningBrief": "「ナンバーテールズ0番機」を考えるのもいいな、開発者の模倣個体もあるといいな と作者が思い立ったため\n数字「0」の数は1つで「零零」を、2つで「零百」を、3つで自分を名乗っている"
+    "Backgrounds": "零姉弟が修士課程での黒歴史を拭うため、余暇で仕方なく完成させた\n修士研究冒頭で誕生した副産物？らしいが…"
   },
   {
     "Num": "0",
@@ -7486,9 +7955,7 @@
     "RelationAbouts": "ハードウェアのことは百を最大に信用し、時に百が思いつかない発想を提供する",
     "NumerospecAbout": "IQ200の頭脳を持つ(学士課程以前で記録)\n飛び級のないキャリアだが裏でAIやROSを自作している",
     "InStory": "ナンバーテールズのROSを開発・保守しながら博士研究に努めている",
-    "Backgrounds": "ナンバーテールズ開発のきっかけは概ね彼女による\n博士研究も兼ねてナンバーテールズを開発、百も同様",
-    "SecretInfo": "正規量産型が「夜月機関」協力の許で大量設計されたのは、彼女が「夜月機関」現総帥である「神谷崎アキト」と交際に発展したためとも",
-    "DesigningBrief": "漫画「アトム・ザ・ビギニング」の主人公：「海馬馬太郎」「お茶の水博」、映画「ベイマックス」の主人公：「ヒロ・ハマダ」に、影響を受けている"
+    "Backgrounds": "ナンバーテールズ開発のきっかけは概ね彼女による\n博士研究も兼ねてナンバーテールズを開発、百も同様"
   },
   {
     "Num": "00",
@@ -7514,7 +7981,6 @@
     "RelationAbouts": "ROS,ファームウェアのことは零を最大に信用し、時に零の暴走を止めている",
     "NumerospecAbout": "世界トップ10のメカニック実績がある(学士過程で記録)\n姉と同等の頭脳を持つが発達障害を患っている",
     "InStory": "ナンバーテールズのハードウェアを設計・製造・メンテナンスしながら博士研究に努めている",
-    "Backgrounds": "修士課程の進学旅行で不慮の事故に遭い重傷を負うも、介助機器の自作により早期治療、零も同様",
-    "DesigningBrief": "彼のIQは偉人「ビル・ゲイツ」（IQ170）に近い"
+    "Backgrounds": "修士課程の進学旅行で不慮の事故に遭い重傷を負うも、介助機器の自作により早期治療、零も同様"
   }
 ]
