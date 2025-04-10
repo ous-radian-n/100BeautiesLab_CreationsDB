@@ -11,8 +11,8 @@ http://creativecommons.org/licenses/by-nc/4.0/
 
 ## 利用許可について
 
-一次創作でありシリーズ名のタグ「 #運命線狐の記録 」「 #フィジカル 9 」「 #ナンバーテールズ 」「 #運命線探偵 OCTOGINTA 」「 #獣爾騎兵 」「 #パストダイヴァー 」のいずれかが付与されている作品（以下、「一次創作作品」）の第三者による画像の利用は原則許可が必要です
-（許可申請は [こちら](htps://misskey.numbertales-radiann.net/@RadianN_kswg)または[こちら](htps://misskey.io/@RadianN_kswg)にて）
+一次創作でありシリーズ名のタグ「 #運命線狐の記録 」「 #フィジカル 9 」「 #ナンバーテールズ 」「 #運命線探偵 OCTOGINTA 」「#運命線探偵 78」「 #獣爾騎兵 」「 #パストダイヴァー 」および「#豹変系女子」のいずれかが付与されている作品（以下、「一次創作作品」）の第三者による画像の利用は原則許可が必要です
+（許可申請は [こちら](htps://misskey.io/@RadianN_kswg@misskey.numbertales-radiann.net)または[こちら](htps://misskey.io/@RadianN_kswg@misskey.flowers)にて）
 
 # 二次創作作品におけるガイドライン
 
@@ -43,12 +43,13 @@ http://creativecommons.org/licenses/by-nc/4.0/
 
 ④**他クリエイターのガイドラインなどに違反する作品への起用**
 
-⑤**以下のサイトに記載の設定から著しく相違があり 公式設定について混乱を招きかねない描写**
+⑤**以下に記載の設定から著しく相違があり 公式設定について混乱を招きかねない描写**
 
 - [ナンバーテールズ公式サイト](http://www.numbertales-radiann.com)
-  （ある程度は黙認しますが、**あまりにも公式設定から逸する二次創作はご遠慮願います。**）
+- [「百花繚乱研究所」公式 Misskey アカウント](https://misskey.io/@offical/@https://numbertales-radiann.net)
+  （ある程度は黙認しますが、**明らかに公式設定から逸する二次創作はご遠慮願います。**）
 
-※なお 以上の違反行為を見かけた際は、まず原作者：ラジアン(柏木主税)( htps://misskey.numbertales-radiann.net/@RadianN_kswg, htps://misskey.io/@RadianN_kswg )にご一報ください。こちらから然るべき対応を取らせていただきます。
+※なお 以上の違反行為を見かけた際は、まずラジアン(柏木主税)(メールアドレス：radiann.kswg6631＠gmail.com)にご一報ください。こちらから然るべき対応を取らせていただきます。
 
 ## 二次創作作品の OK/NG リスト
 
