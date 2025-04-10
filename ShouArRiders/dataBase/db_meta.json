@@ -1,48 +1,48 @@
 {
-	"Databases": {
-	  "DataBases": {
-		"Summary": null,
-		"VarsLists": null
-	  }
-	},
-	"General": {
-	  "VarsLists": {
-		"List_Beast": [
-			{"Beast": "Mouse", "Eto": "子", "about": "鼠", "Num": 1},
-			{"Beast": "Ox", "Eto": "丑", "about": "牛", "Num": 2},
-			{"Beast": "Tiger", "Eto": "寅", "about": "虎", "Num": 3},
-			{"Beast": "Rabbit", "Eto": "卯", "about": "兎", "Num": 4},
-			{"Beast": "Dragon", "Eto": "辰", "about": "竜", "Num": 5},
-			{"Beast": "Snake", "Eto": "巳", "about": "蛇", "Num": 6},
-			{"Beast": "Horse", "Eto": "午", "about": "馬", "Num": 7},
-			{"Beast": "Sheep", "Eto": "未", "about": "羊", "Num": 8},
-			{"Beast": "Monkey", "Eto": "申", "about": "猿", "Num": 9},
-			{"Beast": "Bird", "Eto": "酉", "about": "鳥", "Num": 10},
-			{"Beast": "Dog", "Eto": "戌", "about": "犬", "Num": 11},
-			{"Beast": "Fox", "Eto": "戌", "about": "狐", "Num": 11},
-			{"Beast": "Boar", "Eto": "亥", "about": "猪", "Num": 12},
-			{"Beast": "Cat", "Eto": null, "about": "猫", "Num": 13}
-		],
-		"Def_BeastspecStats": {
-		  "Def_SpecType": {
-		  },
-		  "Def_SpetialPattern": {
-			"Enum_SpetialPattern": null
-		  },
-		  "Def_SpecLevel": {
-			"SpecLevelText_ForRanks": {
-			  "R2_Great": "強力",
-			  "R3_Good": "やや強力",
-			  "R4_Normal": "標準的",
-			  "R5_NotSoGood": "やや弱力",
-			  "R6_Bad": "弱力",
-			  "R7_Worst": "能力的強度無",
-			  "R2plus_Extended": "かなり強力",
-			  "R1_OverLimited": "驚異的",
-			  "R8_Dangerous": "危険"
-			}
-		  }
-		}
-	  }
-	}
+  "Databases": {
+    "DataBases": {
+      "Summary": null,
+      "VarsLists": null
+    }
+  },
+  "General": {
+    "VarsLists": {
+      "List_Beast": [
+        { "Beast": "Mouse", "Eto": "子", "about": "鼠", "Num": 1 },
+        { "Beast": "Ox", "Eto": "丑", "about": "牛", "Num": 2 },
+        { "Beast": "Tiger", "Eto": "寅", "about": "虎", "Num": 3 },
+        { "Beast": "Rabbit", "Eto": "卯", "about": "兎", "Num": 4 },
+        { "Beast": "Dragon", "Eto": "辰", "about": "竜", "Num": 5 },
+        { "Beast": "Snake", "Eto": "巳", "about": "蛇", "Num": 6 },
+        { "Beast": "Horse", "Eto": "午", "about": "馬", "Num": 7 },
+        { "Beast": "Sheep", "Eto": "未", "about": "羊", "Num": 8 },
+        { "Beast": "Monkey", "Eto": "申", "about": "猿", "Num": 9 },
+        { "Beast": "Bird", "Eto": "酉", "about": "鳥", "Num": 10 },
+        { "Beast": "Raccoon", "Eto": "戌", "about": "狸", "Num": 11 },
+        { "Beast": "Fox", "Eto": "戌", "about": "狐", "Num": 11 },
+        { "Beast": "Boar", "Eto": "亥", "about": "猪", "Num": 12 },
+        { "Beast": "Cat", "Eto": null, "about": "猫", "Num": 13 },
+        { "Beast": "Dog", "Eto": "戌", "about": "犬", "Num": null }
+      ],
+      "Def_BeastspecStats": {
+        "Def_SpecType": {},
+        "Def_SpetialPattern": {
+          "Enum_SpetialPattern": null
+        },
+        "Def_SpecLevel": {
+          "SpecLevelText_ForRanks": {
+            "R2_Great": "強力",
+            "R3_Good": "やや強力",
+            "R4_Normal": "標準的",
+            "R5_NotSoGood": "やや弱力",
+            "R6_Bad": "弱力",
+            "R7_Worst": "能力的強度無",
+            "R2plus_Extended": "かなり強力",
+            "R1_OverLimited": "驚異的",
+            "R8_Dangerous": "危険"
+          }
+        }
+      }
+    }
   }
+}
