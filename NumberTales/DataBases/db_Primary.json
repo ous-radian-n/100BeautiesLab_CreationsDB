@@ -3035,9 +3035,12 @@
   },
   {
     "Num": 34,
-    "Released": "nowCreating",
-    "Name": "サトシ",
-    "Name_EN": "Thirfory",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image34"
+    },
+    "Name": "サトシ\n(サンジ)",
+    "Name_EN": "Thirfory\n(Troubleforcer)",
     "FormalName": "ナンバーテールズ3+4号機甲\nナンバーテールズ34番機",
     "ModelNumber": "APHR-NT III+IV.A\nNumberTales #34",
     "CodeName": "三四",
@@ -3062,10 +3065,45 @@
     "SpetialSkil": "ギャンブルで誰が負けるかの予想",
     "Favor": "一騎当千できるアクションゲーム",
     "Unlike": "妥協",
+    "WellmatchedNTsNames": "32(ミツギ)?",
     "UnmatchedNTsNames": "43(シトミ)",
+    "RelationAbouts": "妹個体「43(シトミ)」に誘発されてあらぬ事態を引き起こすことも……",
     "NumerospecAbout": "規模を発展させる",
+    "Summary": "営業力が全個体で群を抜いて高いため、彼(女)が行っている副業は必ず成功している。\nただ主従契約の収益に問題こそないものの、不要に事態を肥大化させようとする蛇足癖があるため、あらぬ被害を招いている。\nそのためナンバーテールズの活動そのものを大きく暴走させかねないことから、開発者「百(ハゲム)」の胃を壊している。\nちなみに、アンチからの通称は「サンジ(惨事)」。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "D", "EffectText": "効果無" },
+        "Manetize": { "Rank": "Z", "EffectText": "過剰" },
+        "Working": { "Rank": { "HideText": "公開不能" } },
+        "Luck": { "Rank": "ZZ", "EffectText": "危険" },
+        "Communication": { "Rank": { "HideText": "条件による" } }
+      },
+      "SpetialPattern": [
+        "Ptn.C(状況変化効果)",
+        "Ptn.ZZ(逆効能および禁断効果に警戒)"
+      ],
+      "SafetyLevel": { "Rank": "E", "SafetyText": "厳重注意" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": { "HideText": "条件による" } },
+      "Reading": { "Rank": "Z" },
+      "Precision": { "Rank": "D" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "B+" }
+    },
     "InStory": "関西弁を真似たような口調",
     "Relation": {
+      "Related": [
+        {
+          "Num": 32,
+          "Comments": "コイツには負けてられへん…!!"
+        },
+        {
+          "Num": 43,
+          "Comments": "（※検閲で削除されている…）"
+        }
+      ],
       "Commented": [
         {
           "Num": 7,
@@ -3076,20 +3114,16 @@
           "Comments": "初々しいところも可愛え子"
         },
         {
-          "Num": 32,
-          "Comments": "コイツには負けてられへん…!!"
-        },
-        {
           "Num": 40,
           "Comments": "なんかずるいわアイツ…"
         },
         {
-          "Num": 43,
-          "Comments": "（※検閲で削除されている…）"
-        },
-        {
           "Num": 70,
           "Comments": "ようわからんけどやりおるな…"
+        },
+        {
+          "Num": "00",
+          "Comments": "体調不良か？ならワイにいい考えが……あれ？"
         }
       ]
     }
