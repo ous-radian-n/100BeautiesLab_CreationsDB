@@ -3736,7 +3736,10 @@
   },
   {
     "Num": 43,
-    "Released": "nowCreating",
+    "Released": "released",
+    "Images": {
+      "consept_PNGName": "cnsp_image43"
+    },
     "Name": "シトミ",
     "Name_EN": "Forthren",
     "FormalName": "ナンバーテールズ3+4号機乙\nナンバーテールズ43番機",
@@ -3745,27 +3748,81 @@
     "SPCodeName": "四十三",
     "GenderType": "Female",
     "Height_cm": 134,
-    "ConseptAge": 13,
+    "ConseptAge": 14,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
+    "Weight_kg": { "about": { "HideText": "非公開" } },
     "Class": "デュアルセブンズ",
     "Class_EN": "Dual Sum-7s",
-    "Character": "メスガキ、前向きでなんでも良き過程として捉える",
+    "BustSize": "D",
+    "TailsUnit": "キツネ(枝分かれ)型4本(上1束1本+下2束3本)",
+    "FirstPersonCalling": "うち",
+    "SecondPersonCalling": "[Name]\n~ん",
+    "ThirdPersonCalling": "[二人称];*の人;*れ*いつ",
+    "ForMasterCalling": "あるじん ※例外あり",
+    "Character": "なんでも自分の都合よく物事が動くと捉えているメスガキ",
     "Hobby": "対戦ゲーム",
     "SpetialSkil": "挑発",
+    "Favor": "ボイスチャット、姉(兄)を弄り倒すこと",
+    "Unlike": "配慮",
+    "UnmatchedNTsNames": "34(サトシ)",
     "NumerospecAbout": "望みを広げる",
+    "Summary": "消極的思考を抑えるメンター効果があるとされており、一時期注目を浴びていた個体。\nしかし自己中心的で挑発的な性格もあり、ネット上で泣かされキャラが確立してしまっている。\n趣味で対戦ゲームをよくするため、現在は主従契約のご縁よりゲームやボイスチャットでのご縁が多い。\n「34(サトシ)」などといった他個体を煽り、とんでもないフラグを建ててしまうことも。",
+    "NumerospecStats": {
+      "EffectStats": {
+        "Mental": { "Rank": "A", "EffectText": "期待" },
+        "Manetize": { "Rank": { "HideText": "条件による" } },
+        "Working": { "Rank": { "HideText": "条件による" } },
+        "Luck": { "Rank": "Z", "EffectText": "極めて絶大(場合により逆効果)" },
+        "Communication": { "Rank": { "HideText": "条件による" } }
+      },
+      "SpetialPattern": [
+        "Ptn.Lr-(条件付き幸福実現効果)",
+        "Ptn.Z[Hd](効果に一定の精神的耐性が必要)"
+      ],
+      "SafetyLevel": { "Rank": "D", "SafetyText": "注意" }
+    },
+    "AbilityStats": {
+      "Speed": { "Rank": "B" },
+      "Communicating": { "Rank": { "HideText": "条件による" } },
+      "Reading": { "Rank": "B" },
+      "Precision": { "Rank": "S" },
+      "Technic": { "Rank": "A" },
+      "Actuation": { "Rank": "A" }
+    },
     "DesigningBrief": "ボーカロイド楽曲/ボイスロイド劇場「永遠にゲームで対戦したいキリタン」(GYARI)に影響されている",
     "Relation": {
+      "Related": [
+        {
+          "Num": 34,
+          "Comments": "にぃにのざーこ★ばーか★"
+        }
+      ],
       "Commented": [
         {
-          "Num": 25
+          "Num": 3,
+          "Comments": "めちゃくちゃ強い"
         },
         {
-          "Num": 34
+          "Num": 4,
+          "Comments": "可哀そうだからちょっかいはかけない"
         },
         {
-          "Num": 79
+          "Num": 25,
+          "Comments": "あまり動じてくれない…"
+        },
+        {
+          "Num": 46,
+          "Comments": "うるさいからほっといてる"
+        },
+        {
+          "Num": 70,
+          "Comments": "真面目癖を侵してみたい"
+        },
+        {
+          "Num": 79,
+          "Comments": "なにいってんのこいつ…"
         }
       ]
     }
