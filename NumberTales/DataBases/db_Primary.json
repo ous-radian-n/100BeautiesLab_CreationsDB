@@ -1,9 +1,9 @@
 [
   {
     "Num": 1,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image1"
+      "concept_PNGName": "cnsp_image1"
     },
     "Name": "ハジメ",
     "Name_EN": "Unitta",
@@ -13,7 +13,7 @@
     "SPCodeName_EN": "First",
     "GenderType": "Neutral",
     "Height_cm": 146,
-    "ConseptAge": 14,
+    "ConceptAge": 14,
     "AnivDay": [
       {
         "Day": { "DayOfMonth": 1, "Month": "Jan" },
@@ -36,7 +36,7 @@
     "ForMasterCalling": "～兄(にぃ)/～姉(ねぇ)",
     "Character": "行動意欲が突出している怖いもの知らず\n自分らしさを前向きに受け入れている",
     "Hobby": "なんでも",
-    "SpetialSkil": "たくさんあるらしい",
+    "SpetialSkill": "たくさんあるらしい",
     "Favor": "新しいこと、新体験",
     "Unlike": "人格否定",
     "WellmatchedNTsNames": "2(ツグ)",
@@ -56,7 +56,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "A" }
@@ -97,9 +97,9 @@
   },
   {
     "Num": 2,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image2"
+      "concept_PNGName": "cnsp_image2"
     },
     "Name": "ツグ",
     "Name_EN": "Twiny",
@@ -110,7 +110,7 @@
     "SPCodeName_EN": "Next",
     "GenderType": "Female",
     "Height_cm": 146,
-    "ConseptAge": 14,
+    "ConceptAge": 14,
     "AnivDay": [
       {
         "Day": { "DayOfMonth": 2, "Month": "Jan" },
@@ -132,7 +132,7 @@
     "ForMasterCalling": "～兄(にぃ)/～姉(ねぇ)",
     "Character": "他人想いでマネージャー的存在\n周囲と欲求が相反して癒しを求める一面も",
     "Hobby": "他のナンバーテールズも支えること",
-    "SpetialSkil": "人耳無しで眼鏡を掛けられる（ハードウェアの仕様上）",
+    "SpetialSkill": "人耳無しで眼鏡を掛けられる（ハードウェアの仕様上）",
     "Favor": "よろこんでもらえること\nお姉さん",
     "Unlike": "自分の限界",
     "WellmatchedNTsNames": "1(ハジメ)\n3(ナオ)",
@@ -153,7 +153,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -194,9 +194,9 @@
   },
   {
     "Num": 3,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image3"
+      "concept_PNGName": "cnsp_image3"
     },
     "Name": "ナオ",
     "Name_EN": "Treiya",
@@ -205,7 +205,7 @@
     "CodeName": "三",
     "GenderType": "Neutral",
     "Height_cm": 160,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -220,7 +220,7 @@
     "ForMasterCalling": "相棒",
     "Character": "真面目な優等生\n厳格でなく遊び心の高い青年のような気質",
     "Hobby": "デジタルゲーム",
-    "SpetialSkil": "ビギナーズラックがある",
+    "SpetialSkill": "ビギナーズラックがある",
     "Favor": "ロマン",
     "Unlike": "性格の悪い大人",
     "WellmatchedNTsNames": "1(ハジメ)",
@@ -240,7 +240,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "S" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -279,9 +279,9 @@
   },
   {
     "Num": 4,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image4",
+      "concept_PNGName": "cnsp_image4",
       "catalog_PNGName": "chr-dsgn_catalog4"
     },
     "Name": "モチ",
@@ -291,7 +291,7 @@
     "CodeName": "四",
     "GenderType": "Female",
     "Height_cm": 157,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -306,7 +306,7 @@
     "ForMasterCalling": "お兄ちゃん/お姉ちゃん",
     "Character": "感情表現豊かで臆病\n根はとてもしっかりしている",
     "Hobby": "パズル\n物語鑑賞",
-    "SpetialSkil": "白色40000ピースパズルを完成できる",
+    "SpetialSkill": "白色40000ピースパズルを完成できる",
     "Favor": "ラノベ(ライトノベル)",
     "Unlike": "奇妙なこと全般",
     "WellmatchedNTsNames": "6(ムイ)",
@@ -328,7 +328,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "B" }
@@ -369,9 +369,9 @@
   },
   {
     "Num": 5,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image5"
+      "concept_PNGName": "cnsp_image5"
     },
     "Name": "イズ",
     "Name_EN": "Fifa",
@@ -380,7 +380,7 @@
     "CodeName": "五",
     "GenderType": "Female",
     "Height_cm": 156,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 5, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -396,7 +396,7 @@
     "ForMasterCalling": "[？？？]",
     "Character": "屈指のマイペース\n挑発に乗りやすく冷めやすくチョロい",
     "Hobby": "気分による",
-    "SpetialSkil": "バク天",
+    "SpetialSkill": "バク天",
     "Favor": "いつもと違うこと",
     "Unlike": "型にはまること",
     "WellmatchedNTsNames": "3(ナオ)",
@@ -418,7 +418,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "Z" },
       "Communicating": { "Rank": { "HideText": "判定不能" } },
-      "Reading": { "Rank": "D" },
+      "Leading": { "Rank": "D" },
       "Precision": { "Rank": "C" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
@@ -459,9 +459,9 @@
   },
   {
     "Num": 6,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image6",
+      "concept_PNGName": "cnsp_image6",
       "catalog_PNGName": "chr-dsgn_catalog6"
     },
     "Name": "ムイ",
@@ -471,7 +471,7 @@
     "CodeName": "六",
     "GenderType": "Female",
     "Height_cm": 150,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -486,7 +486,7 @@
     "ForMasterCalling": "ご主人様（/お嬢様）",
     "Character": "美徳に満ち溢れており個性を大切にしている\n「光属性」\nとても温厚で穏やか",
     "Hobby": "美術鑑賞",
-    "SpetialSkil": "画力がある",
+    "SpetialSkill": "画力がある",
     "Favor": "かわいいぬいぐるみ\nスキンシップ",
     "Unlike": { "HideText": "？？？" },
     "WellmatchedNTsNames": "ほぼ誰でも",
@@ -508,7 +508,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "S" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
@@ -547,9 +547,9 @@
   },
   {
     "Num": 7,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image7"
+      "concept_PNGName": "cnsp_image7"
     },
     "Name": "ナナ",
     "Name_EN": "Sevan",
@@ -558,7 +558,7 @@
     "CodeName": "七",
     "GenderType": "Neutral",
     "Height_cm": 162,
-    "ConseptAge": 22,
+    "ConceptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -573,7 +573,7 @@
     "ForMasterCalling": "主殿",
     "Character": "意識が高く、単独行動を好む\nイメトレで思想的になりがち",
     "Hobby": "イメトレ(イメージトレーニング)\n神話・伝承に興味",
-    "SpetialSkil": "習字",
+    "SpetialSkill": "習字",
     "Favor": "ハースストーン",
     "Unlike": "非常識",
     "WellmatchedNTsNames": "9(チカ)\n70(ナナト)",
@@ -595,7 +595,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "B+" }
@@ -633,9 +633,9 @@
   },
   {
     "Num": 8,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image8"
+      "concept_PNGName": "cnsp_image8"
     },
     "Name": "ワカツ",
     "Name_EN": "Eighas",
@@ -644,7 +644,7 @@
     "CodeName": "八",
     "GenderType": "Female",
     "Height_cm": 158,
-    "ConseptAge": 19,
+    "ConceptAge": 19,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -660,7 +660,7 @@
     "ForMasterCalling": "兄貴/姉貴",
     "Character": "格好いいもの好き、エンジニアポジション\n欲しいものややりたいことに貪欲で自分で作る",
     "Hobby": "機械いじり\nガジェット鑑賞",
-    "SpetialSkil": "グレードアップ",
+    "SpetialSkill": "グレードアップ",
     "Favor": "かっこいいもの\nガジェット",
     "Unlike": "厭なことを強要されること",
     "WellmatchedNTsNames": "7(ナナ)",
@@ -682,7 +682,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "B+" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B+" }
@@ -722,9 +722,9 @@
   },
   {
     "Num": 9,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image9"
+      "concept_PNGName": "cnsp_image9"
     },
     "Name": "チカ",
     "Name_EN": "Nina",
@@ -733,7 +733,7 @@
     "CodeName": "九",
     "GenderType": "Female",
     "Height_cm": 160,
-    "ConseptAge": 21,
+    "ConceptAge": 21,
     "AnivDay": [
       { "Day": { "DayOfMonth": 9, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -749,7 +749,7 @@
     "ForMasterCalling": "坊や/お嬢さん",
     "Character": "博愛主義で悩みを相談しやすく落ち着いている\n同情を大切にしている「闇属性」の癒し担当\n哀しみを救済してくれると評判",
     "Hobby": "バラード音楽鑑賞",
-    "SpetialSkil": "お悩み相談",
+    "SpetialSkill": "お悩み相談",
     "Favor": "良識\n悩める人たち",
     "Unlike": "良識から極めて離れた行為",
     "WellmatchedNTsNames": "2(ツグ)",
@@ -770,7 +770,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "Z" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B+" }
@@ -809,9 +809,9 @@
   },
   {
     "Num": 10,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image10"
+      "concept_PNGName": "cnsp_image10"
     },
     "Name": "ミツル",
     "Name_EN": "Tenim",
@@ -821,7 +821,7 @@
     "SPCodeName": "十",
     "GenderType": "Neutral",
     "Height_cm": 147,
-    "ConseptAge": 15,
+    "ConceptAge": 15,
     "AnivDay": [
       {
         "Day": { "DayOfMonth": 10, "Month": "Oct" },
@@ -844,7 +844,7 @@
     "ForMasterCalling": "センパイ",
     "Character": "胸に秘めている思考か読めない不思議系\n自分は何の為にいるかを常に問い、何かに導かれるような振舞いをしている",
     "Hobby": "自分探し",
-    "SpetialSkil": "護身術",
+    "SpetialSkill": "護身術",
     "Favor": "純粋なヒューマノイド",
     "Unlike": "ヒューマノイドの暴走",
     "WellmatchedNTsNames": "1(ハジメ)？\n2(ツグ)",
@@ -866,7 +866,7 @@
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "非公開" } },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": { "HideText": "非公開" } }
@@ -907,9 +907,9 @@
   },
   {
     "Num": 11,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image11"
+      "concept_PNGName": "cnsp_image11"
     },
     "Name": "トウイチ",
     "Name_EN": "Elevan",
@@ -920,7 +920,7 @@
     "SPCodeName_EN": "Eleven",
     "GenderType": "Neutral",
     "Height_cm": 161,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 11, "Month": "Nov" }, "DayAbout": "開発記念" }
     ],
@@ -935,7 +935,7 @@
     "ForMasterCalling": "[二人称]",
     "Character": "自我と自己認識が強く稀に暴走する\nどこか神々しい振る舞いをしている",
     "Hobby": "パワースポット巡り",
-    "SpetialSkil": "直観が99.9%的中する",
+    "SpetialSkill": "直観が99.9%的中する",
     "Favor": "風水術",
     "Unlike": "スランプ",
     "WellmatchedNTsNames": "99(ツクモ)",
@@ -957,7 +957,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "S" }
@@ -997,9 +997,9 @@
   },
   {
     "Num": 12,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image12"
+      "concept_PNGName": "cnsp_image12"
     },
     "Name": "トウジ",
     "Name_EN": "Twelva",
@@ -1010,7 +1010,7 @@
     "SPCodeName_EN": "Twelve",
     "GenderType": "Female",
     "Height_cm": 148,
-    "ConseptAge": 14,
+    "ConceptAge": 14,
     "AnivDay": [
       { "Day": { "DayOfMonth": 12, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -1026,7 +1026,7 @@
     "ForMasterCalling": "お兄(にぃ)/お姉(ねぇ)",
     "Character": "素直で正直\n自分がやると決めたことには物腰が極めて軽い",
     "Hobby": "プレゼン鑑賞",
-    "SpetialSkil": "推理",
+    "SpetialSkill": "推理",
     "Favor": "言霊",
     "Unlike": "嘘を吐くこと",
     "WellmatchedNTsNames": "1(ハジメ)\nバイナ",
@@ -1047,7 +1047,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "S" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
@@ -1092,9 +1092,9 @@
   },
   {
     "Num": 13,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image13"
+      "concept_PNGName": "cnsp_image13"
     },
     "Name": "トミ",
     "Name_EN": "Thirteena",
@@ -1104,7 +1104,7 @@
     "SPCodeName": "十三",
     "GenderType": "Female",
     "Height_cm": 148,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 13, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -1119,7 +1119,7 @@
     "ForMasterCalling": "ご主人",
     "Character": "チャレンジ精神旺盛な体育会系\nただし駆け引きが苦手で地雷要因になることも",
     "Hobby": "スポーツセンター巡り",
-    "SpetialSkil": "球技（主に玉を投げるもの）",
+    "SpetialSkill": "球技（主に玉を投げるもの）",
     "Favor": "イベント/大会参加",
     "Unlike": "心理戦",
     "WellmatchedNTsNames": "14(トヨ)?",
@@ -1140,7 +1140,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "B" }
@@ -1186,9 +1186,9 @@
   },
   {
     "Num": 14,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image14"
+      "concept_PNGName": "cnsp_image14"
     },
     "Name": "トヨ",
     "Name_EN": "Forteels",
@@ -1198,7 +1198,7 @@
     "SPCodeName": "十四",
     "GenderType": "Female",
     "Height_cm": 146,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 14, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -1214,7 +1214,7 @@
     "ForMasterCalling": "主人",
     "Character": "元気溌剌で挑戦的な右脳(感覚)派\nかなりのオールラウンダーであるため、左脳(理論)派な一面もあるのではという噂も",
     "Hobby": "自分試し",
-    "SpetialSkil": "手品",
+    "SpetialSkill": "手品",
     "Favor": "カードゲーム",
     "Unlike": "じっとしていること",
     "WellmatchedNTsNames": "22(フジ)",
@@ -1235,7 +1235,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "S" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -1278,9 +1278,9 @@
   },
   {
     "Num": 15,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image15"
+      "concept_PNGName": "cnsp_image15"
     },
     "Name": "トウゴ",
     "Name_EN": "Fifteeld",
@@ -1291,7 +1291,7 @@
     "SPCodeName_EN": "One Half (Tens)",
     "GenderType": "Neutral",
     "Height_cm": 158,
-    "ConseptAge": 18,
+    "ConceptAge": 18,
     "AnivDay": [
       {
         "Day": { "DayOfMonth": 15, "Month": "Jan" },
@@ -1314,7 +1314,7 @@
     "ForMasterCalling": "主(あるじ)",
     "Character": "極めて控えめに見えて実は男気のある気質\n自分を律することで因果応報が成立すると、信じている",
     "Hobby": "遠景を眺める",
-    "SpetialSkil": "6時間後の天気を当てる",
+    "SpetialSkill": "6時間後の天気を当てる",
     "Favor": "開運グッズ\n何があっても完膚なきこと",
     "Unlike": "邪知暴虐",
     "WellmatchedNTsNames": "12(トウジ)",
@@ -1336,7 +1336,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -1384,9 +1384,9 @@
   },
   {
     "Num": 16,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image16",
+      "concept_PNGName": "cnsp_image16",
       "catalog_PNGName": "chr-dsgn_catalog16"
     },
     "Name": "ソロク",
@@ -1397,7 +1397,7 @@
     "SPCodeName": "十六",
     "GenderType": "Female",
     "Height_cm": 147,
-    "ConseptAge": { "value": 18, "about": "？" },
+    "ConceptAge": { "value": 18, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 16, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -1413,7 +1413,7 @@
     "ForMasterCalling": "マスター君",
     "Character": "才色兼備\n物質的なものより行動や能力を重んじる\n主人公意識が強く挑戦意欲がある",
     "Hobby": "演劇",
-    "SpetialSkil": "剣道・剣舞",
+    "SpetialSkill": "剣道・剣舞",
     "Favor": "知恵の輪",
     "Unlike": "コンディション不良",
     "WellmatchedNTsNames": "17(トナ)",
@@ -1435,7 +1435,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "S" }
@@ -1481,9 +1481,9 @@
   },
   {
     "Num": 17,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image17"
+      "concept_PNGName": "cnsp_image17"
     },
     "Name": "トナ",
     "Name_EN": "Sevteena",
@@ -1493,7 +1493,7 @@
     "SPCodeName": "十七",
     "GenderType": "Female",
     "Height_cm": 151,
-    "ConseptAge": 22,
+    "ConceptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 17, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -1509,7 +1509,7 @@
     "ForMasterCalling": "センセ",
     "Character": "知識欲旺盛だが少し現金\n知識や自己研鑽が自分の報酬となると信じている",
     "Hobby": "資格取得",
-    "SpetialSkil": "カジノ",
+    "SpetialSkill": "カジノ",
     "Favor": "知識",
     "Unlike": "貧困\n女性ぽくないと言われること",
     "WellmatchedNTsNames": "89(ヤスモ)",
@@ -1530,7 +1530,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "B+" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B" }
@@ -1574,9 +1574,9 @@
   },
   {
     "Num": 18,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image18"
+      "concept_PNGName": "cnsp_image18"
     },
     "Name": "トウヤ",
     "Name_EN": "Eighteeld",
@@ -1586,7 +1586,7 @@
     "SPCodeName": "十八",
     "GenderType": "Female",
     "Height_cm": 153,
-    "ConseptAge": 20,
+    "ConceptAge": 20,
     "AnivDay": [
       { "Day": { "DayOfMonth": 18, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -1601,7 +1601,7 @@
     "ForMasterCalling": "親分(おやびん)",
     "Character": "責任感の強いエースポジション\n信頼感が圧倒的にある",
     "Hobby": "偉人伝を読むこと",
-    "SpetialSkil": "喧嘩の仲裁",
+    "SpetialSkill": "喧嘩の仲裁",
     "Favor": "平和",
     "Unlike": "混沌としたこと",
     "WellmatchedNTsNames": "9(チカ)",
@@ -1623,7 +1623,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B" }
@@ -1664,9 +1664,9 @@
   },
   {
     "Num": 19,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image19"
+      "concept_PNGName": "cnsp_image19"
     },
     "Name": "トク",
     "Name_EN": "Ninteels",
@@ -1676,7 +1676,7 @@
     "SPCodeName": "十九",
     "GenderType": "Neutral",
     "Height_cm": 157,
-    "ConseptAge": 20,
+    "ConceptAge": 20,
     "AnivDay": [
       { "Day": { "DayOfMonth": 19, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -1691,7 +1691,7 @@
     "ForMasterCalling": "(～)兄さん/(～)姉さん",
     "Character": "調子に乗りやすく、やり切った時はドヤる\nやるときはやるので、憎みたくても憎めない",
     "Hobby": "ルービックキューブ（で\n絵を描く）",
-    "SpetialSkil": "チェス",
+    "SpetialSkill": "チェス",
     "Favor": "サイコロ/ダイス\nルービックキューブ",
     "Unlike": "今乗り気じゃないこと",
     "UnmatchedNTsNames": "89(ヤスモ)",
@@ -1712,7 +1712,7 @@
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "非公開" } },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": { "HideText": "非公開" } },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": { "HideText": "非公開" } }
@@ -1750,9 +1750,9 @@
   },
   {
     "Num": 20,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image20"
+      "concept_PNGName": "cnsp_image20"
     },
     "Name": "ハツカ",
     "Name_EN": "Twentia",
@@ -1762,7 +1762,7 @@
     "SPCodeName": "廿",
     "GenderType": "Female",
     "Height_cm": 152,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 20, "Month": "Jan" }, "DayAbout": "開発記念" }
     ],
@@ -1778,7 +1778,7 @@
     "ForMasterCalling": "～兄さま/～姉さま",
     "Character": "極めて優しく純粋なので好印象を持たれている\n献身的で怒ることが無い\n信頼を大切にしている",
     "Hobby": "誰かといること",
-    "SpetialSkil": "手料理",
+    "SpetialSkill": "手料理",
     "Favor": "大切な人の幸せ",
     "Unlike": "大切な人の不幸",
     "WellmatchedNTsNames": "24(フトシ)\n42(ヨツグ)",
@@ -1799,7 +1799,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "Z" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "B+" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "A" }
@@ -1842,9 +1842,9 @@
   },
   {
     "Num": 21,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image21"
+      "concept_PNGName": "cnsp_image21"
     },
     "Name": "ハツヒ",
     "Name_EN": "Twinone",
@@ -1865,7 +1865,7 @@
     "ForMasterCalling": "お兄(にぃ)/お姉(ねぇ)",
     "Character": "無邪気で童心をくすぐるような気質\nどこか強いポテンシャルを持つ",
     "Hobby": "人助け",
-    "SpetialSkil": "初見でRPG1作を21時間以内にクリアできる",
+    "SpetialSkill": "初見でRPG1作を21時間以内にクリアできる",
     "Favor": "感謝されること",
     "Unlike": "邪な思考",
     "WellmatchedNTsNames": "28(ニハチ)?",
@@ -1886,7 +1886,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "C" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "B" }
@@ -1929,9 +1929,9 @@
   },
   {
     "Num": 22,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image22"
+      "concept_PNGName": "cnsp_image22"
     },
     "Name": "フジ",
     "Name_EN": "Twin-twina",
@@ -1942,7 +1942,7 @@
     "SPCodeName_EN": "Double(Eleven)",
     "GenderType": "Female",
     "Height_cm": 153,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 22, "Month": "Nov" }, "DayAbout": "開発記念" }
     ],
@@ -1958,7 +1958,7 @@
     "ForMasterCalling": "ルーキー君",
     "Character": "偉才な実績とは相反して、おっとりふわふわな立ち振る舞いをしている",
     "Hobby": "天体観測",
-    "SpetialSkil": "ビリヤード",
+    "SpetialSkill": "ビリヤード",
     "Favor": "丸くて転がるもの",
     "Unlike": "手玉に取られること",
     "WellmatchedNTsNames": "11(トウイチ)",
@@ -1979,7 +1979,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "S" }
@@ -2028,9 +2028,9 @@
   },
   {
     "Num": 23,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image23",
+      "concept_PNGName": "cnsp_image23",
       "catalog_PNGName": "chr-dsgn_catalog23"
     },
     "Name": "ツグミ",
@@ -2040,7 +2040,7 @@
     "CodeName": "二三",
     "GenderType": "Female",
     "Height_cm": 149,
-    "ConseptAge": { "value": 16, "about": "？" },
+    "ConceptAge": { "value": 16, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
@@ -2055,7 +2055,7 @@
     "ForMasterCalling": "リーダー",
     "Character": "積極的で発想力が高く直感が鋭い\n放浪癖があり様々な経験に感化されている",
     "Hobby": "旅行、放浪",
-    "SpetialSkil": "サーフィン",
+    "SpetialSkill": "サーフィン",
     "Favor": "スリル\n面白い話",
     "Unlike": "堅苦しい仕事",
     "WellmatchedNTsNames": "2(ツグ)\n3(ナオ)",
@@ -2077,7 +2077,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
@@ -2120,9 +2120,9 @@
   },
   {
     "Num": 24,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image24"
+      "concept_PNGName": "cnsp_image24"
     },
     "Name": "フトシ",
     "Name_EN": "Hourds",
@@ -2133,7 +2133,7 @@
     "SPCodeName_EN": "Hours(of Day)",
     "GenderType": "Female",
     "Height_cm": 158,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
@@ -2148,7 +2148,7 @@
     "ForMasterCalling": "主さん",
     "Character": "実現力はあるものの、受動的で控えめ\n相手の思いに応えてくれる\n退屈症だが本当は高望みしやすい気質",
     "Hobby": "談笑",
-    "SpetialSkil": "片手で12連打できる",
+    "SpetialSkill": "片手で12連打できる",
     "Favor": "友情ドラマ",
     "Unlike": "失敗",
     "WellmatchedNTsNames": "4(モチ)\n20(ハツカ)",
@@ -2169,7 +2169,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "A" }
@@ -2212,9 +2212,9 @@
   },
   {
     "Num": 25,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image25"
+      "concept_PNGName": "cnsp_image25"
     },
     "Name": "フィズ",
     "Name_EN": "Quartels",
@@ -2225,7 +2225,7 @@
     "SPCodeName_EN": "Quarter(of Percent)",
     "GenderType": "Female",
     "Height_cm": 156,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 5, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
@@ -2241,7 +2241,7 @@
     "ForMasterCalling": "主人さん",
     "Character": "直感が鋭く適応力が高い\nあらゆる結果に対して楽観的で前向き",
     "Hobby": "ヒットアンドブロウ（数当てゲーム）",
-    "SpetialSkil": "チョコレートづくり（温度管理が必要な料理）",
+    "SpetialSkill": "チョコレートづくり（温度管理が必要な料理）",
     "Favor": "先輩たち",
     "Unlike": "知らず知らず疲弊すること",
     "WellmatchedNTsNames": "2(ツグ)\n5(イズ)？",
@@ -2262,7 +2262,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "A" }
@@ -2304,9 +2304,9 @@
   },
   {
     "Num": 26,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image26"
+      "concept_PNGName": "cnsp_image26"
     },
     "Name": "ニロク",
     "Name_EN": "Twinsix",
@@ -2315,7 +2315,7 @@
     "CodeName": "二六",
     "GenderType": "Female",
     "Height_cm": 153,
-    "ConseptAge": { "value": 22, "about": "？" },
+    "ConceptAge": { "value": 22, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
@@ -2330,7 +2330,7 @@
     "ForMasterCalling": "ご主人さま",
     "Character": "愛情に対する感性が優れている\n優しくて思いやりの良い姉のような存在",
     "Hobby": "ドラマ鑑賞",
-    "SpetialSkil": "コーディネート",
+    "SpetialSkill": "コーディネート",
     "Favor": "愛情，マタニティに対する配慮",
     "Unlike": "無関心，憎悪，マタハラ",
     "RelationAbouts": "「16(ソロク)」を甘やかそうとしている\n「62(ロジ)」のおめかし用にコーディネートをよくしている\n「63(ムツミ)」とはママ友(ママ属性友達)らしいが、「26(ニロク)」自身は「63(ムツミ)」と比較意識があるようで…？",
@@ -2351,7 +2351,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "D" },
       "Actuation": { "Rank": "A" }
@@ -2393,9 +2393,9 @@
   },
   {
     "Num": 27,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image27"
+      "concept_PNGName": "cnsp_image27"
     },
     "Name": "ツギナ",
     "Name_EN": "Twißven",
@@ -2404,7 +2404,7 @@
     "CodeName": "二七",
     "GenderType": "Neutral",
     "Height_cm": 162,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
@@ -2419,7 +2419,7 @@
     "ForMasterCalling": "ご主人",
     "Character": "自分らが学んできたことを大切にしている\n普段は寛容な教師のような気質だが、経験や信念の限界を試している好戦的な一面も",
     "Hobby": "教室訪問",
-    "SpetialSkil": "推理",
+    "SpetialSkill": "推理",
     "Favor": "雑学集",
     "Unlike": "裏切り",
     "UnmatchedNTsNames": "22(フジ)\n77(ナヅナ)",
@@ -2440,7 +2440,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B+" }
@@ -2483,9 +2483,9 @@
   },
   {
     "Num": 28,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image28"
+      "concept_PNGName": "cnsp_image28"
     },
     "Name": "ニハチ",
     "Name_EN": "Tweighan",
@@ -2494,7 +2494,7 @@
     "CodeName": "二八",
     "GenderType": "Female",
     "Height_cm": 164,
-    "ConseptAge": 22,
+    "ConceptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
@@ -2507,7 +2507,7 @@
     "ForMasterCalling": "ご主人",
     "Character": "物欲が激しく少しやさぐれているが、根は優しい\n完全数が好きな痛い数学徒でもある",
     "Hobby": "アクセサリー収集",
-    "SpetialSkil": "素因数分解",
+    "SpetialSkill": "素因数分解",
     "Favor": "数学、「28」という数字",
     "Unlike": "凶数の存在、見捨てられること",
     "WellmatchedNTsNames": "31(ミツイ)\n78(ナナハ)",
@@ -2531,7 +2531,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B+" }
@@ -2577,9 +2577,9 @@
   },
   {
     "Num": 29,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image29"
+      "concept_PNGName": "cnsp_image29"
     },
     "Name": "ニトク",
     "Name_EN": "Twenina",
@@ -2589,7 +2589,7 @@
     "SPCodeName": "二十九",
     "GenderType": "Female",
     "Height_cm": 150,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 9, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
@@ -2605,7 +2605,7 @@
     "ForMasterCalling": "お兄ちゃん/お姉ちゃん",
     "Character": "繊細で不安症\n巻き込まれ体質",
     "Hobby": "映画鑑賞",
-    "SpetialSkil": "嫌な予感が的中する",
+    "SpetialSkill": "嫌な予感が的中する",
     "Favor": "肌触りのいいもの",
     "Unlike": "サスペンスホラー",
     "WellmatchedNTsNames": "91(キュウイチ)",
@@ -2627,7 +2627,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "S" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "B" }
@@ -2667,9 +2667,9 @@
   },
   {
     "Num": 30,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image30"
+      "concept_PNGName": "cnsp_image30"
     },
     "Name": "ミツト",
     "Name_EN": "Thirtens",
@@ -2680,7 +2680,7 @@
     "GenderType": "Female",
     "Height_cm": 157,
     "Weight_kg": { "about": { "HideText": "非公開" } },
-    "ConseptAge": { "value": 17, "about": "？" },
+    "ConceptAge": { "value": 17, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 29, "Month": "Feb" }, "DayAbout": "開発記念" }
     ],
@@ -2694,7 +2694,7 @@
     "ForMasterCalling": "ご主人",
     "Character": "幸福感あふれる気質\n創造力にあふれている\n少しオマセで背伸びしているような風格",
     "Hobby": "手芸、クラフト",
-    "SpetialSkil": "ゲーム開発",
+    "SpetialSkill": "ゲーム開発",
     "Favor": "コアフォルダ形態\nぬいぐるみ",
     "Unlike": "血",
     "NumerospecAbout": "幸運を味方にする\nこの効果はイメージを具現化し運勢的なものに関与する",
@@ -2713,7 +2713,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B" }
@@ -2756,9 +2756,9 @@
   },
   {
     "Num": 31,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image31"
+      "concept_PNGName": "cnsp_image31"
     },
     "Name": "ミツイ",
     "Name_EN": "Thirtone",
@@ -2767,7 +2767,7 @@
     "CodeName": "三一",
     "GenderType": "Female",
     "Height_cm": 147,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
@@ -2782,7 +2782,7 @@
     "ForMasterCalling": "ご主人",
     "Character": "一度挑んだことは諦めず、向上意欲が旺盛\nメルセンヌ素数が好きな痛い数学徒でもある",
     "Hobby": "探検",
-    "SpetialSkil": "イベントで皆勤賞を取る",
+    "SpetialSkill": "イベントで皆勤賞を取る",
     "Favor": "スタンプカード\n「31」という数字",
     "Unlike": "病欠や事故による欠席",
     "WellmatchedNTsNames": "28(ニハチ)",
@@ -2803,7 +2803,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B+" }
@@ -2848,9 +2848,9 @@
   },
   {
     "Num": 32,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image32"
+      "concept_PNGName": "cnsp_image32"
     },
     "Name": "ミツギ",
     "Name_EN": "Thirtwis",
@@ -2859,7 +2859,7 @@
     "CodeName": "三二",
     "GenderType": "Neutral",
     "Height_cm": 149,
-    "ConseptAge": { "value": 16, "about": "？" },
+    "ConceptAge": { "value": 16, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 2, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
@@ -2874,7 +2874,7 @@
     "ForMasterCalling": "リーダー",
     "Character": "コミュニケーション力が高く創造的\n奇抜な発想と個性を持つ",
     "Hobby": "大喜利",
-    "SpetialSkil": "チーム開発を取り仕切る",
+    "SpetialSkill": "チーム開発を取り仕切る",
     "Favor": "二次会\nパーティーゲーム",
     "Unlike": "孤独感\n姉に起因する始末書",
     "UnmatchedNTsNames": "23(ツグミ)？",
@@ -2895,7 +2895,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "S" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "B+" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "C" }
@@ -2937,9 +2937,9 @@
   },
   {
     "Num": 33,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image33"
+      "concept_PNGName": "cnsp_image33"
     },
     "Name": "ミサ",
     "Name_EN": "Thirthrey",
@@ -2948,7 +2948,7 @@
     "CodeName": "三三",
     "GenderType": "Female",
     "Height_cm": 149,
-    "ConseptAge": 15,
+    "ConceptAge": 15,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
@@ -2964,7 +2964,7 @@
     "ForMasterCalling": "ご主人様（/お嬢様）",
     "Character": "オンライン時：高飛車で過度の自信家、自分にできないことなど何もないと思っている\nオフライン時：幼児退行気味で泣き虫",
     "Hobby": "やったことないことを試す",
-    "SpetialSkil": "ほぼなんでも",
+    "SpetialSkill": "ほぼなんでも",
     "Favor": "可愛い手芸品",
     "Unlike": "失敗\n自分にできないこと",
     "WellmatchedNTsNames": "30(ミツト)",
@@ -2986,7 +2986,7 @@
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "非公開" } },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": { "HideText": "非公開" } },
+      "Leading": { "Rank": { "HideText": "非公開" } },
       "Precision": { "Rank": { "HideText": "非公開" } },
       "Technic": { "Rank": { "HideText": "非公開" } },
       "Actuation": { "Rank": "Z" }
@@ -3035,9 +3035,9 @@
   },
   {
     "Num": 34,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image34"
+      "concept_PNGName": "cnsp_image34"
     },
     "Name": "サトシ\n(サンジ)",
     "Name_EN": "Thirfory\n(Troubleforcer)",
@@ -3047,7 +3047,7 @@
     "SPCodeName": "三十四",
     "GenderType": "Neutral",
     "Height_cm": 143,
-    "ConseptAge": { "value": 15, "about": "？" },
+    "ConceptAge": { "value": 15, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
@@ -3062,7 +3062,7 @@
     "ForMasterCalling": "旦那様（/奥様）\nご主人様（/お嬢様）",
     "Character": "少し頑固で不器用、一寸膨大にとらえがち\n小規模なことより大規模なことを好んでいる",
     "Hobby": "怪しい交渉を持ちかける",
-    "SpetialSkil": "ギャンブルで誰が負けるかの予想",
+    "SpetialSkill": "ギャンブルで誰が負けるかの予想",
     "Favor": "一騎当千できるアクションゲーム",
     "Unlike": "妥協",
     "WellmatchedNTsNames": "32(ミツギ)?",
@@ -3130,9 +3130,9 @@
   },
   {
     "Num": 35,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image35"
+      "concept_PNGName": "cnsp_image35"
     },
     "Name": "サトコ\nミコ",
     "Name_EN": "Thirfivan\nMíko",
@@ -3148,7 +3148,7 @@
     "Character": "感性が高い才能肌\n几帳面な一面も",
     "GenderType": "Neutral",
     "Height_cm": 139,
-    "ConseptAge": 14,
+    "ConceptAge": 14,
     "Weight_kg": 36,
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型 5本(上2束3本+下1束2本)",
@@ -3157,7 +3157,7 @@
     "ThirdPersonCalling": "[Name]",
     "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
     "Hobby": "企画",
-    "SpetialSkil": "お祓い",
+    "SpetialSkill": "お祓い",
     "Favor": "掃除・整理整頓",
     "Unlike": "危険予知を疎かにしている環境",
     "NumerospecAbout": "物事や進捗を発展させる",
@@ -3175,7 +3175,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "S" }
@@ -3220,9 +3220,9 @@
   },
   {
     "Num": 36,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image36"
+      "concept_PNGName": "cnsp_image36"
     },
     "Name": "ミトム",
     "Name_EN": "Trisixa",
@@ -3232,7 +3232,7 @@
     "SPCodeName": "三十六",
     "GenderType": "Female",
     "Height_cm": 150,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
@@ -3248,7 +3248,7 @@
     "ForMasterCalling": "主さん",
     "Character": "愛情表現が豊か\n運を分け与えるあまり、不運体質なのがコンプレックス",
     "Hobby": "デートスポット巡り",
-    "SpetialSkil": "ラッピング",
+    "SpetialSkill": "ラッピング",
     "Favor": "開運グッズ",
     "Unlike": "お化け",
     "WellmatchedNTsNames": "6(ムイ)\n30(ミツト)",
@@ -3269,7 +3269,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "B" }
@@ -3312,9 +3312,9 @@
   },
   {
     "Num": 37,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image37"
+      "concept_PNGName": "cnsp_image37"
     },
     "Name": "サナ",
     "Name_EN": "Trißven",
@@ -3323,7 +3323,7 @@
     "CodeName": "三七",
     "GenderType": "Female",
     "Height_cm": 157,
-    "ConseptAge": 19,
+    "ConceptAge": 19,
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
@@ -3339,7 +3339,7 @@
     "ForMasterCalling": "リーダー\nお兄(にぃ)/お姉(ねぇ)",
     "Character": "勤勉で知的向上心旺盛\n褒められると甘えがち",
     "Hobby": "書斎(本屋,図書館)に行く",
-    "SpetialSkil": "猫に懐かれる",
+    "SpetialSkill": "猫に懐かれる",
     "Favor": "頭を撫でられること",
     "Unlike": "針",
     "RelationAbouts": "従妹「47(シナ)」に興味がある？",
@@ -3359,7 +3359,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "C" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B" }
@@ -3438,9 +3438,9 @@
   },
   {
     "Num": 39,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image39",
+      "concept_PNGName": "cnsp_image39",
       "catalog_PNGName": "chr-dsgn_catalog39"
     },
     "Name": "サク",
@@ -3450,7 +3450,7 @@
     "CodeName": "三九",
     "GenderType": "Male",
     "Height_cm": 162,
-    "ConseptAge": 21,
+    "ConceptAge": 21,
     "AnivDay": [
       { "Day": { "DayOfMonth": 9, "Month": "Mar" }, "DayAbout": "開発記念" }
     ],
@@ -3465,7 +3465,7 @@
     "ForMasterCalling": "[二人称]\n相棒",
     "Character": "無駄や邪魔者には容赦しないドライな気質\nしかし信頼した人にとっては頼れる熱血漢",
     "Hobby": "ストラテジーゲーム",
-    "SpetialSkil": "スタント",
+    "SpetialSkill": "スタント",
     "Favor": "ボードゲーム",
     "Unlike": "無様な敗北",
     "NumerospecAbout": "主人の邪魔をするものに対し対抗心を奮い立たせる\nただし発動条件として主人との信頼関係が必要",
@@ -3484,7 +3484,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "B" }
@@ -3561,9 +3561,9 @@
   },
   {
     "Num": 41,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image41"
+      "concept_PNGName": "cnsp_image41"
     },
     "Name": "ヨソイチ",
     "Name_EN": "Forone",
@@ -3573,7 +3573,7 @@
     "SPCodeName": "四十一",
     "GenderType": "Neutral",
     "Height_cm": 157,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
@@ -3588,7 +3588,7 @@
     "ForMasterCalling": "主人",
     "Character": "挑戦的で楽観的だが、不器用で少し頑固。ほんの若干マゾ",
     "Hobby": "ポーカー",
-    "SpetialSkil": "カード透視（カードなどが配られた場所をほぼすべて把握する）",
+    "SpetialSkill": "カード透視（カードなどが配られた場所をほぼすべて把握する）",
     "Favor": "賭けゲーム",
     "Unlike": "胸糞の悪い話",
     "UnmatchedNTsNames": "58(イソヤ)",
@@ -3612,7 +3612,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "D" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
@@ -3651,9 +3651,9 @@
   },
   {
     "Num": 42,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image42"
+      "concept_PNGName": "cnsp_image42"
     },
     "Name": "ヨツグ",
     "Name_EN": "Fortwis",
@@ -3662,7 +3662,7 @@
     "CodeName": "四二",
     "GenderType": "Female",
     "Height_cm": 157,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 2, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
@@ -3677,7 +3677,7 @@
     "ForMasterCalling": "あるちゃん",
     "Character": "恐れや心配が全くない自信家\n理想が高く我儘な言動をとることも",
     "Hobby": "グッズ収集",
-    "SpetialSkil": "面倒な男を振り払うこと",
+    "SpetialSkill": "面倒な男を振り払うこと",
     "Favor": "フィギュア",
     "Unlike": "失敗\n宗教勧誘",
     "NumerospecAbout": "心に抱えている弱気を中和する",
@@ -3695,7 +3695,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "B+" }
@@ -3736,9 +3736,9 @@
   },
   {
     "Num": 43,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image43"
+      "concsept_PNGName": "cnsp_image43"
     },
     "Name": "シトミ",
     "Name_EN": "Forthren",
@@ -3748,7 +3748,7 @@
     "SPCodeName": "四十三",
     "GenderType": "Female",
     "Height_cm": 134,
-    "ConseptAge": 14,
+    "ConceptAge": 14,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
@@ -3763,7 +3763,7 @@
     "ForMasterCalling": "あるじん ※例外あり",
     "Character": "なんでも自分の都合よく物事が動くと捉えているメスガキ",
     "Hobby": "対戦ゲーム",
-    "SpetialSkil": "挑発",
+    "SpetialSkill": "挑発",
     "Favor": "ボイスチャット、姉(兄)を弄り倒すこと",
     "Unlike": "配慮",
     "UnmatchedNTsNames": "34(サトシ)",
@@ -3829,9 +3829,9 @@
   },
   {
     "Num": 44,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image44"
+      "concept_PNGName": "cnsp_image44"
     },
     "Name": "シトシ",
     "Name_EN": "Folfourn",
@@ -3841,7 +3841,7 @@
     "SPCodeName": "四十四",
     "GenderType": "Male",
     "Height_cm": 150,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
@@ -3856,7 +3856,7 @@
     "ForMasterCalling": "[Name]\nアニキ/アネキ",
     "Character": "勇敢で思い（自我？）の強い好青年気質",
     "Hobby": "ゲームセンターのアーケード巡り",
-    "SpetialSkil": "出目操作",
+    "SpetialSkill": "出目操作",
     "Favor": "感情が昂るもの",
     "Unlike": "絶対に不可能なこと",
     "WellmatchedNTsNames": "52(イツギ)？",
@@ -3881,7 +3881,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "S" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "Z" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "Z" }
@@ -3933,9 +3933,9 @@
   },
   {
     "Num": 45,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image45"
+      "concept_PNGName": "cnsp_image45"
     },
     "Name": "シゴ",
     "Name_EN": "Folfivas",
@@ -3944,7 +3944,7 @@
     "CodeName": "四五",
     "GenderType": "Neutral",
     "Height_cm": 154,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 5, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
@@ -3959,7 +3959,7 @@
     "ForMasterCalling": "主人",
     "Character": "善意の味方に付きたい系、良心がよく威勢のいい",
     "Hobby": "縁側でくつろぐ",
-    "SpetialSkil": "和太鼓",
+    "SpetialSkill": "和太鼓",
     "Favor": "伝統工芸品",
     "Unlike": "風評被害",
     "NumerospecAbout": "主人を奮い立たせる\n特に主人が行動を起こすべき立場にあると発動する",
@@ -3978,7 +3978,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B" }
@@ -4019,9 +4019,9 @@
   },
   {
     "Num": 46,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image46"
+      "concept_PNGName": "cnsp_image46"
     },
     "Name": "シロー",
     "Name_EN": "Forsixen",
@@ -4030,7 +4030,7 @@
     "CodeName": "四六",
     "GenderType": "Neutral",
     "Height_cm": 147,
-    "ConseptAge": 15,
+    "ConceptAge": 15,
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
@@ -4045,7 +4045,7 @@
     "ForMasterCalling": "先輩\n～先輩",
     "Character": "少し気性の荒い万事エンジョイ勢\n落ち着きがない",
     "Hobby": "親睦会に参加する",
-    "SpetialSkil": "会話の話題作り",
+    "SpetialSkill": "会話の話題作り",
     "Favor": "楽しいこと全般",
     "Unlike": "楽しめないこと全般\nおとなしくすること",
     "NumerospecAbout": "楽しませる",
@@ -4064,7 +4064,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "Z" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "D" },
+      "Leading": { "Rank": "D" },
       "Precision": { "Rank": "D" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": { "HideText": "非公開" } }
@@ -4105,9 +4105,9 @@
   },
   {
     "Num": 47,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image47"
+      "concept_PNGName": "cnsp_image47"
     },
     "Name": "シナ",
     "Name_EN": "Fourséve",
@@ -4116,7 +4116,7 @@
     "CodeName": "四七",
     "GenderType": "Female",
     "Height_cm": 148,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       {
         "Day": { "DayOfMonth": 7, "Month": "Apr" },
@@ -4138,7 +4138,7 @@
     "ForMasterCalling": "マスターさん\n兄さん/姉さん",
     "Character": "決断にブレがない自信家、少し熱血癖がある\n自分だけが認知している加護の存在を伝えたい",
     "Hobby": "才能のある人に会いに行く",
-    "SpetialSkil": "ババ抜き",
+    "SpetialSkill": "ババ抜き",
     "Favor": "七夕",
     "Unlike": "雷",
     "NumerospecAbout": "ナンバーテールズの加護を認知できる（なお認知できるものはこの限りではない）",
@@ -4157,7 +4157,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": { "HideText": "検証中" } },
-      "Reading": { "Rank": { "HideText": "検証中" } },
+      "Leading": { "Rank": { "HideText": "検証中" } },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
@@ -4199,7 +4199,7 @@
   },
   {
     "Num": 48,
-    "Released": "released",
+    "Progress": "released",
     "Name": "シハチ",
     "Name_EN": "Foreighn",
     "FormalName": "ナンバーテールズ4+8号機甲\nナンバーテールズ48番機",
@@ -4207,7 +4207,7 @@
     "CodeName": "四八",
     "GenderType": "Male",
     "Height_cm": 161,
-    "ConseptAge": 20,
+    "ConceptAge": 20,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
@@ -4221,7 +4221,7 @@
     "ForMasterCalling": "主様(あるじさま)",
     "Character": "根性強く諦めの悪い\n理想と現実の両方を尊重している",
     "Hobby": "クラウドソーシングで副収入を得ること",
-    "SpetialSkil": "データ分析",
+    "SpetialSkill": "データ分析",
     "Favor": "学園番長の存在",
     "Unlike": "怠惰な人",
     "NumerospecAbout": "現実をよりよくする\nこの効果は対象が現実逃避していない時に真価を発揮する",
@@ -4240,7 +4240,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "S+" },
       "Actuation": { "Rank": "C" }
@@ -4280,9 +4280,9 @@
   },
   {
     "Num": 49,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image49",
+      "concept_PNGName": "cnsp_image49",
       "catalog_PNGName": "chr-dsgn_catalog49"
     },
     "Name": "ヨチカ",
@@ -4292,7 +4292,7 @@
     "CodeName": "四九",
     "GenderType": "Neutral",
     "Height_cm": 148,
-    "ConseptAge": { "value": 16, "about": "？" },
+    "ConceptAge": { "value": 16, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 9, "Month": "Apr" }, "DayAbout": "開発記念" }
     ],
@@ -4308,7 +4308,7 @@
     "ForMasterCalling": "主人サマ",
     "Character": "せっかちで、今のうちにできることを増やしたい\n進捗が無い中で待っていると不穏な表情をしがち",
     "Hobby": "ハッカソン参加\n(即興開発イベントのこと)",
-    "SpetialSkil": "ヒューマノイド形態の身体動作で\nデータ処理できる",
+    "SpetialSkill": "ヒューマノイド形態の身体動作で\nデータ処理できる",
     "Favor": "時短術",
     "Unlike": "進捗がダメな状況",
     "UnmatchedNTsNames": "14(トヨ)",
@@ -4329,7 +4329,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "B+" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B" }
@@ -4420,9 +4420,9 @@
   },
   {
     "Num": 52,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image52"
+      "concept_PNGName": "cnsp_image52"
     },
     "Name": "イツギ",
     "Name_EN": "Fiftwis",
@@ -4431,7 +4431,7 @@
     "CodeName": "五二",
     "GenderType": "Female",
     "Height_cm": 156,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       {
         "Day": { "DayOfMonth": 2, "Month": "May" },
@@ -4454,7 +4454,7 @@
     "ForMasterCalling": "主人さん",
     "Character": "受け身姿勢でいつも流され気味だが、自分の本領を発揮できるタイミングを掌握できる",
     "Hobby": "戦略ゲーム",
-    "SpetialSkil": "麻雀",
+    "SpetialSkill": "麻雀",
     "Favor": "急展開",
     "Unlike": "ネタバレ\n如何様(イカサマ)",
     "NumerospecAbout": "楽観主義により自己実現と適応力を発揮する\nこの効果は主人に感化させることもできる\nただしこの効果は受動的な作用である",
@@ -4473,7 +4473,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B+" }
@@ -4519,9 +4519,9 @@
   },
   {
     "Num": 53,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image53"
+      "concept_PNGName": "cnsp_image53"
     },
     "Name": "イツゾウ",
     "Name_EN": "Fifthren",
@@ -4535,7 +4535,7 @@
     "Class_EN": "Dual Sum-8s",
     "GenderType": "Neutral",
     "Height_cm": 139,
-    "ConseptAge": 14,
+    "ConceptAge": 14,
     "Weight_kg": 36,
     "BustSize": "A",
     "TailsUnit": "キツネ(枝分かれ)型 5本(上1束2本+下2束3本)",
@@ -4545,7 +4545,7 @@
     "ForMasterCalling": "兄者(あにしゃ)/姉者(あねしゃ)",
     "Character": "単純で調子に乗りやすい",
     "Hobby": "ボードゲーム",
-    "SpetialSkil": "ゴルフ",
+    "SpetialSkill": "ゴルフ",
     "Favor": "アクション映画",
     "Unlike": "挑発\n姉[兄]に避けられていること",
     "Summary": "転機を恵むと一部の層から定評であり、主人たちの活動へ貢献している。\n活動実績は然程大きくはないが、中でも彼(女)の招いたチャンスを最大限に受容できるような主人とは相性が良い傾向にある。\nただ性格で単純さが目立っており、煽(おだ)てられるとすぐに調子に乗ってしまうところなどがある。\nそのため、彼(女)の良し悪しについては主人だけでなく他のナンバーテールズからも意見が分かれている様子。",
@@ -4564,7 +4564,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "B+" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
@@ -4633,9 +4633,9 @@
   },
   {
     "Num": 55,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image55"
+      "concept_PNGName": "cnsp_image55"
     },
     "Name": "イソゴ",
     "Name_EN": "Fifívan",
@@ -4645,7 +4645,7 @@
     "SPCodeName": "五十五",
     "GenderType": "Female",
     "Height_cm": 165,
-    "ConseptAge": 21,
+    "ConceptAge": 21,
     "AnivDay": [
       { "Day": { "DayOfMonth": 5, "Month": "May" }, "DayAbout": "開発記念" }
     ],
@@ -4660,7 +4660,7 @@
     "ForMasterCalling": "君,彼/彼女",
     "Character": "適応力と自己実現力を併せ持つ\n何が起こっても平然としている、鈍感？",
     "Hobby": "普通の生活？",
-    "SpetialSkil": "現状を打破すること",
+    "SpetialSkill": "現状を打破すること",
     "Favor": "神社のお守り",
     "Unlike": { "HideText": "？？？" },
     "UnmatchedNTsNames": "11(トウイチ)",
@@ -4681,7 +4681,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "B+" }
@@ -4724,9 +4724,9 @@
   },
   {
     "Num": 56,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image56"
+      "concept_PNGName": "cnsp_image56"
     },
     "Name": "イソロク",
     "Name_EN": "Fivsix",
@@ -4736,7 +4736,7 @@
     "SPCodeName": "五十六(いそろく)",
     "GenderType": "Female",
     "Height_cm": 142,
-    "ConseptAge": 12,
+    "ConceptAge": 12,
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "May" }, "DayAbout": "開発記念" }
     ],
@@ -4751,7 +4751,7 @@
     "ForMasterCalling": "～兄さん/～姉さん",
     "Character": "ごく普通のお子様。気が散りやすく飽き症\n怠け癖と放浪癖がそれぞれ少しだけある",
     "Hobby": "子供と遊ぶこと",
-    "SpetialSkil": "迷路\n遠出しても迷子にならない",
+    "SpetialSkill": "迷路\n遠出しても迷子にならない",
     "Favor": "知育玩具",
     "Unlike": "爬虫類\n勉強",
     "WellmatchedNTsNames": "27(ツギナ)？\n29(ニトク)",
@@ -4772,7 +4772,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "D" },
+      "Leading": { "Rank": "D" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -4815,9 +4815,9 @@
   },
   {
     "Num": 57,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image57",
+      "concept_PNGName": "cnsp_image57",
       "catalog_PNGName": "chr-dsgn_catalog57"
     },
     "Name": "イズナ",
@@ -4827,7 +4827,7 @@
     "CodeName": "五七",
     "GenderType": "Neutral",
     "Height_cm": 152,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "May" }, "DayAbout": "開発記念" }
     ],
@@ -4842,7 +4842,7 @@
     "ForMasterCalling": "～先輩;先輩",
     "Character": "変化からの学びを尊重している\n失敗意識のない楽観的思考は圧巻されがち",
     "Hobby": "景品のあるキャンペーンに\n参加する",
-    "SpetialSkil": "漫画制作",
+    "SpetialSkill": "漫画制作",
     "Favor": "コミックペン\n宝くじ",
     "Unlike": "炎（焚火や火災）",
     "WellmatchedNTsNames": "66(ムロク)",
@@ -4864,7 +4864,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B+" }
@@ -4907,9 +4907,9 @@
   },
   {
     "Num": 58,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image58"
+      "concept_PNGName": "cnsp_image58"
     },
     "Name": "イソヤ",
     "Name_EN": "Fiveighs",
@@ -4919,7 +4919,7 @@
     "SPCodeName": "五十八",
     "GenderType": "Female",
     "Height_cm": 149,
-    "ConseptAge": { "value": 17, "about": "？" },
+    "ConceptAge": { "value": 17, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "May" }, "DayAbout": "開発記念" }
     ],
@@ -4934,7 +4934,7 @@
     "ForMasterCalling": "主人ちゃん",
     "Character": "エスっ気のあるからかい好き，強運の持ち主\nオマセで甘えん坊",
     "Hobby": "カードゲーム全般",
-    "SpetialSkil": "確率計算",
+    "SpetialSkill": "確率計算",
     "Favor": "大吉の御御籤(おみくじ)\n甘やかされること",
     "Unlike": "クソゲー(理不尽なゲーム)",
     "UnmatchedNTsNames": "41(ヨソイチ)",
@@ -4955,7 +4955,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "A" }
@@ -5021,9 +5021,9 @@
   },
   {
     "Num": 60,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image60"
+      "concept_PNGName": "cnsp_image60"
     },
     "Name": "ムソウ",
     "Name_EN": "Sixtina",
@@ -5033,7 +5033,7 @@
     "SPCodeName": "六十",
     "GenderType": "Female",
     "Height_cm": 152,
-    "ConseptAge": { "value": 16, "about": "？" },
+    "ConceptAge": { "value": 16, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 31, "Month": "May" }, "DayAbout": "開発記念" }
     ],
@@ -5049,7 +5049,7 @@
     "ForMasterCalling": "ミスター/ミセス",
     "Character": "優美で強い母性を持ち、立ち振る舞いが素敵\n趣味趣向が少しナード",
     "Hobby": "ファン活動",
-    "SpetialSkil": "歌唱",
+    "SpetialSkill": "歌唱",
     "Favor": "推し",
     "Unlike": "趣味バレ",
     "UnmatchedNTsNames": "61(ロクイチ)",
@@ -5070,7 +5070,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "S" }
@@ -5124,9 +5124,9 @@
   },
   {
     "Num": 61,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image61",
+      "concept_PNGName": "cnsp_image61",
       "catalog_PNGName": "chr-dsgn_catalog61"
     },
     "Name": "ロクイチ\nロイ",
@@ -5136,7 +5136,7 @@
     "CodeName": "六一",
     "GenderType": "Female",
     "Height_cm": 143,
-    "ConseptAge": { "about": "不詳" },
+    "ConceptAge": { "about": "不詳" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5152,7 +5152,7 @@
     "ForMasterCalling": "マネちゃん",
     "Character": "天真爛漫で可憐だが、メルヘンチックで独特な世界観を持っている",
     "Hobby": "アイドル活動？",
-    "SpetialSkil": "メイド活動？",
+    "SpetialSkill": "メイド活動？",
     "Favor": "ファンタジー漫画",
     "Unlike": "G（害虫）",
     "UnmatchedNTsNames": "10(ミツル)\n60(ムソウ)",
@@ -5173,7 +5173,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "S" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "D" },
+      "Leading": { "Rank": "D" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "S" }
@@ -5217,9 +5217,9 @@
   },
   {
     "Num": 62,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image62"
+      "concept_PNGName": "cnsp_image62"
     },
     "Name": "ロジ",
     "Name_EN": "Sictwéna",
@@ -5228,7 +5228,7 @@
     "CodeName": "六二",
     "GenderType": "Female",
     "Height_cm": 153,
-    "ConseptAge": 22,
+    "ConceptAge": 22,
     "AnivDay": [
       { "Day": { "DayOfMonth": 2, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5243,7 +5243,7 @@
     "ForMasterCalling": "ご主人先輩",
     "Character": "発想力が高く生産的\n女々しい一面も",
     "Hobby": "工芸品づくり",
-    "SpetialSkil": "バリアフリー化",
+    "SpetialSkill": "バリアフリー化",
     "Favor": "女性をモチーフにしたもの\n女性向けファッション",
     "Unlike": "実用性の全くない魔改造",
     "RelationAbouts": "「8(ワカツ)」や「85(ハッコ)」とものづくり関連で縁があるが…\n大切なイベントに着る衣装は「26(ニロク)」に頼りがち",
@@ -5265,7 +5265,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "C" }
@@ -5307,9 +5307,9 @@
   },
   {
     "Num": 63,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image63"
+      "concept_PNGName": "cnsp_image63"
     },
     "Name": "ムツミ",
     "Name_EN": "Sicthrey",
@@ -5318,7 +5318,7 @@
     "CodeName": "六三",
     "GenderType": "Female",
     "Height_cm": 142,
-    "ConseptAge": 15,
+    "ConceptAge": 15,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5334,7 +5334,7 @@
     "ForMasterCalling": "主さん",
     "Character": "面倒見がよく世話焼き",
     "Hobby": "日記を書くこと",
-    "SpetialSkil": "子供をあやす",
+    "SpetialSkill": "子供をあやす",
     "Favor": "姉",
     "Unlike": "グロテスク注意コンテンツ",
     "NumerospecAbout": "幸福をもたらす\nこの効果は主に日常生活における感情に作用する",
@@ -5353,7 +5353,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "S" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "B+" }
@@ -5395,9 +5395,9 @@
   },
   {
     "Num": 64,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image64"
+      "concept_PNGName": "cnsp_image64"
     },
     "Name": "ムトシ",
     "Name_EN": "Sixforns",
@@ -5407,7 +5407,7 @@
     "SPCodeName": "六十四",
     "GenderType": "Female",
     "Height_cm": 146,
-    "ConseptAge": { "about": "不詳" },
+    "ConceptAge": { "about": "不詳" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5420,7 +5420,7 @@
     "ForMasterCalling": "教官\n～教官",
     "Character": "常に何かへ発情している\n加えて、ドが付くほどマゾらしく…",
     "Hobby": { "HideText": "？？？" },
-    "SpetialSkil": "リアクション芸",
+    "SpetialSkill": "リアクション芸",
     "Favor": "強気でＳっ気のある大人\n？？？",
     "Unlike": { "HideText": "？？？" },
     "RelationAbouts": "「67(ムナ)」に“ある意味の”服従意識がある\n兄個体「46(シロー)」を筆頭にドン引きされたり、「42(ヨツグ)」を筆頭に面白がられたりしているが、当の本人はと云うと……",
@@ -5443,7 +5443,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": { "HideText": "公開不能" } },
-      "Reading": { "Rank": "D" },
+      "Leading": { "Rank": "D" },
       "Precision": { "Rank": { "HideText": "公開不能" } },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": { "HideText": "公開不能" } }
@@ -5491,9 +5491,9 @@
   },
   {
     "Num": 65,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image65"
+      "concept_PNGName": "cnsp_image65"
     },
     "Name": "ロクゴ",
     "Name_EN": "Sixfivie",
@@ -5502,7 +5502,7 @@
     "CodeName": "六五",
     "GenderType": "Female",
     "Height_cm": 135,
-    "ConseptAge": 10,
+    "ConceptAge": 10,
     "AnivDay": [
       { "Day": { "DayOfMonth": 5, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5517,7 +5517,7 @@
     "ForMasterCalling": "～兄さん/～姉さん",
     "Character": "飽き性で気分屋だが、好奇心旺盛で育ちざかりなキャラ",
     "Hobby": "子供と遊ぶこと",
-    "SpetialSkil": "粘土細工、砂場で城を作る",
+    "SpetialSkill": "粘土細工、砂場で城を作る",
     "Favor": "人形、ぬいぐるみ",
     "Unlike": "爬虫類",
     "WellmatchedNTsNames": "92(コトジ)",
@@ -5537,7 +5537,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": { "HideText": "データ無" } },
+      "Leading": { "Rank": { "HideText": "データ無" } },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": { "HideText": "データ無" } },
       "Actuation": { "Rank": "B" }
@@ -5580,9 +5580,9 @@
   },
   {
     "Num": 66,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image66"
+      "concept_PNGName": "cnsp_image66"
     },
     "Name": "ムロク",
     "Name_EN": "Sixis",
@@ -5591,7 +5591,7 @@
     "CodeName": "六六",
     "GenderType": "Female",
     "Height_cm": 154,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5607,7 +5607,7 @@
     "ForMasterCalling": "迷い子さん\n神父様/聖母様",
     "Character": "博愛でロマンチスト\n修道女(シスター)に憧れている",
     "Hobby": "輝きがあらんことを祈る",
-    "SpetialSkil": "ダーツ",
+    "SpetialSkill": "ダーツ",
     "Favor": "照明器具",
     "Unlike": "悪天候",
     "WellmatchedNTsNames": "6(ムイ)",
@@ -5628,7 +5628,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "A" }
@@ -5681,7 +5681,7 @@
     "CodeName": "六七",
     "GenderType": "Male",
     "Height_cm": 165,
-    "ConseptAge": { "value": 22, "about": "？" },
+    "ConceptAge": { "value": 22, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5708,7 +5708,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "S" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "D" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "S" }
@@ -5727,9 +5727,9 @@
   },
   {
     "Num": 68,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image68"
+      "concept_PNGName": "cnsp_image68"
     },
     "Name": "ロクヤ",
     "Name_EN": "Siceighns",
@@ -5738,7 +5738,7 @@
     "CodeName": "六八",
     "GenderType": "Neutral",
     "Height_cm": 147,
-    "ConseptAge": 14,
+    "ConceptAge": 14,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5753,7 +5753,7 @@
     "ForMasterCalling": "主人",
     "Character": "執着心が無く何事にも塩反応、潔癖症\n古い物への価値観が辛辣",
     "Hobby": "整理整頓",
-    "SpetialSkil": "掃除\nフリーマーケット",
+    "SpetialSkill": "掃除\nフリーマーケット",
     "Favor": "髪を整える道具",
     "Unlike": "散らかった部屋",
     "RelationAbouts": "加護が強いナンバーテールズを「お化け」と称しがち\n稀にベリーショートヘアで登場し「5(イズ)」に笑われる",
@@ -5773,7 +5773,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "S" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "S" }
@@ -5814,9 +5814,9 @@
   },
   {
     "Num": 69,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image69"
+      "concept_PNGName": "cnsp_image69"
     },
     "Name": "ロック",
     "Name_EN": "Signine",
@@ -5825,7 +5825,7 @@
     "CodeName": "六九",
     "GenderType": "Male",
     "Height_cm": 156,
-    "ConseptAge": { "value": 20, "about": "？" },
+    "ConceptAge": { "value": 20, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 9, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5840,7 +5840,7 @@
     "ForMasterCalling": "[Free Style]\n※主人の趣向に応じる",
     "Character": "芸達者で主人の趣向に合うキャラで従事できる\nほんの若干アイデンティティを見失い気味？\n気分屋",
     "Hobby": "新しいことに戯れること",
-    "SpetialSkil": "モノマネ",
+    "SpetialSkill": "モノマネ",
     "Favor": "ハリウッド映画",
     "Unlike": "妹",
     "NumerospecAbout": "自分自身に対する固定概念から解放する",
@@ -5859,7 +5859,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "Z" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "Z" }
@@ -5899,9 +5899,9 @@
   },
   {
     "Num": 70,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image70"
+      "concept_PNGName": "cnsp_image70"
     },
     "Name": "ナナト",
     "Name_EN": "Seventia",
@@ -5911,7 +5911,7 @@
     "SPCodeName": "七十",
     "GenderType": "Male",
     "Height_cm": 159,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 30, "Month": "Jun" }, "DayAbout": "開発記念" }
     ],
@@ -5925,7 +5925,7 @@
     "ForMasterCalling": "～師(し) ※例外あり",
     "Character": "適当に見えて霊的？な才能を発揮している\n実はとても勤勉",
     "Hobby": "占い、祭事",
-    "SpetialSkil": "水晶占い",
+    "SpetialSkill": "水晶占い",
     "Favor": "タロットカード、オラクルカード",
     "Unlike": "演出の激しいパーティルーム",
     "WellmatchedNTsNames": "25(フィズ)",
@@ -5946,7 +5946,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "S" }
@@ -5989,9 +5989,9 @@
   },
   {
     "Num": 71,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image71"
+      "concept_PNGName": "cnsp_image71"
     },
     "Name": "ナナヒ",
     "Name_EN": "Sevone",
@@ -6000,7 +6000,7 @@
     "CodeName": "七一",
     "GenderType": "Male",
     "Height_cm": 144,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
@@ -6014,7 +6014,7 @@
     "ForMasterCalling": "先生",
     "Character": "知的思考が豊富で努力家な好青年",
     "Hobby": "研究",
-    "SpetialSkil": "PDCAなどのフレームワーク",
+    "SpetialSkill": "PDCAなどのフレームワーク",
     "Favor": "青春",
     "Unlike": "無知無能",
     "NumerospecAbout": "主人へ学びを1日1つ恵む",
@@ -6037,7 +6037,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "B+" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B" }
@@ -6073,9 +6073,9 @@
   },
   {
     "Num": 72,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image72"
+      "concept_PNGName": "cnsp_image72"
     },
     "Name": "ナフタ",
     "Name_EN": "Sevtwína",
@@ -6084,7 +6084,7 @@
     "CodeName": "七二",
     "GenderType": "Neutral",
     "Height_cm": 162,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 2, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
@@ -6100,7 +6100,7 @@
     "ForMasterCalling": "主(root: ルート)",
     "Character": "機械のような振る舞いが癖となっている（本当は感情表現が苦手なだけだとも？）",
     "Hobby": "天気予報を見る",
-    "SpetialSkil": "ルーレットが止まる場所を\n回転中に当てられる",
+    "SpetialSkill": "ルーレットが止まる場所を\n回転中に当てられる",
     "Favor": "コミュニケーション力を\n伸ばせるビジネス本",
     "Unlike": "如何様(イカサマ)",
     "NumerospecAbout": "機械学習能力に特化した特殊なROSの主力機能で、ありとあらゆる学習ができる",
@@ -6119,7 +6119,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": { "HideText": "データ無" } },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "Z" },
       "Actuation": { "Rank": "A" }
@@ -6162,9 +6162,9 @@
   },
   {
     "Num": 73,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image73",
+      "concept_PNGName": "cnsp_image73",
       "catalog_PNGName": "chr-dsgn_catalog73"
     },
     "Name": "ナトミ",
@@ -6175,7 +6175,7 @@
     "SPCodeName": "七十三",
     "GenderType": "Female",
     "Height_cm": 154,
-    "ConseptAge": { "value": 16, "about": "？" },
+    "ConceptAge": { "value": 16, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
@@ -6190,7 +6190,7 @@
     "ForMasterCalling": "おにぃ/おねぇ",
     "Character": "世間知らずで知りたがり\n単純で騙されやすく、知識はすぐに共有したがる",
     "Hobby": "情報共有",
-    "SpetialSkil": "地獄耳",
+    "SpetialSkill": "地獄耳",
     "Favor": "配信機材",
     "Unlike": "針\nゴシップ",
     "WellmatchedNTsNames": "66(ムロク)",
@@ -6210,7 +6210,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "E" },
+      "Leading": { "Rank": "E" },
       "Precision": { "Rank": "C" },
       "Technic": { "Rank": "C", "AbilityText": "極端" },
       "Actuation": { "Rank": "A" }
@@ -6257,9 +6257,9 @@
   },
   {
     "Num": 74,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image74"
+      "concept_PNGName": "cnsp_image74"
     },
     "Name": "ナナヨ",
     "Name_EN": "Sefoury",
@@ -6268,7 +6268,7 @@
     "CodeName": "七四",
     "GenderType": "Female",
     "Height_cm": 148,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
@@ -6283,7 +6283,7 @@
     "ForMasterCalling": "マスター君",
     "Character": "感覚が冴えわたった預言者のような存在\nその様子は「天のお告げ」のお蔭とも",
     "Hobby": "神社参拝",
-    "SpetialSkil": "おみくじで\n誰が大吉を引くか当てる",
+    "SpetialSkill": "おみくじで\n誰が大吉を引くか当てる",
     "Favor": "シルク",
     "Unlike": "雷",
     "NumerospecAbout": "「天のお告げ」を聴く",
@@ -6302,7 +6302,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": { "HideText": "検証中" } },
-      "Reading": { "Rank": { "HideText": "検証中" } },
+      "Leading": { "Rank": { "HideText": "検証中" } },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -6344,9 +6344,9 @@
   },
   {
     "Num": 75,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image75"
+      "concept_PNGName": "cnsp_image75"
     },
     "Name": "シチゴ",
     "Name_EN": "Sefievn",
@@ -6355,7 +6355,7 @@
     "CodeName": "七五",
     "GenderType": "Neutral",
     "Height_cm": 152,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 5, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
@@ -6370,7 +6370,7 @@
     "ForMasterCalling": "～先輩;先輩",
     "Character": "真面目で意識高い系\n教訓や知見を重んじている",
     "Hobby": "統計学",
-    "SpetialSkil": "経験則が的確",
+    "SpetialSkill": "経験則が的確",
     "Favor": "文房具",
     "Unlike": "炎（焚火や火災）",
     "WellmatchedNTsNames": "25(フィズ)",
@@ -6392,7 +6392,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B+" }
@@ -6435,9 +6435,9 @@
   },
   {
     "Num": 76,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image76"
+      "concept_PNGName": "cnsp_image76"
     },
     "Name": "シチロク",
     "Name_EN": "Sevsix",
@@ -6446,7 +6446,7 @@
     "CodeName": "七六",
     "GenderType": "Female",
     "Height_cm": 144,
-    "ConseptAge": { "value": 14, "about": "？" },
+    "ConceptAge": { "value": 14, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
@@ -6461,7 +6461,7 @@
     "ForMasterCalling": "主人先生",
     "Character": "知識欲旺盛、自分に自信がなく不要に理知的",
     "Hobby": "読書",
-    "SpetialSkil": "複数文献の斜め読み",
+    "SpetialSkill": "複数文献の斜め読み",
     "Favor": "専門書、同人誌",
     "Unlike": "非合理的・非常識なこと",
     "NumerospecAbout": "知識や教養から自らに磨きを掛ける",
@@ -6480,7 +6480,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "D" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "C" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "C" }
@@ -6517,9 +6517,9 @@
   },
   {
     "Num": 77,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image77"
+      "concept_PNGName": "cnsp_image77"
     },
     "Name": "ナヅナ",
     "Name_EN": "Sefvens",
@@ -6529,7 +6529,7 @@
     "SPCodeName": "七十七",
     "GenderType": "Neutral",
     "Height_cm": 147,
-    "ConseptAge": { "value": 14, "about": "？" },
+    "ConceptAge": { "value": 14, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
@@ -6544,7 +6544,7 @@
     "ForMasterCalling": "リーダー",
     "Character": "気さくで口調も軽いが実は自分を律せる真面目\n真面目な人と人望が薄いことがコンプレックス",
     "Hobby": "ヨガ",
-    "SpetialSkil": "集中した時の反射神経",
+    "SpetialSkill": "集中した時の反射神経",
     "Favor": "集中できる場所",
     "Unlike": "カラオケルーム",
     "WellmatchedNTsNames": "5(イズ)",
@@ -6569,7 +6569,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "S" }
@@ -6616,9 +6616,9 @@
   },
   {
     "Num": 78,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image78"
+      "concept_PNGName": "cnsp_image78"
     },
     "Name": "ナナハ",
     "Name_EN": "Seveights",
@@ -6627,7 +6627,7 @@
     "CodeName": "七八",
     "GenderType": "Female",
     "Height_cm": 157,
-    "ConseptAge": 25,
+    "ConceptAge": 25,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Jul" }, "DayAbout": "開発記念" }
     ],
@@ -6642,7 +6642,7 @@
     "ForMasterCalling": "[二人称];ご主人様",
     "Character": "清く美しい精神の持ち主だが、ややネガティヴ気味で胡散臭がられているのが玉に瑕",
     "Hobby": "タロットカード",
-    "SpetialSkil": "アドリブ祝辞",
+    "SpetialSkill": "アドリブ祝辞",
     "Favor": "トランプ、タロットカード",
     "Unlike": "傲慢な態度",
     "WellmatchedNTsNames": "76(シチロク)",
@@ -6668,7 +6668,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "C" },
       "Technic": { "Rank": "S+" },
       "Actuation": { "Rank": "B" }
@@ -6762,9 +6762,9 @@
   },
   {
     "Num": 81,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image81"
+      "concept_PNGName": "cnsp_image81"
     },
     "Name": "ヤイチ",
     "Name_EN": "Eightone",
@@ -6773,7 +6773,7 @@
     "CodeName": "八一",
     "GenderType": "Female",
     "Height_cm": 149,
-    "ConseptAge": 18,
+    "ConceptAge": 18,
     "AnivDay": [
       { "Day": { "DayOfMonth": 1, "Month": "Aug" }, "DayAbout": "開発記念" }
     ],
@@ -6788,7 +6788,7 @@
     "ForMasterCalling": "上方(かみかた)",
     "Character": "価値に敏感で奉仕的\n社会情勢に敏感な貢献家",
     "Hobby": "投資",
-    "SpetialSkil": "会計処理",
+    "SpetialSkill": "会計処理",
     "Favor": "価値感の向上",
     "Unlike": "詐欺（をすること）",
     "NumerospecAbout": "自信および主人の自己肯定感を高め役目を全うさせる",
@@ -6810,7 +6810,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "A" },
       "Actuation": { "Rank": "B" }
@@ -6933,9 +6933,9 @@
   },
   {
     "Num": 85,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image85",
+      "concept_PNGName": "cnsp_image85",
       "catalog_PNGName": "chr-dsgn_catalog85"
     },
     "Name": "ハッコ\nパコ",
@@ -6945,7 +6945,7 @@
     "CodeName": "八五",
     "GenderType": "Female",
     "Height_cm": 147,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 5, "Month": "Aug" }, "DayAbout": "開発記念" }
     ],
@@ -6961,7 +6961,7 @@
     "ForMasterCalling": "[三人称],主人くん",
     "Character": "少し甘やかされ気質で金銭感覚などに疎い",
     "Hobby": "ジャンク漁り",
-    "SpetialSkil": "勘定",
+    "SpetialSkill": "勘定",
     "Favor": "宝石",
     "Unlike": "賭け事",
     "WellmatchedNTsNames": "百",
@@ -6983,7 +6983,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B" }
@@ -7048,9 +7048,9 @@
   },
   {
     "Num": 88,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image88"
+      "concept_PNGName": "cnsp_image88"
     },
     "Name": "ヤソハチ",
     "Name_EN": "Infinights",
@@ -7060,7 +7060,7 @@
     "SPCodeName": "八十八(やそはち)",
     "GenderType": "Male",
     "Height_cm": 167,
-    "ConseptAge": 24,
+    "ConceptAge": 24,
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Aug" }, "DayAbout": "開発記念" }
     ],
@@ -7074,7 +7074,7 @@
     "ForMasterCalling": "旦那様/奥様\n[三人称]",
     "Character": "執事のような存在、貢ぎ癖が少しある\n努力に相応の成果を主人が得ることが信条",
     "Hobby": "ピアノ、音ゲー",
-    "SpetialSkil": "お金を集めること",
+    "SpetialSkill": "お金を集めること",
     "Favor": "楽器\n努力",
     "Unlike": "努力やお金を無駄にすること",
     "WellmatchedNTsNames": "85(ハッコ)？",
@@ -7098,7 +7098,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -7146,9 +7146,9 @@
   },
   {
     "Num": 89,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image89"
+      "concept_PNGName": "cnsp_image89"
     },
     "Name": "ヤスモ",
     "Name_EN": "Eightine",
@@ -7158,7 +7158,7 @@
     "SPCodeName": "八十九",
     "GenderType": "Female",
     "Height_cm": 158,
-    "ConseptAge": 21,
+    "ConceptAge": 21,
     "AnivDay": [
       { "Day": { "DayOfMonth": 9, "Month": "Aug" }, "DayAbout": "開発記念" }
     ],
@@ -7174,7 +7174,7 @@
     "ForMasterCalling": "～先生",
     "Character": "穏やかで静かな気質、誠実でしっかり者\n物事の締めくくりを大切にしている",
     "Hobby": "長編小説",
-    "SpetialSkil": "生け花",
+    "SpetialSkill": "生け花",
     "Favor": "因果応報",
     "Unlike": "老けて思われがち",
     "NumerospecAbout": "主人の抱える未練を中和する",
@@ -7193,7 +7193,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B" },
       "Communicating": { "Rank": "S" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "D" },
       "Actuation": { "Rank": "A" }
@@ -7283,7 +7283,7 @@
   },
   {
     "Num": 92,
-    "Released": "nowCreating",
+    "Progress": "nowCreating",
     "Name": "コトジ",
     "Name_EN": "Nintwina",
     "FormalName": "ナンバーテールズ2+9号機乙\nナンバーテールズ92番機",
@@ -7302,7 +7302,7 @@
     "ForMasterCalling": "兄さん/姉さん",
     "Character": "接し方は温厚だか気質は淡泊でドライ、話が長いことがあるので聞き専に回っている",
     "Hobby": "エンタメ番組を見ること",
-    "SpetialSkil": "感情の整理",
+    "SpetialSkill": "感情の整理",
     "Favor": "冬、コアフォルダが寄り添っている様子",
     "Unlike": "姉を筆頭に怖がられていること",
     "NumerospecAbout": "心を慰める\nただしこの効果は会話を通してのみ発動する",
@@ -7316,9 +7316,9 @@
   },
   {
     "Num": 93,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image93",
+      "concept_PNGName": "cnsp_image93",
       "catalog_PNGName": "chr-dsgn_catalog93"
     },
     "Name": "クミ",
@@ -7328,7 +7328,7 @@
     "CodeName": "九三",
     "GenderType": "Female",
     "Height_cm": 144,
-    "ConseptAge": 15,
+    "ConceptAge": 15,
     "AnivDay": [
       { "Day": { "DayOfMonth": 3, "Month": "Sep" }, "DayAbout": "開発記念" },
       {
@@ -7348,7 +7348,7 @@
     "ForMasterCalling": "[二人称]\n相棒",
     "Character": "理想が高く、成果を一つの過程として捉えている\n夢ある少女で、強大な野望を掲げている",
     "Hobby": "偉人記念館巡り",
-    "SpetialSkil": "応援（実はヲタ芸もできる）",
+    "SpetialSkill": "応援（実はヲタ芸もできる）",
     "Favor": "鉢巻\n表彰状（成果がわかるもの）",
     "Unlike": "挫折\n遊園地のアトラクション",
     "UnmatchedNTsNames": "3(ナオ)\n9(チカ)",
@@ -7369,7 +7369,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B" },
-      "Reading": { "Rank": "A" },
+      "Leading": { "Rank": "A" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -7413,9 +7413,9 @@
   },
   {
     "Num": 94,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image94"
+      "concept_PNGName": "cnsp_image94"
     },
     "Name": "ツクシ",
     "Name_EN": "Ninfors",
@@ -7425,7 +7425,7 @@
     "SPCodeName": "九十四",
     "GenderType": "Neutral",
     "Height_cm": 145,
-    "ConseptAge": { "value": 13, "about": "？" },
+    "ConceptAge": { "value": 13, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 4, "Month": "Sep" }, "DayAbout": "開発記念" }
     ],
@@ -7441,7 +7441,7 @@
     "ForMasterCalling": "主人さま",
     "Character": "常に眠そうにしている\n休止時間が活動時間よりも長くよく寝ている\nコアフォルダ形態が大好き",
     "Hobby": "休養",
-    "SpetialSkil": "どんな状況でも入眠できる",
+    "SpetialSkill": "どんな状況でも入眠できる",
     "Favor": "丸くなって寝ること",
     "Unlike": "丸い形以外になること",
     "WellmatchedNTsNames": "コアフォルダ全般\n4(モチ)",
@@ -7465,7 +7465,7 @@
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "データ無" } },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "D" },
+      "Leading": { "Rank": "D" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "B" }
@@ -7514,7 +7514,7 @@
     "Class_EN": "Dual Sum-5s",
     "Character": "癖で万が一のことを考えている\n異世界転生に興味があるらしいが…",
     "Hobby": "対策、災害などへの備え",
-    "SpetialSkil": "ライトノベル執筆",
+    "SpetialSkill": "ライトノベル執筆",
     "Favor": "転機（転職・転校などの）",
     "Unlike": "現状に拘束されること",
     "WellmatchedNTsNames": "15(トウゴ)",
@@ -7532,9 +7532,9 @@
   },
   {
     "Num": 96,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image96"
+      "concept_PNGName": "cnsp_image96"
     },
     "Name": "クルリ",
     "Name_EN": "Rota",
@@ -7545,7 +7545,7 @@
     "SPCodeName_EN": "(Rotation)",
     "GenderType": "Female",
     "Height_cm": 153,
-    "ConseptAge": { "about": "不詳" },
+    "ConceptAge": { "about": "不詳" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 6, "Month": "Sep" }, "DayAbout": "開発記念" }
     ],
@@ -7561,7 +7561,7 @@
     "ForMasterCalling": "ご主人",
     "Character": "流行に詳しく今時なトレンドに敏感\n普段は仮面をつけている（流行に乗っている自分を模るためらしい）\n素を知られていない",
     "Hobby": "ファッション購入",
-    "SpetialSkil": "キャラを演じること",
+    "SpetialSkill": "キャラを演じること",
     "Favor": "トレンドもの",
     "Unlike": "水着",
     "WellmatchedNTsNames": "69(ロック)",
@@ -7582,7 +7582,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "E" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "S" }
@@ -7622,9 +7622,9 @@
   },
   {
     "Num": 97,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image97"
+      "concept_PNGName": "cnsp_image97"
     },
     "Name": "ココナ",
     "Name_EN": "Ninsefie",
@@ -7633,7 +7633,7 @@
     "CodeName": "九七",
     "GenderType": "Female",
     "Height_cm": 141,
-    "ConseptAge": { "about": "不詳" },
+    "ConceptAge": { "about": "不詳" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 7, "Month": "Sep" }, "DayAbout": "開発記念" }
     ],
@@ -7648,7 +7648,7 @@
     "ForMasterCalling": "神官さま",
     "Character": "自発的だが、少し内向的でもあり陰気\n信仰に対し異様に執着している",
     "Hobby": "祈願・礼拝",
-    "SpetialSkil": "読み聞かせ",
+    "SpetialSkill": "読み聞かせ",
     "Favor": "信仰",
     "Unlike": "叱責や怒号",
     "WellmatchedNTsNames": "61(ロクイチ)\n72(ナフタ)",
@@ -7669,7 +7669,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "C" },
-      "Reading": { "Rank": "C", "AbilityText": "極端" },
+      "Leading": { "Rank": "C", "AbilityText": "極端" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "C", "AbilityText": "極端" },
       "Actuation": { "Rank": "S" }
@@ -7708,9 +7708,9 @@
   },
   {
     "Num": 98,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image98"
+      "concept_PNGName": "cnsp_image98"
     },
     "Name": "キュウヤ",
     "Name_EN": "Nineigha",
@@ -7719,7 +7719,7 @@
     "CodeName": "九八",
     "GenderType": "Female",
     "Height_cm": 154,
-    "ConseptAge": { "value": 20, "about": "？" },
+    "ConceptAge": { "value": 20, "about": "？" },
     "AnivDay": [
       { "Day": { "DayOfMonth": 8, "Month": "Sep" }, "DayAbout": "開発記念" }
     ],
@@ -7734,7 +7734,7 @@
     "ForMasterCalling": "～先生",
     "Character": "飽き症で何事にも投げ遣り気味。ほんの少しだけシスターコンプレックス",
     "Hobby": "買い出し",
-    "SpetialSkil": "時間制限や手数制限のある作業",
+    "SpetialSkill": "時間制限や手数制限のある作業",
     "Favor": "キリ番から少し減らされ下2桁が「98」になった数字",
     "Unlike": "残業",
     "WellmatchedNTsNames": "68(ロクヤ)",
@@ -7757,7 +7757,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "B+" },
       "Communicating": { "Rank": "D" },
-      "Reading": { "Rank": "B+" },
+      "Leading": { "Rank": "B+" },
       "Precision": { "Rank": "B" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "B" }
@@ -7799,9 +7799,9 @@
   },
   {
     "Num": 99,
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image99"
+      "concept_PNGName": "cnsp_image99"
     },
     "Name": "ツクモ",
     "Name_EN": "Thukumo",
@@ -7812,7 +7812,7 @@
     "SPCodeName_EN": "Thukumo",
     "GenderType": "Neutral",
     "Height_cm": 159,
-    "ConseptAge": 16,
+    "ConceptAge": 16,
     "AnivDay": [
       { "Day": { "DayOfMonth": 31, "Month": "Dec" }, "DayAbout": "開発記念" }
     ],
@@ -7827,7 +7827,7 @@
     "ForMasterCalling": "主君",
     "Character": "異世界転生者疑惑がある？\n異世界の王族だったような雰囲気を持つ",
     "Hobby": "記憶を探ること",
-    "SpetialSkil": "運試し",
+    "SpetialSkill": "運試し",
     "Favor": "サイエンスファンタジー",
     "Unlike": "悲劇",
     "WellmatchedNTsNames": "11(トウイチ)",
@@ -7849,7 +7849,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": { "HideText": "判定不能" } },
-      "Reading": { "Rank": { "HideText": "非公開" } },
+      "Leading": { "Rank": { "HideText": "非公開" } },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B" },
       "Actuation": { "Rank": "A" }
@@ -7893,9 +7893,9 @@
   },
   {
     "Num": "2(-alt)",
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image2-alt"
+      "concept_PNGName": "cnsp_image2-alt"
     },
     "Name": "ツギ\nバイナ",
     "Name_EN": "Binor\nTwicy",
@@ -7906,7 +7906,7 @@
     "SPCodeName_EN": "Two/Binary",
     "GenderType": "Female",
     "Height_cm": [{ "value": 150, "about": "想定" }],
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       {
         "Day": { "DayOfMonth": 2, "Month": "Jan" },
@@ -7927,7 +7927,7 @@
     "ForMasterCalling": "兄さま/姉さま",
     "Character": "控えめだけど可憐で仲間想い\n少し世間知らず",
     "Hobby": "皆を思いやること",
-    "SpetialSkil": "体調不良を見抜く",
+    "SpetialSkill": "体調不良を見抜く",
     "Favor": "スキンシップ（コアフォルダ形態時）",
     "Unlike": "妹より幼く見えること",
     "WellmatchedNTsNames": "3(ナオ)\nディケ",
@@ -7939,7 +7939,7 @@
     "AbilityStats": {
       "Speed": { "Rank": { "HideText": "検証中" } },
       "Communicating": { "Rank": "S" },
-      "Reading": { "Rank": "C" },
+      "Leading": { "Rank": "C" },
       "Precision": { "Rank": "C" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "A" }
@@ -7958,7 +7958,7 @@
     "SPCodeName_EN": "Ten/Decade",
     "GenderType": "Male",
     "Height_cm": 164,
-    "ConseptAge": 17,
+    "ConceptAge": 17,
     "AnivDay": [
       { "Day": { "DayOfMonth": 10, "Month": "Jan" }, "DayAbout": "開発記念" },
       {
@@ -7988,9 +7988,9 @@
   },
   {
     "Num": "000",
-    "Released": "released",
+    "Progress": "released",
     "Images": {
-      "consept_PNGName": "cnsp_image000"
+      "concept_PNGName": "cnsp_image000"
     },
     "Name": "チトセ",
     "Name_EN": "Thouser",
@@ -8001,7 +8001,7 @@
     "SPCodeName_EN": "Null/Triple Zero",
     "GenderType": "Neutral",
     "Height_cm": 165,
-    "ConseptAge": 25,
+    "ConceptAge": 25,
     "AnivDay": [
       {
         "Day": { "DayOfMonth": 15, "Month": "Aug" },
@@ -8024,14 +8024,14 @@
   },
   {
     "Num": "0",
-    "Released": "released",
+    "Progress": "released",
     "Name": "(レイ)",
     "Name_EN": "(Zera)",
     "CodeName": "〇",
     "SPCodeName": "零",
     "GenderType": "Female",
     "Height_cm": 165,
-    "ConseptAge": 25,
+    "ConceptAge": 25,
     "AnivDay": [
       { "Day": { "DayOfMonth": 15, "Month": "Aug" }, "DayAbout": "誕生日" }
     ],
@@ -8050,7 +8050,7 @@
   },
   {
     "Num": "00",
-    "Released": "released",
+    "Progress": "released",
     "Name": "(ハゲム)",
     "Name_EN": "(Hudret)",
     "CodeName": "〇〇",
@@ -8058,7 +8058,7 @@
     "SPCodeName_EN": "Double Zero",
     "GenderType": "Male",
     "Height_cm": 165,
-    "ConseptAge": 25,
+    "ConceptAge": 25,
     "AnivDay": [
       { "Day": { "DayOfMonth": 15, "Month": "Aug" }, "DayAbout": "誕生日" }
     ],

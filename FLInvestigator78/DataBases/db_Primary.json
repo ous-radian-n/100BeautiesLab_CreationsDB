@@ -23,7 +23,7 @@
     },
     "Character": "能天気でどこか浮いている",
     "Hobby": "面白い出来事の散策",
-    "SpetialSkil": "アスレチック競技",
+    "SpetialSkill": "アスレチック競技",
     "Favor": "犬",
     "Unlike": "ふとしたときに地雷を踏みやすいこと",
     "FirstPersonCalling": "ボク",
@@ -58,7 +58,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "B+" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "S" }
@@ -88,7 +88,7 @@
     },
     "Character": "行動的かつ自発的で、何事にも才能にあふれている",
     "Hobby": "起業した自事業の拡大について計画する",
-    "SpetialSkil": "手品",
+    "SpetialSkill": "手品",
     "Favor": "新しいこと、将来有望な若者",
     "Unlike": "才能が発揮されない事",
     "FirstPersonCalling": "私(わたし)",
@@ -125,7 +125,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "A" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "S" },
       "Technic": { "Rank": "S" },
       "Actuation": { "Rank": "B+" }
@@ -152,7 +152,7 @@
     },
     "Character": "博識かつ知力的で冷淡",
     "Hobby": "教養についての資料を集める/読む",
-    "SpetialSkil": "六法全書を暗記している",
+    "SpetialSkill": "六法全書を暗記している",
     "Favor": "静かな場所",
     "Unlike": "女性的ストレス",
     "FirstPersonCalling": "私(わたくし)",
@@ -189,7 +189,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "C" },
       "Communicating": { "Rank": "A" },
-      "Reading": { "Rank": "S" },
+      "Leading": { "Rank": "S" },
       "Precision": { "Rank": "A" },
       "Technic": { "Rank": "B+" },
       "Actuation": { "Rank": "B+" }
@@ -216,7 +216,7 @@
     },
     "Character": "母性と女子力があり、相手の男性を駄目にしがち",
     "Hobby": "晩餐会",
-    "SpetialSkil": "泣いている赤子を泣き止ませる",
+    "SpetialSkill": "泣いている赤子を泣き止ませる",
     "Favor": "自然豊かな休憩所",
     "Unlike": "空腹",
     "FirstPersonCalling": "わたし",
@@ -253,7 +253,7 @@
     "AbilityStats": {
       "Speed": { "Rank": "D" },
       "Communicating": { "Rank": "S" },
-      "Reading": { "Rank": "B" },
+      "Leading": { "Rank": "B" },
       "Precision": { "Rank": "B+" },
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "B" }
