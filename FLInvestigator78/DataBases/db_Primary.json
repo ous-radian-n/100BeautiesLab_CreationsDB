@@ -107,7 +107,7 @@
         },
         "ActionType": {
           "KinematicOrStatic": "Kinematic",
-          "RoleType": "Read"
+          "RoleType": "Lead"
         },
         "DualizePattern": { "Pattern": "Prop.(通常)" }
       },
