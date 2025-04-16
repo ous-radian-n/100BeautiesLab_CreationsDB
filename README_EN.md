@@ -1,5 +1,5 @@
 https://misskey.numbertales-radiann.net/@official/pages/creation_guideline_EN
-(Updated on 2024.4.19)
+(Updated on 2025.4.11)
 
 # Primary Works Guideline
 
@@ -11,13 +11,14 @@ http://creativecommons.org/licenses/by-nc/4.0/
 ## Permissions
 
 In principle, permission is required for third parties to use images of works that are primary works and are tagged with one of the following tags: #運命線狐の記録 (the Destiny Fox's Records), #フィジカル 9 (Physical-9), #ナンバーテールズ (NumberTales), #運命線探偵 OCTOGINTA (OCTOGINTA the Destiny Detectives), #運命線探偵 78 (the Fate-Line Investigators 78) #獣爾騎兵 (Shau'er Riders), #パストダイヴァー (PastDivers) or #豹変系女子 (Sinister Changing Girls) (hereinafter referred to as "Primary Works").
-(For permission, please contact to these author "RadianN_kswg" by Misskey ( [here](htps://misskey.io/@RadianN_kswg@misskey.numbertales-radiann.net) or [here](htps://misskey.io/@RadianN_kswg@misskey.flowers) )).
+(For permission, please contact to these author "RadianN_kswg"("ラジアン(柏木主税)") by Misskey ( [here](htps://misskey.io/@RadianN_kswg@misskey.numbertales-radiann.net) or [here](htps://misskey.io/@RadianN_kswg@misskey.flowers) )).
 
 # Secondary Works Guideline
 
 ## Tagging
 
-if you would like to create a secondary works based on a character from a primary works, please provide a link to Misskey of these author: "RadianN_kswg"("ラジアン(柏木主税)") or Misskey of the official "100BeautiesLab"("百花繚乱研究所"). Although it is optional, we would appreciate it if you could make use of the following tags for the relevant series.
+if you would like to create a secondary works based on a character from a primary works, please provide a link to Misskey of these author: "RadianN_kswg"("ラジアン(柏木主税)") or Misskey of the official "100BeautiesLab"("百花繚乱研究所") ( [here](htps://misskey.io/@official@misskey.numbertales-radiann.net) or [here](htps://misskey.io/@100BtysLab_official) ).
+(Although it is optional, we would appreciate it if you could make use of the following tags for the relevant series.)
 
 (1) "#ナンバーテールズ" (NumberTales) series
 　 → "#ナンバーテールズの主人より" (Dear NumberTales, From your Master)

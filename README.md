@@ -1,5 +1,5 @@
 https://misskey.numbertales-radiann.net/@official/pages/creation_guideline
-(更新日 2024.4.21)
+(更新日 2025.4.11)
 
 # 一次創作作品におけるガイドライン
 
@@ -12,13 +12,14 @@ http://creativecommons.org/licenses/by-nc/4.0/
 ## 利用許可について
 
 一次創作でありシリーズ名のタグ「 #運命線狐の記録 」「 #フィジカル 9 」「 #ナンバーテールズ 」「 #運命線探偵 OCTOGINTA 」「#運命線探偵 78」「 #獣爾騎兵 」「 #パストダイヴァー 」および「#豹変系女子」のいずれかが付与されている作品（以下、「一次創作作品」）の第三者による画像の利用は原則許可が必要です
-（許可申請は [こちら](htps://misskey.io/@RadianN_kswg@misskey.numbertales-radiann.net)または[こちら](htps://misskey.io/@RadianN_kswg@misskey.flowers)にて）
+（許可申請は「ラジアン(柏木主税)」の Misskey アカウントの [こちら](htps://misskey.io/@RadianN_kswg@misskey.numbertales-radiann.net) または [こちら](htps://misskey.io/@RadianN_kswg@misskey.flowers)にて）
 
 # 二次創作作品におけるガイドライン
 
 ## タグ活用について
 
-一次創作作品の登場キャラクターを元に二次創作をする場合は、「ラジアン(柏木主税)」の Misskey（@RadianN_kswg@misskey.io or @RadianN_kswg）、もしくは「百花繚乱研究所」公式の Misskey（@official or @100BTYsLab_official@misskey.io）のアカウントリンクを明記するか、以下にある該当シリーズの二次創作タグを活用するようお願いします（タグの明記は任意ですが、活用していただけると大変助かります！）
+一次創作作品の登場キャラクターを元に二次創作をする場合は、「ラジアン(柏木主税)」の Misskey、もしくは「百花繚乱研究所」公式の Misskey（[こちら](https://misskey.io/@official@misskey.numbertales-radiann.net) または [こちら](https://misskey.io/@100BTYsLab_official@misskey.io)）のアカウントリンクを明記するか、以下にある該当シリーズの二次創作タグを活用するようお願いします
+（タグの明記は任意ですが、活用していただけると大変助かります！）
 
 ①「ナンバーテールズ」シリーズ →「#ナンバーテールズの主人より」
 ② その他のシリーズ作品 →「#運命線に届け」
