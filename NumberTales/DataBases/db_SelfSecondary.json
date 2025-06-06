@@ -1,0 +1,7946 @@
+[
+  {
+    "Num": 120,
+    "Name": "ダスト",
+    "Name_EN": "Darst",
+    "FormalName": "ナンバーテールズ120番機",
+    "ModelNumber": "NumberTales #120",
+    "CodeName": "一二〇",
+    "SPCodeName_EN": "Ten Dars",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルスリーズ",
+    "Class_EN": "Tens Dual Sum-3s"
+  },
+  {
+    "Num": 121,
+    "FormalName": "ナンバーテールズ121番機",
+    "ModelNumber": "NumberTales #121",
+    "CodeName": "一二一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4組丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 122,
+    "FormalName": "ナンバーテールズ122番機",
+    "ModelNumber": "NumberTales #122",
+    "CodeName": "一二二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5組乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 123,
+    "Name": "ヒフミ",
+    "Name_EN": "Hop-Step-Jumper",
+    "FormalName": "ナンバーテールズ123番機",
+    "ModelNumber": "NumberTales #123",
+    "CodeName": "一二三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+3組",
+    "Class_EN": "I+II+III Triples"
+  },
+  {
+    "Num": 124,
+    "FormalName": "ナンバーテールズ124番機",
+    "ModelNumber": "NumberTales #124",
+    "CodeName": "一二四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+4組",
+    "Class_EN": "I+II+IV Triples"
+  },
+  {
+    "Num": 125,
+    "FormalName": "ナンバーテールズ125番機",
+    "ModelNumber": "NumberTales #125",
+    "CodeName": "一二五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+5組",
+    "Class_EN": "I+II+V Triples"
+  },
+  {
+    "Num": 126,
+    "FormalName": "ナンバーテールズ126番機",
+    "ModelNumber": "NumberTales #126",
+    "CodeName": "一二六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+6組",
+    "Class_EN": "I+II+VI Triples"
+  },
+  {
+    "Num": 127,
+    "Name": "ヒフナ",
+    "Name_EN": "Twelsven",
+    "FormalName": "ナンバーテールズ127番機",
+    "ModelNumber": "NumberTales #127",
+    "CodeName": "一二七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+7組",
+    "Class_EN": "I+II+VII Triples"
+  },
+  {
+    "Num": 128,
+    "FormalName": "ナンバーテールズ128番機",
+    "ModelNumber": "NumberTales #128",
+    "CodeName": "一二八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+8組",
+    "Class_EN": "I+II+VIII Triples"
+  },
+  {
+    "Num": 129,
+    "FormalName": "ナンバーテールズ129番機",
+    "ModelNumber": "NumberTales #129",
+    "CodeName": "一二九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+9組",
+    "Class_EN": "I+II+IX Triples"
+  },
+  {
+    "Num": 130,
+    "FormalName": "ナンバーテールズ130番機",
+    "ModelNumber": "NumberTales #130",
+    "CodeName": "一三〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルフォーズ",
+    "Class_EN": "Tens Dual Sum-4s"
+  },
+  {
+    "Num": 131,
+    "FormalName": "ナンバーテールズ131番機",
+    "ModelNumber": "NumberTales #131",
+    "CodeName": "一三一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5組丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 132,
+    "FormalName": "ナンバーテールズ132番機",
+    "ModelNumber": "NumberTales #132",
+    "CodeName": "一三二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+3組",
+    "Class_EN": "I+II+III Triples"
+  },
+  {
+    "Num": 133,
+    "FormalName": "ナンバーテールズ133番機",
+    "ModelNumber": "NumberTales #133",
+    "CodeName": "一三三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7組乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 134,
+    "FormalName": "ナンバーテールズ134番機",
+    "ModelNumber": "NumberTales #134",
+    "CodeName": "一三四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+4組",
+    "Class_EN": "I+III+IV Triples"
+  },
+  {
+    "Num": 135,
+    "FormalName": "ナンバーテールズ135番機",
+    "ModelNumber": "NumberTales #135",
+    "CodeName": "一三五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+5組",
+    "Class_EN": "I+III+V Triples"
+  },
+  {
+    "Num": 136,
+    "FormalName": "ナンバーテールズ136番機",
+    "ModelNumber": "NumberTales #136",
+    "CodeName": "一三六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+6組",
+    "Class_EN": "I+III+VI Triples"
+  },
+  {
+    "Num": 137,
+    "FormalName": "ナンバーテールズ137番機",
+    "ModelNumber": "NumberTales #137",
+    "CodeName": "一三七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+7組",
+    "Class_EN": "I+III+VII Triples"
+  },
+  {
+    "Num": 138,
+    "FormalName": "ナンバーテールズ138番機",
+    "ModelNumber": "NumberTales #138",
+    "CodeName": "一三八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+8組",
+    "Class_EN": "I+III+VIII Triples"
+  },
+  {
+    "Num": 139,
+    "FormalName": "ナンバーテールズ139番機",
+    "ModelNumber": "NumberTales #139",
+    "CodeName": "一三九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+9組",
+    "Class_EN": "I+III+IX Triples"
+  },
+  {
+    "Num": 140,
+    "FormalName": "ナンバーテールズ140番機",
+    "ModelNumber": "NumberTales #140",
+    "CodeName": "一四〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルファイブズ",
+    "Class_EN": "Tens Dual Sum-5s"
+  },
+  {
+    "Num": 141,
+    "FormalName": "ナンバーテールズ141番機",
+    "ModelNumber": "NumberTales #141",
+    "CodeName": "一四一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6組",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 142,
+    "FormalName": "ナンバーテールズ142番機",
+    "ModelNumber": "NumberTales #142",
+    "CodeName": "一四二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+4組",
+    "Class_EN": "I+II+IV Triples"
+  },
+  {
+    "Num": 143,
+    "FormalName": "ナンバーテールズ143番機",
+    "ModelNumber": "NumberTales #143",
+    "CodeName": "一四三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+4組",
+    "Class_EN": "I+III+IV Triples"
+  },
+  {
+    "Num": 144,
+    "Name": "ヒトヨシ",
+    "Name_EN": "Oneforfone",
+    "FormalName": "ナンバーテールズ144番機",
+    "ModelNumber": "NumberTales #144",
+    "CodeName": "一四四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9組",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 145,
+    "FormalName": "ナンバーテールズ145番機",
+    "ModelNumber": "NumberTales #145",
+    "CodeName": "一四五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+5組",
+    "Class_EN": "I+IV+V Triples"
+  },
+  {
+    "Num": 146,
+    "FormalName": "ナンバーテールズ146番機",
+    "ModelNumber": "NumberTales #146",
+    "CodeName": "一四六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+6組",
+    "Class_EN": "I+IV+VI Triples"
+  },
+  {
+    "Num": 147,
+    "FormalName": "ナンバーテールズ147番機",
+    "ModelNumber": "NumberTales #147",
+    "CodeName": "一四七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+7組",
+    "Class_EN": "I+IV+VII Triples"
+  },
+  {
+    "Num": 148,
+    "FormalName": "ナンバーテールズ148番機",
+    "ModelNumber": "NumberTales #148",
+    "CodeName": "一四八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+8組",
+    "Class_EN": "I+IV+VIII Triples"
+  },
+  {
+    "Num": 149,
+    "FormalName": "ナンバーテールズ149番機",
+    "ModelNumber": "NumberTales #149",
+    "CodeName": "一四九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+9組",
+    "Class_EN": "I+IV+IX Triples"
+  },
+  {
+    "Num": 150,
+    "Name": "ハクハン",
+    "Name_EN": "Onehalven",
+    "FormalName": "ナンバーテールズ150番機",
+    "ModelNumber": "NumberTales #150",
+    "CodeName": "一五〇",
+    "SPCodeName": "一半百",
+    "SPCodeName_EN": "One Half(of Percent)",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルシックスズ",
+    "Class_EN": "Tens Dual Sum-6s"
+  },
+  {
+    "Num": 151,
+    "FormalName": "ナンバーテールズ151番機",
+    "ModelNumber": "NumberTales #151",
+    "CodeName": "一五一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 152,
+    "FormalName": "ナンバーテールズ152番機",
+    "ModelNumber": "NumberTales #152",
+    "CodeName": "一五二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+5組",
+    "Class_EN": "I+II+V Triples"
+  },
+  {
+    "Num": 153,
+    "FormalName": "ナンバーテールズ153番機",
+    "ModelNumber": "NumberTales #153",
+    "CodeName": "一五三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+5組",
+    "Class_EN": "I+III+V Triples"
+  },
+  {
+    "Num": 154,
+    "FormalName": "ナンバーテールズ154番機",
+    "ModelNumber": "NumberTales #154",
+    "CodeName": "一五四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+5組",
+    "Class_EN": "I+IV+V Triples"
+  },
+  {
+    "Num": 155,
+    "FormalName": "ナンバーテールズ155番機",
+    "ModelNumber": "NumberTales #155",
+    "CodeName": "一五五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 156,
+    "Name": "ヒゴロ",
+    "Name_EN": "Onefix",
+    "FormalName": "ナンバーテールズ156番機",
+    "ModelNumber": "NumberTales #156",
+    "CodeName": "一五六",
+    "SPCodeName": "日頃",
+    "SPCodeName_EN": "Dailies",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+6組",
+    "Class_EN": "I+V+VI Triples"
+  },
+  {
+    "Num": 157,
+    "FormalName": "ナンバーテールズ157番機",
+    "ModelNumber": "NumberTales #157",
+    "CodeName": "一五七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+7組",
+    "Class_EN": "I+V+VII Triples"
+  },
+  {
+    "Num": 158,
+    "FormalName": "ナンバーテールズ158番機",
+    "ModelNumber": "NumberTales #158",
+    "CodeName": "一五八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+8組",
+    "Class_EN": "I+V+VIII Triples"
+  },
+  {
+    "Num": 159,
+    "FormalName": "ナンバーテールズ159番機",
+    "ModelNumber": "NumberTales #159",
+    "CodeName": "一五九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+9組",
+    "Class_EN": "I+V+IX Triples"
+  },
+  {
+    "Num": 160,
+    "FormalName": "ナンバーテールズ160番機",
+    "ModelNumber": "NumberTales #160",
+    "CodeName": "一六〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルセブンズ",
+    "Class_EN": "Tens Dual Sum-7s"
+  },
+  {
+    "Num": 161,
+    "FormalName": "ナンバーテールズ161番機",
+    "ModelNumber": "NumberTales #161",
+    "CodeName": "一六一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 162,
+    "FormalName": "ナンバーテールズ162番機",
+    "ModelNumber": "NumberTales #162",
+    "CodeName": "一六二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+6組",
+    "Class_EN": "I+II+VI Triples"
+  },
+  {
+    "Num": 163,
+    "FormalName": "ナンバーテールズ163番機",
+    "ModelNumber": "NumberTales #163",
+    "CodeName": "一六三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+6組",
+    "Class_EN": "I+III+VI Triples"
+  },
+  {
+    "Num": 164,
+    "FormalName": "ナンバーテールズ164番機",
+    "ModelNumber": "NumberTales #164",
+    "CodeName": "一六四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+6組",
+    "Class_EN": "I+IV+VI Triples"
+  },
+  {
+    "Num": 165,
+    "FormalName": "ナンバーテールズ165番機",
+    "ModelNumber": "NumberTales #165",
+    "CodeName": "一六五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+6組",
+    "Class_EN": "I+V+VI Triples"
+  },
+  {
+    "Num": 166,
+    "FormalName": "ナンバーテールズ166番機",
+    "ModelNumber": "NumberTales #166",
+    "CodeName": "一六六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 167,
+    "FormalName": "ナンバーテールズ167番機",
+    "ModelNumber": "NumberTales #167",
+    "CodeName": "一六七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+7組",
+    "Class_EN": "I+VI+VII Triples"
+  },
+  {
+    "Num": 168,
+    "FormalName": "ナンバーテールズ168番機",
+    "ModelNumber": "NumberTales #168",
+    "CodeName": "一六八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+8組",
+    "Class_EN": "I+VI+VIII Triples"
+  },
+  {
+    "Num": 169,
+    "FormalName": "ナンバーテールズ169番機",
+    "ModelNumber": "NumberTales #169",
+    "CodeName": "一六九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+9組",
+    "Class_EN": "I+VI+IX Triples"
+  },
+  {
+    "Num": 170,
+    "FormalName": "ナンバーテールズ170番機",
+    "ModelNumber": "NumberTales #170",
+    "CodeName": "一七〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルエイツ",
+    "Class_EN": "Tens Dual Sum-8s"
+  },
+  {
+    "Num": 171,
+    "FormalName": "ナンバーテールズ171番機",
+    "ModelNumber": "NumberTales #171",
+    "CodeName": "一七一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 172,
+    "FormalName": "ナンバーテールズ172番機",
+    "ModelNumber": "NumberTales #172",
+    "CodeName": "一七二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+7組",
+    "Class_EN": "I+II+VII Triples"
+  },
+  {
+    "Num": 173,
+    "FormalName": "ナンバーテールズ173番機",
+    "ModelNumber": "NumberTales #173",
+    "CodeName": "一七三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+7組",
+    "Class_EN": "I+III+VII Triples"
+  },
+  {
+    "Num": 174,
+    "FormalName": "ナンバーテールズ174番機",
+    "ModelNumber": "NumberTales #174",
+    "CodeName": "一七四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+7組",
+    "Class_EN": "I+IV+VII Triples"
+  },
+  {
+    "Num": 175,
+    "FormalName": "ナンバーテールズ175番機",
+    "ModelNumber": "NumberTales #175",
+    "CodeName": "一七五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+7組",
+    "Class_EN": "I+V+VII Triples"
+  },
+  {
+    "Num": 176,
+    "FormalName": "ナンバーテールズ176番機",
+    "ModelNumber": "NumberTales #176",
+    "CodeName": "一七六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+7組",
+    "Class_EN": "I+VI+VII Triples"
+  },
+  {
+    "Num": 177,
+    "FormalName": "ナンバーテールズ177番機",
+    "ModelNumber": "NumberTales #177",
+    "CodeName": "一七七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 178,
+    "FormalName": "ナンバーテールズ178番機",
+    "ModelNumber": "NumberTales #178",
+    "CodeName": "一七八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+8組",
+    "Class_EN": "I+VII+VIII Triples"
+  },
+  {
+    "Num": 179,
+    "FormalName": "ナンバーテールズ179番機",
+    "ModelNumber": "NumberTales #179",
+    "CodeName": "一七九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+9組",
+    "Class_EN": "I+VII+IX Triples"
+  },
+  {
+    "Num": 180,
+    "FormalName": "ナンバーテールズ180番機",
+    "ModelNumber": "NumberTales #180",
+    "CodeName": "一八〇",
+    "GenderType": "Neutral",
+    "Class": "ナインティデュアルズ",
+    "Class_EN": "90s Duals"
+  },
+  {
+    "Num": 181,
+    "FormalName": "ナンバーテールズ181番機",
+    "ModelNumber": "NumberTales #181",
+    "CodeName": "一八一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 182,
+    "FormalName": "ナンバーテールズ182番機",
+    "ModelNumber": "NumberTales #182",
+    "CodeName": "一八二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+8組",
+    "Class_EN": "I+II+VIII Triples"
+  },
+  {
+    "Num": 183,
+    "FormalName": "ナンバーテールズ183番機",
+    "ModelNumber": "NumberTales #183",
+    "CodeName": "一八三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+8組",
+    "Class_EN": "I+III+VIII Triples"
+  },
+  {
+    "Num": 184,
+    "FormalName": "ナンバーテールズ184番機",
+    "ModelNumber": "NumberTales #184",
+    "CodeName": "一八四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+8組",
+    "Class_EN": "I+IV+VIII Triples"
+  },
+  {
+    "Num": 185,
+    "FormalName": "ナンバーテールズ185番機",
+    "ModelNumber": "NumberTales #185",
+    "CodeName": "一八五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+8組",
+    "Class_EN": "I+V+VIII Triples"
+  },
+  {
+    "Num": 186,
+    "FormalName": "ナンバーテールズ186番機",
+    "ModelNumber": "NumberTales #186",
+    "CodeName": "一八六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+8組",
+    "Class_EN": "I+VI+VIII Triples"
+  },
+  {
+    "Num": 187,
+    "FormalName": "ナンバーテールズ187番機",
+    "ModelNumber": "NumberTales #187",
+    "CodeName": "一八七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+8組",
+    "Class_EN": "I+VII+VIII Triples"
+  },
+  {
+    "Num": 188,
+    "FormalName": "ナンバーテールズ188番機",
+    "ModelNumber": "NumberTales #188",
+    "CodeName": "一八八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 189,
+    "FormalName": "ナンバーテールズ189番機",
+    "ModelNumber": "NumberTales #189",
+    "CodeName": "一八九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+8+9組",
+    "Class_EN": "I+VIII+IX Triples"
+  },
+  {
+    "Num": 190,
+    "FormalName": "ナンバーテールズ190番機",
+    "ModelNumber": "NumberTales #190",
+    "CodeName": "一九〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルキャリーズ",
+    "Class_EN": "Tens Dual Carries"
+  },
+  {
+    "Num": 191,
+    "FormalName": "ナンバーテールズ191番機",
+    "ModelNumber": "NumberTales #191",
+    "CodeName": "一九一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 192,
+    "FormalName": "ナンバーテールズ192番機",
+    "ModelNumber": "NumberTales #192",
+    "CodeName": "一九二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+9組",
+    "Class_EN": "I+II+IX Triples"
+  },
+  {
+    "Num": 193,
+    "FormalName": "ナンバーテールズ193番機",
+    "ModelNumber": "NumberTales #193",
+    "CodeName": "一九三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+9組",
+    "Class_EN": "I+III+IX Triples"
+  },
+  {
+    "Num": 194,
+    "FormalName": "ナンバーテールズ194番機",
+    "ModelNumber": "NumberTales #194",
+    "CodeName": "一九四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+9組",
+    "Class_EN": "I+IV+IX Triples"
+  },
+  {
+    "Num": 195,
+    "FormalName": "ナンバーテールズ195番機",
+    "ModelNumber": "NumberTales #195",
+    "CodeName": "一九五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+9組",
+    "Class_EN": "I+V+IX Triples"
+  },
+  {
+    "Num": 196,
+    "FormalName": "ナンバーテールズ196番機",
+    "ModelNumber": "NumberTales #196",
+    "CodeName": "一九六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+9組",
+    "Class_EN": "I+VI+IX Triples"
+  },
+  {
+    "Num": 197,
+    "FormalName": "ナンバーテールズ197番機",
+    "ModelNumber": "NumberTales #197",
+    "CodeName": "一九七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+9組",
+    "Class_EN": "I+VII+IX Triples"
+  },
+  {
+    "Num": 198,
+    "FormalName": "ナンバーテールズ198番機",
+    "ModelNumber": "NumberTales #198",
+    "CodeName": "一九八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+8+9組",
+    "Class_EN": "I+VIII+IX Triples"
+  },
+  {
+    "Num": 199,
+    "FormalName": "ナンバーテールズ199番機",
+    "ModelNumber": "NumberTales #199",
+    "CodeName": "一九九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 201,
+    "FormalName": "ナンバーテールズ201番機",
+    "ModelNumber": "NumberTales #201",
+    "CodeName": "二〇一",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルスリーズ",
+    "Class_EN": "Side Dual Sum-3s"
+  },
+  {
+    "Num": 202,
+    "FormalName": "ナンバーテールズ202番機",
+    "ModelNumber": "NumberTales #202",
+    "CodeName": "二〇二",
+    "GenderType": "Neutral",
+    "Class": "サイドシングルズ",
+    "Class_EN": "Side Singles"
+  },
+  {
+    "Num": 203,
+    "FormalName": "ナンバーテールズ203番機",
+    "ModelNumber": "NumberTales #203",
+    "CodeName": "二〇三",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルファイブズ",
+    "Class_EN": "Side Dual Sum-5s"
+  },
+  {
+    "Num": 204,
+    "FormalName": "ナンバーテールズ204番機",
+    "ModelNumber": "NumberTales #204",
+    "CodeName": "二〇四",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルシックスズ",
+    "Class_EN": "Side Dual Sum-6s"
+  },
+  {
+    "Num": 205,
+    "FormalName": "ナンバーテールズ205番機",
+    "ModelNumber": "NumberTales #205",
+    "CodeName": "二〇五",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルセブンズ",
+    "Class_EN": "Side Dual Sum-7s"
+  },
+  {
+    "Num": 206,
+    "FormalName": "ナンバーテールズ206番機",
+    "ModelNumber": "NumberTales #206",
+    "CodeName": "二〇六",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルエイツ",
+    "Class_EN": "Side Dual Sum-8s"
+  },
+  {
+    "Num": 207,
+    "FormalName": "ナンバーテールズ207番機",
+    "ModelNumber": "NumberTales #207",
+    "CodeName": "二〇七",
+    "GenderType": "Neutral",
+    "Class": "サイドナインズデュアルズ",
+    "Class_EN": "Side Nines Duals"
+  },
+  {
+    "Num": 208,
+    "FormalName": "ナンバーテールズ208番機",
+    "ModelNumber": "NumberTales #208",
+    "CodeName": "二〇八",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルキャリーズ",
+    "Class_EN": "Side Dual Carries"
+  },
+  {
+    "Num": 209,
+    "FormalName": "ナンバーテールズ209番機",
+    "ModelNumber": "NumberTales #209",
+    "CodeName": "二〇九",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルイレブンズ",
+    "Class_EN": "Side Dual Sum-11s"
+  },
+  {
+    "Num": 210,
+    "FormalName": "ナンバーテールズ210番機",
+    "ModelNumber": "NumberTales #210",
+    "CodeName": "二一〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルスリーズ",
+    "Class_EN": "Tens Dual Sum-3s"
+  },
+  {
+    "Num": 211,
+    "FormalName": "ナンバーテールズ211番機",
+    "ModelNumber": "NumberTales #211",
+    "CodeName": "二一一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 212,
+    "FormalName": "ナンバーテールズ212番機",
+    "ModelNumber": "NumberTales #212",
+    "CodeName": "二一二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 213,
+    "FormalName": "ナンバーテールズ213番機",
+    "ModelNumber": "NumberTales #213",
+    "CodeName": "二一三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+3組",
+    "Class_EN": "I+II+III Triples"
+  },
+  {
+    "Num": 214,
+    "Name": "バレンタ",
+    "Name_EN": "Valenta",
+    "FormalName": "ナンバーテールズ214番機",
+    "ModelNumber": "NumberTales #214",
+    "CodeName": "二一四",
+    "SPCodeName_EN": "Valentain",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+4組",
+    "Class_EN": "I+II+IV Triples"
+  },
+  {
+    "Num": 215,
+    "FormalName": "ナンバーテールズ215番機",
+    "ModelNumber": "NumberTales #215",
+    "CodeName": "二一五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+5組",
+    "Class_EN": "I+II+V Triples"
+  },
+  {
+    "Num": 216,
+    "FormalName": "ナンバーテールズ216番機",
+    "ModelNumber": "NumberTales #216",
+    "CodeName": "二一六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+6組",
+    "Class_EN": "I+II+VI Triples"
+  },
+  {
+    "Num": 217,
+    "FormalName": "ナンバーテールズ217番機",
+    "ModelNumber": "NumberTales #217",
+    "CodeName": "二一七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+7組",
+    "Class_EN": "I+II+VII Triples"
+  },
+  {
+    "Num": 218,
+    "FormalName": "ナンバーテールズ218番機",
+    "ModelNumber": "NumberTales #218",
+    "CodeName": "二一八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+8組",
+    "Class_EN": "I+II+VIII Triples"
+  },
+  {
+    "Num": 219,
+    "FormalName": "ナンバーテールズ219番機",
+    "ModelNumber": "NumberTales #219",
+    "CodeName": "二一九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+9組",
+    "Class_EN": "I+II+IX Triples"
+  },
+  {
+    "Num": 220,
+    "FormalName": "ナンバーテールズ220番機",
+    "ModelNumber": "NumberTales #220",
+    "CodeName": "二二〇",
+    "GenderType": "Neutral",
+    "Class": "マスターテンズデュアルズ9",
+    "Class_EN": "Master 110s 9"
+  },
+  {
+    "Num": 221,
+    "FormalName": "ナンバーテールズ221番機",
+    "ModelNumber": "NumberTales #221",
+    "CodeName": "二二一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型甲",
+    "Class_EN": "Duet Triples V.A"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.numbertales-radiann.net",
+    "SecondaryCategory": "リクエストナンバー",
+    "Num": 223,
+    "Progress": "released",
+    "Name": "ツヅサ",
+    "Name_EN": "Twitwenthir",
+    "FormalName": "ナンバーテールズ223番機",
+    "ModelNumber": "NumberTales #223",
+    "CodeName": "二二三",
+    "GenderType": "Neutral",
+    "Height_cm": 151,
+    "ConceptAge": 15,
+    "Weight_kg": 41,
+    "BustSize": "AA",
+    "TailsUnit": "サソリ型2本（各11束[節]）\n+キツネ型3本",
+    "Class": "デュオトリプル7型甲",
+    "Class_EN": "Duet Triples VII.A"
+  },
+  {
+    "Num": 224,
+    "FormalName": "ナンバーテールズ224番機",
+    "ModelNumber": "NumberTales #224",
+    "CodeName": "二二四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型甲",
+    "Class_EN": "Duet Triples VIII.A"
+  },
+  {
+    "Num": 225,
+    "FormalName": "ナンバーテールズ225番機",
+    "ModelNumber": "NumberTales #225",
+    "CodeName": "二二五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 226,
+    "FormalName": "ナンバーテールズ226番機",
+    "ModelNumber": "NumberTales #226",
+    "CodeName": "二二六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型甲",
+    "Class_EN": "Duet Triples I.A"
+  },
+  {
+    "Num": 227,
+    "FormalName": "ナンバーテールズ227番機",
+    "ModelNumber": "NumberTales #227",
+    "CodeName": "二二七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型甲",
+    "Class_EN": "Duet Triples II.A"
+  },
+  {
+    "Num": 228,
+    "FormalName": "ナンバーテールズ228番機",
+    "ModelNumber": "NumberTales #228",
+    "CodeName": "二二八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 229,
+    "FormalName": "ナンバーテールズ229番機",
+    "ModelNumber": "NumberTales #229",
+    "CodeName": "二二九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型甲",
+    "Class_EN": "Duet Triples IV.A"
+  },
+  {
+    "Num": 230,
+    "FormalName": "ナンバーテールズ230番機",
+    "ModelNumber": "NumberTales #230",
+    "CodeName": "二三〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルファイブズ",
+    "Class_EN": "Tens Dual Sum-5s"
+  },
+  {
+    "Num": 231,
+    "FormalName": "ナンバーテールズ231番機",
+    "ModelNumber": "NumberTales #231",
+    "CodeName": "二三一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+3組",
+    "Class_EN": "I+II+III Triples"
+  },
+  {
+    "Num": 232,
+    "FormalName": "ナンバーテールズ232番機",
+    "ModelNumber": "NumberTales #232",
+    "CodeName": "二三二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 233,
+    "FormalName": "ナンバーテールズ233番機",
+    "ModelNumber": "NumberTales #233",
+    "CodeName": "二三三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 234,
+    "FormalName": "ナンバーテールズ234番機",
+    "ModelNumber": "NumberTales #234",
+    "CodeName": "二三四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+4組",
+    "Class_EN": "II+III+IV Triples"
+  },
+  {
+    "Num": 235,
+    "FormalName": "ナンバーテールズ235番機",
+    "ModelNumber": "NumberTales #235",
+    "CodeName": "二三五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+5組",
+    "Class_EN": "II+III+V Triples"
+  },
+  {
+    "Num": 236,
+    "FormalName": "ナンバーテールズ236番機",
+    "ModelNumber": "NumberTales #236",
+    "CodeName": "二三六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+6組",
+    "Class_EN": "II+III+VI Triples"
+  },
+  {
+    "Num": 237,
+    "FormalName": "ナンバーテールズ237番機",
+    "ModelNumber": "NumberTales #237",
+    "CodeName": "二三七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+7組",
+    "Class_EN": "II+III+VII Triples"
+  },
+  {
+    "Num": 238,
+    "FormalName": "ナンバーテールズ238番機",
+    "ModelNumber": "NumberTales #238",
+    "CodeName": "二三八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+8組",
+    "Class_EN": "II+III+VIII Triples"
+  },
+  {
+    "Num": 239,
+    "FormalName": "ナンバーテールズ239番機",
+    "ModelNumber": "NumberTales #239",
+    "CodeName": "二三九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+9組",
+    "Class_EN": "II+III+IX Triples"
+  },
+  {
+    "Num": 240,
+    "FormalName": "ナンバーテールズ240番機",
+    "ModelNumber": "NumberTales #240",
+    "CodeName": "二四〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルシックスズ",
+    "Class_EN": "Tens Dual Sum-6s"
+  },
+  {
+    "Num": 241,
+    "FormalName": "ナンバーテールズ241番機",
+    "ModelNumber": "NumberTales #241",
+    "CodeName": "二四一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+4組",
+    "Class_EN": "I+II+IV Triples"
+  },
+  {
+    "Num": 242,
+    "FormalName": "ナンバーテールズ242番機",
+    "ModelNumber": "NumberTales #242",
+    "CodeName": "二四二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 243,
+    "FormalName": "ナンバーテールズ243番機",
+    "ModelNumber": "NumberTales #243",
+    "CodeName": "二四三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+4組",
+    "Class_EN": "II+III+IV Triples"
+  },
+  {
+    "Num": 244,
+    "Name": "ツグヨシ",
+    "Name_EN": "Twiforfours",
+    "FormalName": "ナンバーテールズ244番機",
+    "ModelNumber": "NumberTales #244",
+    "CodeName": "二四四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 245,
+    "FormalName": "ナンバーテールズ245番機",
+    "ModelNumber": "NumberTales #245",
+    "CodeName": "二四五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+5組",
+    "Class_EN": "II+IV+V Triples"
+  },
+  {
+    "Num": 246,
+    "FormalName": "ナンバーテールズ246番機",
+    "ModelNumber": "NumberTales #246",
+    "CodeName": "二四六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+6組",
+    "Class_EN": "II+IV+VI Triples"
+  },
+  {
+    "Num": 247,
+    "FormalName": "ナンバーテールズ247番機",
+    "ModelNumber": "NumberTales #247",
+    "CodeName": "二四七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+7組",
+    "Class_EN": "II+IV+VII Triples"
+  },
+  {
+    "Num": 248,
+    "FormalName": "ナンバーテールズ248番機",
+    "ModelNumber": "NumberTales #248",
+    "CodeName": "二四八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+8組",
+    "Class_EN": "II+IV+VIII Triples"
+  },
+  {
+    "Num": 249,
+    "FormalName": "ナンバーテールズ249番機",
+    "ModelNumber": "NumberTales #249",
+    "CodeName": "二四九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+9組",
+    "Class_EN": "II+IV+IX Triples"
+  },
+  {
+    "Num": 250,
+    "FormalName": "ナンバーテールズ250番機",
+    "ModelNumber": "NumberTales #250",
+    "CodeName": "二五〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルセブンズ",
+    "Class_EN": "Tens Dual Sum-7s"
+  },
+  {
+    "Num": 251,
+    "FormalName": "ナンバーテールズ251番機",
+    "ModelNumber": "NumberTales #251",
+    "CodeName": "二五一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+5組",
+    "Class_EN": "I+II+V Triples"
+  },
+  {
+    "Num": 252,
+    "FormalName": "ナンバーテールズ252番機",
+    "ModelNumber": "NumberTales #252",
+    "CodeName": "二五二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 253,
+    "FormalName": "ナンバーテールズ253番機",
+    "ModelNumber": "NumberTales #253",
+    "CodeName": "二五三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+5組",
+    "Class_EN": "II+III+V Triples"
+  },
+  {
+    "Num": 254,
+    "FormalName": "ナンバーテールズ254番機",
+    "ModelNumber": "NumberTales #254",
+    "CodeName": "二五四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+5組",
+    "Class_EN": "II+IV+V Triples"
+  },
+  {
+    "Num": 255,
+    "Name": "エフエフ",
+    "Name_EN": "FF",
+    "FormalName": "ナンバーテールズ255番機",
+    "ModelNumber": "NumberTales #255",
+    "CodeName": "二五五",
+    "SPCodeName": "0xFF",
+    "SPCodeName_EN": "Last of Byte",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III",
+    "Backgrounds": "1バイト値の最大値（16進法）から由来"
+  },
+  {
+    "Num": 256,
+    "Name": "バイツ",
+    "Name_EN": "Bytes",
+    "FormalName": "ナンバーテールズ256番機",
+    "ModelNumber": "NumberTales #256",
+    "CodeName": "二五六",
+    "SPCodeName_EN": "One Byte",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+6組",
+    "Class_EN": "II+V+VI Triples",
+    "Backgrounds": "1バイトで表現できる値の数から由来\nなお、「255(エフエフ)」と姉妹関係は無い"
+  },
+  {
+    "Num": 257,
+    "FormalName": "ナンバーテールズ257番機",
+    "ModelNumber": "NumberTales #257",
+    "CodeName": "二五七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+7組",
+    "Class_EN": "II+V+VII Triples"
+  },
+  {
+    "Num": 258,
+    "FormalName": "ナンバーテールズ258番機",
+    "ModelNumber": "NumberTales #258",
+    "CodeName": "二五八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+8組",
+    "Class_EN": "II+V+VIII Triples"
+  },
+  {
+    "Num": 259,
+    "FormalName": "ナンバーテールズ259番機",
+    "ModelNumber": "NumberTales #259",
+    "CodeName": "二五九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+9組",
+    "Class_EN": "II+V+IX Triples"
+  },
+  {
+    "Num": 260,
+    "FormalName": "ナンバーテールズ260番機",
+    "ModelNumber": "NumberTales #260",
+    "CodeName": "二六〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルエイツ",
+    "Class_EN": "Tens Dual Sum-8s"
+  },
+  {
+    "Num": 261,
+    "FormalName": "ナンバーテールズ261番機",
+    "ModelNumber": "NumberTales #261",
+    "CodeName": "二六一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+6組",
+    "Class_EN": "I+II+VI Triples"
+  },
+  {
+    "Num": 262,
+    "FormalName": "ナンバーテールズ262番機",
+    "ModelNumber": "NumberTales #262",
+    "CodeName": "二六二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 263,
+    "FormalName": "ナンバーテールズ263番機",
+    "ModelNumber": "NumberTales #263",
+    "CodeName": "二六三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+6組",
+    "Class_EN": "II+III+VI Triples"
+  },
+  {
+    "Num": 264,
+    "FormalName": "ナンバーテールズ264番機",
+    "ModelNumber": "NumberTales #264",
+    "CodeName": "二六四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+6組",
+    "Class_EN": "II+IV+VI Triples"
+  },
+  {
+    "Num": 265,
+    "FormalName": "ナンバーテールズ265番機",
+    "ModelNumber": "NumberTales #265",
+    "CodeName": "二六五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+6組",
+    "Class_EN": "II+V+VI Triples"
+  },
+  {
+    "Num": 266,
+    "FormalName": "ナンバーテールズ266番機",
+    "ModelNumber": "NumberTales #266",
+    "CodeName": "二六六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 267,
+    "FormalName": "ナンバーテールズ267番機",
+    "ModelNumber": "NumberTales #267",
+    "CodeName": "二六七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+7組",
+    "Class_EN": "II+VI+VII Triples"
+  },
+  {
+    "Num": 268,
+    "FormalName": "ナンバーテールズ268番機",
+    "ModelNumber": "NumberTales #268",
+    "CodeName": "二六八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+8組",
+    "Class_EN": "II+VI+VIII Triples"
+  },
+  {
+    "Num": 269,
+    "FormalName": "ナンバーテールズ269番機",
+    "ModelNumber": "NumberTales #269",
+    "CodeName": "二六九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+9組",
+    "Class_EN": "II+VI+IX Triples"
+  },
+  {
+    "Num": 270,
+    "FormalName": "ナンバーテールズ270番機",
+    "ModelNumber": "NumberTales #270",
+    "CodeName": "二七〇",
+    "GenderType": "Neutral",
+    "Class": "ナインティデュアルズ",
+    "Class_EN": "90s Duals"
+  },
+  {
+    "Num": 271,
+    "FormalName": "ナンバーテールズ271番機",
+    "ModelNumber": "NumberTales #271",
+    "CodeName": "二七一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+7組",
+    "Class_EN": "I+II+VII Triples"
+  },
+  {
+    "Num": 272,
+    "FormalName": "ナンバーテールズ272番機",
+    "ModelNumber": "NumberTales #272",
+    "CodeName": "二七二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 273,
+    "FormalName": "ナンバーテールズ273番機",
+    "ModelNumber": "NumberTales #273",
+    "CodeName": "二七三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+7組",
+    "Class_EN": "II+III+VII Triples"
+  },
+  {
+    "Num": 274,
+    "FormalName": "ナンバーテールズ274番機",
+    "ModelNumber": "NumberTales #274",
+    "CodeName": "二七四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+7組",
+    "Class_EN": "II+IV+VII Triples"
+  },
+  {
+    "Num": 275,
+    "FormalName": "ナンバーテールズ275番機",
+    "ModelNumber": "NumberTales #275",
+    "CodeName": "二七五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+7組",
+    "Class_EN": "II+V+VII Triples"
+  },
+  {
+    "Num": 276,
+    "FormalName": "ナンバーテールズ276番機",
+    "ModelNumber": "NumberTales #276",
+    "CodeName": "二七六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+7組",
+    "Class_EN": "II+VI+VII Triples"
+  },
+  {
+    "Num": 277,
+    "FormalName": "ナンバーテールズ277番機",
+    "ModelNumber": "NumberTales #277",
+    "CodeName": "二七七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 278,
+    "FormalName": "ナンバーテールズ278番機",
+    "ModelNumber": "NumberTales #278",
+    "CodeName": "二七八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+8組",
+    "Class_EN": "II+VII+VIII Triples"
+  },
+  {
+    "Num": 279,
+    "FormalName": "ナンバーテールズ279番機",
+    "ModelNumber": "NumberTales #279",
+    "CodeName": "二七九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+9組",
+    "Class_EN": "II+VII+IX Triples"
+  },
+  {
+    "Num": 280,
+    "FormalName": "ナンバーテールズ280番機",
+    "ModelNumber": "NumberTales #280",
+    "CodeName": "二八〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルキャリーズ",
+    "Class_EN": "Tens Dual Carries"
+  },
+  {
+    "Num": 281,
+    "FormalName": "ナンバーテールズ281番機",
+    "ModelNumber": "NumberTales #281",
+    "CodeName": "二八一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+8組",
+    "Class_EN": "I+II+VIII Triples"
+  },
+  {
+    "Num": 282,
+    "FormalName": "ナンバーテールズ282番機",
+    "ModelNumber": "NumberTales #282",
+    "CodeName": "二八二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 283,
+    "FormalName": "ナンバーテールズ283番機",
+    "ModelNumber": "NumberTales #283",
+    "CodeName": "二八三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+8組",
+    "Class_EN": "II+III+VIII Triples"
+  },
+  {
+    "Num": 284,
+    "FormalName": "ナンバーテールズ284番機",
+    "ModelNumber": "NumberTales #284",
+    "CodeName": "二八四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+8組",
+    "Class_EN": "II+IV+VIII Triples"
+  },
+  {
+    "Num": 285,
+    "FormalName": "ナンバーテールズ285番機",
+    "ModelNumber": "NumberTales #285",
+    "CodeName": "二八五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+8組",
+    "Class_EN": "II+V+VIII Triples"
+  },
+  {
+    "Num": 286,
+    "FormalName": "ナンバーテールズ286番機",
+    "ModelNumber": "NumberTales #286",
+    "CodeName": "二八六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+8組",
+    "Class_EN": "II+VI+VIII Triples"
+  },
+  {
+    "Num": 287,
+    "FormalName": "ナンバーテールズ287番機",
+    "ModelNumber": "NumberTales #287",
+    "CodeName": "二八七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+8組",
+    "Class_EN": "II+VII+VIII Triples"
+  },
+  {
+    "Num": 288,
+    "FormalName": "ナンバーテールズ288番機",
+    "ModelNumber": "NumberTales #288",
+    "CodeName": "二八八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 289,
+    "FormalName": "ナンバーテールズ289番機",
+    "ModelNumber": "NumberTales #289",
+    "CodeName": "二八九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+8+9組",
+    "Class_EN": "II+VIII+IX Triples"
+  },
+  {
+    "Num": 290,
+    "FormalName": "ナンバーテールズ290番機",
+    "ModelNumber": "NumberTales #290",
+    "CodeName": "二九〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルイレブンズ",
+    "Class_EN": "Tens Dual Sum-11s"
+  },
+  {
+    "Num": 291,
+    "FormalName": "ナンバーテールズ291番機",
+    "ModelNumber": "NumberTales #291",
+    "CodeName": "二九一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+9組",
+    "Class_EN": "I+II+IX Triples"
+  },
+  {
+    "Num": 292,
+    "FormalName": "ナンバーテールズ292番機",
+    "ModelNumber": "NumberTales #292",
+    "CodeName": "二九二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 293,
+    "FormalName": "ナンバーテールズ293番機",
+    "ModelNumber": "NumberTales #293",
+    "CodeName": "二九三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+9組",
+    "Class_EN": "II+III+IX Triples"
+  },
+  {
+    "Num": 294,
+    "FormalName": "ナンバーテールズ294番機",
+    "ModelNumber": "NumberTales #294",
+    "CodeName": "二九四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+9組",
+    "Class_EN": "II+IV+IX Triples"
+  },
+  {
+    "Num": 295,
+    "FormalName": "ナンバーテールズ295番機",
+    "ModelNumber": "NumberTales #295",
+    "CodeName": "二九五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+9組",
+    "Class_EN": "II+V+IX Triples"
+  },
+  {
+    "Num": 296,
+    "FormalName": "ナンバーテールズ296番機",
+    "ModelNumber": "NumberTales #296",
+    "CodeName": "二九六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+9組",
+    "Class_EN": "II+VI+IX Triples"
+  },
+  {
+    "Num": 297,
+    "FormalName": "ナンバーテールズ297番機",
+    "ModelNumber": "NumberTales #297",
+    "CodeName": "二九七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+9組",
+    "Class_EN": "II+VII+IX Triples"
+  },
+  {
+    "Num": 298,
+    "FormalName": "ナンバーテールズ298番機",
+    "ModelNumber": "NumberTales #298",
+    "CodeName": "二九八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+8+9組",
+    "Class_EN": "II+VIII+IX Triples"
+  },
+  {
+    "Num": 299,
+    "FormalName": "ナンバーテールズ299番機",
+    "ModelNumber": "NumberTales #299",
+    "CodeName": "二九九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 300,
+    "FormalName": "ナンバーテールズ300番機",
+    "ModelNumber": "NumberTales #300",
+    "CodeName": "三〇〇",
+    "GenderType": "Neutral",
+    "Class": "百倍番(ハンドレッズデジッツ)",
+    "Class_EN": "Hundrets-Digits"
+  },
+  {
+    "Num": 301,
+    "FormalName": "ナンバーテールズ301番機",
+    "ModelNumber": "NumberTales #301",
+    "CodeName": "三〇一",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルフォーズ",
+    "Class_EN": "Side Dual Sum-4s"
+  },
+  {
+    "Num": 302,
+    "FormalName": "ナンバーテールズ302番機",
+    "ModelNumber": "NumberTales #302",
+    "CodeName": "三〇二",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルファイブズ",
+    "Class_EN": "Side Dual Sum-5s"
+  },
+  {
+    "Num": 303,
+    "FormalName": "ナンバーテールズ303番機",
+    "ModelNumber": "NumberTales #303",
+    "CodeName": "三〇三",
+    "GenderType": "Neutral",
+    "Class": "サイドシングルズ",
+    "Class_EN": "Side Singles"
+  },
+  {
+    "Num": 304,
+    "FormalName": "ナンバーテールズ304番機",
+    "ModelNumber": "NumberTales #304",
+    "CodeName": "三〇四",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルセブンズ",
+    "Class_EN": "Side Dual Sum-7s"
+  },
+  {
+    "Num": 305,
+    "FormalName": "ナンバーテールズ305番機",
+    "ModelNumber": "NumberTales #305",
+    "CodeName": "三〇五",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルエイツ",
+    "Class_EN": "Side Dual Sum-8s"
+  },
+  {
+    "Num": 306,
+    "FormalName": "ナンバーテールズ306番機",
+    "ModelNumber": "NumberTales #306",
+    "CodeName": "三〇六",
+    "GenderType": "Neutral",
+    "Class": "サイドナインズデュアルズ",
+    "Class_EN": "Side Nines Duals"
+  },
+  {
+    "Num": 307,
+    "FormalName": "ナンバーテールズ307番機",
+    "ModelNumber": "NumberTales #307",
+    "CodeName": "三〇七",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルキャリーズ",
+    "Class_EN": "Side Dual Carries"
+  },
+  {
+    "Num": 308,
+    "FormalName": "ナンバーテールズ308番機",
+    "ModelNumber": "NumberTales #308",
+    "CodeName": "三〇八",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルイレブンズ",
+    "Class_EN": "Side Dual Sum-11s"
+  },
+  {
+    "Num": 309,
+    "FormalName": "ナンバーテールズ309番機",
+    "ModelNumber": "NumberTales #309",
+    "CodeName": "三〇九",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルスリーズ",
+    "Class_EN": "Side Dual Sum-3s"
+  },
+  {
+    "Num": 310,
+    "FormalName": "ナンバーテールズ310番機",
+    "ModelNumber": "NumberTales #310",
+    "CodeName": "三一〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルフォーズ",
+    "Class_EN": "Tens Dual Sum-4s"
+  },
+  {
+    "Num": 311,
+    "FormalName": "ナンバーテールズ311番機",
+    "ModelNumber": "NumberTales #311",
+    "CodeName": "三一一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 312,
+    "FormalName": "ナンバーテールズ312番機",
+    "ModelNumber": "NumberTales #312",
+    "CodeName": "三一二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+3組",
+    "Class_EN": "I+II+III Triples"
+  },
+  {
+    "Num": 313,
+    "FormalName": "ナンバーテールズ313番機",
+    "ModelNumber": "NumberTales #313",
+    "CodeName": "三一三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 314,
+    "Name": "サックル",
+    "Name_EN": "Circcle",
+    "FormalName": "ナンバーテールズ314番機",
+    "ModelNumber": "NumberTales #314",
+    "CodeName": "三一四",
+    "SPCodeName": "Π",
+    "SPCodeName_EN": "Pi",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+4組",
+    "Class_EN": "I+III+IV Triples",
+    "Backgrounds": "円周率(3.14)から由来"
+  },
+  {
+    "Num": 315,
+    "FormalName": "ナンバーテールズ315番機",
+    "ModelNumber": "NumberTales #315",
+    "CodeName": "三一五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+5組",
+    "Class_EN": "I+III+V Triples"
+  },
+  {
+    "Num": 316,
+    "FormalName": "ナンバーテールズ316番機",
+    "ModelNumber": "NumberTales #316",
+    "CodeName": "三一六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+6組",
+    "Class_EN": "I+III+VI Triples"
+  },
+  {
+    "Num": 317,
+    "FormalName": "ナンバーテールズ317番機",
+    "ModelNumber": "NumberTales #317",
+    "CodeName": "三一七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+7組",
+    "Class_EN": "I+III+VII Triples"
+  },
+  {
+    "Num": 318,
+    "FormalName": "ナンバーテールズ318番機",
+    "ModelNumber": "NumberTales #318",
+    "CodeName": "三一八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+8組",
+    "Class_EN": "I+III+VIII Triples"
+  },
+  {
+    "Num": 319,
+    "FormalName": "ナンバーテールズ319番機",
+    "ModelNumber": "NumberTales #319",
+    "CodeName": "三一九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+9組",
+    "Class_EN": "I+III+IX Triples"
+  },
+  {
+    "Num": 320,
+    "FormalName": "ナンバーテールズ320番機",
+    "ModelNumber": "NumberTales #320",
+    "CodeName": "三二〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルファイブズ",
+    "Class_EN": "Tens Dual Sum-5s"
+  },
+  {
+    "Num": 321,
+    "FormalName": "ナンバーテールズ321番機",
+    "ModelNumber": "NumberTales #321",
+    "CodeName": "三二一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+3組",
+    "Class_EN": "I+II+III Triples"
+  },
+  {
+    "Num": 322,
+    "FormalName": "ナンバーテールズ322番機",
+    "ModelNumber": "NumberTales #322",
+    "CodeName": "三二二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 323,
+    "FormalName": "ナンバーテールズ323番機",
+    "ModelNumber": "NumberTales #323",
+    "CodeName": "三二三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 324,
+    "FormalName": "ナンバーテールズ324番機",
+    "ModelNumber": "NumberTales #324",
+    "CodeName": "三二四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+4組",
+    "Class_EN": "II+III+IV Triples"
+  },
+  {
+    "Num": 325,
+    "FormalName": "ナンバーテールズ325番機",
+    "ModelNumber": "NumberTales #325",
+    "CodeName": "三二五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+5組",
+    "Class_EN": "II+III+V Triples"
+  },
+  {
+    "Num": 326,
+    "FormalName": "ナンバーテールズ326番機",
+    "ModelNumber": "NumberTales #326",
+    "CodeName": "三二六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+6組",
+    "Class_EN": "II+III+VI Triples"
+  },
+  {
+    "Num": 327,
+    "FormalName": "ナンバーテールズ327番機",
+    "ModelNumber": "NumberTales #327",
+    "CodeName": "三二七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+7組",
+    "Class_EN": "II+III+VII Triples"
+  },
+  {
+    "Num": 328,
+    "FormalName": "ナンバーテールズ328番機",
+    "ModelNumber": "NumberTales #328",
+    "CodeName": "三二八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+8組",
+    "Class_EN": "II+III+VIII Triples"
+  },
+  {
+    "Num": 329,
+    "FormalName": "ナンバーテールズ329番機",
+    "ModelNumber": "NumberTales #329",
+    "CodeName": "三二九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+9組",
+    "Class_EN": "II+III+IX Triples"
+  },
+  {
+    "Num": 330,
+    "FormalName": "ナンバーテールズ330番機",
+    "ModelNumber": "NumberTales #330",
+    "CodeName": "三三〇",
+    "GenderType": "Neutral",
+    "Class": "マスターテンズデュアルズ9",
+    "Class_EN": "Master 110s 9"
+  },
+  {
+    "Num": 331,
+    "FormalName": "ナンバーテールズ331番機",
+    "ModelNumber": "NumberTales #331",
+    "CodeName": "三三一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型甲",
+    "Class_EN": "Duet Triples VII.A"
+  },
+  {
+    "Num": 332,
+    "FormalName": "ナンバーテールズ332番機",
+    "ModelNumber": "NumberTales #332",
+    "CodeName": "三三二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型甲",
+    "Class_EN": "Duet Triples VIII.A"
+  },
+  {
+    "Num": 334,
+    "FormalName": "ナンバーテールズ334番機",
+    "ModelNumber": "NumberTales #334",
+    "CodeName": "三三四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型甲",
+    "Class_EN": "Duet Triples I.A"
+  },
+  {
+    "Num": 335,
+    "FormalName": "ナンバーテールズ335番機",
+    "ModelNumber": "NumberTales #335",
+    "CodeName": "三三五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型甲",
+    "Class_EN": "Duet Triples II.A"
+  },
+  {
+    "Num": 336,
+    "FormalName": "ナンバーテールズ336番機",
+    "ModelNumber": "NumberTales #336",
+    "CodeName": "三三六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 337,
+    "FormalName": "ナンバーテールズ337番機",
+    "ModelNumber": "NumberTales #337",
+    "CodeName": "三三七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型甲",
+    "Class_EN": "Duet Triples IV.A"
+  },
+  {
+    "Num": 338,
+    "FormalName": "ナンバーテールズ338番機",
+    "ModelNumber": "NumberTales #338",
+    "CodeName": "三三八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型甲",
+    "Class_EN": "Duet Triples V.A"
+  },
+  {
+    "Num": 339,
+    "FormalName": "ナンバーテールズ339番機",
+    "ModelNumber": "NumberTales #339",
+    "CodeName": "三三九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 340,
+    "FormalName": "ナンバーテールズ340番機",
+    "ModelNumber": "NumberTales #340",
+    "CodeName": "三四〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルセブンズ",
+    "Class_EN": "Tens Dual Sum-7s"
+  },
+  {
+    "Num": 341,
+    "FormalName": "ナンバーテールズ341番機",
+    "ModelNumber": "NumberTales #341",
+    "CodeName": "三四一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+4組",
+    "Class_EN": "I+III+IV Triples"
+  },
+  {
+    "Num": 342,
+    "FormalName": "ナンバーテールズ342番機",
+    "ModelNumber": "NumberTales #342",
+    "CodeName": "三四二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+4組",
+    "Class_EN": "II+III+IV Triples"
+  },
+  {
+    "Num": 343,
+    "FormalName": "ナンバーテールズ343番機",
+    "ModelNumber": "NumberTales #343",
+    "CodeName": "三四三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 344,
+    "FormalName": "ナンバーテールズ344番機",
+    "ModelNumber": "NumberTales #344",
+    "CodeName": "三四四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 345,
+    "FormalName": "ナンバーテールズ345番機",
+    "ModelNumber": "NumberTales #345",
+    "CodeName": "三四五",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+5組",
+    "Class_EN": "III+IV+V Triples"
+  },
+  {
+    "Num": 346,
+    "FormalName": "ナンバーテールズ346番機",
+    "ModelNumber": "NumberTales #346",
+    "CodeName": "三四六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+6組",
+    "Class_EN": "III+IV+VI Triples"
+  },
+  {
+    "Num": 347,
+    "FormalName": "ナンバーテールズ347番機",
+    "ModelNumber": "NumberTales #347",
+    "CodeName": "三四七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+7組",
+    "Class_EN": "III+IV+VII Triples"
+  },
+  {
+    "Num": 348,
+    "FormalName": "ナンバーテールズ348番機",
+    "ModelNumber": "NumberTales #348",
+    "CodeName": "三四八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+8組",
+    "Class_EN": "III+IV+VIII Triples"
+  },
+  {
+    "Num": 349,
+    "FormalName": "ナンバーテールズ349番機",
+    "ModelNumber": "NumberTales #349",
+    "CodeName": "三四九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+9組",
+    "Class_EN": "III+IV+IX Triples"
+  },
+  {
+    "Num": 350,
+    "FormalName": "ナンバーテールズ350番機",
+    "ModelNumber": "NumberTales #350",
+    "CodeName": "三五〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルエイツ",
+    "Class_EN": "Tens Dual Sum-8s"
+  },
+  {
+    "Num": 351,
+    "FormalName": "ナンバーテールズ351番機",
+    "ModelNumber": "NumberTales #351",
+    "CodeName": "三五一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+5組",
+    "Class_EN": "I+III+V Triples"
+  },
+  {
+    "Num": 352,
+    "FormalName": "ナンバーテールズ352番機",
+    "ModelNumber": "NumberTales #352",
+    "CodeName": "三五二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+5組",
+    "Class_EN": "II+III+V Triples"
+  },
+  {
+    "Num": 353,
+    "FormalName": "ナンバーテールズ353番機",
+    "ModelNumber": "NumberTales #353",
+    "CodeName": "三五三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 354,
+    "FormalName": "ナンバーテールズ354番機",
+    "ModelNumber": "NumberTales #354",
+    "CodeName": "三五四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+5組",
+    "Class_EN": "III+IV+V Triples"
+  },
+  {
+    "Num": 355,
+    "FormalName": "ナンバーテールズ355番機",
+    "ModelNumber": "NumberTales #355",
+    "CodeName": "三五五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 356,
+    "FormalName": "ナンバーテールズ356番機",
+    "ModelNumber": "NumberTales #356",
+    "CodeName": "三五六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+6組",
+    "Class_EN": "III+V+VI Triples"
+  },
+  {
+    "Num": 357,
+    "FormalName": "ナンバーテールズ357番機",
+    "ModelNumber": "NumberTales #357",
+    "CodeName": "三五七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+7組",
+    "Class_EN": "III+V+VII Triples"
+  },
+  {
+    "Num": 358,
+    "FormalName": "ナンバーテールズ358番機",
+    "ModelNumber": "NumberTales #358",
+    "CodeName": "三五八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+8組",
+    "Class_EN": "III+V+VIII Triples"
+  },
+  {
+    "Num": 359,
+    "FormalName": "ナンバーテールズ359番機",
+    "ModelNumber": "NumberTales #359",
+    "CodeName": "三五九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+9組",
+    "Class_EN": "III+V+IX Triples"
+  },
+  {
+    "Num": 360,
+    "FormalName": "ナンバーテールズ360番機",
+    "ModelNumber": "NumberTales #360",
+    "CodeName": "三六〇",
+    "GenderType": "Neutral",
+    "Class": "ナインティデュアルズ",
+    "Class_EN": "90s Duals"
+  },
+  {
+    "Num": 361,
+    "FormalName": "ナンバーテールズ361番機",
+    "ModelNumber": "NumberTales #361",
+    "CodeName": "三六一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+6組",
+    "Class_EN": "I+III+VI Triples"
+  },
+  {
+    "Num": 362,
+    "FormalName": "ナンバーテールズ362番機",
+    "ModelNumber": "NumberTales #362",
+    "CodeName": "三六二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+6組",
+    "Class_EN": "II+III+VI Triples"
+  },
+  {
+    "Num": 363,
+    "FormalName": "ナンバーテールズ363番機",
+    "ModelNumber": "NumberTales #363",
+    "CodeName": "三六三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 364,
+    "FormalName": "ナンバーテールズ364番機",
+    "ModelNumber": "NumberTales #364",
+    "CodeName": "三六四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+6組",
+    "Class_EN": "III+IV+VI Triples"
+  },
+  {
+    "Num": 365,
+    "Name": "イヤース",
+    "Name_EN": "Yearß",
+    "FormalName": "ナンバーテールズ365番機",
+    "ModelNumber": "NumberTales #365",
+    "CodeName": "三六五",
+    "SPCodeName_EN": "Days of Year",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+6組",
+    "Class_EN": "III+V+VI Triples",
+    "Backgrounds": "1年の年数(365日)から由来"
+  },
+  {
+    "Num": 366,
+    "Name": "ウルウネ",
+    "Name_EN": "Leaper",
+    "FormalName": "ナンバーテールズ366番機",
+    "ModelNumber": "NumberTales #366",
+    "CodeName": "三六六",
+    "SPCodeName_EN": "Days of Leaped-Year",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI",
+    "Backgrounds": "閏年の日数(366日)から由来\nなお「200(マタウルウ)」や「365(イヤース)」とは、姉妹関係はない"
+  },
+  {
+    "Num": 367,
+    "FormalName": "ナンバーテールズ367番機",
+    "ModelNumber": "NumberTales #367",
+    "CodeName": "三六七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+7組",
+    "Class_EN": "III+VI+VII Triples"
+  },
+  {
+    "Num": 368,
+    "FormalName": "ナンバーテールズ368番機",
+    "ModelNumber": "NumberTales #368",
+    "CodeName": "三六八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+8組",
+    "Class_EN": "III+VI+VIII Triples"
+  },
+  {
+    "Num": 369,
+    "FormalName": "ナンバーテールズ369番機",
+    "ModelNumber": "NumberTales #369",
+    "CodeName": "三六九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+9組",
+    "Class_EN": "III+VI+IX Triples"
+  },
+  {
+    "Num": 370,
+    "FormalName": "ナンバーテールズ370番機",
+    "ModelNumber": "NumberTales #370",
+    "CodeName": "三七〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルキャリーズ",
+    "Class_EN": "Tens Dual Carries"
+  },
+  {
+    "Num": 371,
+    "FormalName": "ナンバーテールズ371番機",
+    "ModelNumber": "NumberTales #371",
+    "CodeName": "三七一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+7組",
+    "Class_EN": "I+III+VII Triples"
+  },
+  {
+    "Num": 372,
+    "FormalName": "ナンバーテールズ372番機",
+    "ModelNumber": "NumberTales #372",
+    "CodeName": "三七二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+7組",
+    "Class_EN": "II+III+VII Triples"
+  },
+  {
+    "Num": 373,
+    "Name": "ミナミ",
+    "Name_EN": "Thrsevthy",
+    "FormalName": "ナンバーテールズ373番機",
+    "ModelNumber": "NumberTales #373",
+    "CodeName": "三七三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 374,
+    "FormalName": "ナンバーテールズ374番機",
+    "ModelNumber": "NumberTales #374",
+    "CodeName": "三七四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+7組",
+    "Class_EN": "III+IV+VII Triples"
+  },
+  {
+    "Num": 375,
+    "FormalName": "ナンバーテールズ375番機",
+    "ModelNumber": "NumberTales #375",
+    "CodeName": "三七五",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+7組",
+    "Class_EN": "III+V+VII Triples"
+  },
+  {
+    "Num": 376,
+    "FormalName": "ナンバーテールズ376番機",
+    "ModelNumber": "NumberTales #376",
+    "CodeName": "三七六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+7組",
+    "Class_EN": "III+VI+VII Triples"
+  },
+  {
+    "Num": 377,
+    "FormalName": "ナンバーテールズ377番機",
+    "ModelNumber": "NumberTales #377",
+    "CodeName": "三七七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 378,
+    "FormalName": "ナンバーテールズ378番機",
+    "ModelNumber": "NumberTales #378",
+    "CodeName": "三七八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+8組",
+    "Class_EN": "III+VII+VIII Triples"
+  },
+  {
+    "Num": 379,
+    "FormalName": "ナンバーテールズ379番機",
+    "ModelNumber": "NumberTales #379",
+    "CodeName": "三七九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+9組",
+    "Class_EN": "III+VII+IX Triples"
+  },
+  {
+    "Num": 380,
+    "FormalName": "ナンバーテールズ380番機",
+    "ModelNumber": "NumberTales #380",
+    "CodeName": "三八〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルイレブンズ",
+    "Class_EN": "Tens Dual Sum-11s"
+  },
+  {
+    "Num": 381,
+    "FormalName": "ナンバーテールズ381番機",
+    "ModelNumber": "NumberTales #381",
+    "CodeName": "三八一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+8組",
+    "Class_EN": "I+III+VIII Triples"
+  },
+  {
+    "Num": 382,
+    "FormalName": "ナンバーテールズ382番機",
+    "ModelNumber": "NumberTales #382",
+    "CodeName": "三八二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+8組",
+    "Class_EN": "II+III+VIII Triples"
+  },
+  {
+    "Num": 383,
+    "FormalName": "ナンバーテールズ383番機",
+    "ModelNumber": "NumberTales #383",
+    "CodeName": "三八三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 384,
+    "FormalName": "ナンバーテールズ384番機",
+    "ModelNumber": "NumberTales #384",
+    "CodeName": "三八四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+8組",
+    "Class_EN": "III+IV+VIII Triples"
+  },
+  {
+    "Num": 385,
+    "Name": "ミヤコ",
+    "Name_EN": "Threightifiver",
+    "FormalName": "ナンバーテールズ385番機",
+    "ModelNumber": "NumberTales #385",
+    "CodeName": "三八五",
+    "SPCodeName": "都(みやこ)",
+    "SPCodeName_EN": "Metropolis",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+8組",
+    "Class_EN": "III+V+VIII Triples"
+  },
+  {
+    "Num": 386,
+    "FormalName": "ナンバーテールズ386番機",
+    "ModelNumber": "NumberTales #386",
+    "CodeName": "三八六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+8組",
+    "Class_EN": "III+VI+VIII Triples"
+  },
+  {
+    "Num": 387,
+    "FormalName": "ナンバーテールズ387番機",
+    "ModelNumber": "NumberTales #387",
+    "CodeName": "三八七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+8組",
+    "Class_EN": "III+VII+VIII Triples"
+  },
+  {
+    "Num": 388,
+    "FormalName": "ナンバーテールズ388番機",
+    "ModelNumber": "NumberTales #388",
+    "CodeName": "三八八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 389,
+    "FormalName": "ナンバーテールズ389番機",
+    "ModelNumber": "NumberTales #389",
+    "CodeName": "三八九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+8+9組",
+    "Class_EN": "III+VIII+IX Triples"
+  },
+  {
+    "Num": 390,
+    "FormalName": "ナンバーテールズ390番機",
+    "ModelNumber": "NumberTales #390",
+    "CodeName": "三九〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルスリーズ",
+    "Class_EN": "Tens Dual Sum-3s"
+  },
+  {
+    "Num": 391,
+    "FormalName": "ナンバーテールズ391番機",
+    "ModelNumber": "NumberTales #391",
+    "CodeName": "三九一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+9組",
+    "Class_EN": "I+III+IX Triples"
+  },
+  {
+    "Num": 392,
+    "FormalName": "ナンバーテールズ392番機",
+    "ModelNumber": "NumberTales #392",
+    "CodeName": "三九二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+9組",
+    "Class_EN": "II+III+IX Triples"
+  },
+  {
+    "Num": 393,
+    "FormalName": "ナンバーテールズ393番機",
+    "ModelNumber": "NumberTales #393",
+    "CodeName": "三九三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 394,
+    "FormalName": "ナンバーテールズ394番機",
+    "ModelNumber": "NumberTales #394",
+    "CodeName": "三九四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+9組",
+    "Class_EN": "III+IV+IX Triples"
+  },
+  {
+    "Num": 395,
+    "FormalName": "ナンバーテールズ395番機",
+    "ModelNumber": "NumberTales #395",
+    "CodeName": "三九五",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+9組",
+    "Class_EN": "III+V+IX Triples"
+  },
+  {
+    "Num": 396,
+    "FormalName": "ナンバーテールズ396番機",
+    "ModelNumber": "NumberTales #396",
+    "CodeName": "三九六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+9組",
+    "Class_EN": "III+VI+IX Triples"
+  },
+  {
+    "Num": 397,
+    "FormalName": "ナンバーテールズ397番機",
+    "ModelNumber": "NumberTales #397",
+    "CodeName": "三九七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+9組",
+    "Class_EN": "III+VII+IX Triples"
+  },
+  {
+    "Num": 398,
+    "FormalName": "ナンバーテールズ398番機",
+    "ModelNumber": "NumberTales #398",
+    "CodeName": "三九八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+8+9組",
+    "Class_EN": "III+VIII+IX Triples"
+  },
+  {
+    "Num": 399,
+    "FormalName": "ナンバーテールズ399番機",
+    "ModelNumber": "NumberTales #399",
+    "CodeName": "三九九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 400,
+    "FormalName": "ナンバーテールズ400番機",
+    "ModelNumber": "NumberTales #400",
+    "CodeName": "四〇〇",
+    "GenderType": "Neutral",
+    "Class": "百倍番(ハンドレッズデジッツ)",
+    "Class_EN": "Hundrets-Digits"
+  },
+  {
+    "Num": 401,
+    "FormalName": "ナンバーテールズ401番機",
+    "ModelNumber": "NumberTales #401",
+    "CodeName": "四〇一",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルファイブズ",
+    "Class_EN": "Side Dual Sum-5s"
+  },
+  {
+    "Num": 402,
+    "FormalName": "ナンバーテールズ402番機",
+    "ModelNumber": "NumberTales #402",
+    "CodeName": "四〇二",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルシックスズ",
+    "Class_EN": "Side Dual Sum-6s"
+  },
+  {
+    "Num": 403,
+    "FormalName": "ナンバーテールズ403番機",
+    "ModelNumber": "NumberTales #403",
+    "CodeName": "四〇三",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルセブンズ",
+    "Class_EN": "Side Dual Sum-7s"
+  },
+  {
+    "Num": 404,
+    "FormalName": "ナンバーテールズ404番機",
+    "ModelNumber": "NumberTales #404",
+    "CodeName": "四〇四",
+    "GenderType": "Neutral",
+    "Class": "サイドシングルズ",
+    "Class_EN": "Side Singles"
+  },
+  {
+    "Num": 405,
+    "FormalName": "ナンバーテールズ405番機",
+    "ModelNumber": "NumberTales #405",
+    "CodeName": "四〇五",
+    "GenderType": "Neutral",
+    "Class": "サイドナインズデュアルズ",
+    "Class_EN": "Side Nines Duals"
+  },
+  {
+    "Num": 406,
+    "FormalName": "ナンバーテールズ406番機",
+    "ModelNumber": "NumberTales #406",
+    "CodeName": "四〇六",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルキャリーズ",
+    "Class_EN": "Side Dual Carries"
+  },
+  {
+    "Num": 407,
+    "FormalName": "ナンバーテールズ407番機",
+    "ModelNumber": "NumberTales #407",
+    "CodeName": "四〇七",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルイレブンズ",
+    "Class_EN": "Side Dual Sum-11s"
+  },
+  {
+    "Num": 408,
+    "FormalName": "ナンバーテールズ408番機",
+    "ModelNumber": "NumberTales #408",
+    "CodeName": "四〇八",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルスリーズ",
+    "Class_EN": "Side Dual Sum-3s"
+  },
+  {
+    "Num": 409,
+    "FormalName": "ナンバーテールズ409番機",
+    "ModelNumber": "NumberTales #409",
+    "CodeName": "四〇九",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルフォーズ",
+    "Class_EN": "Side Dual Sum-4s"
+  },
+  {
+    "Num": 410,
+    "FormalName": "ナンバーテールズ410番機",
+    "ModelNumber": "NumberTales #410",
+    "CodeName": "四一〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルファイブズ",
+    "Class_EN": "Tens Dual Sum-5s"
+  },
+  {
+    "Num": 411,
+    "FormalName": "ナンバーテールズ411番機",
+    "ModelNumber": "NumberTales #411",
+    "CodeName": "四一一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 412,
+    "FormalName": "ナンバーテールズ412番機",
+    "ModelNumber": "NumberTales #412",
+    "CodeName": "四一二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+4組",
+    "Class_EN": "I+II+IV Triples"
+  },
+  {
+    "Num": 413,
+    "FormalName": "ナンバーテールズ413番機",
+    "ModelNumber": "NumberTales #413",
+    "CodeName": "四一三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+4組",
+    "Class_EN": "I+III+IV Triples"
+  },
+  {
+    "Num": 414,
+    "FormalName": "ナンバーテールズ414番機",
+    "ModelNumber": "NumberTales #414",
+    "CodeName": "四一四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 415,
+    "FormalName": "ナンバーテールズ415番機",
+    "ModelNumber": "NumberTales #415",
+    "CodeName": "四一五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+5組",
+    "Class_EN": "I+IV+V Triples"
+  },
+  {
+    "Num": 416,
+    "FormalName": "ナンバーテールズ416番機",
+    "ModelNumber": "NumberTales #416",
+    "CodeName": "四一六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+6組",
+    "Class_EN": "I+IV+VI Triples"
+  },
+  {
+    "Num": 417,
+    "FormalName": "ナンバーテールズ417番機",
+    "ModelNumber": "NumberTales #417",
+    "CodeName": "四一七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+7組",
+    "Class_EN": "I+IV+VII Triples"
+  },
+  {
+    "Num": 418,
+    "FormalName": "ナンバーテールズ418番機",
+    "ModelNumber": "NumberTales #418",
+    "CodeName": "四一八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+8組",
+    "Class_EN": "I+IV+VIII Triples"
+  },
+  {
+    "Num": 419,
+    "FormalName": "ナンバーテールズ419番機",
+    "ModelNumber": "NumberTales #419",
+    "CodeName": "四一九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+9組",
+    "Class_EN": "I+IV+IX Triples"
+  },
+  {
+    "Num": 420,
+    "FormalName": "ナンバーテールズ420番機",
+    "ModelNumber": "NumberTales #420",
+    "CodeName": "四二〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルシックスズ",
+    "Class_EN": "Tens Dual Sum-6s"
+  },
+  {
+    "Num": 421,
+    "FormalName": "ナンバーテールズ421番機",
+    "ModelNumber": "NumberTales #421",
+    "CodeName": "四二一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+4組",
+    "Class_EN": "I+II+IV Triples"
+  },
+  {
+    "Num": 422,
+    "FormalName": "ナンバーテールズ422番機",
+    "ModelNumber": "NumberTales #422",
+    "CodeName": "四二二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 423,
+    "FormalName": "ナンバーテールズ423番機",
+    "ModelNumber": "NumberTales #423",
+    "CodeName": "四二三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+4組",
+    "Class_EN": "II+III+IV Triples"
+  },
+  {
+    "Num": 424,
+    "FormalName": "ナンバーテールズ424番機",
+    "ModelNumber": "NumberTales #424",
+    "CodeName": "四二四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 425,
+    "FormalName": "ナンバーテールズ425番機",
+    "ModelNumber": "NumberTales #425",
+    "CodeName": "四二五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+5組",
+    "Class_EN": "II+IV+V Triples"
+  },
+  {
+    "Num": 426,
+    "FormalName": "ナンバーテールズ426番機",
+    "ModelNumber": "NumberTales #426",
+    "CodeName": "四二六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+6組",
+    "Class_EN": "II+IV+VI Triples"
+  },
+  {
+    "Num": 427,
+    "FormalName": "ナンバーテールズ427番機",
+    "ModelNumber": "NumberTales #427",
+    "CodeName": "四二七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+7組",
+    "Class_EN": "II+IV+VII Triples"
+  },
+  {
+    "Num": 428,
+    "FormalName": "ナンバーテールズ428番機",
+    "ModelNumber": "NumberTales #428",
+    "CodeName": "四二八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+8組",
+    "Class_EN": "II+IV+VIII Triples"
+  },
+  {
+    "Num": 429,
+    "FormalName": "ナンバーテールズ429番機",
+    "ModelNumber": "NumberTales #429",
+    "CodeName": "四二九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+9組",
+    "Class_EN": "II+IV+IX Triples"
+  },
+  {
+    "Num": 430,
+    "FormalName": "ナンバーテールズ430番機",
+    "ModelNumber": "NumberTales #430",
+    "CodeName": "四三〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルセブンズ",
+    "Class_EN": "Tens Dual Sum-7s"
+  },
+  {
+    "Num": 431,
+    "FormalName": "ナンバーテールズ431番機",
+    "ModelNumber": "NumberTales #431",
+    "CodeName": "四三一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+4組",
+    "Class_EN": "I+III+IV Triples"
+  },
+  {
+    "Num": 432,
+    "FormalName": "ナンバーテールズ432番機",
+    "ModelNumber": "NumberTales #432",
+    "CodeName": "四三二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+4組",
+    "Class_EN": "II+III+IV Triples"
+  },
+  {
+    "Num": 433,
+    "FormalName": "ナンバーテールズ433番機",
+    "ModelNumber": "NumberTales #433",
+    "CodeName": "四三三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 434,
+    "FormalName": "ナンバーテールズ434番機",
+    "ModelNumber": "NumberTales #434",
+    "CodeName": "四三四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 435,
+    "FormalName": "ナンバーテールズ435番機",
+    "ModelNumber": "NumberTales #435",
+    "CodeName": "四三五",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+5組",
+    "Class_EN": "III+IV+V Triples"
+  },
+  {
+    "Num": 436,
+    "FormalName": "ナンバーテールズ436番機",
+    "ModelNumber": "NumberTales #436",
+    "CodeName": "四三六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+6組",
+    "Class_EN": "III+IV+VI Triples"
+  },
+  {
+    "Num": 437,
+    "FormalName": "ナンバーテールズ437番機",
+    "ModelNumber": "NumberTales #437",
+    "CodeName": "四三七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+7組",
+    "Class_EN": "III+IV+VII Triples"
+  },
+  {
+    "Num": 438,
+    "FormalName": "ナンバーテールズ438番機",
+    "ModelNumber": "NumberTales #438",
+    "CodeName": "四三八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+8組",
+    "Class_EN": "III+IV+VIII Triples"
+  },
+  {
+    "Num": 439,
+    "FormalName": "ナンバーテールズ439番機",
+    "ModelNumber": "NumberTales #439",
+    "CodeName": "四三九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+9組",
+    "Class_EN": "III+IV+IX Triples"
+  },
+  {
+    "Num": 440,
+    "FormalName": "ナンバーテールズ440番機",
+    "ModelNumber": "NumberTales #440",
+    "CodeName": "四四〇",
+    "GenderType": "Neutral",
+    "Class": "マスターテンズデュアルズ9",
+    "Class_EN": "Master 110s 9"
+  },
+  {
+    "Num": 441,
+    "FormalName": "ナンバーテールズ441番機",
+    "ModelNumber": "NumberTales #441",
+    "CodeName": "四四一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 442,
+    "FormalName": "ナンバーテールズ442番機",
+    "ModelNumber": "NumberTales #442",
+    "CodeName": "四四二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型甲",
+    "Class_EN": "Duet Triples I.A"
+  },
+  {
+    "Num": 443,
+    "FormalName": "ナンバーテールズ443番機",
+    "ModelNumber": "NumberTales #443",
+    "CodeName": "四四三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型甲",
+    "Class_EN": "Duet Triples II.A"
+  },
+  {
+    "Num": 445,
+    "FormalName": "ナンバーテールズ445番機",
+    "ModelNumber": "NumberTales #445",
+    "CodeName": "四四五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型甲",
+    "Class_EN": "Duet Triples IV.A"
+  },
+  {
+    "Num": 446,
+    "FormalName": "ナンバーテールズ446番機",
+    "ModelNumber": "NumberTales #446",
+    "CodeName": "四四六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型甲",
+    "Class_EN": "Duet Triples V.A"
+  },
+  {
+    "Num": 447,
+    "FormalName": "ナンバーテールズ447番機",
+    "ModelNumber": "NumberTales #447",
+    "CodeName": "四四七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 448,
+    "FormalName": "ナンバーテールズ448番機",
+    "ModelNumber": "NumberTales #448",
+    "CodeName": "四四八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型甲",
+    "Class_EN": "Duet Triples VII.A"
+  },
+  {
+    "Num": 449,
+    "FormalName": "ナンバーテールズ449番機",
+    "ModelNumber": "NumberTales #449",
+    "CodeName": "四四九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型甲",
+    "Class_EN": "Duet Triples VIII.A"
+  },
+  {
+    "Num": 450,
+    "FormalName": "ナンバーテールズ450番機",
+    "ModelNumber": "NumberTales #450",
+    "CodeName": "四五〇",
+    "GenderType": "Neutral",
+    "Class": "ナインティデュアルズ",
+    "Class_EN": "90s Duals"
+  },
+  {
+    "Num": 451,
+    "FormalName": "ナンバーテールズ451番機",
+    "ModelNumber": "NumberTales #451",
+    "CodeName": "四五一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+5組",
+    "Class_EN": "I+IV+V Triples"
+  },
+  {
+    "Num": 452,
+    "FormalName": "ナンバーテールズ452番機",
+    "ModelNumber": "NumberTales #452",
+    "CodeName": "四五二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+5組",
+    "Class_EN": "II+IV+V Triples"
+  },
+  {
+    "Num": 453,
+    "FormalName": "ナンバーテールズ453番機",
+    "ModelNumber": "NumberTales #453",
+    "CodeName": "四五三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+5組",
+    "Class_EN": "III+IV+V Triples"
+  },
+  {
+    "Num": 454,
+    "FormalName": "ナンバーテールズ454番機",
+    "ModelNumber": "NumberTales #454",
+    "CodeName": "四五四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 455,
+    "FormalName": "ナンバーテールズ455番機",
+    "ModelNumber": "NumberTales #455",
+    "CodeName": "四五五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 456,
+    "Name": "シゴロ",
+    "Name_EN": "Sigoro",
+    "FormalName": "ナンバーテールズ456番機",
+    "ModelNumber": "NumberTales #456",
+    "CodeName": "四五六",
+    "SPCodeName_EN": "Upper Dice",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+6組",
+    "Class_EN": "IV+V+VI Triples"
+  },
+  {
+    "Num": 457,
+    "FormalName": "ナンバーテールズ457番機",
+    "ModelNumber": "NumberTales #457",
+    "CodeName": "四五七",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+7組",
+    "Class_EN": "IV+V+VII Triples"
+  },
+  {
+    "Num": 458,
+    "FormalName": "ナンバーテールズ458番機",
+    "ModelNumber": "NumberTales #458",
+    "CodeName": "四五八",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+8組",
+    "Class_EN": "IV+V+VIII Triples"
+  },
+  {
+    "Num": 459,
+    "FormalName": "ナンバーテールズ459番機",
+    "ModelNumber": "NumberTales #459",
+    "CodeName": "四五九",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+9組",
+    "Class_EN": "IV+V+IX Triples"
+  },
+  {
+    "Num": 460,
+    "FormalName": "ナンバーテールズ460番機",
+    "ModelNumber": "NumberTales #460",
+    "CodeName": "四六〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルキャリーズ",
+    "Class_EN": "Tens Dual Carries"
+  },
+  {
+    "Num": 461,
+    "FormalName": "ナンバーテールズ461番機",
+    "ModelNumber": "NumberTales #461",
+    "CodeName": "四六一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+6組",
+    "Class_EN": "I+IV+VI Triples"
+  },
+  {
+    "Num": 462,
+    "FormalName": "ナンバーテールズ462番機",
+    "ModelNumber": "NumberTales #462",
+    "CodeName": "四六二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+6組",
+    "Class_EN": "II+IV+VI Triples"
+  },
+  {
+    "Num": 463,
+    "FormalName": "ナンバーテールズ463番機",
+    "ModelNumber": "NumberTales #463",
+    "CodeName": "四六三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+6組",
+    "Class_EN": "III+IV+VI Triples"
+  },
+  {
+    "Num": 464,
+    "FormalName": "ナンバーテールズ464番機",
+    "ModelNumber": "NumberTales #464",
+    "CodeName": "四六四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 465,
+    "FormalName": "ナンバーテールズ465番機",
+    "ModelNumber": "NumberTales #465",
+    "CodeName": "四六五",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+6組",
+    "Class_EN": "IV+V+VI Triples"
+  },
+  {
+    "Num": 466,
+    "FormalName": "ナンバーテールズ466番機",
+    "ModelNumber": "NumberTales #466",
+    "CodeName": "四六六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 467,
+    "FormalName": "ナンバーテールズ467番機",
+    "ModelNumber": "NumberTales #467",
+    "CodeName": "四六七",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+7組",
+    "Class_EN": "IV+VI+VII Triples"
+  },
+  {
+    "Num": 468,
+    "FormalName": "ナンバーテールズ468番機",
+    "ModelNumber": "NumberTales #468",
+    "CodeName": "四六八",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+8組",
+    "Class_EN": "IV+VI+VIII Triples"
+  },
+  {
+    "Num": 469,
+    "FormalName": "ナンバーテールズ469番機",
+    "ModelNumber": "NumberTales #469",
+    "CodeName": "四六九",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+9組",
+    "Class_EN": "IV+VI+IX Triples"
+  },
+  {
+    "Num": 470,
+    "FormalName": "ナンバーテールズ470番機",
+    "ModelNumber": "NumberTales #470",
+    "CodeName": "四七〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルイレブンズ",
+    "Class_EN": "Tens Dual Sum-11s"
+  },
+  {
+    "Num": 471,
+    "FormalName": "ナンバーテールズ471番機",
+    "ModelNumber": "NumberTales #471",
+    "CodeName": "四七一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+7組",
+    "Class_EN": "I+IV+VII Triples"
+  },
+  {
+    "Num": 472,
+    "FormalName": "ナンバーテールズ472番機",
+    "ModelNumber": "NumberTales #472",
+    "CodeName": "四七二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+7組",
+    "Class_EN": "II+IV+VII Triples"
+  },
+  {
+    "Num": 473,
+    "FormalName": "ナンバーテールズ473番機",
+    "ModelNumber": "NumberTales #473",
+    "CodeName": "四七三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+7組",
+    "Class_EN": "III+IV+VII Triples"
+  },
+  {
+    "Num": 474,
+    "FormalName": "ナンバーテールズ474番機",
+    "ModelNumber": "NumberTales #474",
+    "CodeName": "四七四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 475,
+    "FormalName": "ナンバーテールズ475番機",
+    "ModelNumber": "NumberTales #475",
+    "CodeName": "四七五",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+7組",
+    "Class_EN": "IV+V+VII Triples"
+  },
+  {
+    "Num": 476,
+    "FormalName": "ナンバーテールズ476番機",
+    "ModelNumber": "NumberTales #476",
+    "CodeName": "四七六",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+7組",
+    "Class_EN": "IV+VI+VII Triples"
+  },
+  {
+    "Num": 477,
+    "FormalName": "ナンバーテールズ477番機",
+    "ModelNumber": "NumberTales #477",
+    "CodeName": "四七七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 478,
+    "FormalName": "ナンバーテールズ478番機",
+    "ModelNumber": "NumberTales #478",
+    "CodeName": "四七八",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+8組",
+    "Class_EN": "IV+VII+VIII Triples"
+  },
+  {
+    "Num": 479,
+    "FormalName": "ナンバーテールズ479番機",
+    "ModelNumber": "NumberTales #479",
+    "CodeName": "四七九",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+9組",
+    "Class_EN": "IV+VII+IX Triples"
+  },
+  {
+    "Num": 480,
+    "FormalName": "ナンバーテールズ480番機",
+    "ModelNumber": "NumberTales #480",
+    "CodeName": "四八〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルスリーズ",
+    "Class_EN": "Tens Dual Sum-3s"
+  },
+  {
+    "Num": 481,
+    "FormalName": "ナンバーテールズ481番機",
+    "ModelNumber": "NumberTales #481",
+    "CodeName": "四八一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+8組",
+    "Class_EN": "I+IV+VIII Triples"
+  },
+  {
+    "Num": 482,
+    "FormalName": "ナンバーテールズ482番機",
+    "ModelNumber": "NumberTales #482",
+    "CodeName": "四八二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+8組",
+    "Class_EN": "II+IV+VIII Triples"
+  },
+  {
+    "Num": 483,
+    "FormalName": "ナンバーテールズ483番機",
+    "ModelNumber": "NumberTales #483",
+    "CodeName": "四八三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+8組",
+    "Class_EN": "III+IV+VIII Triples"
+  },
+  {
+    "Num": 484,
+    "FormalName": "ナンバーテールズ484番機",
+    "ModelNumber": "NumberTales #484",
+    "CodeName": "四八四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 485,
+    "FormalName": "ナンバーテールズ485番機",
+    "ModelNumber": "NumberTales #485",
+    "CodeName": "四八五",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+8組",
+    "Class_EN": "IV+V+VIII Triples"
+  },
+  {
+    "Num": 486,
+    "FormalName": "ナンバーテールズ486番機",
+    "ModelNumber": "NumberTales #486",
+    "CodeName": "四八六",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+8組",
+    "Class_EN": "IV+VI+VIII Triples"
+  },
+  {
+    "Num": 487,
+    "FormalName": "ナンバーテールズ487番機",
+    "ModelNumber": "NumberTales #487",
+    "CodeName": "四八七",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+8組",
+    "Class_EN": "IV+VII+VIII Triples"
+  },
+  {
+    "Num": 488,
+    "FormalName": "ナンバーテールズ488番機",
+    "ModelNumber": "NumberTales #488",
+    "CodeName": "四八八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 489,
+    "FormalName": "ナンバーテールズ489番機",
+    "ModelNumber": "NumberTales #489",
+    "CodeName": "四八九",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+8+9組",
+    "Class_EN": "IV+VIII+IX Triples"
+  },
+  {
+    "Num": 490,
+    "FormalName": "ナンバーテールズ490番機",
+    "ModelNumber": "NumberTales #490",
+    "CodeName": "四九〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルフォーズ",
+    "Class_EN": "Tens Dual Sum-4s"
+  },
+  {
+    "Num": 491,
+    "FormalName": "ナンバーテールズ491番機",
+    "ModelNumber": "NumberTales #491",
+    "CodeName": "四九一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+9組",
+    "Class_EN": "I+IV+IX Triples"
+  },
+  {
+    "Num": 492,
+    "FormalName": "ナンバーテールズ492番機",
+    "ModelNumber": "NumberTales #492",
+    "CodeName": "四九二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+9組",
+    "Class_EN": "II+IV+IX Triples"
+  },
+  {
+    "Num": 493,
+    "FormalName": "ナンバーテールズ493番機",
+    "ModelNumber": "NumberTales #493",
+    "CodeName": "四九三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+9組",
+    "Class_EN": "III+IV+IX Triples"
+  },
+  {
+    "Num": 494,
+    "FormalName": "ナンバーテールズ494番機",
+    "ModelNumber": "NumberTales #494",
+    "CodeName": "四九四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 495,
+    "FormalName": "ナンバーテールズ495番機",
+    "ModelNumber": "NumberTales #495",
+    "CodeName": "四九五",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+9組",
+    "Class_EN": "IV+V+IX Triples"
+  },
+  {
+    "Num": 496,
+    "Name": "シグロ",
+    "Name_EN": "Fornix",
+    "FormalName": "ナンバーテールズ496番機",
+    "ModelNumber": "NumberTales #496",
+    "CodeName": "四九六",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+9組",
+    "Class_EN": "IV+VI+IX Triples"
+  },
+  {
+    "Num": 497,
+    "FormalName": "ナンバーテールズ497番機",
+    "ModelNumber": "NumberTales #497",
+    "CodeName": "四九七",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+9組",
+    "Class_EN": "IV+VII+IX Triples"
+  },
+  {
+    "Num": 498,
+    "FormalName": "ナンバーテールズ498番機",
+    "ModelNumber": "NumberTales #498",
+    "CodeName": "四九八",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+8+9組",
+    "Class_EN": "IV+VIII+IX Triples"
+  },
+  {
+    "Num": 499,
+    "FormalName": "ナンバーテールズ499番機",
+    "ModelNumber": "NumberTales #499",
+    "CodeName": "四九九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 500,
+    "Name": "ゴエンマル",
+    "Name_EN": "Fiver-Coins",
+    "FormalName": "ナンバーテールズ500番機",
+    "ModelNumber": "NumberTales #500",
+    "CodeName": "五〇〇",
+    "SPCodeName": "半千",
+    "SPCodeName_EN": "Half of Permill",
+    "GenderType": "Neutral",
+    "Class": "百倍番(ハンドレッズデジッツ)",
+    "Class_EN": "Hundrets-Digits"
+  },
+  {
+    "Num": 501,
+    "FormalName": "ナンバーテールズ501番機",
+    "ModelNumber": "NumberTales #501",
+    "CodeName": "五〇一",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルシックスズ",
+    "Class_EN": "Side Dual Sum-6s"
+  },
+  {
+    "Num": 502,
+    "FormalName": "ナンバーテールズ502番機",
+    "ModelNumber": "NumberTales #502",
+    "CodeName": "五〇二",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルセブンズ",
+    "Class_EN": "Side Dual Sum-7s"
+  },
+  {
+    "Num": 503,
+    "FormalName": "ナンバーテールズ503番機",
+    "ModelNumber": "NumberTales #503",
+    "CodeName": "五〇三",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルエイツ",
+    "Class_EN": "Side Dual Sum-8s"
+  },
+  {
+    "Num": 504,
+    "FormalName": "ナンバーテールズ504番機",
+    "ModelNumber": "NumberTales #504",
+    "CodeName": "五〇四",
+    "GenderType": "Neutral",
+    "Class": "サイドナインズデュアルズ",
+    "Class_EN": "Side Nines Duals"
+  },
+  {
+    "Num": 505,
+    "FormalName": "ナンバーテールズ505番機",
+    "ModelNumber": "NumberTales #505",
+    "CodeName": "五〇五",
+    "GenderType": "Neutral",
+    "Class": "サイドシングルズ",
+    "Class_EN": "Side Singles"
+  },
+  {
+    "Num": 506,
+    "FormalName": "ナンバーテールズ506番機",
+    "ModelNumber": "NumberTales #506",
+    "CodeName": "五〇六",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルイレブンズ",
+    "Class_EN": "Side Dual Sum-11s"
+  },
+  {
+    "Num": 507,
+    "FormalName": "ナンバーテールズ507番機",
+    "ModelNumber": "NumberTales #507",
+    "CodeName": "五〇七",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルスリーズ",
+    "Class_EN": "Side Dual Sum-3s"
+  },
+  {
+    "Num": 508,
+    "FormalName": "ナンバーテールズ508番機",
+    "ModelNumber": "NumberTales #508",
+    "CodeName": "五〇八",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルフォーズ",
+    "Class_EN": "Side Dual Sum-4s"
+  },
+  {
+    "Num": 509,
+    "FormalName": "ナンバーテールズ509番機",
+    "ModelNumber": "NumberTales #509",
+    "CodeName": "五〇九",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルファイブズ",
+    "Class_EN": "Side Dual Sum-5s"
+  },
+  {
+    "Num": 510,
+    "FormalName": "ナンバーテールズ510番機",
+    "ModelNumber": "NumberTales #510",
+    "CodeName": "五一〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルシックスズ",
+    "Class_EN": "Tens Dual Sum-6s"
+  },
+  {
+    "Num": 511,
+    "FormalName": "ナンバーテールズ511番機",
+    "ModelNumber": "NumberTales #511",
+    "CodeName": "五一一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 512,
+    "FormalName": "ナンバーテールズ512番機",
+    "ModelNumber": "NumberTales #512",
+    "CodeName": "五一二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+5組",
+    "Class_EN": "I+II+V Triples"
+  },
+  {
+    "Num": 513,
+    "FormalName": "ナンバーテールズ513番機",
+    "ModelNumber": "NumberTales #513",
+    "CodeName": "五一三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+5組",
+    "Class_EN": "I+III+V Triples"
+  },
+  {
+    "Num": 514,
+    "FormalName": "ナンバーテールズ514番機",
+    "ModelNumber": "NumberTales #514",
+    "CodeName": "五一四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+5組",
+    "Class_EN": "I+IV+V Triples"
+  },
+  {
+    "Num": 515,
+    "FormalName": "ナンバーテールズ515番機",
+    "ModelNumber": "NumberTales #515",
+    "CodeName": "五一五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 516,
+    "FormalName": "ナンバーテールズ516番機",
+    "ModelNumber": "NumberTales #516",
+    "CodeName": "五一六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+6組",
+    "Class_EN": "I+V+VI Triples"
+  },
+  {
+    "Num": 517,
+    "FormalName": "ナンバーテールズ517番機",
+    "ModelNumber": "NumberTales #517",
+    "CodeName": "五一七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+7組",
+    "Class_EN": "I+V+VII Triples"
+  },
+  {
+    "Num": 518,
+    "FormalName": "ナンバーテールズ518番機",
+    "ModelNumber": "NumberTales #518",
+    "CodeName": "五一八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+8組",
+    "Class_EN": "I+V+VIII Triples"
+  },
+  {
+    "Num": 519,
+    "FormalName": "ナンバーテールズ519番機",
+    "ModelNumber": "NumberTales #519",
+    "CodeName": "五一九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+9組",
+    "Class_EN": "I+V+IX Triples"
+  },
+  {
+    "Num": 520,
+    "FormalName": "ナンバーテールズ520番機",
+    "ModelNumber": "NumberTales #520",
+    "CodeName": "五二〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルセブンズ",
+    "Class_EN": "Tens Dual Sum-7s"
+  },
+  {
+    "Num": 521,
+    "FormalName": "ナンバーテールズ521番機",
+    "ModelNumber": "NumberTales #521",
+    "CodeName": "五二一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+5組",
+    "Class_EN": "I+II+V Triples"
+  },
+  {
+    "Num": 522,
+    "FormalName": "ナンバーテールズ522番機",
+    "ModelNumber": "NumberTales #522",
+    "CodeName": "五二二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 523,
+    "FormalName": "ナンバーテールズ523番機",
+    "ModelNumber": "NumberTales #523",
+    "CodeName": "五二三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+5組",
+    "Class_EN": "II+III+V Triples"
+  },
+  {
+    "Num": 524,
+    "FormalName": "ナンバーテールズ524番機",
+    "ModelNumber": "NumberTales #524",
+    "CodeName": "五二四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+5組",
+    "Class_EN": "II+IV+V Triples"
+  },
+  {
+    "Num": 525,
+    "FormalName": "ナンバーテールズ525番機",
+    "ModelNumber": "NumberTales #525",
+    "CodeName": "五二五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 526,
+    "FormalName": "ナンバーテールズ526番機",
+    "ModelNumber": "NumberTales #526",
+    "CodeName": "五二六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+6組",
+    "Class_EN": "II+V+VI Triples"
+  },
+  {
+    "Num": 527,
+    "FormalName": "ナンバーテールズ527番機",
+    "ModelNumber": "NumberTales #527",
+    "CodeName": "五二七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+7組",
+    "Class_EN": "II+V+VII Triples"
+  },
+  {
+    "Num": 528,
+    "FormalName": "ナンバーテールズ528番機",
+    "ModelNumber": "NumberTales #528",
+    "CodeName": "五二八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+8組",
+    "Class_EN": "II+V+VIII Triples"
+  },
+  {
+    "Num": 529,
+    "FormalName": "ナンバーテールズ529番機",
+    "ModelNumber": "NumberTales #529",
+    "CodeName": "五二九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+9組",
+    "Class_EN": "II+V+IX Triples"
+  },
+  {
+    "Num": 530,
+    "FormalName": "ナンバーテールズ530番機",
+    "ModelNumber": "NumberTales #530",
+    "CodeName": "五三〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルエイツ",
+    "Class_EN": "Tens Dual Sum-8s"
+  },
+  {
+    "Num": 531,
+    "FormalName": "ナンバーテールズ531番機",
+    "ModelNumber": "NumberTales #531",
+    "CodeName": "五三一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+5組",
+    "Class_EN": "I+III+V Triples"
+  },
+  {
+    "Num": 532,
+    "FormalName": "ナンバーテールズ532番機",
+    "ModelNumber": "NumberTales #532",
+    "CodeName": "五三二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+5組",
+    "Class_EN": "II+III+V Triples"
+  },
+  {
+    "Num": 533,
+    "FormalName": "ナンバーテールズ533番機",
+    "ModelNumber": "NumberTales #533",
+    "CodeName": "五三三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 534,
+    "FormalName": "ナンバーテールズ534番機",
+    "ModelNumber": "NumberTales #534",
+    "CodeName": "五三四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+5組",
+    "Class_EN": "III+IV+V Triples"
+  },
+  {
+    "Num": 535,
+    "FormalName": "ナンバーテールズ535番機",
+    "ModelNumber": "NumberTales #535",
+    "CodeName": "五三五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 536,
+    "FormalName": "ナンバーテールズ536番機",
+    "ModelNumber": "NumberTales #536",
+    "CodeName": "五三六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+6組",
+    "Class_EN": "III+V+VI Triples"
+  },
+  {
+    "Num": 537,
+    "FormalName": "ナンバーテールズ537番機",
+    "ModelNumber": "NumberTales #537",
+    "CodeName": "五三七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+7組",
+    "Class_EN": "III+V+VII Triples"
+  },
+  {
+    "Num": 538,
+    "FormalName": "ナンバーテールズ538番機",
+    "ModelNumber": "NumberTales #538",
+    "CodeName": "五三八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+8組",
+    "Class_EN": "III+V+VIII Triples"
+  },
+  {
+    "Num": 539,
+    "FormalName": "ナンバーテールズ539番機",
+    "ModelNumber": "NumberTales #539",
+    "CodeName": "五三九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+9組",
+    "Class_EN": "III+V+IX Triples"
+  },
+  {
+    "Num": 540,
+    "FormalName": "ナンバーテールズ540番機",
+    "ModelNumber": "NumberTales #540",
+    "CodeName": "五四〇",
+    "GenderType": "Neutral",
+    "Class": "ナインティデュアルズ",
+    "Class_EN": "90s Duals"
+  },
+  {
+    "Num": 541,
+    "FormalName": "ナンバーテールズ541番機",
+    "ModelNumber": "NumberTales #541",
+    "CodeName": "五四一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+5組",
+    "Class_EN": "I+IV+V Triples"
+  },
+  {
+    "Num": 542,
+    "FormalName": "ナンバーテールズ542番機",
+    "ModelNumber": "NumberTales #542",
+    "CodeName": "五四二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+5組",
+    "Class_EN": "II+IV+V Triples"
+  },
+  {
+    "Num": 543,
+    "FormalName": "ナンバーテールズ543番機",
+    "ModelNumber": "NumberTales #543",
+    "CodeName": "五四三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+5組",
+    "Class_EN": "III+IV+V Triples"
+  },
+  {
+    "Num": 544,
+    "FormalName": "ナンバーテールズ544番機",
+    "ModelNumber": "NumberTales #544",
+    "CodeName": "五四四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 545,
+    "FormalName": "ナンバーテールズ545番機",
+    "ModelNumber": "NumberTales #545",
+    "CodeName": "五四五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 546,
+    "FormalName": "ナンバーテールズ546番機",
+    "ModelNumber": "NumberTales #546",
+    "CodeName": "五四六",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+6組",
+    "Class_EN": "IV+V+VI Triples"
+  },
+  {
+    "Num": 547,
+    "FormalName": "ナンバーテールズ547番機",
+    "ModelNumber": "NumberTales #547",
+    "CodeName": "五四七",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+7組",
+    "Class_EN": "IV+V+VII Triples"
+  },
+  {
+    "Num": 548,
+    "FormalName": "ナンバーテールズ548番機",
+    "ModelNumber": "NumberTales #548",
+    "CodeName": "五四八",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+8組",
+    "Class_EN": "IV+V+VIII Triples"
+  },
+  {
+    "Num": 549,
+    "FormalName": "ナンバーテールズ549番機",
+    "ModelNumber": "NumberTales #549",
+    "CodeName": "五四九",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+9組",
+    "Class_EN": "IV+V+IX Triples"
+  },
+  {
+    "Num": 550,
+    "FormalName": "ナンバーテールズ550番機",
+    "ModelNumber": "NumberTales #550",
+    "CodeName": "五五〇",
+    "GenderType": "Neutral",
+    "Class": "マスターテンズデュアルズ9",
+    "Class_EN": "Master 110s 9"
+  },
+  {
+    "Num": 551,
+    "FormalName": "ナンバーテールズ551番機",
+    "ModelNumber": "NumberTales #551",
+    "CodeName": "五五一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型甲",
+    "Class_EN": "Duet Triples II.A"
+  },
+  {
+    "Num": 552,
+    "FormalName": "ナンバーテールズ552番機",
+    "ModelNumber": "NumberTales #552",
+    "CodeName": "五五二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 553,
+    "FormalName": "ナンバーテールズ553番機",
+    "ModelNumber": "NumberTales #553",
+    "CodeName": "五五三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型甲",
+    "Class_EN": "Duet Triples IV.A"
+  },
+  {
+    "Num": 554,
+    "FormalName": "ナンバーテールズ554番機",
+    "ModelNumber": "NumberTales #554",
+    "CodeName": "五五四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型甲",
+    "Class_EN": "Duet Triples V.A"
+  },
+  {
+    "Num": 556,
+    "FormalName": "ナンバーテールズ556番機",
+    "ModelNumber": "NumberTales #556",
+    "CodeName": "五五六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型甲",
+    "Class_EN": "Duet Triples VII.A"
+  },
+  {
+    "Num": 557,
+    "FormalName": "ナンバーテールズ557番機",
+    "ModelNumber": "NumberTales #557",
+    "CodeName": "五五七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型甲",
+    "Class_EN": "Duet Triples VIII.A"
+  },
+  {
+    "Num": 558,
+    "FormalName": "ナンバーテールズ558番機",
+    "ModelNumber": "NumberTales #558",
+    "CodeName": "五五八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 559,
+    "FormalName": "ナンバーテールズ559番機",
+    "ModelNumber": "NumberTales #559",
+    "CodeName": "五五九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型甲",
+    "Class_EN": "Duet Triples I.A"
+  },
+  {
+    "Num": 560,
+    "FormalName": "ナンバーテールズ560番機",
+    "ModelNumber": "NumberTales #560",
+    "CodeName": "五六〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルイレブンズ",
+    "Class_EN": "Tens Dual Sum-11s"
+  },
+  {
+    "Num": 561,
+    "FormalName": "ナンバーテールズ561番機",
+    "ModelNumber": "NumberTales #561",
+    "CodeName": "五六一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+6組",
+    "Class_EN": "I+V+VI Triples"
+  },
+  {
+    "Num": 562,
+    "FormalName": "ナンバーテールズ562番機",
+    "ModelNumber": "NumberTales #562",
+    "CodeName": "五六二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+6組",
+    "Class_EN": "II+V+VI Triples"
+  },
+  {
+    "Num": 563,
+    "FormalName": "ナンバーテールズ563番機",
+    "ModelNumber": "NumberTales #563",
+    "CodeName": "五六三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+6組",
+    "Class_EN": "III+V+VI Triples"
+  },
+  {
+    "Num": 564,
+    "FormalName": "ナンバーテールズ564番機",
+    "ModelNumber": "NumberTales #564",
+    "CodeName": "五六四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+6組",
+    "Class_EN": "IV+V+VI Triples"
+  },
+  {
+    "Num": 565,
+    "FormalName": "ナンバーテールズ565番機",
+    "ModelNumber": "NumberTales #565",
+    "CodeName": "五六五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 566,
+    "FormalName": "ナンバーテールズ566番機",
+    "ModelNumber": "NumberTales #566",
+    "CodeName": "五六六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 567,
+    "FormalName": "ナンバーテールズ567番機",
+    "ModelNumber": "NumberTales #567",
+    "CodeName": "五六七",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+7組",
+    "Class_EN": "V+VI+VII Triples"
+  },
+  {
+    "Num": 568,
+    "FormalName": "ナンバーテールズ568番機",
+    "ModelNumber": "NumberTales #568",
+    "CodeName": "五六八",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+8組",
+    "Class_EN": "V+VI+VIII Triples"
+  },
+  {
+    "Num": 569,
+    "FormalName": "ナンバーテールズ569番機",
+    "ModelNumber": "NumberTales #569",
+    "CodeName": "五六九",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+9組",
+    "Class_EN": "V+VI+IX Triples"
+  },
+  {
+    "Num": 570,
+    "FormalName": "ナンバーテールズ570番機",
+    "ModelNumber": "NumberTales #570",
+    "CodeName": "五七〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルスリーズ",
+    "Class_EN": "Tens Dual Sum-3s"
+  },
+  {
+    "Num": 571,
+    "FormalName": "ナンバーテールズ571番機",
+    "ModelNumber": "NumberTales #571",
+    "CodeName": "五七一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+7組",
+    "Class_EN": "I+V+VII Triples"
+  },
+  {
+    "Num": 572,
+    "Name": "コナツ",
+    "Name_EN": "Fiventwy",
+    "FormalName": "ナンバーテールズ572番機",
+    "ModelNumber": "NumberTales #572",
+    "CodeName": "五七二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+7組",
+    "Class_EN": "II+V+VII Triples"
+  },
+  {
+    "Num": 573,
+    "FormalName": "ナンバーテールズ573番機",
+    "ModelNumber": "NumberTales #573",
+    "CodeName": "五七三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+7組",
+    "Class_EN": "III+V+VII Triples"
+  },
+  {
+    "Num": 574,
+    "FormalName": "ナンバーテールズ574番機",
+    "ModelNumber": "NumberTales #574",
+    "CodeName": "五七四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+7組",
+    "Class_EN": "IV+V+VII Triples"
+  },
+  {
+    "Num": 575,
+    "FormalName": "ナンバーテールズ575番機",
+    "ModelNumber": "NumberTales #575",
+    "CodeName": "五七五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 576,
+    "FormalName": "ナンバーテールズ576番機",
+    "ModelNumber": "NumberTales #576",
+    "CodeName": "五七六",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+7組",
+    "Class_EN": "V+VI+VII Triples"
+  },
+  {
+    "Num": 577,
+    "FormalName": "ナンバーテールズ577番機",
+    "ModelNumber": "NumberTales #577",
+    "CodeName": "五七七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 578,
+    "FormalName": "ナンバーテールズ578番機",
+    "ModelNumber": "NumberTales #578",
+    "CodeName": "五七八",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+8組",
+    "Class_EN": "V+VII+VIII Triples"
+  },
+  {
+    "Num": 579,
+    "FormalName": "ナンバーテールズ579番機",
+    "ModelNumber": "NumberTales #579",
+    "CodeName": "五七九",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+9組",
+    "Class_EN": "V+VII+IX Triples"
+  },
+  {
+    "Num": 580,
+    "FormalName": "ナンバーテールズ580番機",
+    "ModelNumber": "NumberTales #580",
+    "CodeName": "五八〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルフォーズ",
+    "Class_EN": "Tens Dual Sum-4s"
+  },
+  {
+    "Num": 581,
+    "FormalName": "ナンバーテールズ581番機",
+    "ModelNumber": "NumberTales #581",
+    "CodeName": "五八一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+8組",
+    "Class_EN": "I+V+VIII Triples"
+  },
+  {
+    "Num": 582,
+    "FormalName": "ナンバーテールズ582番機",
+    "ModelNumber": "NumberTales #582",
+    "CodeName": "五八二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+8組",
+    "Class_EN": "II+V+VIII Triples"
+  },
+  {
+    "Num": 583,
+    "FormalName": "ナンバーテールズ583番機",
+    "ModelNumber": "NumberTales #583",
+    "CodeName": "五八三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+8組",
+    "Class_EN": "III+V+VIII Triples"
+  },
+  {
+    "Num": 584,
+    "FormalName": "ナンバーテールズ584番機",
+    "ModelNumber": "NumberTales #584",
+    "CodeName": "五八四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+8組",
+    "Class_EN": "IV+V+VIII Triples"
+  },
+  {
+    "Num": 585,
+    "FormalName": "ナンバーテールズ585番機",
+    "ModelNumber": "NumberTales #585",
+    "CodeName": "五八五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 586,
+    "FormalName": "ナンバーテールズ586番機",
+    "ModelNumber": "NumberTales #586",
+    "CodeName": "五八六",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+8組",
+    "Class_EN": "V+VI+VIII Triples"
+  },
+  {
+    "Num": 587,
+    "FormalName": "ナンバーテールズ587番機",
+    "ModelNumber": "NumberTales #587",
+    "CodeName": "五八七",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+8組",
+    "Class_EN": "V+VII+VIII Triples"
+  },
+  {
+    "Num": 588,
+    "FormalName": "ナンバーテールズ588番機",
+    "ModelNumber": "NumberTales #588",
+    "CodeName": "五八八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 589,
+    "FormalName": "ナンバーテールズ589番機",
+    "ModelNumber": "NumberTales #589",
+    "CodeName": "五八九",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+8+9組",
+    "Class_EN": "V+VIII+IX Triples"
+  },
+  {
+    "Num": 590,
+    "FormalName": "ナンバーテールズ590番機",
+    "ModelNumber": "NumberTales #590",
+    "CodeName": "五九〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルファイブズ",
+    "Class_EN": "Tens Dual Sum-5s"
+  },
+  {
+    "Num": 591,
+    "FormalName": "ナンバーテールズ591番機",
+    "ModelNumber": "NumberTales #591",
+    "CodeName": "五九一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+9組",
+    "Class_EN": "I+V+IX Triples"
+  },
+  {
+    "Num": 592,
+    "FormalName": "ナンバーテールズ592番機",
+    "ModelNumber": "NumberTales #592",
+    "CodeName": "五九二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+9組",
+    "Class_EN": "II+V+IX Triples"
+  },
+  {
+    "Num": 593,
+    "FormalName": "ナンバーテールズ593番機",
+    "ModelNumber": "NumberTales #593",
+    "CodeName": "五九三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+9組",
+    "Class_EN": "III+V+IX Triples"
+  },
+  {
+    "Num": 594,
+    "FormalName": "ナンバーテールズ594番機",
+    "ModelNumber": "NumberTales #594",
+    "CodeName": "五九四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+9組",
+    "Class_EN": "IV+V+IX Triples"
+  },
+  {
+    "Num": 595,
+    "FormalName": "ナンバーテールズ595番機",
+    "ModelNumber": "NumberTales #595",
+    "CodeName": "五九五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 596,
+    "FormalName": "ナンバーテールズ596番機",
+    "ModelNumber": "NumberTales #596",
+    "CodeName": "五九六",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+9組",
+    "Class_EN": "V+VI+IX Triples"
+  },
+  {
+    "Num": 597,
+    "FormalName": "ナンバーテールズ597番機",
+    "ModelNumber": "NumberTales #597",
+    "CodeName": "五九七",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+9組",
+    "Class_EN": "V+VII+IX Triples"
+  },
+  {
+    "Num": 598,
+    "FormalName": "ナンバーテールズ598番機",
+    "ModelNumber": "NumberTales #598",
+    "CodeName": "五九八",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+8+9組",
+    "Class_EN": "V+VIII+IX Triples"
+  },
+  {
+    "Num": 599,
+    "FormalName": "ナンバーテールズ599番機",
+    "ModelNumber": "NumberTales #599",
+    "CodeName": "五九九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 600,
+    "FormalName": "ナンバーテールズ600番機",
+    "ModelNumber": "NumberTales #600",
+    "CodeName": "六〇〇",
+    "GenderType": "Neutral",
+    "Class": "百倍番(ハンドレッズデジッツ)",
+    "Class_EN": "Hundrets-Digits"
+  },
+  {
+    "Num": 601,
+    "FormalName": "ナンバーテールズ601番機",
+    "ModelNumber": "NumberTales #601",
+    "CodeName": "六〇一",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルセブンズ",
+    "Class_EN": "Side Dual Sum-7s"
+  },
+  {
+    "Num": 602,
+    "FormalName": "ナンバーテールズ602番機",
+    "ModelNumber": "NumberTales #602",
+    "CodeName": "六〇二",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルエイツ",
+    "Class_EN": "Side Dual Sum-8s"
+  },
+  {
+    "Num": 603,
+    "FormalName": "ナンバーテールズ603番機",
+    "ModelNumber": "NumberTales #603",
+    "CodeName": "六〇三",
+    "GenderType": "Neutral",
+    "Class": "サイドナインズデュアルズ",
+    "Class_EN": "Side Nines Duals"
+  },
+  {
+    "Num": 604,
+    "FormalName": "ナンバーテールズ604番機",
+    "ModelNumber": "NumberTales #604",
+    "CodeName": "六〇四",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルキャリーズ",
+    "Class_EN": "Side Dual Carries"
+  },
+  {
+    "Num": 605,
+    "FormalName": "ナンバーテールズ605番機",
+    "ModelNumber": "NumberTales #605",
+    "CodeName": "六〇五",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルイレブンズ",
+    "Class_EN": "Side Dual Sum-11s"
+  },
+  {
+    "Num": 606,
+    "FormalName": "ナンバーテールズ606番機",
+    "ModelNumber": "NumberTales #606",
+    "CodeName": "六〇六",
+    "GenderType": "Neutral",
+    "Class": "サイドシングルズ",
+    "Class_EN": "Side Singles"
+  },
+  {
+    "Num": 607,
+    "FormalName": "ナンバーテールズ607番機",
+    "ModelNumber": "NumberTales #607",
+    "CodeName": "六〇七",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルフォーズ",
+    "Class_EN": "Side Dual Sum-4s"
+  },
+  {
+    "Num": 608,
+    "FormalName": "ナンバーテールズ608番機",
+    "ModelNumber": "NumberTales #608",
+    "CodeName": "六〇八",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルファイブズ",
+    "Class_EN": "Side Dual Sum-5s"
+  },
+  {
+    "Num": 609,
+    "FormalName": "ナンバーテールズ609番機",
+    "ModelNumber": "NumberTales #609",
+    "CodeName": "六〇九",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルシックスズ",
+    "Class_EN": "Side Dual Sum-6s"
+  },
+  {
+    "Num": 610,
+    "FormalName": "ナンバーテールズ610番機",
+    "ModelNumber": "NumberTales #610",
+    "CodeName": "六一〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルセブンズ",
+    "Class_EN": "Tens Dual Sum-7s"
+  },
+  {
+    "Num": 611,
+    "FormalName": "ナンバーテールズ611番機",
+    "ModelNumber": "NumberTales #611",
+    "CodeName": "六一一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 612,
+    "FormalName": "ナンバーテールズ612番機",
+    "ModelNumber": "NumberTales #612",
+    "CodeName": "六一二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+6組",
+    "Class_EN": "I+II+VI Triples"
+  },
+  {
+    "Num": 613,
+    "FormalName": "ナンバーテールズ613番機",
+    "ModelNumber": "NumberTales #613",
+    "CodeName": "六一三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+6組",
+    "Class_EN": "I+III+VI Triples"
+  },
+  {
+    "Num": 614,
+    "FormalName": "ナンバーテールズ614番機",
+    "ModelNumber": "NumberTales #614",
+    "CodeName": "六一四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+6組",
+    "Class_EN": "I+IV+VI Triples"
+  },
+  {
+    "Num": 615,
+    "FormalName": "ナンバーテールズ615番機",
+    "ModelNumber": "NumberTales #615",
+    "CodeName": "六一五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+6組",
+    "Class_EN": "I+V+VI Triples"
+  },
+  {
+    "Num": 616,
+    "FormalName": "ナンバーテールズ616番機",
+    "ModelNumber": "NumberTales #616",
+    "CodeName": "六一六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 617,
+    "FormalName": "ナンバーテールズ617番機",
+    "ModelNumber": "NumberTales #617",
+    "CodeName": "六一七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+7組",
+    "Class_EN": "I+VI+VII Triples"
+  },
+  {
+    "Num": 618,
+    "FormalName": "ナンバーテールズ618番機",
+    "ModelNumber": "NumberTales #618",
+    "CodeName": "六一八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+8組",
+    "Class_EN": "I+VI+VIII Triples"
+  },
+  {
+    "Num": 619,
+    "FormalName": "ナンバーテールズ619番機",
+    "ModelNumber": "NumberTales #619",
+    "CodeName": "六一九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+9組",
+    "Class_EN": "I+VI+IX Triples"
+  },
+  {
+    "Num": 620,
+    "FormalName": "ナンバーテールズ620番機",
+    "ModelNumber": "NumberTales #620",
+    "CodeName": "六二〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルエイツ",
+    "Class_EN": "Tens Dual Sum-8s"
+  },
+  {
+    "Num": 621,
+    "FormalName": "ナンバーテールズ621番機",
+    "ModelNumber": "NumberTales #621",
+    "CodeName": "六二一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+6組",
+    "Class_EN": "I+II+VI Triples"
+  },
+  {
+    "Num": 622,
+    "FormalName": "ナンバーテールズ622番機",
+    "ModelNumber": "NumberTales #622",
+    "CodeName": "六二二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 623,
+    "FormalName": "ナンバーテールズ623番機",
+    "ModelNumber": "NumberTales #623",
+    "CodeName": "六二三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+6組",
+    "Class_EN": "II+III+VI Triples"
+  },
+  {
+    "Num": 624,
+    "FormalName": "ナンバーテールズ624番機",
+    "ModelNumber": "NumberTales #624",
+    "CodeName": "六二四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+6組",
+    "Class_EN": "II+IV+VI Triples"
+  },
+  {
+    "Num": 625,
+    "FormalName": "ナンバーテールズ625番機",
+    "ModelNumber": "NumberTales #625",
+    "CodeName": "六二五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+6組",
+    "Class_EN": "II+V+VI Triples"
+  },
+  {
+    "Num": 626,
+    "FormalName": "ナンバーテールズ626番機",
+    "ModelNumber": "NumberTales #626",
+    "CodeName": "六二六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 627,
+    "FormalName": "ナンバーテールズ627番機",
+    "ModelNumber": "NumberTales #627",
+    "CodeName": "六二七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+7組",
+    "Class_EN": "II+VI+VII Triples"
+  },
+  {
+    "Num": 628,
+    "FormalName": "ナンバーテールズ628番機",
+    "ModelNumber": "NumberTales #628",
+    "CodeName": "六二八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+8組",
+    "Class_EN": "II+VI+VIII Triples"
+  },
+  {
+    "Num": 629,
+    "FormalName": "ナンバーテールズ629番機",
+    "ModelNumber": "NumberTales #629",
+    "CodeName": "六二九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+9組",
+    "Class_EN": "II+VI+IX Triples"
+  },
+  {
+    "Num": 630,
+    "FormalName": "ナンバーテールズ630番機",
+    "ModelNumber": "NumberTales #630",
+    "CodeName": "六三〇",
+    "GenderType": "Neutral",
+    "Class": "ナインティデュアルズ",
+    "Class_EN": "90s Duals"
+  },
+  {
+    "Num": 631,
+    "FormalName": "ナンバーテールズ631番機",
+    "ModelNumber": "NumberTales #631",
+    "CodeName": "六三一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+6組",
+    "Class_EN": "I+III+VI Triples"
+  },
+  {
+    "Num": 632,
+    "FormalName": "ナンバーテールズ632番機",
+    "ModelNumber": "NumberTales #632",
+    "CodeName": "六三二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+6組",
+    "Class_EN": "II+III+VI Triples"
+  },
+  {
+    "Num": 633,
+    "FormalName": "ナンバーテールズ633番機",
+    "ModelNumber": "NumberTales #633",
+    "CodeName": "六三三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 634,
+    "Name": "ムサシ",
+    "Name_EN": "Sithfone",
+    "FormalName": "ナンバーテールズ634番機",
+    "ModelNumber": "NumberTales #634",
+    "CodeName": "六三四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+6組",
+    "Class_EN": "III+IV+VI Triples"
+  },
+  {
+    "Num": 635,
+    "FormalName": "ナンバーテールズ635番機",
+    "ModelNumber": "NumberTales #635",
+    "CodeName": "六三五",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+6組",
+    "Class_EN": "III+V+VI Triples"
+  },
+  {
+    "Num": 636,
+    "FormalName": "ナンバーテールズ636番機",
+    "ModelNumber": "NumberTales #636",
+    "CodeName": "六三六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 637,
+    "FormalName": "ナンバーテールズ637番機",
+    "ModelNumber": "NumberTales #637",
+    "CodeName": "六三七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+7組",
+    "Class_EN": "III+VI+VII Triples"
+  },
+  {
+    "Num": 638,
+    "FormalName": "ナンバーテールズ638番機",
+    "ModelNumber": "NumberTales #638",
+    "CodeName": "六三八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+8組",
+    "Class_EN": "III+VI+VIII Triples"
+  },
+  {
+    "Num": 639,
+    "FormalName": "ナンバーテールズ639番機",
+    "ModelNumber": "NumberTales #639",
+    "CodeName": "六三九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+9組",
+    "Class_EN": "III+VI+IX Triples"
+  },
+  {
+    "Num": 640,
+    "FormalName": "ナンバーテールズ640番機",
+    "ModelNumber": "NumberTales #640",
+    "CodeName": "六四〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルキャリーズ",
+    "Class_EN": "Tens Dual Carries"
+  },
+  {
+    "Num": 641,
+    "FormalName": "ナンバーテールズ641番機",
+    "ModelNumber": "NumberTales #641",
+    "CodeName": "六四一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+6組",
+    "Class_EN": "I+IV+VI Triples"
+  },
+  {
+    "Num": 642,
+    "FormalName": "ナンバーテールズ642番機",
+    "ModelNumber": "NumberTales #642",
+    "CodeName": "六四二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+6組",
+    "Class_EN": "II+IV+VI Triples"
+  },
+  {
+    "Num": 643,
+    "FormalName": "ナンバーテールズ643番機",
+    "ModelNumber": "NumberTales #643",
+    "CodeName": "六四三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+6組",
+    "Class_EN": "III+IV+VI Triples"
+  },
+  {
+    "Num": 644,
+    "FormalName": "ナンバーテールズ644番機",
+    "ModelNumber": "NumberTales #644",
+    "CodeName": "六四四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 645,
+    "FormalName": "ナンバーテールズ645番機",
+    "ModelNumber": "NumberTales #645",
+    "CodeName": "六四五",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+6組",
+    "Class_EN": "IV+V+VI Triples"
+  },
+  {
+    "Num": 646,
+    "FormalName": "ナンバーテールズ646番機",
+    "ModelNumber": "NumberTales #646",
+    "CodeName": "六四六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 647,
+    "FormalName": "ナンバーテールズ647番機",
+    "ModelNumber": "NumberTales #647",
+    "CodeName": "六四七",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+7組",
+    "Class_EN": "IV+VI+VII Triples"
+  },
+  {
+    "Num": 648,
+    "FormalName": "ナンバーテールズ648番機",
+    "ModelNumber": "NumberTales #648",
+    "CodeName": "六四八",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+8組",
+    "Class_EN": "IV+VI+VIII Triples"
+  },
+  {
+    "Num": 649,
+    "FormalName": "ナンバーテールズ649番機",
+    "ModelNumber": "NumberTales #649",
+    "CodeName": "六四九",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+9組",
+    "Class_EN": "IV+VI+IX Triples"
+  },
+  {
+    "Num": 650,
+    "FormalName": "ナンバーテールズ650番機",
+    "ModelNumber": "NumberTales #650",
+    "CodeName": "六五〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルイレブンズ",
+    "Class_EN": "Tens Dual Sum-11s"
+  },
+  {
+    "Num": 651,
+    "FormalName": "ナンバーテールズ651番機",
+    "ModelNumber": "NumberTales #651",
+    "CodeName": "六五一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+6組",
+    "Class_EN": "I+V+VI Triples"
+  },
+  {
+    "Num": 652,
+    "FormalName": "ナンバーテールズ652番機",
+    "ModelNumber": "NumberTales #652",
+    "CodeName": "六五二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+6組",
+    "Class_EN": "II+V+VI Triples"
+  },
+  {
+    "Num": 653,
+    "FormalName": "ナンバーテールズ653番機",
+    "ModelNumber": "NumberTales #653",
+    "CodeName": "六五三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+6組",
+    "Class_EN": "III+V+VI Triples"
+  },
+  {
+    "Num": 654,
+    "FormalName": "ナンバーテールズ654番機",
+    "ModelNumber": "NumberTales #654",
+    "CodeName": "六五四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+6組",
+    "Class_EN": "IV+V+VI Triples"
+  },
+  {
+    "Num": 655,
+    "FormalName": "ナンバーテールズ655番機",
+    "ModelNumber": "NumberTales #655",
+    "CodeName": "六五五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 656,
+    "FormalName": "ナンバーテールズ656番機",
+    "ModelNumber": "NumberTales #656",
+    "CodeName": "六五六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 657,
+    "FormalName": "ナンバーテールズ657番機",
+    "ModelNumber": "NumberTales #657",
+    "CodeName": "六五七",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+7組",
+    "Class_EN": "V+VI+VII Triples"
+  },
+  {
+    "Num": 658,
+    "FormalName": "ナンバーテールズ658番機",
+    "ModelNumber": "NumberTales #658",
+    "CodeName": "六五八",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+8組",
+    "Class_EN": "V+VI+VIII Triples"
+  },
+  {
+    "Num": 659,
+    "FormalName": "ナンバーテールズ659番機",
+    "ModelNumber": "NumberTales #659",
+    "CodeName": "六五九",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+9組",
+    "Class_EN": "V+VI+IX Triples"
+  },
+  {
+    "Num": 660,
+    "FormalName": "ナンバーテールズ660番機",
+    "ModelNumber": "NumberTales #660",
+    "CodeName": "六六〇",
+    "GenderType": "Neutral",
+    "Class": "マスターテンズデュアルズ9",
+    "Class_EN": "Master 110s 9"
+  },
+  {
+    "Num": 661,
+    "FormalName": "ナンバーテールズ661番機",
+    "ModelNumber": "NumberTales #661",
+    "CodeName": "六六一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型甲",
+    "Class_EN": "Duet Triples IV.A"
+  },
+  {
+    "Num": 662,
+    "FormalName": "ナンバーテールズ662番機",
+    "ModelNumber": "NumberTales #662",
+    "CodeName": "六六二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型甲",
+    "Class_EN": "Duet Triples V.A"
+  },
+  {
+    "Num": 663,
+    "FormalName": "ナンバーテールズ663番機",
+    "ModelNumber": "NumberTales #663",
+    "CodeName": "六六三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 664,
+    "FormalName": "ナンバーテールズ664番機",
+    "ModelNumber": "NumberTales #664",
+    "CodeName": "六六四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型甲",
+    "Class_EN": "Duet Triples VII.A"
+  },
+  {
+    "Num": 665,
+    "FormalName": "ナンバーテールズ665番機",
+    "ModelNumber": "NumberTales #665",
+    "CodeName": "六六五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型甲",
+    "Class_EN": "Duet Triples VIII.A"
+  },
+  {
+    "Num": 667,
+    "FormalName": "ナンバーテールズ667番機",
+    "ModelNumber": "NumberTales #667",
+    "CodeName": "六六七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型甲",
+    "Class_EN": "Duet Triples I.A"
+  },
+  {
+    "Num": 668,
+    "FormalName": "ナンバーテールズ668番機",
+    "ModelNumber": "NumberTales #668",
+    "CodeName": "六六八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型甲",
+    "Class_EN": "Duet Triples II.A"
+  },
+  {
+    "Num": 669,
+    "FormalName": "ナンバーテールズ669番機",
+    "ModelNumber": "NumberTales #669",
+    "CodeName": "六六九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 670,
+    "FormalName": "ナンバーテールズ670番機",
+    "ModelNumber": "NumberTales #670",
+    "CodeName": "六七〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルフォーズ",
+    "Class_EN": "Tens Dual Sum-4s"
+  },
+  {
+    "Num": 671,
+    "FormalName": "ナンバーテールズ671番機",
+    "ModelNumber": "NumberTales #671",
+    "CodeName": "六七一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+7組",
+    "Class_EN": "I+VI+VII Triples"
+  },
+  {
+    "Num": 672,
+    "FormalName": "ナンバーテールズ672番機",
+    "ModelNumber": "NumberTales #672",
+    "CodeName": "六七二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+7組",
+    "Class_EN": "II+VI+VII Triples"
+  },
+  {
+    "Num": 673,
+    "FormalName": "ナンバーテールズ673番機",
+    "ModelNumber": "NumberTales #673",
+    "CodeName": "六七三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+7組",
+    "Class_EN": "III+VI+VII Triples"
+  },
+  {
+    "Num": 674,
+    "FormalName": "ナンバーテールズ674番機",
+    "ModelNumber": "NumberTales #674",
+    "CodeName": "六七四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+7組",
+    "Class_EN": "IV+VI+VII Triples"
+  },
+  {
+    "Num": 675,
+    "FormalName": "ナンバーテールズ675番機",
+    "ModelNumber": "NumberTales #675",
+    "CodeName": "六七五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+7組",
+    "Class_EN": "V+VI+VII Triples"
+  },
+  {
+    "Num": 676,
+    "FormalName": "ナンバーテールズ676番機",
+    "ModelNumber": "NumberTales #676",
+    "CodeName": "六七六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 677,
+    "FormalName": "ナンバーテールズ677番機",
+    "ModelNumber": "NumberTales #677",
+    "CodeName": "六七七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 678,
+    "FormalName": "ナンバーテールズ678番機",
+    "ModelNumber": "NumberTales #678",
+    "CodeName": "六七八",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+8組",
+    "Class_EN": "VI+VII+VIII Triples"
+  },
+  {
+    "Num": 679,
+    "FormalName": "ナンバーテールズ679番機",
+    "ModelNumber": "NumberTales #679",
+    "CodeName": "六七九",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+9組",
+    "Class_EN": "VI+VII+IX Triples"
+  },
+  {
+    "Num": 680,
+    "FormalName": "ナンバーテールズ680番機",
+    "ModelNumber": "NumberTales #680",
+    "CodeName": "六八〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルファイブズ",
+    "Class_EN": "Tens Dual Sum-5s"
+  },
+  {
+    "Num": 681,
+    "FormalName": "ナンバーテールズ681番機",
+    "ModelNumber": "NumberTales #681",
+    "CodeName": "六八一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+8組",
+    "Class_EN": "I+VI+VIII Triples"
+  },
+  {
+    "Num": 682,
+    "FormalName": "ナンバーテールズ682番機",
+    "ModelNumber": "NumberTales #682",
+    "CodeName": "六八二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+8組",
+    "Class_EN": "II+VI+VIII Triples"
+  },
+  {
+    "Num": 683,
+    "FormalName": "ナンバーテールズ683番機",
+    "ModelNumber": "NumberTales #683",
+    "CodeName": "六八三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+8組",
+    "Class_EN": "III+VI+VIII Triples"
+  },
+  {
+    "Num": 684,
+    "FormalName": "ナンバーテールズ684番機",
+    "ModelNumber": "NumberTales #684",
+    "CodeName": "六八四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+8組",
+    "Class_EN": "IV+VI+VIII Triples"
+  },
+  {
+    "Num": 685,
+    "FormalName": "ナンバーテールズ685番機",
+    "ModelNumber": "NumberTales #685",
+    "CodeName": "六八五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+8組",
+    "Class_EN": "V+VI+VIII Triples"
+  },
+  {
+    "Num": 686,
+    "FormalName": "ナンバーテールズ686番機",
+    "ModelNumber": "NumberTales #686",
+    "CodeName": "六八六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 687,
+    "FormalName": "ナンバーテールズ687番機",
+    "ModelNumber": "NumberTales #687",
+    "CodeName": "六八七",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+8組",
+    "Class_EN": "VI+VII+VIII Triples"
+  },
+  {
+    "Num": 688,
+    "FormalName": "ナンバーテールズ688番機",
+    "ModelNumber": "NumberTales #688",
+    "CodeName": "六八八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 689,
+    "FormalName": "ナンバーテールズ689番機",
+    "ModelNumber": "NumberTales #689",
+    "CodeName": "六八九",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+8+9組",
+    "Class_EN": "VI+VIII+IX Triples"
+  },
+  {
+    "Num": 690,
+    "FormalName": "ナンバーテールズ690番機",
+    "ModelNumber": "NumberTales #690",
+    "CodeName": "六九〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルシックスズ",
+    "Class_EN": "Tens Dual Sum-6s"
+  },
+  {
+    "Num": 691,
+    "FormalName": "ナンバーテールズ691番機",
+    "ModelNumber": "NumberTales #691",
+    "CodeName": "六九一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+9組",
+    "Class_EN": "I+VI+IX Triples"
+  },
+  {
+    "Num": 692,
+    "FormalName": "ナンバーテールズ692番機",
+    "ModelNumber": "NumberTales #692",
+    "CodeName": "六九二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+9組",
+    "Class_EN": "II+VI+IX Triples"
+  },
+  {
+    "Num": 693,
+    "FormalName": "ナンバーテールズ693番機",
+    "ModelNumber": "NumberTales #693",
+    "CodeName": "六九三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+9組",
+    "Class_EN": "III+VI+IX Triples"
+  },
+  {
+    "Num": 694,
+    "FormalName": "ナンバーテールズ694番機",
+    "ModelNumber": "NumberTales #694",
+    "CodeName": "六九四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+9組",
+    "Class_EN": "IV+VI+IX Triples"
+  },
+  {
+    "Num": 695,
+    "FormalName": "ナンバーテールズ695番機",
+    "ModelNumber": "NumberTales #695",
+    "CodeName": "六九五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+9組",
+    "Class_EN": "V+VI+IX Triples"
+  },
+  {
+    "Num": 696,
+    "Name": "ロクロ",
+    "Name_EN": "Rollen",
+    "FormalName": "ナンバーテールズ696番機",
+    "ModelNumber": "NumberTales #696",
+    "CodeName": "六九六",
+    "SPCodeName": "轆轤",
+    "SPCodeName_EN": "Rotaly Cup Maker",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III",
+    "Backgrounds": "「69(ロック)」「96(クルリ)」「969(クロック)」とは、姉妹関係ではなく従姉妹関係がある"
+  },
+  {
+    "Num": 697,
+    "FormalName": "ナンバーテールズ697番機",
+    "ModelNumber": "NumberTales #697",
+    "CodeName": "六九七",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+9組",
+    "Class_EN": "VI+VII+IX Triples"
+  },
+  {
+    "Num": 698,
+    "FormalName": "ナンバーテールズ698番機",
+    "ModelNumber": "NumberTales #698",
+    "CodeName": "六九八",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+8+9組",
+    "Class_EN": "VI+VIII+IX Triples"
+  },
+  {
+    "Num": 699,
+    "FormalName": "ナンバーテールズ699番機",
+    "ModelNumber": "NumberTales #699",
+    "CodeName": "六九九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 700,
+    "FormalName": "ナンバーテールズ700番機",
+    "ModelNumber": "NumberTales #700",
+    "CodeName": "七〇〇",
+    "GenderType": "Neutral",
+    "Class": "百倍番(ハンドレッズデジッツ)",
+    "Class_EN": "Hundrets-Digits"
+  },
+  {
+    "Num": 701,
+    "FormalName": "ナンバーテールズ701番機",
+    "ModelNumber": "NumberTales #701",
+    "CodeName": "七〇一",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルエイツ",
+    "Class_EN": "Side Dual Sum-8s"
+  },
+  {
+    "Num": 702,
+    "FormalName": "ナンバーテールズ702番機",
+    "ModelNumber": "NumberTales #702",
+    "CodeName": "七〇二",
+    "GenderType": "Neutral",
+    "Class": "サイドナインズデュアルズ",
+    "Class_EN": "Side Nines Duals"
+  },
+  {
+    "Num": 703,
+    "FormalName": "ナンバーテールズ703番機",
+    "ModelNumber": "NumberTales #703",
+    "CodeName": "七〇三",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルキャリーズ",
+    "Class_EN": "Side Dual Carries"
+  },
+  {
+    "Num": 704,
+    "FormalName": "ナンバーテールズ704番機",
+    "ModelNumber": "NumberTales #704",
+    "CodeName": "七〇四",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルイレブンズ",
+    "Class_EN": "Side Dual Sum-11s"
+  },
+  {
+    "Num": 705,
+    "FormalName": "ナンバーテールズ705番機",
+    "ModelNumber": "NumberTales #705",
+    "CodeName": "七〇五",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルスリーズ",
+    "Class_EN": "Side Dual Sum-3s"
+  },
+  {
+    "Num": 706,
+    "FormalName": "ナンバーテールズ706番機",
+    "ModelNumber": "NumberTales #706",
+    "CodeName": "七〇六",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルフォーズ",
+    "Class_EN": "Side Dual Sum-4s"
+  },
+  {
+    "Num": 707,
+    "FormalName": "ナンバーテールズ707番機",
+    "ModelNumber": "NumberTales #707",
+    "CodeName": "七〇七",
+    "GenderType": "Neutral",
+    "Class": "サイドシングルズ",
+    "Class_EN": "Side Singles"
+  },
+  {
+    "Num": 708,
+    "FormalName": "ナンバーテールズ708番機",
+    "ModelNumber": "NumberTales #708",
+    "CodeName": "七〇八",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルシックスズ",
+    "Class_EN": "Side Dual Sum-6s"
+  },
+  {
+    "Num": 709,
+    "FormalName": "ナンバーテールズ709番機",
+    "ModelNumber": "NumberTales #709",
+    "CodeName": "七〇九",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルセブンズ",
+    "Class_EN": "Side Dual Sum-7s"
+  },
+  {
+    "Num": 710,
+    "FormalName": "ナンバーテールズ710番機",
+    "ModelNumber": "NumberTales #710",
+    "CodeName": "七一〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルエイツ",
+    "Class_EN": "Tens Dual Sum-8s"
+  },
+  {
+    "Num": 711,
+    "FormalName": "ナンバーテールズ711番機",
+    "ModelNumber": "NumberTales #711",
+    "CodeName": "七一一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 712,
+    "FormalName": "ナンバーテールズ712番機",
+    "ModelNumber": "NumberTales #712",
+    "CodeName": "七一二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+7組",
+    "Class_EN": "I+II+VII Triples"
+  },
+  {
+    "Num": 713,
+    "FormalName": "ナンバーテールズ713番機",
+    "ModelNumber": "NumberTales #713",
+    "CodeName": "七一三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+7組",
+    "Class_EN": "I+III+VII Triples"
+  },
+  {
+    "Num": 714,
+    "FormalName": "ナンバーテールズ714番機",
+    "ModelNumber": "NumberTales #714",
+    "CodeName": "七一四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+7組",
+    "Class_EN": "I+IV+VII Triples"
+  },
+  {
+    "Num": 715,
+    "FormalName": "ナンバーテールズ715番機",
+    "ModelNumber": "NumberTales #715",
+    "CodeName": "七一五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+7組",
+    "Class_EN": "I+V+VII Triples"
+  },
+  {
+    "Num": 716,
+    "FormalName": "ナンバーテールズ716番機",
+    "ModelNumber": "NumberTales #716",
+    "CodeName": "七一六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+7組",
+    "Class_EN": "I+VI+VII Triples"
+  },
+  {
+    "Num": 717,
+    "FormalName": "ナンバーテールズ717番機",
+    "ModelNumber": "NumberTales #717",
+    "CodeName": "七一七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 718,
+    "FormalName": "ナンバーテールズ718番機",
+    "ModelNumber": "NumberTales #718",
+    "CodeName": "七一八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+8組",
+    "Class_EN": "I+VII+VIII Triples"
+  },
+  {
+    "Num": 719,
+    "FormalName": "ナンバーテールズ719番機",
+    "ModelNumber": "NumberTales #719",
+    "CodeName": "七一九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+9組",
+    "Class_EN": "I+VII+IX Triples"
+  },
+  {
+    "Num": 720,
+    "FormalName": "ナンバーテールズ720番機",
+    "ModelNumber": "NumberTales #720",
+    "CodeName": "七二〇",
+    "GenderType": "Neutral",
+    "Class": "ナインティデュアルズ",
+    "Class_EN": "90s Duals"
+  },
+  {
+    "Num": 721,
+    "FormalName": "ナンバーテールズ721番機",
+    "ModelNumber": "NumberTales #721",
+    "CodeName": "七二一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+7組",
+    "Class_EN": "I+II+VII Triples"
+  },
+  {
+    "Num": 722,
+    "FormalName": "ナンバーテールズ722番機",
+    "ModelNumber": "NumberTales #722",
+    "CodeName": "七二二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 723,
+    "FormalName": "ナンバーテールズ723番機",
+    "ModelNumber": "NumberTales #723",
+    "CodeName": "七二三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+7組",
+    "Class_EN": "II+III+VII Triples"
+  },
+  {
+    "Num": 724,
+    "FormalName": "ナンバーテールズ724番機",
+    "ModelNumber": "NumberTales #724",
+    "CodeName": "七二四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+7組",
+    "Class_EN": "II+IV+VII Triples"
+  },
+  {
+    "Num": 725,
+    "FormalName": "ナンバーテールズ725番機",
+    "ModelNumber": "NumberTales #725",
+    "CodeName": "七二五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+7組",
+    "Class_EN": "II+V+VII Triples"
+  },
+  {
+    "Num": 726,
+    "FormalName": "ナンバーテールズ726番機",
+    "ModelNumber": "NumberTales #726",
+    "CodeName": "七二六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+7組",
+    "Class_EN": "II+VI+VII Triples"
+  },
+  {
+    "Num": 727,
+    "FormalName": "ナンバーテールズ727番機",
+    "ModelNumber": "NumberTales #727",
+    "CodeName": "七二七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 728,
+    "FormalName": "ナンバーテールズ728番機",
+    "ModelNumber": "NumberTales #728",
+    "CodeName": "七二八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+8組",
+    "Class_EN": "II+VII+VIII Triples"
+  },
+  {
+    "Num": 729,
+    "FormalName": "ナンバーテールズ729番機",
+    "ModelNumber": "NumberTales #729",
+    "CodeName": "七二九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+9組",
+    "Class_EN": "II+VII+IX Triples"
+  },
+  {
+    "Num": 730,
+    "FormalName": "ナンバーテールズ730番機",
+    "ModelNumber": "NumberTales #730",
+    "CodeName": "七三〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルキャリーズ",
+    "Class_EN": "Tens Dual Carries"
+  },
+  {
+    "Num": 731,
+    "FormalName": "ナンバーテールズ731番機",
+    "ModelNumber": "NumberTales #731",
+    "CodeName": "七三一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+7組",
+    "Class_EN": "I+III+VII Triples"
+  },
+  {
+    "Num": 732,
+    "FormalName": "ナンバーテールズ732番機",
+    "ModelNumber": "NumberTales #732",
+    "CodeName": "七三二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+7組",
+    "Class_EN": "II+III+VII Triples"
+  },
+  {
+    "Num": 733,
+    "FormalName": "ナンバーテールズ733番機",
+    "ModelNumber": "NumberTales #733",
+    "CodeName": "七三三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 734,
+    "FormalName": "ナンバーテールズ734番機",
+    "ModelNumber": "NumberTales #734",
+    "CodeName": "七三四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+7組",
+    "Class_EN": "III+IV+VII Triples"
+  },
+  {
+    "Num": 735,
+    "FormalName": "ナンバーテールズ735番機",
+    "ModelNumber": "NumberTales #735",
+    "CodeName": "七三五",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+7組",
+    "Class_EN": "III+V+VII Triples"
+  },
+  {
+    "Num": 736,
+    "FormalName": "ナンバーテールズ736番機",
+    "ModelNumber": "NumberTales #736",
+    "CodeName": "七三六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+7組",
+    "Class_EN": "III+VI+VII Triples"
+  },
+  {
+    "Num": 737,
+    "FormalName": "ナンバーテールズ737番機",
+    "ModelNumber": "NumberTales #737",
+    "CodeName": "七三七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 738,
+    "FormalName": "ナンバーテールズ738番機",
+    "ModelNumber": "NumberTales #738",
+    "CodeName": "七三八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+8組",
+    "Class_EN": "III+VII+VIII Triples"
+  },
+  {
+    "Num": 739,
+    "FormalName": "ナンバーテールズ739番機",
+    "ModelNumber": "NumberTales #739",
+    "CodeName": "七三九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+9組",
+    "Class_EN": "III+VII+IX Triples"
+  },
+  {
+    "Num": 740,
+    "FormalName": "ナンバーテールズ740番機",
+    "ModelNumber": "NumberTales #740",
+    "CodeName": "七四〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルイレブンズ",
+    "Class_EN": "Tens Dual Sum-11s"
+  },
+  {
+    "Num": 741,
+    "FormalName": "ナンバーテールズ741番機",
+    "ModelNumber": "NumberTales #741",
+    "CodeName": "七四一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+7組",
+    "Class_EN": "I+IV+VII Triples"
+  },
+  {
+    "Num": 742,
+    "FormalName": "ナンバーテールズ742番機",
+    "ModelNumber": "NumberTales #742",
+    "CodeName": "七四二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+7組",
+    "Class_EN": "II+IV+VII Triples"
+  },
+  {
+    "Num": 743,
+    "FormalName": "ナンバーテールズ743番機",
+    "ModelNumber": "NumberTales #743",
+    "CodeName": "七四三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+7組",
+    "Class_EN": "III+IV+VII Triples"
+  },
+  {
+    "Num": 744,
+    "FormalName": "ナンバーテールズ744番機",
+    "ModelNumber": "NumberTales #744",
+    "CodeName": "七四四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 745,
+    "FormalName": "ナンバーテールズ745番機",
+    "ModelNumber": "NumberTales #745",
+    "CodeName": "七四五",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+7組",
+    "Class_EN": "IV+V+VII Triples"
+  },
+  {
+    "Num": 746,
+    "FormalName": "ナンバーテールズ746番機",
+    "ModelNumber": "NumberTales #746",
+    "CodeName": "七四六",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+7組",
+    "Class_EN": "IV+VI+VII Triples"
+  },
+  {
+    "Num": 747,
+    "FormalName": "ナンバーテールズ747番機",
+    "ModelNumber": "NumberTales #747",
+    "CodeName": "七四七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 748,
+    "FormalName": "ナンバーテールズ748番機",
+    "ModelNumber": "NumberTales #748",
+    "CodeName": "七四八",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+8組",
+    "Class_EN": "IV+VII+VIII Triples"
+  },
+  {
+    "Num": 749,
+    "FormalName": "ナンバーテールズ749番機",
+    "ModelNumber": "NumberTales #749",
+    "CodeName": "七四九",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+9組",
+    "Class_EN": "IV+VII+IX Triples"
+  },
+  {
+    "Num": 750,
+    "FormalName": "ナンバーテールズ750番機",
+    "ModelNumber": "NumberTales #750",
+    "CodeName": "七五〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルスリーズ",
+    "Class_EN": "Tens Dual Sum-3s"
+  },
+  {
+    "Num": 751,
+    "FormalName": "ナンバーテールズ751番機",
+    "ModelNumber": "NumberTales #751",
+    "CodeName": "七五一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+7組",
+    "Class_EN": "I+V+VII Triples"
+  },
+  {
+    "Num": 752,
+    "FormalName": "ナンバーテールズ752番機",
+    "ModelNumber": "NumberTales #752",
+    "CodeName": "七五二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+7組",
+    "Class_EN": "II+V+VII Triples"
+  },
+  {
+    "SecondaryDesignedBy": "ラジアン(柏木主税)\n@RadianN_kswg@misskey.numbertales-radiann.net",
+    "SecondaryCategory": "リクエストナンバー",
+    "Num": 753,
+    "Progress": "released",
+    "Name": "ナゴミ",
+    "Name_EN": "Sefenvet-hirs",
+    "FormalName": "ナンバーテールズ753番機",
+    "ModelNumber": "NumberTales #753",
+    "CodeName": "七五三",
+    "GenderType": "Neutral",
+    "Height_cm": 153,
+    "ConceptAge": 16,
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型7本15束",
+    "Class": "トリプル3+5+7組",
+    "Class_EN": "III+V+VII Triples"
+  },
+  {
+    "Num": 754,
+    "FormalName": "ナンバーテールズ754番機",
+    "ModelNumber": "NumberTales #754",
+    "CodeName": "七五四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+7組",
+    "Class_EN": "IV+V+VII Triples"
+  },
+  {
+    "Num": 755,
+    "FormalName": "ナンバーテールズ755番機",
+    "ModelNumber": "NumberTales #755",
+    "CodeName": "七五五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 756,
+    "FormalName": "ナンバーテールズ756番機",
+    "ModelNumber": "NumberTales #756",
+    "CodeName": "七五六",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+7組",
+    "Class_EN": "V+VI+VII Triples"
+  },
+  {
+    "Num": 757,
+    "FormalName": "ナンバーテールズ757番機",
+    "ModelNumber": "NumberTales #757",
+    "CodeName": "七五七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 758,
+    "FormalName": "ナンバーテールズ758番機",
+    "ModelNumber": "NumberTales #758",
+    "CodeName": "七五八",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+8組",
+    "Class_EN": "V+VII+VIII Triples"
+  },
+  {
+    "Num": 759,
+    "FormalName": "ナンバーテールズ759番機",
+    "ModelNumber": "NumberTales #759",
+    "CodeName": "七五九",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+9組",
+    "Class_EN": "V+VII+IX Triples"
+  },
+  {
+    "Num": 760,
+    "FormalName": "ナンバーテールズ760番機",
+    "ModelNumber": "NumberTales #760",
+    "CodeName": "七六〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルフォーズ",
+    "Class_EN": "Tens Dual Sum-4s"
+  },
+  {
+    "Num": 761,
+    "FormalName": "ナンバーテールズ761番機",
+    "ModelNumber": "NumberTales #761",
+    "CodeName": "七六一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+7組",
+    "Class_EN": "I+VI+VII Triples"
+  },
+  {
+    "Num": 762,
+    "FormalName": "ナンバーテールズ762番機",
+    "ModelNumber": "NumberTales #762",
+    "CodeName": "七六二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+7組",
+    "Class_EN": "II+VI+VII Triples"
+  },
+  {
+    "Num": 763,
+    "FormalName": "ナンバーテールズ763番機",
+    "ModelNumber": "NumberTales #763",
+    "CodeName": "七六三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+7組",
+    "Class_EN": "III+VI+VII Triples"
+  },
+  {
+    "Num": 764,
+    "FormalName": "ナンバーテールズ764番機",
+    "ModelNumber": "NumberTales #764",
+    "CodeName": "七六四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+7組",
+    "Class_EN": "IV+VI+VII Triples"
+  },
+  {
+    "Num": 765,
+    "FormalName": "ナンバーテールズ765番機",
+    "ModelNumber": "NumberTales #765",
+    "CodeName": "七六五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+7組",
+    "Class_EN": "V+VI+VII Triples"
+  },
+  {
+    "Num": 766,
+    "FormalName": "ナンバーテールズ766番機",
+    "ModelNumber": "NumberTales #766",
+    "CodeName": "七六六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 767,
+    "FormalName": "ナンバーテールズ767番機",
+    "ModelNumber": "NumberTales #767",
+    "CodeName": "七六七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 768,
+    "FormalName": "ナンバーテールズ768番機",
+    "ModelNumber": "NumberTales #768",
+    "CodeName": "七六八",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+8組",
+    "Class_EN": "VI+VII+VIII Triples"
+  },
+  {
+    "Num": 769,
+    "FormalName": "ナンバーテールズ769番機",
+    "ModelNumber": "NumberTales #769",
+    "CodeName": "七六九",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+9組",
+    "Class_EN": "VI+VII+IX Triples"
+  },
+  {
+    "Num": 770,
+    "FormalName": "ナンバーテールズ770番機",
+    "ModelNumber": "NumberTales #770",
+    "CodeName": "七七〇",
+    "GenderType": "Neutral",
+    "Class": "マスターテンズデュアルズ9",
+    "Class_EN": "Master 110s 9"
+  },
+  {
+    "Num": 771,
+    "FormalName": "ナンバーテールズ771番機",
+    "ModelNumber": "NumberTales #771",
+    "CodeName": "七七一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 772,
+    "FormalName": "ナンバーテールズ772番機",
+    "ModelNumber": "NumberTales #772",
+    "CodeName": "七七二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型甲",
+    "Class_EN": "Duet Triples VII.A"
+  },
+  {
+    "Num": 773,
+    "FormalName": "ナンバーテールズ773番機",
+    "ModelNumber": "NumberTales #773",
+    "CodeName": "七七三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型甲",
+    "Class_EN": "Duet Triples VIII.A"
+  },
+  {
+    "Num": 774,
+    "Name": "ナノナシ",
+    "Name_EN": "774\nNon-Named",
+    "FormalName": "ナンバーテールズ774番機",
+    "ModelNumber": "NumberTales #774",
+    "CodeName": "七七四",
+    "SPCodeName": "名無",
+    "SPCodeName_EN": "Non-Named",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 775,
+    "FormalName": "ナンバーテールズ775番機",
+    "ModelNumber": "NumberTales #775",
+    "CodeName": "七七五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型甲",
+    "Class_EN": "Duet Triples I.A"
+  },
+  {
+    "Num": 776,
+    "FormalName": "ナンバーテールズ776番機",
+    "ModelNumber": "NumberTales #776",
+    "CodeName": "七七六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型甲",
+    "Class_EN": "Duet Triples II.A"
+  },
+  {
+    "Num": 778,
+    "FormalName": "ナンバーテールズ778番機",
+    "ModelNumber": "NumberTales #778",
+    "CodeName": "七七八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型甲",
+    "Class_EN": "Duet Triples IV.A"
+  },
+  {
+    "Num": 779,
+    "FormalName": "ナンバーテールズ779番機",
+    "ModelNumber": "NumberTales #779",
+    "CodeName": "七七九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型甲",
+    "Class_EN": "Duet Triples V.A"
+  },
+  {
+    "Num": 780,
+    "Name": "ナハト",
+    "Name_EN": "Sevighty",
+    "FormalName": "ナンバーテールズ780番機",
+    "ModelNumber": "NumberTales #780",
+    "CodeName": "七八〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルシックスズ",
+    "Class_EN": "Tens Dual Sum-6s"
+  },
+  {
+    "Num": 781,
+    "FormalName": "ナンバーテールズ781番機",
+    "ModelNumber": "NumberTales #781",
+    "CodeName": "七八一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+8組",
+    "Class_EN": "I+VII+VIII Triples"
+  },
+  {
+    "Num": 782,
+    "FormalName": "ナンバーテールズ782番機",
+    "ModelNumber": "NumberTales #782",
+    "CodeName": "七八二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+8組",
+    "Class_EN": "II+VII+VIII Triples"
+  },
+  {
+    "Num": 783,
+    "FormalName": "ナンバーテールズ783番機",
+    "ModelNumber": "NumberTales #783",
+    "CodeName": "七八三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+8組",
+    "Class_EN": "III+VII+VIII Triples"
+  },
+  {
+    "Num": 784,
+    "FormalName": "ナンバーテールズ784番機",
+    "ModelNumber": "NumberTales #784",
+    "CodeName": "七八四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+8組",
+    "Class_EN": "IV+VII+VIII Triples"
+  },
+  {
+    "Num": 785,
+    "FormalName": "ナンバーテールズ785番機",
+    "ModelNumber": "NumberTales #785",
+    "CodeName": "七八五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+8組",
+    "Class_EN": "V+VII+VIII Triples"
+  },
+  {
+    "Num": 786,
+    "FormalName": "ナンバーテールズ786番機",
+    "ModelNumber": "NumberTales #786",
+    "CodeName": "七八六",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+8組",
+    "Class_EN": "VI+VII+VIII Triples"
+  },
+  {
+    "Num": 787,
+    "FormalName": "ナンバーテールズ787番機",
+    "ModelNumber": "NumberTales #787",
+    "CodeName": "七八七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 788,
+    "FormalName": "ナンバーテールズ788番機",
+    "ModelNumber": "NumberTales #788",
+    "CodeName": "七八八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 789,
+    "FormalName": "ナンバーテールズ789番機",
+    "ModelNumber": "NumberTales #789",
+    "CodeName": "七八九",
+    "GenderType": "Neutral",
+    "Class": "トリプル7+8+9組",
+    "Class_EN": "VII+VIII+IX Triples"
+  },
+  {
+    "Num": 790,
+    "FormalName": "ナンバーテールズ790番機",
+    "ModelNumber": "NumberTales #790",
+    "CodeName": "七九〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルセブンズ",
+    "Class_EN": "Tens Dual Sum-7s"
+  },
+  {
+    "Num": 791,
+    "FormalName": "ナンバーテールズ791番機",
+    "ModelNumber": "NumberTales #791",
+    "CodeName": "七九一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+9組",
+    "Class_EN": "I+VII+IX Triples"
+  },
+  {
+    "Num": 792,
+    "FormalName": "ナンバーテールズ792番機",
+    "ModelNumber": "NumberTales #792",
+    "CodeName": "七九二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+9組",
+    "Class_EN": "II+VII+IX Triples"
+  },
+  {
+    "Num": 793,
+    "FormalName": "ナンバーテールズ793番機",
+    "ModelNumber": "NumberTales #793",
+    "CodeName": "七九三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+9組",
+    "Class_EN": "III+VII+IX Triples"
+  },
+  {
+    "Num": 794,
+    "FormalName": "ナンバーテールズ794番機",
+    "ModelNumber": "NumberTales #794",
+    "CodeName": "七九四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+9組",
+    "Class_EN": "IV+VII+IX Triples"
+  },
+  {
+    "Num": 795,
+    "FormalName": "ナンバーテールズ795番機",
+    "ModelNumber": "NumberTales #795",
+    "CodeName": "七九五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+9組",
+    "Class_EN": "V+VII+IX Triples"
+  },
+  {
+    "Num": 796,
+    "FormalName": "ナンバーテールズ796番機",
+    "ModelNumber": "NumberTales #796",
+    "CodeName": "七九六",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+9組",
+    "Class_EN": "VI+VII+IX Triples"
+  },
+  {
+    "Num": 797,
+    "FormalName": "ナンバーテールズ797番機",
+    "ModelNumber": "NumberTales #797",
+    "CodeName": "七九七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 798,
+    "FormalName": "ナンバーテールズ798番機",
+    "ModelNumber": "NumberTales #798",
+    "CodeName": "七九八",
+    "GenderType": "Neutral",
+    "Class": "トリプル7+8+9組",
+    "Class_EN": "VII+VIII+IX Triples"
+  },
+  {
+    "Num": 799,
+    "FormalName": "ナンバーテールズ799番機",
+    "ModelNumber": "NumberTales #799",
+    "CodeName": "七九九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 800,
+    "FormalName": "ナンバーテールズ800番機",
+    "ModelNumber": "NumberTales #800",
+    "CodeName": "八〇〇",
+    "GenderType": "Neutral",
+    "Class": "百倍番(ハンドレッズデジッツ)",
+    "Class_EN": "Hundrets-Digits"
+  },
+  {
+    "Num": 801,
+    "FormalName": "ナンバーテールズ801番機",
+    "ModelNumber": "NumberTales #801",
+    "CodeName": "八〇一",
+    "GenderType": "Neutral",
+    "Class": "サイドナインズデュアルズ",
+    "Class_EN": "Side Nines Duals"
+  },
+  {
+    "Num": 802,
+    "FormalName": "ナンバーテールズ802番機",
+    "ModelNumber": "NumberTales #802",
+    "CodeName": "八〇二",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルキャリーズ",
+    "Class_EN": "Side Dual Carries"
+  },
+  {
+    "Num": 803,
+    "FormalName": "ナンバーテールズ803番機",
+    "ModelNumber": "NumberTales #803",
+    "CodeName": "八〇三",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルイレブンズ",
+    "Class_EN": "Side Dual Sum-11s"
+  },
+  {
+    "Num": 804,
+    "FormalName": "ナンバーテールズ804番機",
+    "ModelNumber": "NumberTales #804",
+    "CodeName": "八〇四",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルスリーズ",
+    "Class_EN": "Side Dual Sum-3s"
+  },
+  {
+    "Num": 805,
+    "FormalName": "ナンバーテールズ805番機",
+    "ModelNumber": "NumberTales #805",
+    "CodeName": "八〇五",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルフォーズ",
+    "Class_EN": "Side Dual Sum-4s"
+  },
+  {
+    "Num": 806,
+    "FormalName": "ナンバーテールズ806番機",
+    "ModelNumber": "NumberTales #806",
+    "CodeName": "八〇六",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルファイブズ",
+    "Class_EN": "Side Dual Sum-5s"
+  },
+  {
+    "Num": 807,
+    "FormalName": "ナンバーテールズ807番機",
+    "ModelNumber": "NumberTales #807",
+    "CodeName": "八〇七",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルシックスズ",
+    "Class_EN": "Side Dual Sum-6s"
+  },
+  {
+    "Num": 808,
+    "Name": "ヤオヤ",
+    "Name_EN": "Yaoya",
+    "FormalName": "ナンバーテールズ808番機",
+    "ModelNumber": "NumberTales #808",
+    "CodeName": "八〇八",
+    "SPCodeName": "八百屋",
+    "SPCodeName_EN": "Vegetable",
+    "GenderType": "Neutral",
+    "Class": "サイドシングルズ",
+    "Class_EN": "Side Singles"
+  },
+  {
+    "Num": 809,
+    "FormalName": "ナンバーテールズ809番機",
+    "ModelNumber": "NumberTales #809",
+    "CodeName": "八〇九",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルエイツ",
+    "Class_EN": "Side Dual Sum-8s"
+  },
+  {
+    "Num": 810,
+    "FormalName": "ナンバーテールズ810番機",
+    "ModelNumber": "NumberTales #810",
+    "CodeName": "八一〇",
+    "GenderType": "Neutral",
+    "Class": "ナインティデュアルズ",
+    "Class_EN": "90s Duals"
+  },
+  {
+    "Num": 811,
+    "FormalName": "ナンバーテールズ811番機",
+    "ModelNumber": "NumberTales #811",
+    "CodeName": "八一一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 812,
+    "FormalName": "ナンバーテールズ812番機",
+    "ModelNumber": "NumberTales #812",
+    "CodeName": "八一二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+8組",
+    "Class_EN": "I+II+VIII Triples"
+  },
+  {
+    "Num": 813,
+    "FormalName": "ナンバーテールズ813番機",
+    "ModelNumber": "NumberTales #813",
+    "CodeName": "八一三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+8組",
+    "Class_EN": "I+III+VIII Triples"
+  },
+  {
+    "Num": 814,
+    "FormalName": "ナンバーテールズ814番機",
+    "ModelNumber": "NumberTales #814",
+    "CodeName": "八一四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+8組",
+    "Class_EN": "I+IV+VIII Triples"
+  },
+  {
+    "Num": 815,
+    "FormalName": "ナンバーテールズ815番機",
+    "ModelNumber": "NumberTales #815",
+    "CodeName": "八一五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+8組",
+    "Class_EN": "I+V+VIII Triples"
+  },
+  {
+    "Num": 816,
+    "FormalName": "ナンバーテールズ816番機",
+    "ModelNumber": "NumberTales #816",
+    "CodeName": "八一六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+8組",
+    "Class_EN": "I+VI+VIII Triples"
+  },
+  {
+    "Num": 817,
+    "FormalName": "ナンバーテールズ817番機",
+    "ModelNumber": "NumberTales #817",
+    "CodeName": "八一七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+8組",
+    "Class_EN": "I+VII+VIII Triples"
+  },
+  {
+    "Num": 818,
+    "FormalName": "ナンバーテールズ818番機",
+    "ModelNumber": "NumberTales #818",
+    "CodeName": "八一八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 819,
+    "FormalName": "ナンバーテールズ819番機",
+    "ModelNumber": "NumberTales #819",
+    "CodeName": "八一九",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+8+9組",
+    "Class_EN": "I+VIII+IX Triples"
+  },
+  {
+    "Num": 820,
+    "FormalName": "ナンバーテールズ820番機",
+    "ModelNumber": "NumberTales #820",
+    "CodeName": "八二〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルキャリーズ",
+    "Class_EN": "Tens Dual Carries"
+  },
+  {
+    "Num": 821,
+    "FormalName": "ナンバーテールズ821番機",
+    "ModelNumber": "NumberTales #821",
+    "CodeName": "八二一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+8組",
+    "Class_EN": "I+II+VIII Triples"
+  },
+  {
+    "Num": 822,
+    "FormalName": "ナンバーテールズ822番機",
+    "ModelNumber": "NumberTales #822",
+    "CodeName": "八二二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 823,
+    "FormalName": "ナンバーテールズ823番機",
+    "ModelNumber": "NumberTales #823",
+    "CodeName": "八二三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+8組",
+    "Class_EN": "II+III+VIII Triples"
+  },
+  {
+    "Num": 824,
+    "FormalName": "ナンバーテールズ824番機",
+    "ModelNumber": "NumberTales #824",
+    "CodeName": "八二四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+8組",
+    "Class_EN": "II+IV+VIII Triples"
+  },
+  {
+    "Num": 825,
+    "FormalName": "ナンバーテールズ825番機",
+    "ModelNumber": "NumberTales #825",
+    "CodeName": "八二五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+8組",
+    "Class_EN": "II+V+VIII Triples"
+  },
+  {
+    "Num": 826,
+    "FormalName": "ナンバーテールズ826番機",
+    "ModelNumber": "NumberTales #826",
+    "CodeName": "八二六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+8組",
+    "Class_EN": "II+VI+VIII Triples"
+  },
+  {
+    "Num": 827,
+    "FormalName": "ナンバーテールズ827番機",
+    "ModelNumber": "NumberTales #827",
+    "CodeName": "八二七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+8組",
+    "Class_EN": "II+VII+VIII Triples"
+  },
+  {
+    "Num": 828,
+    "FormalName": "ナンバーテールズ828番機",
+    "ModelNumber": "NumberTales #828",
+    "CodeName": "八二八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 829,
+    "FormalName": "ナンバーテールズ829番機",
+    "ModelNumber": "NumberTales #829",
+    "CodeName": "八二九",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+8+9組",
+    "Class_EN": "II+VIII+IX Triples"
+  },
+  {
+    "Num": 830,
+    "FormalName": "ナンバーテールズ830番機",
+    "ModelNumber": "NumberTales #830",
+    "CodeName": "八三〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルイレブンズ",
+    "Class_EN": "Tens Dual Sum-11s"
+  },
+  {
+    "Num": 831,
+    "FormalName": "ナンバーテールズ831番機",
+    "ModelNumber": "NumberTales #831",
+    "CodeName": "八三一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+8組",
+    "Class_EN": "I+III+VIII Triples"
+  },
+  {
+    "Num": 832,
+    "FormalName": "ナンバーテールズ832番機",
+    "ModelNumber": "NumberTales #832",
+    "CodeName": "八三二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+8組",
+    "Class_EN": "II+III+VIII Triples"
+  },
+  {
+    "Num": 833,
+    "Name": "ハザミ",
+    "Name_EN": "Egthirthree",
+    "FormalName": "ナンバーテールズ833番機",
+    "ModelNumber": "NumberTales #833",
+    "CodeName": "八三三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 834,
+    "FormalName": "ナンバーテールズ834番機",
+    "ModelNumber": "NumberTales #834",
+    "CodeName": "八三四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+8組",
+    "Class_EN": "III+IV+VIII Triples"
+  },
+  {
+    "Num": 835,
+    "FormalName": "ナンバーテールズ835番機",
+    "ModelNumber": "NumberTales #835",
+    "CodeName": "八三五",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+8組",
+    "Class_EN": "III+V+VIII Triples"
+  },
+  {
+    "Num": 836,
+    "FormalName": "ナンバーテールズ836番機",
+    "ModelNumber": "NumberTales #836",
+    "CodeName": "八三六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+8組",
+    "Class_EN": "III+VI+VIII Triples"
+  },
+  {
+    "Num": 837,
+    "FormalName": "ナンバーテールズ837番機",
+    "ModelNumber": "NumberTales #837",
+    "CodeName": "八三七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+8組",
+    "Class_EN": "III+VII+VIII Triples"
+  },
+  {
+    "Num": 838,
+    "FormalName": "ナンバーテールズ838番機",
+    "ModelNumber": "NumberTales #838",
+    "CodeName": "八三八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 839,
+    "FormalName": "ナンバーテールズ839番機",
+    "ModelNumber": "NumberTales #839",
+    "CodeName": "八三九",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+8+9組",
+    "Class_EN": "III+VIII+IX Triples"
+  },
+  {
+    "Num": 840,
+    "FormalName": "ナンバーテールズ840番機",
+    "ModelNumber": "NumberTales #840",
+    "CodeName": "八四〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルスリーズ",
+    "Class_EN": "Tens Dual Sum-3s"
+  },
+  {
+    "Num": 841,
+    "FormalName": "ナンバーテールズ841番機",
+    "ModelNumber": "NumberTales #841",
+    "CodeName": "八四一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+8組",
+    "Class_EN": "I+IV+VIII Triples"
+  },
+  {
+    "Num": 842,
+    "FormalName": "ナンバーテールズ842番機",
+    "ModelNumber": "NumberTales #842",
+    "CodeName": "八四二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+8組",
+    "Class_EN": "II+IV+VIII Triples"
+  },
+  {
+    "Num": 843,
+    "FormalName": "ナンバーテールズ843番機",
+    "ModelNumber": "NumberTales #843",
+    "CodeName": "八四三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+8組",
+    "Class_EN": "III+IV+VIII Triples"
+  },
+  {
+    "Num": 844,
+    "FormalName": "ナンバーテールズ844番機",
+    "ModelNumber": "NumberTales #844",
+    "CodeName": "八四四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 845,
+    "FormalName": "ナンバーテールズ845番機",
+    "ModelNumber": "NumberTales #845",
+    "CodeName": "八四五",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+8組",
+    "Class_EN": "IV+V+VIII Triples"
+  },
+  {
+    "Num": 846,
+    "FormalName": "ナンバーテールズ846番機",
+    "ModelNumber": "NumberTales #846",
+    "CodeName": "八四六",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+8組",
+    "Class_EN": "IV+VI+VIII Triples"
+  },
+  {
+    "Num": 847,
+    "FormalName": "ナンバーテールズ847番機",
+    "ModelNumber": "NumberTales #847",
+    "CodeName": "八四七",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+8組",
+    "Class_EN": "IV+VII+VIII Triples"
+  },
+  {
+    "Num": 848,
+    "FormalName": "ナンバーテールズ848番機",
+    "ModelNumber": "NumberTales #848",
+    "CodeName": "八四八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 849,
+    "FormalName": "ナンバーテールズ849番機",
+    "ModelNumber": "NumberTales #849",
+    "CodeName": "八四九",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+8+9組",
+    "Class_EN": "IV+VIII+IX Triples"
+  },
+  {
+    "Num": 850,
+    "FormalName": "ナンバーテールズ850番機",
+    "ModelNumber": "NumberTales #850",
+    "CodeName": "八五〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルフォーズ",
+    "Class_EN": "Tens Dual Sum-4s"
+  },
+  {
+    "Num": 851,
+    "FormalName": "ナンバーテールズ851番機",
+    "ModelNumber": "NumberTales #851",
+    "CodeName": "八五一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+8組",
+    "Class_EN": "I+V+VIII Triples"
+  },
+  {
+    "Num": 852,
+    "FormalName": "ナンバーテールズ852番機",
+    "ModelNumber": "NumberTales #852",
+    "CodeName": "八五二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+8組",
+    "Class_EN": "II+V+VIII Triples"
+  },
+  {
+    "Num": 853,
+    "FormalName": "ナンバーテールズ853番機",
+    "ModelNumber": "NumberTales #853",
+    "CodeName": "八五三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+8組",
+    "Class_EN": "III+V+VIII Triples"
+  },
+  {
+    "Num": 854,
+    "FormalName": "ナンバーテールズ854番機",
+    "ModelNumber": "NumberTales #854",
+    "CodeName": "八五四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+8組",
+    "Class_EN": "IV+V+VIII Triples"
+  },
+  {
+    "Num": 855,
+    "FormalName": "ナンバーテールズ855番機",
+    "ModelNumber": "NumberTales #855",
+    "CodeName": "八五五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 856,
+    "FormalName": "ナンバーテールズ856番機",
+    "ModelNumber": "NumberTales #856",
+    "CodeName": "八五六",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+8組",
+    "Class_EN": "V+VI+VIII Triples"
+  },
+  {
+    "Num": 857,
+    "FormalName": "ナンバーテールズ857番機",
+    "ModelNumber": "NumberTales #857",
+    "CodeName": "八五七",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+8組",
+    "Class_EN": "V+VII+VIII Triples"
+  },
+  {
+    "Num": 858,
+    "FormalName": "ナンバーテールズ858番機",
+    "ModelNumber": "NumberTales #858",
+    "CodeName": "八五八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 859,
+    "FormalName": "ナンバーテールズ859番機",
+    "ModelNumber": "NumberTales #859",
+    "CodeName": "八五九",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+8+9組",
+    "Class_EN": "V+VIII+IX Triples"
+  },
+  {
+    "Num": 860,
+    "FormalName": "ナンバーテールズ860番機",
+    "ModelNumber": "NumberTales #860",
+    "CodeName": "八六〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルファイブズ",
+    "Class_EN": "Tens Dual Sum-5s"
+  },
+  {
+    "Num": 861,
+    "FormalName": "ナンバーテールズ861番機",
+    "ModelNumber": "NumberTales #861",
+    "CodeName": "八六一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+8組",
+    "Class_EN": "I+VI+VIII Triples"
+  },
+  {
+    "Num": 862,
+    "FormalName": "ナンバーテールズ862番機",
+    "ModelNumber": "NumberTales #862",
+    "CodeName": "八六二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+8組",
+    "Class_EN": "II+VI+VIII Triples"
+  },
+  {
+    "Num": 863,
+    "FormalName": "ナンバーテールズ863番機",
+    "ModelNumber": "NumberTales #863",
+    "CodeName": "八六三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+8組",
+    "Class_EN": "III+VI+VIII Triples"
+  },
+  {
+    "Num": 864,
+    "FormalName": "ナンバーテールズ864番機",
+    "ModelNumber": "NumberTales #864",
+    "CodeName": "八六四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+8組",
+    "Class_EN": "IV+VI+VIII Triples"
+  },
+  {
+    "Num": 865,
+    "FormalName": "ナンバーテールズ865番機",
+    "ModelNumber": "NumberTales #865",
+    "CodeName": "八六五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+8組",
+    "Class_EN": "V+VI+VIII Triples"
+  },
+  {
+    "Num": 866,
+    "FormalName": "ナンバーテールズ866番機",
+    "ModelNumber": "NumberTales #866",
+    "CodeName": "八六六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 867,
+    "FormalName": "ナンバーテールズ867番機",
+    "ModelNumber": "NumberTales #867",
+    "CodeName": "八六七",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+8組",
+    "Class_EN": "VI+VII+VIII Triples"
+  },
+  {
+    "Num": 868,
+    "FormalName": "ナンバーテールズ868番機",
+    "ModelNumber": "NumberTales #868",
+    "CodeName": "八六八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 869,
+    "FormalName": "ナンバーテールズ869番機",
+    "ModelNumber": "NumberTales #869",
+    "CodeName": "八六九",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+8+9組",
+    "Class_EN": "VI+VIII+IX Triples"
+  },
+  {
+    "Num": 870,
+    "FormalName": "ナンバーテールズ870番機",
+    "ModelNumber": "NumberTales #870",
+    "CodeName": "八七〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルシックスズ",
+    "Class_EN": "Tens Dual Sum-6s"
+  },
+  {
+    "Num": 871,
+    "FormalName": "ナンバーテールズ871番機",
+    "ModelNumber": "NumberTales #871",
+    "CodeName": "八七一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+8組",
+    "Class_EN": "I+VII+VIII Triples"
+  },
+  {
+    "Num": 872,
+    "FormalName": "ナンバーテールズ872番機",
+    "ModelNumber": "NumberTales #872",
+    "CodeName": "八七二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+8組",
+    "Class_EN": "II+VII+VIII Triples"
+  },
+  {
+    "Num": 873,
+    "FormalName": "ナンバーテールズ873番機",
+    "ModelNumber": "NumberTales #873",
+    "CodeName": "八七三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+8組",
+    "Class_EN": "III+VII+VIII Triples"
+  },
+  {
+    "Num": 874,
+    "FormalName": "ナンバーテールズ874番機",
+    "ModelNumber": "NumberTales #874",
+    "CodeName": "八七四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+8組",
+    "Class_EN": "IV+VII+VIII Triples"
+  },
+  {
+    "Num": 875,
+    "FormalName": "ナンバーテールズ875番機",
+    "ModelNumber": "NumberTales #875",
+    "CodeName": "八七五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+8組",
+    "Class_EN": "V+VII+VIII Triples"
+  },
+  {
+    "Num": 876,
+    "FormalName": "ナンバーテールズ876番機",
+    "ModelNumber": "NumberTales #876",
+    "CodeName": "八七六",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+8組",
+    "Class_EN": "VI+VII+VIII Triples"
+  },
+  {
+    "Num": 877,
+    "FormalName": "ナンバーテールズ877番機",
+    "ModelNumber": "NumberTales #877",
+    "CodeName": "八七七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 878,
+    "FormalName": "ナンバーテールズ878番機",
+    "ModelNumber": "NumberTales #878",
+    "CodeName": "八七八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 879,
+    "FormalName": "ナンバーテールズ879番機",
+    "ModelNumber": "NumberTales #879",
+    "CodeName": "八七九",
+    "GenderType": "Neutral",
+    "Class": "トリプル7+8+9組",
+    "Class_EN": "VII+VIII+IX Triples"
+  },
+  {
+    "Num": 880,
+    "FormalName": "ナンバーテールズ880番機",
+    "ModelNumber": "NumberTales #880",
+    "CodeName": "八八〇",
+    "GenderType": "Neutral",
+    "Class": "マスターテンズデュアルズ9",
+    "Class_EN": "Master 110s 9"
+  },
+  {
+    "Num": 881,
+    "FormalName": "ナンバーテールズ881番機",
+    "ModelNumber": "NumberTales #881",
+    "CodeName": "八八一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型甲",
+    "Class_EN": "Duet Triples VIII.A"
+  },
+  {
+    "Num": 882,
+    "FormalName": "ナンバーテールズ882番機",
+    "ModelNumber": "NumberTales #882",
+    "CodeName": "八八二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル9型",
+    "Class_EN": "Duet Triples IX"
+  },
+  {
+    "Num": 883,
+    "FormalName": "ナンバーテールズ883番機",
+    "ModelNumber": "NumberTales #883",
+    "CodeName": "八八三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型甲",
+    "Class_EN": "Duet Triples I.A"
+  },
+  {
+    "Num": 884,
+    "FormalName": "ナンバーテールズ884番機",
+    "ModelNumber": "NumberTales #884",
+    "CodeName": "八八四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型甲",
+    "Class_EN": "Duet Triples II.A"
+  },
+  {
+    "Num": 885,
+    "FormalName": "ナンバーテールズ885番機",
+    "ModelNumber": "NumberTales #885",
+    "CodeName": "八八五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 886,
+    "FormalName": "ナンバーテールズ886番機",
+    "ModelNumber": "NumberTales #886",
+    "CodeName": "八八六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型甲",
+    "Class_EN": "Duet Triples IV.A"
+  },
+  {
+    "Num": 887,
+    "FormalName": "ナンバーテールズ887番機",
+    "ModelNumber": "NumberTales #887",
+    "CodeName": "八八七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型甲",
+    "Class_EN": "Duet Triples V.A"
+  },
+  {
+    "Num": 889,
+    "FormalName": "ナンバーテールズ889番機",
+    "ModelNumber": "NumberTales #889",
+    "CodeName": "八八九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型甲",
+    "Class_EN": "Duet Triples VII.A"
+  },
+  {
+    "Num": 890,
+    "FormalName": "ナンバーテールズ890番機",
+    "ModelNumber": "NumberTales #890",
+    "CodeName": "八九〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルエイツ",
+    "Class_EN": "Tens Dual Sum-8s"
+  },
+  {
+    "Num": 891,
+    "FormalName": "ナンバーテールズ891番機",
+    "ModelNumber": "NumberTales #891",
+    "CodeName": "八九一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+8+9組",
+    "Class_EN": "I+VIII+IX Triples"
+  },
+  {
+    "Num": 892,
+    "FormalName": "ナンバーテールズ892番機",
+    "ModelNumber": "NumberTales #892",
+    "CodeName": "八九二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+8+9組",
+    "Class_EN": "II+VIII+IX Triples"
+  },
+  {
+    "Num": 893,
+    "FormalName": "ナンバーテールズ893番機",
+    "ModelNumber": "NumberTales #893",
+    "CodeName": "八九三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+8+9組",
+    "Class_EN": "III+VIII+IX Triples"
+  },
+  {
+    "Num": 894,
+    "FormalName": "ナンバーテールズ894番機",
+    "ModelNumber": "NumberTales #894",
+    "CodeName": "八九四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+8+9組",
+    "Class_EN": "IV+VIII+IX Triples"
+  },
+  {
+    "Num": 895,
+    "FormalName": "ナンバーテールズ895番機",
+    "ModelNumber": "NumberTales #895",
+    "CodeName": "八九五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+8+9組",
+    "Class_EN": "V+VIII+IX Triples"
+  },
+  {
+    "Num": 896,
+    "FormalName": "ナンバーテールズ896番機",
+    "ModelNumber": "NumberTales #896",
+    "CodeName": "八九六",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+8+9組",
+    "Class_EN": "VI+VIII+IX Triples"
+  },
+  {
+    "Num": 897,
+    "FormalName": "ナンバーテールズ897番機",
+    "ModelNumber": "NumberTales #897",
+    "CodeName": "八九七",
+    "GenderType": "Neutral",
+    "Class": "トリプル7+8+9組",
+    "Class_EN": "VII+VIII+IX Triples"
+  },
+  {
+    "Num": 898,
+    "FormalName": "ナンバーテールズ898番機",
+    "ModelNumber": "NumberTales #898",
+    "CodeName": "八九八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 899,
+    "FormalName": "ナンバーテールズ899番機",
+    "ModelNumber": "NumberTales #899",
+    "CodeName": "八九九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 900,
+    "FormalName": "ナンバーテールズ900番機",
+    "ModelNumber": "NumberTales #900",
+    "CodeName": "九〇〇",
+    "GenderType": "Neutral",
+    "Class": "百倍番(ハンドレッズデジッツ)",
+    "Class_EN": "Hundrets-Digits"
+  },
+  {
+    "Num": 901,
+    "FormalName": "ナンバーテールズ901番機",
+    "ModelNumber": "NumberTales #901",
+    "CodeName": "九〇一",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルキャリーズ",
+    "Class_EN": "Side Dual Carries"
+  },
+  {
+    "Num": 902,
+    "FormalName": "ナンバーテールズ902番機",
+    "ModelNumber": "NumberTales #902",
+    "CodeName": "九〇二",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルイレブンズ",
+    "Class_EN": "Side Dual Sum-11s"
+  },
+  {
+    "Num": 903,
+    "FormalName": "ナンバーテールズ903番機",
+    "ModelNumber": "NumberTales #903",
+    "CodeName": "九〇三",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルスリーズ",
+    "Class_EN": "Side Dual Sum-3s"
+  },
+  {
+    "Num": 904,
+    "FormalName": "ナンバーテールズ904番機",
+    "ModelNumber": "NumberTales #904",
+    "CodeName": "九〇四",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルフォーズ",
+    "Class_EN": "Side Dual Sum-4s"
+  },
+  {
+    "Num": 905,
+    "FormalName": "ナンバーテールズ905番機",
+    "ModelNumber": "NumberTales #905",
+    "CodeName": "九〇五",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルファイブズ",
+    "Class_EN": "Side Dual Sum-5s"
+  },
+  {
+    "Num": 906,
+    "FormalName": "ナンバーテールズ906番機",
+    "ModelNumber": "NumberTales #906",
+    "CodeName": "九〇六",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルシックスズ",
+    "Class_EN": "Side Dual Sum-6s"
+  },
+  {
+    "Num": 907,
+    "FormalName": "ナンバーテールズ907番機",
+    "ModelNumber": "NumberTales #907",
+    "CodeName": "九〇七",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルセブンズ",
+    "Class_EN": "Side Dual Sum-7s"
+  },
+  {
+    "Num": 908,
+    "FormalName": "ナンバーテールズ908番機",
+    "ModelNumber": "NumberTales #908",
+    "CodeName": "九〇八",
+    "GenderType": "Neutral",
+    "Class": "サイドデュアルエイツ",
+    "Class_EN": "Side Dual Sum-8s"
+  },
+  {
+    "Num": 909,
+    "FormalName": "ナンバーテールズ909番機",
+    "ModelNumber": "NumberTales #909",
+    "CodeName": "九〇九",
+    "GenderType": "Neutral",
+    "Class": "サイドシングルズ",
+    "Class_EN": "Side Singles"
+  },
+  {
+    "Num": 910,
+    "FormalName": "ナンバーテールズ910番機",
+    "ModelNumber": "NumberTales #910",
+    "CodeName": "九一〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルキャリーズ",
+    "Class_EN": "Tens Dual Carries"
+  },
+  {
+    "Num": 911,
+    "FormalName": "ナンバーテールズ911番機",
+    "ModelNumber": "NumberTales #911",
+    "CodeName": "九一一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型乙",
+    "Class_EN": "Duet Triples II.B"
+  },
+  {
+    "Num": 912,
+    "FormalName": "ナンバーテールズ912番機",
+    "ModelNumber": "NumberTales #912",
+    "CodeName": "九一二",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+9組",
+    "Class_EN": "I+II+IX Triples"
+  },
+  {
+    "Num": 913,
+    "FormalName": "ナンバーテールズ913番機",
+    "ModelNumber": "NumberTales #913",
+    "CodeName": "九一三",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+9組",
+    "Class_EN": "I+III+IX Triples"
+  },
+  {
+    "Num": 914,
+    "FormalName": "ナンバーテールズ914番機",
+    "ModelNumber": "NumberTales #914",
+    "CodeName": "九一四",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+9組",
+    "Class_EN": "I+IV+IX Triples"
+  },
+  {
+    "Num": 915,
+    "FormalName": "ナンバーテールズ915番機",
+    "ModelNumber": "NumberTales #915",
+    "CodeName": "九一五",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+9組",
+    "Class_EN": "I+V+IX Triples"
+  },
+  {
+    "Num": 916,
+    "FormalName": "ナンバーテールズ916番機",
+    "ModelNumber": "NumberTales #916",
+    "CodeName": "九一六",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+9組",
+    "Class_EN": "I+VI+IX Triples"
+  },
+  {
+    "Num": 917,
+    "FormalName": "ナンバーテールズ917番機",
+    "ModelNumber": "NumberTales #917",
+    "CodeName": "九一七",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+9組",
+    "Class_EN": "I+VII+IX Triples"
+  },
+  {
+    "Num": 918,
+    "FormalName": "ナンバーテールズ918番機",
+    "ModelNumber": "NumberTales #918",
+    "CodeName": "九一八",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+8+9組",
+    "Class_EN": "I+VIII+IX Triples"
+  },
+  {
+    "Num": 919,
+    "FormalName": "ナンバーテールズ919番機",
+    "ModelNumber": "NumberTales #919",
+    "CodeName": "九一九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型丙",
+    "Class_EN": "Duet Triples I.C"
+  },
+  {
+    "Num": 920,
+    "FormalName": "ナンバーテールズ920番機",
+    "ModelNumber": "NumberTales #920",
+    "CodeName": "九二〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルイレブンズ",
+    "Class_EN": "Tens Dual Sum-11s"
+  },
+  {
+    "Num": 921,
+    "FormalName": "ナンバーテールズ921番機",
+    "ModelNumber": "NumberTales #921",
+    "CodeName": "九二一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+2+9組",
+    "Class_EN": "I+II+IX Triples"
+  },
+  {
+    "Num": 922,
+    "FormalName": "ナンバーテールズ922番機",
+    "ModelNumber": "NumberTales #922",
+    "CodeName": "九二二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型乙",
+    "Class_EN": "Duet Triples IV.B"
+  },
+  {
+    "Num": 923,
+    "FormalName": "ナンバーテールズ923番機",
+    "ModelNumber": "NumberTales #923",
+    "CodeName": "九二三",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+9組",
+    "Class_EN": "II+III+IX Triples"
+  },
+  {
+    "Num": 924,
+    "FormalName": "ナンバーテールズ924番機",
+    "ModelNumber": "NumberTales #924",
+    "CodeName": "九二四",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+9組",
+    "Class_EN": "II+IV+IX Triples"
+  },
+  {
+    "Num": 925,
+    "FormalName": "ナンバーテールズ925番機",
+    "ModelNumber": "NumberTales #925",
+    "CodeName": "九二五",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+9組",
+    "Class_EN": "II+V+IX Triples"
+  },
+  {
+    "Num": 926,
+    "FormalName": "ナンバーテールズ926番機",
+    "ModelNumber": "NumberTales #926",
+    "CodeName": "九二六",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+9組",
+    "Class_EN": "II+VI+IX Triples"
+  },
+  {
+    "Num": 927,
+    "FormalName": "ナンバーテールズ927番機",
+    "ModelNumber": "NumberTales #927",
+    "CodeName": "九二七",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+9組",
+    "Class_EN": "II+VII+IX Triples"
+  },
+  {
+    "Num": 928,
+    "FormalName": "ナンバーテールズ928番機",
+    "ModelNumber": "NumberTales #928",
+    "CodeName": "九二八",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+8+9組",
+    "Class_EN": "II+VIII+IX Triples"
+  },
+  {
+    "Num": 929,
+    "FormalName": "ナンバーテールズ929番機",
+    "ModelNumber": "NumberTales #929",
+    "CodeName": "九二九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型丙",
+    "Class_EN": "Duet Triples II.C"
+  },
+  {
+    "Num": 930,
+    "FormalName": "ナンバーテールズ930番機",
+    "ModelNumber": "NumberTales #930",
+    "CodeName": "九三〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルスリーズ",
+    "Class_EN": "Tens Dual Sum-3s"
+  },
+  {
+    "Num": 931,
+    "FormalName": "ナンバーテールズ931番機",
+    "ModelNumber": "NumberTales #931",
+    "CodeName": "九三一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+3+9組",
+    "Class_EN": "I+III+IX Triples"
+  },
+  {
+    "Num": 932,
+    "FormalName": "ナンバーテールズ932番機",
+    "ModelNumber": "NumberTales #932",
+    "CodeName": "九三二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+3+9組",
+    "Class_EN": "II+III+IX Triples"
+  },
+  {
+    "Num": 933,
+    "FormalName": "ナンバーテールズ933番機",
+    "ModelNumber": "NumberTales #933",
+    "CodeName": "九三三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 934,
+    "FormalName": "ナンバーテールズ934番機",
+    "ModelNumber": "NumberTales #934",
+    "CodeName": "九三四",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+9組",
+    "Class_EN": "III+IV+IX Triples"
+  },
+  {
+    "Num": 935,
+    "FormalName": "ナンバーテールズ935番機",
+    "ModelNumber": "NumberTales #935",
+    "CodeName": "九三五",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+9組",
+    "Class_EN": "III+V+IX Triples"
+  },
+  {
+    "Num": 936,
+    "FormalName": "ナンバーテールズ936番機",
+    "ModelNumber": "NumberTales #936",
+    "CodeName": "九三六",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+9組",
+    "Class_EN": "III+VI+IX Triples"
+  },
+  {
+    "Num": 937,
+    "FormalName": "ナンバーテールズ937番機",
+    "ModelNumber": "NumberTales #937",
+    "CodeName": "九三七",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+9組",
+    "Class_EN": "III+VII+IX Triples"
+  },
+  {
+    "Num": 938,
+    "FormalName": "ナンバーテールズ938番機",
+    "ModelNumber": "NumberTales #938",
+    "CodeName": "九三八",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+8+9組",
+    "Class_EN": "III+VIII+IX Triples"
+  },
+  {
+    "Num": 939,
+    "FormalName": "ナンバーテールズ939番機",
+    "ModelNumber": "NumberTales #939",
+    "CodeName": "九三九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 940,
+    "FormalName": "ナンバーテールズ940番機",
+    "ModelNumber": "NumberTales #940",
+    "CodeName": "九四〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルフォーズ",
+    "Class_EN": "Tens Dual Sum-4s"
+  },
+  {
+    "Num": 941,
+    "FormalName": "ナンバーテールズ941番機",
+    "ModelNumber": "NumberTales #941",
+    "CodeName": "九四一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+4+9組",
+    "Class_EN": "I+IV+IX Triples"
+  },
+  {
+    "Num": 942,
+    "FormalName": "ナンバーテールズ942番機",
+    "ModelNumber": "NumberTales #942",
+    "CodeName": "九四二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+4+9組",
+    "Class_EN": "II+IV+IX Triples"
+  },
+  {
+    "Num": 943,
+    "FormalName": "ナンバーテールズ943番機",
+    "ModelNumber": "NumberTales #943",
+    "CodeName": "九四三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+4+9組",
+    "Class_EN": "III+IV+IX Triples"
+  },
+  {
+    "Num": 944,
+    "FormalName": "ナンバーテールズ944番機",
+    "ModelNumber": "NumberTales #944",
+    "CodeName": "九四四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型乙",
+    "Class_EN": "Duet Triples VIII.B"
+  },
+  {
+    "Num": 945,
+    "FormalName": "ナンバーテールズ945番機",
+    "ModelNumber": "NumberTales #945",
+    "CodeName": "九四五",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+9組",
+    "Class_EN": "IV+V+IX Triples"
+  },
+  {
+    "Num": 946,
+    "FormalName": "ナンバーテールズ946番機",
+    "ModelNumber": "NumberTales #946",
+    "CodeName": "九四六",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+9組",
+    "Class_EN": "IV+VI+IX Triples"
+  },
+  {
+    "Num": 947,
+    "FormalName": "ナンバーテールズ947番機",
+    "ModelNumber": "NumberTales #947",
+    "CodeName": "九四七",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+9組",
+    "Class_EN": "IV+VII+IX Triples"
+  },
+  {
+    "Num": 948,
+    "FormalName": "ナンバーテールズ948番機",
+    "ModelNumber": "NumberTales #948",
+    "CodeName": "九四八",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+8+9組",
+    "Class_EN": "IV+VIII+IX Triples"
+  },
+  {
+    "Num": 949,
+    "FormalName": "ナンバーテールズ949番機",
+    "ModelNumber": "NumberTales #949",
+    "CodeName": "九四九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型丙",
+    "Class_EN": "Duet Triples IV.C"
+  },
+  {
+    "Num": 950,
+    "FormalName": "ナンバーテールズ950番機",
+    "ModelNumber": "NumberTales #950",
+    "CodeName": "九五〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルファイブズ",
+    "Class_EN": "Tens Dual Sum-5s"
+  },
+  {
+    "Num": 951,
+    "FormalName": "ナンバーテールズ951番機",
+    "ModelNumber": "NumberTales #951",
+    "CodeName": "九五一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+5+9組",
+    "Class_EN": "I+V+IX Triples"
+  },
+  {
+    "Num": 952,
+    "FormalName": "ナンバーテールズ952番機",
+    "ModelNumber": "NumberTales #952",
+    "CodeName": "九五二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+5+9組",
+    "Class_EN": "II+V+IX Triples"
+  },
+  {
+    "Num": 953,
+    "FormalName": "ナンバーテールズ953番機",
+    "ModelNumber": "NumberTales #953",
+    "CodeName": "九五三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+5+9組",
+    "Class_EN": "III+V+IX Triples"
+  },
+  {
+    "Num": 954,
+    "FormalName": "ナンバーテールズ954番機",
+    "ModelNumber": "NumberTales #954",
+    "CodeName": "九五四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+5+9組",
+    "Class_EN": "IV+V+IX Triples"
+  },
+  {
+    "Num": 955,
+    "FormalName": "ナンバーテールズ955番機",
+    "ModelNumber": "NumberTales #955",
+    "CodeName": "九五五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型乙",
+    "Class_EN": "Duet Triples I.B"
+  },
+  {
+    "Num": 956,
+    "FormalName": "ナンバーテールズ956番機",
+    "ModelNumber": "NumberTales #956",
+    "CodeName": "九五六",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+9組",
+    "Class_EN": "V+VI+IX Triples"
+  },
+  {
+    "Num": 957,
+    "FormalName": "ナンバーテールズ957番機",
+    "ModelNumber": "NumberTales #957",
+    "CodeName": "九五七",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+9組",
+    "Class_EN": "V+VII+IX Triples"
+  },
+  {
+    "Num": 958,
+    "FormalName": "ナンバーテールズ958番機",
+    "ModelNumber": "NumberTales #958",
+    "CodeName": "九五八",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+8+9組",
+    "Class_EN": "V+VIII+IX Triples"
+  },
+  {
+    "Num": 959,
+    "FormalName": "ナンバーテールズ959番機",
+    "ModelNumber": "NumberTales #959",
+    "CodeName": "九五九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型丙",
+    "Class_EN": "Duet Triples V.C"
+  },
+  {
+    "Num": 960,
+    "FormalName": "ナンバーテールズ960番機",
+    "ModelNumber": "NumberTales #960",
+    "CodeName": "九六〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルシックスズ",
+    "Class_EN": "Tens Dual Sum-6s"
+  },
+  {
+    "Num": 961,
+    "FormalName": "ナンバーテールズ961番機",
+    "ModelNumber": "NumberTales #961",
+    "CodeName": "九六一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+6+9組",
+    "Class_EN": "I+VI+IX Triples"
+  },
+  {
+    "Num": 962,
+    "FormalName": "ナンバーテールズ962番機",
+    "ModelNumber": "NumberTales #962",
+    "CodeName": "九六二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+6+9組",
+    "Class_EN": "II+VI+IX Triples"
+  },
+  {
+    "Num": 963,
+    "FormalName": "ナンバーテールズ963番機",
+    "ModelNumber": "NumberTales #963",
+    "CodeName": "九六三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+6+9組",
+    "Class_EN": "III+VI+IX Triples"
+  },
+  {
+    "Num": 964,
+    "FormalName": "ナンバーテールズ964番機",
+    "ModelNumber": "NumberTales #964",
+    "CodeName": "九六四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+6+9組",
+    "Class_EN": "IV+VI+IX Triples"
+  },
+  {
+    "Num": 965,
+    "FormalName": "ナンバーテールズ965番機",
+    "ModelNumber": "NumberTales #965",
+    "CodeName": "九六五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+6+9組",
+    "Class_EN": "V+VI+IX Triples"
+  },
+  {
+    "Num": 966,
+    "Name": "クロール",
+    "Name_EN": "Nixis",
+    "FormalName": "ナンバーテールズ966番機",
+    "ModelNumber": "NumberTales #966",
+    "CodeName": "九六六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 967,
+    "FormalName": "ナンバーテールズ967番機",
+    "ModelNumber": "NumberTales #967",
+    "CodeName": "九六七",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+9組",
+    "Class_EN": "VI+VII+IX Triples"
+  },
+  {
+    "Num": 968,
+    "FormalName": "ナンバーテールズ968番機",
+    "ModelNumber": "NumberTales #968",
+    "CodeName": "九六八",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+8+9組",
+    "Class_EN": "VI+VIII+IX Triples"
+  },
+  {
+    "Num": 969,
+    "Name": "クロック",
+    "Name_EN": "Roll-roll",
+    "FormalName": "ナンバーテールズ969番機",
+    "ModelNumber": "NumberTales #969",
+    "CodeName": "九六九",
+    "SPCodeName_EN": "Clock",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI",
+    "Backgrounds": "「69(ロック)」「96(クルリ)」と姉妹関係があり、「696(ロクロ)」と従妹関係がある"
+  },
+  {
+    "Num": 970,
+    "FormalName": "ナンバーテールズ970番機",
+    "ModelNumber": "NumberTales #970",
+    "CodeName": "九七〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルセブンズ",
+    "Class_EN": "Tens Dual Sum-7s"
+  },
+  {
+    "Num": 971,
+    "FormalName": "ナンバーテールズ971番機",
+    "ModelNumber": "NumberTales #971",
+    "CodeName": "九七一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+7+9組",
+    "Class_EN": "I+VII+IX Triples"
+  },
+  {
+    "Num": 972,
+    "FormalName": "ナンバーテールズ972番機",
+    "ModelNumber": "NumberTales #972",
+    "CodeName": "九七二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+7+9組",
+    "Class_EN": "II+VII+IX Triples"
+  },
+  {
+    "Num": 973,
+    "FormalName": "ナンバーテールズ973番機",
+    "ModelNumber": "NumberTales #973",
+    "CodeName": "九七三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+7+9組",
+    "Class_EN": "III+VII+IX Triples"
+  },
+  {
+    "Num": 974,
+    "FormalName": "ナンバーテールズ974番機",
+    "ModelNumber": "NumberTales #974",
+    "CodeName": "九七四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+7+9組",
+    "Class_EN": "IV+VII+IX Triples"
+  },
+  {
+    "Num": 975,
+    "FormalName": "ナンバーテールズ975番機",
+    "ModelNumber": "NumberTales #975",
+    "CodeName": "九七五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+7+9組",
+    "Class_EN": "V+VII+IX Triples"
+  },
+  {
+    "Num": 976,
+    "FormalName": "ナンバーテールズ976番機",
+    "ModelNumber": "NumberTales #976",
+    "CodeName": "九七六",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+7+9組",
+    "Class_EN": "VI+VII+IX Triples"
+  },
+  {
+    "Num": 977,
+    "FormalName": "ナンバーテールズ977番機",
+    "ModelNumber": "NumberTales #977",
+    "CodeName": "九七七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型乙",
+    "Class_EN": "Duet Triples V.B"
+  },
+  {
+    "Num": 978,
+    "FormalName": "ナンバーテールズ978番機",
+    "ModelNumber": "NumberTales #978",
+    "CodeName": "九七八",
+    "GenderType": "Neutral",
+    "Class": "トリプル7+8+9組",
+    "Class_EN": "VII+VIII+IX Triples"
+  },
+  {
+    "Num": 979,
+    "FormalName": "ナンバーテールズ979番機",
+    "ModelNumber": "NumberTales #979",
+    "CodeName": "九七九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型丙",
+    "Class_EN": "Duet Triples VII.C"
+  },
+  {
+    "Num": 980,
+    "FormalName": "ナンバーテールズ980番機",
+    "ModelNumber": "NumberTales #980",
+    "CodeName": "九八〇",
+    "GenderType": "Neutral",
+    "Class": "テンズデュアルエイツ",
+    "Class_EN": "Tens Dual Sum-8s"
+  },
+  {
+    "Num": 981,
+    "FormalName": "ナンバーテールズ981番機",
+    "ModelNumber": "NumberTales #981",
+    "CodeName": "九八一",
+    "GenderType": "Neutral",
+    "Class": "トリプル1+8+9組",
+    "Class_EN": "I+VIII+IX Triples"
+  },
+  {
+    "Num": 982,
+    "FormalName": "ナンバーテールズ982番機",
+    "ModelNumber": "NumberTales #982",
+    "CodeName": "九八二",
+    "GenderType": "Neutral",
+    "Class": "トリプル2+8+9組",
+    "Class_EN": "II+VIII+IX Triples"
+  },
+  {
+    "Num": 983,
+    "FormalName": "ナンバーテールズ983番機",
+    "ModelNumber": "NumberTales #983",
+    "CodeName": "九八三",
+    "GenderType": "Neutral",
+    "Class": "トリプル3+8+9組",
+    "Class_EN": "III+VIII+IX Triples"
+  },
+  {
+    "Num": 984,
+    "FormalName": "ナンバーテールズ984番機",
+    "ModelNumber": "NumberTales #984",
+    "CodeName": "九八四",
+    "GenderType": "Neutral",
+    "Class": "トリプル4+8+9組",
+    "Class_EN": "IV+VIII+IX Triples"
+  },
+  {
+    "Num": 985,
+    "FormalName": "ナンバーテールズ985番機",
+    "ModelNumber": "NumberTales #985",
+    "CodeName": "九八五",
+    "GenderType": "Neutral",
+    "Class": "トリプル5+8+9組",
+    "Class_EN": "V+VIII+IX Triples"
+  },
+  {
+    "Num": 986,
+    "FormalName": "ナンバーテールズ986番機",
+    "ModelNumber": "NumberTales #986",
+    "CodeName": "九八六",
+    "GenderType": "Neutral",
+    "Class": "トリプル6+8+9組",
+    "Class_EN": "VI+VIII+IX Triples"
+  },
+  {
+    "Num": 987,
+    "FormalName": "ナンバーテールズ987番機",
+    "ModelNumber": "NumberTales #987",
+    "CodeName": "九八七",
+    "GenderType": "Neutral",
+    "Class": "トリプル7+8+9組",
+    "Class_EN": "VII+VIII+IX Triples"
+  },
+  {
+    "Num": 988,
+    "FormalName": "ナンバーテールズ988番機",
+    "ModelNumber": "NumberTales #988",
+    "CodeName": "九八八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型乙",
+    "Class_EN": "Duet Triples VII.B"
+  },
+  {
+    "Num": 989,
+    "FormalName": "ナンバーテールズ989番機",
+    "ModelNumber": "NumberTales #989",
+    "CodeName": "九八九",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型丙",
+    "Class_EN": "Duet Triples VIII.C"
+  },
+  {
+    "Num": 990,
+    "FormalName": "ナンバーテールズ990番機",
+    "ModelNumber": "NumberTales #990",
+    "CodeName": "九九〇",
+    "GenderType": "Neutral",
+    "Class": "マスターテンズデュアルズ9",
+    "Class_EN": "Master 110s 9"
+  },
+  {
+    "Num": 991,
+    "FormalName": "ナンバーテールズ991番機",
+    "ModelNumber": "NumberTales #991",
+    "CodeName": "九九一",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル1型甲",
+    "Class_EN": "Duet Triples I.A"
+  },
+  {
+    "Num": 992,
+    "FormalName": "ナンバーテールズ992番機",
+    "ModelNumber": "NumberTales #992",
+    "CodeName": "九九二",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル2型甲",
+    "Class_EN": "Duet Triples II.A"
+  },
+  {
+    "Num": 993,
+    "FormalName": "ナンバーテールズ993番機",
+    "ModelNumber": "NumberTales #993",
+    "CodeName": "九九三",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル3型",
+    "Class_EN": "Duet Triples III"
+  },
+  {
+    "Num": 994,
+    "FormalName": "ナンバーテールズ994番機",
+    "ModelNumber": "NumberTales #994",
+    "CodeName": "九九四",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル4型甲",
+    "Class_EN": "Duet Triples IV.A"
+  },
+  {
+    "Num": 995,
+    "FormalName": "ナンバーテールズ995番機",
+    "ModelNumber": "NumberTales #995",
+    "CodeName": "九九五",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル5型甲",
+    "Class_EN": "Duet Triples V.A"
+  },
+  {
+    "Num": 996,
+    "FormalName": "ナンバーテールズ996番機",
+    "ModelNumber": "NumberTales #996",
+    "CodeName": "九九六",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル6型",
+    "Class_EN": "Duet Triples VI"
+  },
+  {
+    "Num": 997,
+    "FormalName": "ナンバーテールズ997番機",
+    "ModelNumber": "NumberTales #997",
+    "CodeName": "九九七",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル7型甲",
+    "Class_EN": "Duet Triples VII.A"
+  },
+  {
+    "Num": 998,
+    "FormalName": "ナンバーテールズ998番機",
+    "ModelNumber": "NumberTales #998",
+    "CodeName": "九九八",
+    "GenderType": "Neutral",
+    "Class": "デュオトリプル8型甲",
+    "Class_EN": "Duet Triples VIII.A"
+  }
+]
