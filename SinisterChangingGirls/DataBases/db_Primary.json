@@ -1,0 +1,153 @@
+[
+  {
+    "_DBLink": {
+      "title": "NumberTales",
+      "file": "db_Primary",
+      "_Search": { "hashTag": "Num", "key": "0" }
+    },
+    "Drc": "N",
+    "Name": "千歳 玲(れい)",
+    "Name_EN": "Zeena Thouser",
+    "FormalName": "零(かずない) 零(れい)",
+    "FormalName_EN": "Zera Norumber",
+    "CodeName": "色欲の零時",
+    "CodeName_EN": "Lust o'clock in Midnight",
+    "GenderType": "Female",
+    "Class": "",
+    "Class_EN": "",
+    "Height_cm": { "_Jump": { "title": "NumberTales", "file": "db_Primary" } },
+    "Weight_kg": { "_Jump": { "title": "NumberTales", "file": "db_Primary" } },
+    "Age": {
+      "_Jump": {
+        "title": "NumberTales",
+        "file": "db_Primary",
+        "dataTag": "ConceptAge"
+      }
+    },
+    "BirthDay": {
+      "_Jump": {
+        "title": "NumberTales",
+        "file": "db_Primary",
+        "dataTag": "AnivDay",
+        "_Search": { "hashTag": "DayAbout", "key": "誕生日" }
+      }
+    },
+    "Character": "",
+    "Hobby": "",
+    "SpetialSkill": "",
+    "Favor": "",
+    "Unlike": "",
+    "FirstPersonCalling": {
+      "_Jump": { "title": "NumberTales", "file": "db_Primary" }
+    },
+    "SecondPersonCalling": {
+      "_Jump": { "title": "NumberTales", "file": "db_Primary" }
+    },
+    "ThirdPersonCalling": {
+      "_Jump": { "title": "NumberTales", "file": "db_Primary" }
+    },
+    "AbilityStats": {
+      "_Jump": { "title": "NumberTales", "file": "db_Primary" }
+    }
+  },
+  {
+    "Drc": "NE",
+    "Name": "扇 三春(みはる).ロールプラン",
+    "Name_EN": "Thirthal Arch.Rollplan",
+    "FormalName": "扇 三春(ミハイル)",
+    "FormalName_EN": "Mikhail Arch",
+    "CodeName": "暴食の未明",
+    "CodeName_EN": "Gluttony o'clock in Early",
+    "GenderType": "Female",
+    "Class": "",
+    "Class_EN": "",
+    "Height_cm": 163,
+    "Weight_kg": { "about": "可変" },
+    "Age": { "about": "不詳" },
+    "BirthDay": { "Day": { "DayOfMonth": 1, "Month": "Jul" } },
+    "Character": "",
+    "Hobby": "",
+    "SpetialSkill": "",
+    "Favor": "",
+    "Unlike": "",
+    "FirstPersonCalling": "",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "",
+    "AbilityStats": ""
+  },
+  {
+    "Drc": "E",
+    "Name": "六花 ルノ",
+    "Name_EN": "Luno Hexacrys",
+    "FormalName": null,
+    "FormalName_EN": null,
+    "CodeName": "憤怒の早朝",
+    "CodeName_EN": "Wrath o'clock in Sunrizing",
+    "GenderType": "Female",
+    "Class": "",
+    "Class_EN": "",
+    "Height_cm": 160,
+    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "Age": 25,
+    "BirthDay": { "Day": { "DayOfMonth": 7, "Month": "Apr" } },
+    "Character": "",
+    "Hobby": "",
+    "SpetialSkill": "",
+    "Favor": "",
+    "Unlike": "",
+    "FirstPersonCalling": "",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "",
+    "AbilityStats": ""
+  },
+  {
+    "Drc": "W",
+    "Name": "神夜崎 ユノ",
+    "Name_EN": "Juno Theolessnight",
+    "FormalName": null,
+    "FormalName_EN": null,
+    "CodeName": "虚無の夕方",
+    "CodeName_EN": "Wrath o'clock in Sunsetting",
+    "GenderType": "Female",
+    "Class": "",
+    "Class_EN": "",
+    "Height_cm": { "about": "推定", "value": 143 },
+    "Weight_kg": { "about": { "HideText": "不詳" } },
+    "Age": 17,
+    "BirthDay": {},
+    "Character": "",
+    "Hobby": "",
+    "SpetialSkill": "",
+    "Favor": "",
+    "Unlike": "",
+    "FirstPersonCalling": "",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "",
+    "AbilityStats": ""
+  },
+  {
+    "Drc": "NW",
+    "Name": "終藤(すどう) こさと",
+    "Name_EN": "Formar Endrof",
+    "FormalName": "財前 小里",
+    "FormalName_EN": "Foster Empressor",
+    "CodeName": "傲慢の夜",
+    "CodeName_EN": "Pride o'clock in Night",
+    "GenderType": { "about": "推定", "value": "Female" },
+    "Class": "",
+    "Class_EN": "",
+    "Height_cm": 155,
+    "Weight_kg": { "about": "不詳" },
+    "Age": { "about": "不詳" },
+    "BirthDay": { "about": "不詳" },
+    "Character": "",
+    "Hobby": "",
+    "SpetialSkill": "",
+    "Favor": "",
+    "Unlike": "",
+    "FirstPersonCalling": "",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "",
+    "AbilityStats": ""
+  }
+]
