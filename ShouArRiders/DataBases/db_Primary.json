@@ -1,7 +1,7 @@
 [
   {
     "BeastType": { "Beast": "Mouse" },
-    "Name": "易.爾姫(ヰ.アルヂ)",
+    "Name": "易.爾姫(ヰ.アルヂ/ヰ.アルセ゚)",
     "Name_EN": "Yì.Ěr jī",
     "CodeName": "子刻ハッカ",
     "CodeName_EN": "Mus Mousetimes",
@@ -10,7 +10,7 @@
     "Class_EN": "Shòu-ěr Rider",
     "Height_cm": 129,
     "Weight_kg": 32,
-    "Age": 17,
+    "Age": { "value": 17, "about": "？" },
     "Character": "ドＳでドＭなモルモット？\n生き残りのためなら手段を問わない",
     "Hobby": "投薬実験",
     "SpetialSkill": "自分で自分の身体を手術すること",
@@ -22,7 +22,32 @@
     "BeastSpecName": "子機分身",
     "BeastSpecName_EN": "ChildCroning",
     "BeastspecAbout": "クローン個体と意識を共有することで疑似的に分身出来る",
-    "Summary": ""
+    "Summary": "丸い耳と糸状の尻尾が特徴的な獣爾騎兵の1番手こと兵長。\n龍天国の指定難病である『山月病』の対策方法について数々の研究を展開している認定博士の少女。\n獣爾騎兵の研究基地外から全く外を出歩かないため、生存と勝利のために時に献身的で時に好戦的で狂気ともいえる噂が出回っており、よく知らない人間から「生きるモルモット」と評されている。\n17歳を自称しているが、戸籍情報などを調べても彼女に該当する“17歳の少女”は“当の昔から存在していない”らしく……"
+  },
+  {
+    "BeastType": { "Beast": "Tiger" },
+    "Name": "姚.魁(ヤオ.クァイ)",
+    "Name_EN": "Yáo.Kuí",
+    "CodeName": "寅刻コーガ",
+    "CodeName_EN": "Pantheras Tigertimes",
+    "GenderType": "Male",
+    "Class": "獣爾騎兵",
+    "Class_EN": "Shòu-ěr Rider",
+    "Height_cm": 170,
+    "Weight_kg": 58,
+    "Age": 25,
+    "Character": "喧嘩っ早く短期",
+    "Hobby": "ツーリング",
+    "SpetialSkill": "",
+    "Favor": "",
+    "Unlike": "自分勝手な人間\n不平等",
+    "FirstPersonCalling": "[Name]",
+    "SecondPersonCalling": "[Name]",
+    "ThirdPersonCalling": "[Name];*れ",
+    "BeastSpecName": "会心一中",
+    "BeastSpecName_EN": "OnesConcentration",
+    "BeastspecAbout": "相手の急所など一点を狙って行動できる",
+    "Summary": "猫の耳と尻尾と虎柄な髪色が特徴的な獣爾騎兵の3番手。\n13番手の寅刻ネゝコを妹に持ち、武力行使による鎮圧任務などで活躍している。"
   },
   {
     "BeastType": { "Beast": "Rabbit" },
@@ -74,6 +99,8 @@
   },
   {
     "BeastType": { "Beast": "Snake" },
+    "Name": "花.花琳(ホゥア.フアリン)",
+    "Name_EN": "huā.Huā lín",
     "CodeName": "巳刻カミツ",
     "CodeName_EN": "Ciderin Snaketimes",
     "GenderType": "Female",
