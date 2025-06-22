@@ -3524,6 +3524,7 @@
     }
   },
   {
+	"Progress": "nowCreating",
     "Num": 40,
     "Name": "ヨソ",
     "Name_EN": "Fortty",
@@ -3536,7 +3537,7 @@
     ],
     "Class": "10倍番(テンズデジッツ)",
     "Class_EN": "Tens-Digits",
-    "NumerospecAbout": "実現化する\nこの効果は行動や意志に呼応するが、発動範囲が多様なため詳細は不明",
+    "NumerospecAbout": "実現化する\nこの効果は限度制限がある。行動や意志に呼応するらしいが、発動範囲が多様なため詳細は不明",
     "Relation": {
       "Related": [
         {
@@ -7994,7 +7995,7 @@
     "Name": "チトセ",
     "Name_EN": "Thouser",
     "FormalName": "ナンバーテールズ0番機",
-    "ModelNumber": "APHR-NT 0\nNumberTales #0",
+    "ModelNumber": "APHR-NT 0\nNumberTales #000",
     "CodeName": "〇〇〇",
     "SPCodeName": "千",
     "SPCodeName_EN": "Null/Triple Zero",
