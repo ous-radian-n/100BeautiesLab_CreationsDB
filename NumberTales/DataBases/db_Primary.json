@@ -3531,7 +3531,10 @@
     }
   },
   {
-    "Progress": "nowCreating",
+    "Progress": "released",
+    "Images": {
+      "concept_PNGName": "cnsp_image40"
+    },
     "Num": 40,
     "Name": "ヨソ",
     "Name_EN": "Fortty",
@@ -3560,9 +3563,9 @@
     "Favor": "紅茶(の香り)、感謝されること",
     "Unlike": "本音や感情ばかりの気難しい話",
     "WellmatchedNTsNames": "22(フジ)",
-    "UnmatchedNTsNames": "50(ナカバ)",
+    "UnmatchedNTsNames": "50(ナカバ),67(ムナ)?",
     "NumerospecAbout": "実現化する\nこの効果は限度制限がある。行動や意志に呼応するらしいが、条件や効果事例が多様なため詳細は不明",
-    "Summary": "",
+    "Summary": "「願いや望みを４つだけ叶えてくれる」という謎の風の噂が後を絶たず、一部界隈から“魔人”や“仙人”などと言われている。\n当の本人もその評判に恥じない達観した風格をしている……が、それはあくまでも演出にすぎず、珍妙な実績が吹聴されて引くに引けなくなっただけ。\n実際はドが付くほど苦労人であることを、お得意の建前で包み隠しているらしい。",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "B", "EffectText": "普通" },
@@ -3588,24 +3591,30 @@
     "Relation": {
       "Related": [
         {
-          "Num": 22
+          "Num": 22,
+          "Comments": "ぼくの憧れです!! 様々な実績を遺し（以下略）"
         },
         {
-          "Num": 50
+          "Num": 50,
+          "Comments": "げっ、近づくな気持ち悪い…"
+        },
+        {
+          "Num": 67,
+          "Comments": "腹が捩れるwww ひぃいwww"
         }
       ],
       "Commented": [
         {
-          "Num": 4
+          "Num": 4,
+          "Comments": "ソチも大変だな…"
         },
         {
-          "Num": 31
+          "Num": 31,
+          "Comments": "ちゃんとしておる、よきかな"
         },
         {
-          "Num": 44
-        },
-        {
-          "Num": 67
+          "Num": 44,
+          "Comments": "良くも悪くもヤンキーじみておる"
         }
       ]
     }
@@ -7337,7 +7346,10 @@
   },
   {
     "Num": 92,
-    "Progress": "nowCreating",
+    "Progress": "released",
+    "Images": {
+      "concept_PNGName": "cnsp_image92"
+    },
     "Name": "コトジ",
     "Name_EN": "Nintwina",
     "FormalName": "ナンバーテールズ2+9号機乙\nナンバーテールズ92番機",
@@ -7358,7 +7370,7 @@
     "SecondPersonCalling": "君\n貴方",
     "ThirdPersonCalling": "彼/彼女/[Name]",
     "ForMasterCalling": "兄さん/姉さん",
-    "Character": "接し方は温厚だか気質は淡泊でドライ、話が長いことがあるので聞き専に回っている",
+    "Character": "接し方は淡泊でドライだが根はとても寛容",
     "Hobby": "エンタメ番組を見ること",
     "SpetialSkill": "感情の整理",
     "Favor": "冬、コアフォルダが寄り添っている様子",
@@ -7366,7 +7378,7 @@
     "WellmatchedNTsNames": "コアフォルダ全般",
     "UnmatchedNTsNames": "90(キュウト)",
     "NumerospecAbout": "心を慰める\nただしこの効果は会話を通してのみ発動する",
-    "Summary": "",
+    "Summary": "彼と会話を続けていると、心の中に抱えている悩みが解消されると噂されているが、彼の話し口調そのものは冷酷に思われがち。\n時折 威圧的に思われてしまう事があるため率先して相談に乗ることは控えているが、彼なりの優しさがあってこその言動だと支持する主人や他個体も少なくはない。\n姉の「29(ニトク)」に避けられていることをコンプレックスに感じている。\n最近の癒しは寄り添い合うコアフォルダを眺めることだが、彼自身もその中に入りたいというのは別の話。",
     "NumerospecStats": {
       "EffectStats": {
         "Mental": { "Rank": "S", "EffectText": "絶大" },
@@ -7386,11 +7398,12 @@
       "Technic": { "Rank": "C" },
       "Actuation": { "Rank": "B" }
     },
+    "InStory": "話が長くなりそうなときは聞き専に回ることが多い",
     "Relation": {
       "Related": [
         {
           "Num": 29,
-          "Comments": ""
+          "Comments": "……姉ちゃん…"
         },
         {
           "Num": 90
@@ -7399,19 +7412,19 @@
       "Commented": [
         {
           "Num": 2,
-          "Comments": ""
+          "Comments": "もっと肩の力を抜いた方がいい"
         },
         {
           "Num": 19,
-          "Comments": ""
+          "Comments": "うざいけど、すごく有能な人だと思う"
+        },
+        {
+          "Num": 38,
+          "Comments": "時々見せる奇抜さと斬新さは尊敬できる"
         },
         {
           "Num": 74,
-          "Comments": ""
-        },
-        {
-          "Num": 83,
-          "Comments": ""
+          "Comments": "よくわからないけど…何？"
         }
       ]
     }
