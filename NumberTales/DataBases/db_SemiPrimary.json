@@ -316,8 +316,6 @@
   },
   {
     "Num": 200,
-    "Name": "マタウルウ",
-    "Name_EN": "Leap-againer",
     "FormalName": "ナンバーテールズ汎用型2号機改\nナンバーテールズ200番機",
     "ModelNumber": "APHR-NT [MP]II.R\nNumberTales #200",
     "CodeName": "二〇〇",
@@ -331,7 +329,7 @@
     "ThirdPersonCalling": "～さん",
     "ForMasterCalling": "お兄さま/お姉さま",
     "RelationAbouts": "開発専用機では「バイナ」「20(ハツカ)」を、「お姉さま」と慕っている",
-    "Backgrounds": "2号機系直通の後継個体\n「100倍数の年は閏年でないが、200倍数だと閏年」という法則から命名された"
+    "Backgrounds": "2号機系直通の後継個体"
   },
   {
     "Num": 222,
@@ -356,6 +354,18 @@
     "GenderType": "Neutral",
     "Class": "マスタートリプル",
     "Class_EN": "Master Triples 9"
+  },
+  {
+    "Num": 400,
+    "Name": "マタウルウ",
+    "Name_EN": "Leap-againer",
+    "FormalName": "ナンバーテールズ400番機",
+    "ModelNumber": "NumberTales #400",
+    "CodeName": "四〇〇",
+    "GenderType": "Neutral",
+    "Class": "百倍番(ハンドレッズデジッツ)",
+    "Class_EN": "Hundrets-Digits",
+    "Backgrounds": "「100倍数の年は閏年でないが、400倍数だと閏年」という（グレゴリオ暦の）400年周期法則から命名された"
   },
   {
     "Num": 444,
