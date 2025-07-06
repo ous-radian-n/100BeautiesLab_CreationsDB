@@ -67,8 +67,9 @@
           "SafetyTexts_ForRanks": {
             "R2_Great": ["保証", "保証(稀に奇行有)"],
             "R3_Good": ["安全", "安全(奇行有)"],
-            "R4_Normal": ["危害無", "危害無(奇行有)"],
-            "R5_NotSoGood": ["調整中"],
+            "R4plus_BasicOrSpecific": ["恐らく安全"],
+            "R4_Normal": ["無危害", "無危害(奇行有)"],
+            "R5_NotSoGood": ["調整中", "恐らく無危害"],
             "R6_Bad": ["注意"],
             "R7_Worst": ["厳重注意"],
             "R2plus_Extended": ["完全保証"]
