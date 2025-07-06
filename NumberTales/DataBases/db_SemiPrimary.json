@@ -12,7 +12,7 @@
     "GenderType": "Female",
     "Height_cm": 152,
     "ConceptAge": 18,
-    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "Weight_kg": { "HideText": "非公開" },
     "BustSize": "D",
     "TailsUnit": "サソリ型3本（それぞれ11束[節]）",
     "Class": "仮説型ハイナンバー",
@@ -430,8 +430,11 @@
     "SPCodeName": "㐂",
     "SPCodeName_EN": "Jackpot",
     "Height_cm": 161,
-    "ConceptAge": {"value" :32, "about": "概算値"},
-    "Weight_kg": [{ "value": 50 }, {"value": 3, "about": "バックパック(拡張I/O機器)"}],
+    "ConceptAge": { "value": 32, "about": "概算値" },
+    "Weight_kg": [
+      { "value": 50 },
+      { "value": 3, "about": "バックパック(拡張I/O機器)" }
+    ],
     "BustSize": "AA",
     "TailsUnit": "キツネ(特殊)型3束x7本",
     "GenderType": "Neutral",
@@ -449,7 +452,11 @@
     "Num": "777.Jackpot",
     "FormalName": "ナンバーテールズ特殊個体[ラッキーセブンアール]\nナンバーテールズ777番機-ジャックポット",
     "ModelNumber": "APHR-NT VIIx3.R\nNumberTales #777.Jackpot",
-    "Weight_kg": [{ "value": 50 }, {"value": 5, "about": "バックパック(娯楽装備)"}, {"value": 3, "about": "娯楽装備専用アドオン"}],
+    "Weight_kg": [
+      { "value": 50 },
+      { "value": 5, "about": "バックパック(娯楽装備)" },
+      { "value": 3, "about": "娯楽装備専用アドオン" }
+    ],
     "NumerospecAbout": "スロットゲーム拡張アドオンにより運勢を娯楽的に見せる"
   },
   {

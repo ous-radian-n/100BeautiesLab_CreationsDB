@@ -5,7 +5,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xA",
     "Images": {
-      "conseptImage_PNGName": "cnsp_image0xA"
+      "concept_PNGName": "cnsp_image0xA"
     },
     "Name": "エース",
     "Name_EN": "Ace",
@@ -85,7 +85,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xB",
     "Images": {
-      "conseptImage_PNGName": "cnsp_image0xB"
+      "concept_PNGName": "cnsp_image0xB"
     },
     "Name": "ベータ",
     "Name_EN": "Beta",
@@ -176,7 +176,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xC",
     "Images": {
-      "conseptImage_PNGName": "cnsp_image0xC"
+      "concept_PNGName": "cnsp_image0xC"
     },
     "Name": "セレス",
     "Name_EN": "Ceres",
@@ -186,7 +186,7 @@
     "Height_cm": [{ "value": 151, "about": "推定" }],
     "ConceptAge": { "value": 17, "about": "推定" },
     "AnivDay": { "Day": { "DayOfMonth": 12, "Month": "Jun" } },
-    "Weight_kg": { "about": { "HideText": "未公開希望" } },
+    "Weight_kg": { "HideText": "未公開希望" },
     "TailsUnit": "犬型3本",
     "Class": "ヘキサデミカル-テールズ",
     "Class_EN": "HexademicalTales",
@@ -267,7 +267,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xD",
     "Images": {
-      "conseptImage_PNGName": "cnsp_image0xD"
+      "concept_PNGName": "cnsp_image0xD"
     },
     "Name": "デプス",
     "Name_EN": "Depth",
@@ -277,7 +277,7 @@
     "Height_cm": [{ "value": 130, "about": "推定" }],
     "ConceptAge": { "value": 12, "about": "推定" },
     "AnivDay": { "Day": { "DayOfMonth": 13, "Month": "Jun" } },
-    "Weight_kg": { "about": { "HideText": "未公開希望" } },
+    "Weight_kg": { "HideText": "未公開希望" },
     "BustSize": "E",
     "TailsUnit": "狐型4本",
     "Class": "ヘキサデミカル-テールズ",
@@ -359,7 +359,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xE",
     "Images": {
-      "conseptImage_PNGName": "cnsp_image0xE"
+      "concept_PNGName": "cnsp_image0xE"
     },
     "Name": "エネ",
     "Name_EN": "Enè",
@@ -441,7 +441,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xF",
     "Images": {
-      "conseptImage_PNGName": "cnsp_image0xF"
+      "concept_PNGName": "cnsp_image0xF"
     },
     "Name": "フォルテ",
     "Name_EN": "Forte",
@@ -451,7 +451,7 @@
     "Height_cm": [{ "value": 160, "about": "推定" }],
     "ConceptAge": { "about": "不詳" },
     "AnivDay": { "Day": { "DayOfMonth": 15, "Month": "Jun" } },
-    "Weight_kg": { "about": { "HideText": "？？？" } },
+    "Weight_kg": { "HideText": "？？？" },
     "BustSize": "J",
     "TailsUnit": "狐型6本",
     "Class": "ヘキサデミカル-テールズ",
