@@ -1853,6 +1853,8 @@
     ],
     "ConceptAge": 14,
     "Weight_kg": 39,
+    "BustSize": "A",
+    "TailsUnit": "キツネ(枝分かれ)型2本(上2束1本+下1束1本)",
     "Class": "デュアルスリーズ",
     "Class_EN": "Dual Sum-3s",
     "FirstPersonCalling": "僕",
