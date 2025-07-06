@@ -8205,7 +8205,7 @@
         "DayAbout": { "HideText": "？？？" }
       }
     ],
-    "Weight_kg": [{ "about": { "HideText": "？？？" } }],
+    "Weight_kg": { "HideText": "？？？" },
     "BustSize": "A",
     "Class": "営業補助用個体",
     "Class_EN": "for Consulting Assistant",
