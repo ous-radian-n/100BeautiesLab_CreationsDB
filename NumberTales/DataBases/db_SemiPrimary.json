@@ -12,7 +12,7 @@
     "GenderType": "Female",
     "Height_cm": 152,
     "ConceptAge": 18,
-    "Weight_kg": { "about": { "HideText": "非公開" } },
+    "Weight_kg": { "HideText": "非公開" },
     "BustSize": "D",
     "TailsUnit": "サソリ型3本（それぞれ11束[節]）",
     "Class": "仮説型ハイナンバー",
