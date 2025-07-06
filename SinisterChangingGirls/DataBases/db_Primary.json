@@ -15,19 +15,13 @@
     "GenderType": "Female",
     "Class": "",
     "Class_EN": "",
-    "Height_cm": { "_Jump": { "title": "NumberTales", "file": "db_Primary" } },
-    "Weight_kg": { "_Jump": { "title": "NumberTales", "file": "db_Primary" } },
     "Age": {
       "_Jump": {
-        "title": "NumberTales",
-        "file": "db_Primary",
         "dataTag": "ConceptAge"
       }
     },
     "BirthDay": {
       "_Jump": {
-        "title": "NumberTales",
-        "file": "db_Primary",
         "dataTag": "AnivDay",
         "_Search": { "hashTag": "DayAbout", "key": "誕生日" }
       }
@@ -36,19 +30,7 @@
     "Hobby": "",
     "SpetialSkill": "",
     "Favor": "",
-    "Unlike": "",
-    "FirstPersonCalling": {
-      "_Jump": { "title": "NumberTales", "file": "db_Primary" }
-    },
-    "SecondPersonCalling": {
-      "_Jump": { "title": "NumberTales", "file": "db_Primary" }
-    },
-    "ThirdPersonCalling": {
-      "_Jump": { "title": "NumberTales", "file": "db_Primary" }
-    },
-    "AbilityStats": {
-      "_Jump": { "title": "NumberTales", "file": "db_Primary" }
-    }
+    "Unlike": ""
   },
   {
     "Drc": "NE",
