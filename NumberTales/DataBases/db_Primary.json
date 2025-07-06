@@ -1068,7 +1068,7 @@
           "Comments": "優しくてとてもいい人、なんだけど……"
         },
         {
-          "Num": "2(-alt)",
+          "Num": "2-alt",
           "Comments": "皆のもとに来れる日を待ってるよ！"
         }
       ],
@@ -8088,7 +8088,7 @@
     }
   },
   {
-    "Num": "2(-alt)",
+    "Num": "2-alt",
     "Progress": "released",
     "Images": {
       "concept_PNGName": "cnsp_image2-alt"

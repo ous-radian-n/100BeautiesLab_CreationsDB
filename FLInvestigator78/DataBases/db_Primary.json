@@ -210,7 +210,7 @@
       "Name": "三笠 めぐ",
       "Name_EN": "Meg Mikasa",
       "Height_cm": 166,
-      "Weight_kg": { "about": { "HideText": "非公開" } },
+      "Weight_kg": [{ "about": { "HideText": "非公開" } }],
       "Age": 19,
       "BirthDay": { "Day": { "DayOfMonth": 3, "Month": "Apr" } }
     },
