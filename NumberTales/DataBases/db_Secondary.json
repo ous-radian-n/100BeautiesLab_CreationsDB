@@ -5,7 +5,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xA",
     "Images": {
-      "concept_PNGName": "cnsp_image0xA"
+      "concept_PNGName": "cnsp_img0xA"
     },
     "Name": "エース",
     "Name_EN": "Ace",
@@ -85,7 +85,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xB",
     "Images": {
-      "concept_PNGName": "cnsp_image0xB"
+      "concept_PNGName": "cnsp_img0xB"
     },
     "Name": "ベータ",
     "Name_EN": "Beta",
@@ -176,7 +176,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xC",
     "Images": {
-      "concept_PNGName": "cnsp_image0xC"
+      "concept_PNGName": "cnsp_img0xC"
     },
     "Name": "セレス",
     "Name_EN": "Ceres",
@@ -267,7 +267,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xD",
     "Images": {
-      "concept_PNGName": "cnsp_image0xD"
+      "concept_PNGName": "cnsp_img0xD"
     },
     "Name": "デプス",
     "Name_EN": "Depth",
@@ -359,7 +359,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xE",
     "Images": {
-      "concept_PNGName": "cnsp_image0xE"
+      "concept_PNGName": "cnsp_img0xE"
     },
     "Name": "エネ",
     "Name_EN": "Enè",
@@ -441,7 +441,7 @@
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
     "Num": "0xF",
     "Images": {
-      "concept_PNGName": "cnsp_image0xF"
+      "concept_PNGName": "cnsp_img0xF"
     },
     "Name": "フォルテ",
     "Name_EN": "Forte",
