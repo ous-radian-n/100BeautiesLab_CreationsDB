@@ -35,7 +35,7 @@
     "ModelNumber": "APHR-NT [MP]121-*****",
     "CodeName": "一二一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4組丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -45,7 +45,7 @@
     "ModelNumber": "APHR-NT [MP]122-*****",
     "CodeName": "一二二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5組乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -139,7 +139,7 @@
     "ModelNumber": "APHR-NT [MP]131-*****",
     "CodeName": "一三一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5組丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -159,7 +159,7 @@
     "ModelNumber": "APHR-NT [MP]133-*****",
     "CodeName": "一三三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7組乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -239,8 +239,8 @@
     "ModelNumber": "APHR-NT [MP]141-*****",
     "CodeName": "一四一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6組",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 142,
@@ -271,8 +271,8 @@
     "ModelNumber": "APHR-NT [MP]144-*****",
     "CodeName": "一四四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9組",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 145,
@@ -345,7 +345,7 @@
     "ModelNumber": "APHR-NT [MP]151-*****",
     "CodeName": "一五一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -385,7 +385,7 @@
     "ModelNumber": "APHR-NT [MP]155-*****",
     "CodeName": "一五五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -449,7 +449,7 @@
     "ModelNumber": "APHR-NT [MP]161-*****",
     "CodeName": "一六一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -499,7 +499,7 @@
     "ModelNumber": "APHR-NT [MP]166-*****",
     "CodeName": "一六六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -549,8 +549,8 @@
     "ModelNumber": "APHR-NT [MP]171-*****",
     "CodeName": "一七一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.A"
   },
   {
     "Num": 172,
@@ -609,8 +609,8 @@
     "ModelNumber": "APHR-NT [MP]177-*****",
     "CodeName": "一七七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B"
   },
   {
     "Num": 178,
@@ -649,7 +649,7 @@
     "ModelNumber": "APHR-NT [MP]181-*****",
     "CodeName": "一八一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -719,7 +719,7 @@
     "ModelNumber": "APHR-NT [MP]188-*****",
     "CodeName": "一八八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -749,7 +749,7 @@
     "ModelNumber": "APHR-NT [MP]191-*****",
     "CodeName": "一九一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -829,7 +829,7 @@
     "ModelNumber": "APHR-NT [MP]199-*****",
     "CodeName": "一九九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -939,7 +939,7 @@
     "ModelNumber": "APHR-NT [MP]211-*****",
     "CodeName": "二一一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -949,7 +949,7 @@
     "ModelNumber": "APHR-NT [MP]212-*****",
     "CodeName": "二一二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -1042,7 +1042,7 @@
     "ModelNumber": "APHR-NT [MP]221-*****",
     "CodeName": "二二一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -1078,7 +1078,7 @@
     "Weight_kg": 41,
     "BustSize": "AA",
     "TailsUnit": "サソリ型2本（各11束[節]）\n+キツネ型3本",
-    "Class": "デュオトリプル7型甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -1088,7 +1088,7 @@
     "ModelNumber": "APHR-NT [MP]224-*****",
     "CodeName": "二二四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {
@@ -1098,8 +1098,8 @@
     "ModelNumber": "APHR-NT [MP]225-*****",
     "CodeName": "二二五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 226,
@@ -1108,7 +1108,7 @@
     "ModelNumber": "APHR-NT [MP]226-*****",
     "CodeName": "二二六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -1118,7 +1118,7 @@
     "ModelNumber": "APHR-NT [MP]227-*****",
     "CodeName": "二二七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
@@ -1128,8 +1128,8 @@
     "ModelNumber": "APHR-NT [MP]228-*****",
     "CodeName": "二二八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 229,
@@ -1138,7 +1138,7 @@
     "ModelNumber": "APHR-NT [MP]229-*****",
     "CodeName": "二二九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A"
   },
   {
@@ -1168,7 +1168,7 @@
     "ModelNumber": "APHR-NT [MP]232-*****",
     "CodeName": "二三二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -1178,7 +1178,7 @@
     "ModelNumber": "APHR-NT [MP]233-*****",
     "CodeName": "二三三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -1268,7 +1268,7 @@
     "ModelNumber": "APHR-NT [MP]242-*****",
     "CodeName": "二四二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -1290,7 +1290,7 @@
     "ModelNumber": "APHR-NT [MP]244-*****",
     "CodeName": "二四四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -1370,8 +1370,8 @@
     "ModelNumber": "APHR-NT [MP]252-*****",
     "CodeName": "二五二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.A"
   },
   {
     "Num": 253,
@@ -1404,8 +1404,8 @@
     "SPCodeName": "0xFF",
     "SPCodeName_EN": "Last of Byte",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III",
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B",
     "Backgrounds": "1バイト値の最大値（16進法）から由来"
   },
   {
@@ -1479,7 +1479,7 @@
     "ModelNumber": "APHR-NT [MP]262-*****",
     "CodeName": "二六二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -1519,7 +1519,7 @@
     "ModelNumber": "APHR-NT [MP]266-*****",
     "CodeName": "二六六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -1579,7 +1579,7 @@
     "ModelNumber": "APHR-NT [MP]272-*****",
     "CodeName": "二七二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -1629,7 +1629,7 @@
     "ModelNumber": "APHR-NT [MP]277-*****",
     "CodeName": "二七七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -1679,8 +1679,8 @@
     "ModelNumber": "APHR-NT [MP]282-*****",
     "CodeName": "二八二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.A"
   },
   {
     "Num": 283,
@@ -1739,8 +1739,8 @@
     "ModelNumber": "APHR-NT [MP]288-*****",
     "CodeName": "二八八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 289,
@@ -1779,7 +1779,7 @@
     "ModelNumber": "APHR-NT [MP]292-*****",
     "CodeName": "二九二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -1849,7 +1849,7 @@
     "ModelNumber": "APHR-NT [MP]299-*****",
     "CodeName": "二九九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -1969,7 +1969,7 @@
     "ModelNumber": "APHR-NT [MP]311-*****",
     "CodeName": "三一一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -1989,7 +1989,7 @@
     "ModelNumber": "APHR-NT [MP]313-*****",
     "CodeName": "三一三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -2084,7 +2084,7 @@
     "ModelNumber": "APHR-NT [MP]322-*****",
     "CodeName": "三二二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -2094,7 +2094,7 @@
     "ModelNumber": "APHR-NT [MP]323-*****",
     "CodeName": "三二三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -2174,7 +2174,7 @@
     "ModelNumber": "APHR-NT [MP]331-*****",
     "CodeName": "三三一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -2184,7 +2184,7 @@
     "ModelNumber": "APHR-NT [MP]332-*****",
     "CodeName": "三三二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {
@@ -2207,7 +2207,7 @@
     "ModelNumber": "APHR-NT [MP]334-*****",
     "CodeName": "三三四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -2217,7 +2217,7 @@
     "ModelNumber": "APHR-NT [MP]335-*****",
     "CodeName": "三三五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
@@ -2227,8 +2227,8 @@
     "ModelNumber": "APHR-NT [MP]336-*****",
     "CodeName": "三三六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.A"
   },
   {
     "Num": 337,
@@ -2237,7 +2237,7 @@
     "ModelNumber": "APHR-NT [MP]337-*****",
     "CodeName": "三三七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A"
   },
   {
@@ -2247,7 +2247,7 @@
     "ModelNumber": "APHR-NT [MP]338-*****",
     "CodeName": "三三八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -2257,8 +2257,8 @@
     "ModelNumber": "APHR-NT [MP]339-*****",
     "CodeName": "三三九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 340,
@@ -2297,7 +2297,7 @@
     "ModelNumber": "APHR-NT [MP]343-*****",
     "CodeName": "三四三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -2307,7 +2307,7 @@
     "ModelNumber": "APHR-NT [MP]344-*****",
     "CodeName": "三四四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -2397,7 +2397,7 @@
     "ModelNumber": "APHR-NT [MP]353-*****",
     "CodeName": "三五三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -2417,7 +2417,7 @@
     "ModelNumber": "APHR-NT [MP]355-*****",
     "CodeName": "三五五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -2497,8 +2497,8 @@
     "ModelNumber": "APHR-NT [MP]363-*****",
     "CodeName": "三六三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.A"
   },
   {
     "Num": 364,
@@ -2534,8 +2534,8 @@
     "CodeName": "三六六",
     "SPCodeName_EN": "Days of Leaped-Year",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI",
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B",
     "Backgrounds": "閏年の日数(366日)から由来\nなお「200(マタウルウ)」や「365(イヤース)」とは、姉妹関係はない"
   },
   {
@@ -2607,7 +2607,7 @@
     "ModelNumber": "APHR-NT [MP]373-*****",
     "CodeName": "三七三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -2647,7 +2647,7 @@
     "ModelNumber": "APHR-NT [MP]377-*****",
     "CodeName": "三七七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -2707,7 +2707,7 @@
     "ModelNumber": "APHR-NT [MP]383-*****",
     "CodeName": "三八三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -2761,7 +2761,7 @@
     "ModelNumber": "APHR-NT [MP]388-*****",
     "CodeName": "三八八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -2811,8 +2811,8 @@
     "ModelNumber": "APHR-NT [MP]393-*****",
     "CodeName": "三九三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 394,
@@ -2871,8 +2871,8 @@
     "ModelNumber": "APHR-NT [MP]399-*****",
     "CodeName": "三九九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 401,
@@ -2981,8 +2981,8 @@
     "ModelNumber": "APHR-NT [MP]411-*****",
     "CodeName": "四一一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 412,
@@ -3011,8 +3011,8 @@
     "ModelNumber": "APHR-NT [MP]414-*****",
     "CodeName": "四一四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 415,
@@ -3091,7 +3091,7 @@
     "ModelNumber": "APHR-NT [MP]422-*****",
     "CodeName": "四二二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -3111,7 +3111,7 @@
     "ModelNumber": "APHR-NT [MP]424-*****",
     "CodeName": "四二四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -3201,7 +3201,7 @@
     "ModelNumber": "APHR-NT [MP]433-*****",
     "CodeName": "四三三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -3211,7 +3211,7 @@
     "ModelNumber": "APHR-NT [MP]434-*****",
     "CodeName": "四三四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -3281,8 +3281,8 @@
     "ModelNumber": "APHR-NT [MP]441-*****",
     "CodeName": "四四一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 442,
@@ -3291,7 +3291,7 @@
     "ModelNumber": "APHR-NT [MP]442-*****",
     "CodeName": "四四二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -3301,7 +3301,7 @@
     "ModelNumber": "APHR-NT [MP]443-*****",
     "CodeName": "四四三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
@@ -3324,7 +3324,7 @@
     "ModelNumber": "APHR-NT [MP]445-*****",
     "CodeName": "四四五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A"
   },
   {
@@ -3334,7 +3334,7 @@
     "ModelNumber": "APHR-NT [MP]446-*****",
     "CodeName": "四四六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -3344,8 +3344,8 @@
     "ModelNumber": "APHR-NT [MP]447-*****",
     "CodeName": "四四七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 448,
@@ -3354,7 +3354,7 @@
     "ModelNumber": "APHR-NT [MP]448-*****",
     "CodeName": "四四八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -3364,7 +3364,7 @@
     "ModelNumber": "APHR-NT [MP]449-*****",
     "CodeName": "四四九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {
@@ -3414,7 +3414,7 @@
     "ModelNumber": "APHR-NT [MP]454-*****",
     "CodeName": "四五四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -3424,7 +3424,7 @@
     "ModelNumber": "APHR-NT [MP]455-*****",
     "CodeName": "四五五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -3517,7 +3517,7 @@
     "ModelNumber": "APHR-NT [MP]464-*****",
     "CodeName": "四六四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -3537,7 +3537,7 @@
     "ModelNumber": "APHR-NT [MP]466-*****",
     "CodeName": "四六六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -3617,8 +3617,8 @@
     "ModelNumber": "APHR-NT [MP]474-*****",
     "CodeName": "四七四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 475,
@@ -3647,8 +3647,8 @@
     "ModelNumber": "APHR-NT [MP]477-*****",
     "CodeName": "四七七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 478,
@@ -3717,7 +3717,7 @@
     "ModelNumber": "APHR-NT [MP]484-*****",
     "CodeName": "四八四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -3757,7 +3757,7 @@
     "ModelNumber": "APHR-NT [MP]488-*****",
     "CodeName": "四八八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -3817,7 +3817,7 @@
     "ModelNumber": "APHR-NT [MP]494-*****",
     "CodeName": "四九四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -3869,7 +3869,7 @@
     "ModelNumber": "APHR-NT [MP]499-*****",
     "CodeName": "四九九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -3993,7 +3993,7 @@
     "ModelNumber": "APHR-NT [MP]511-*****",
     "CodeName": "五一一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -4033,7 +4033,7 @@
     "ModelNumber": "APHR-NT [MP]515-*****",
     "CodeName": "五一五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -4103,8 +4103,8 @@
     "ModelNumber": "APHR-NT [MP]522-*****",
     "CodeName": "五二二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.A"
   },
   {
     "Num": 523,
@@ -4133,8 +4133,8 @@
     "ModelNumber": "APHR-NT [MP]525-*****",
     "CodeName": "五二五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 526,
@@ -4213,7 +4213,7 @@
     "ModelNumber": "APHR-NT [MP]533-*****",
     "CodeName": "五三三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -4233,7 +4233,7 @@
     "ModelNumber": "APHR-NT [MP]535-*****",
     "CodeName": "五三五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -4323,7 +4323,7 @@
     "ModelNumber": "APHR-NT [MP]544-*****",
     "CodeName": "五四四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -4333,7 +4333,7 @@
     "ModelNumber": "APHR-NT [MP]545-*****",
     "CodeName": "五四五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -4393,7 +4393,7 @@
     "ModelNumber": "APHR-NT [MP]551-*****",
     "CodeName": "五五一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
@@ -4403,8 +4403,8 @@
     "ModelNumber": "APHR-NT [MP]552-*****",
     "CodeName": "五五二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 553,
@@ -4413,7 +4413,7 @@
     "ModelNumber": "APHR-NT [MP]553-*****",
     "CodeName": "五五三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A"
   },
   {
@@ -4423,7 +4423,7 @@
     "ModelNumber": "APHR-NT [MP]554-*****",
     "CodeName": "五五四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -4446,7 +4446,7 @@
     "ModelNumber": "APHR-NT [MP]556-*****",
     "CodeName": "五五六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -4456,7 +4456,7 @@
     "ModelNumber": "APHR-NT [MP]557-*****",
     "CodeName": "五五七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {
@@ -4466,8 +4466,8 @@
     "ModelNumber": "APHR-NT [MP]558-*****",
     "CodeName": "五五八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.A"
   },
   {
     "Num": 559,
@@ -4476,7 +4476,7 @@
     "ModelNumber": "APHR-NT [MP]559-*****",
     "CodeName": "五五九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -4536,7 +4536,7 @@
     "ModelNumber": "APHR-NT [MP]565-*****",
     "CodeName": "五六五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -4546,7 +4546,7 @@
     "ModelNumber": "APHR-NT [MP]566-*****",
     "CodeName": "五六六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -4638,7 +4638,7 @@
     "ModelNumber": "APHR-NT [MP]575-*****",
     "CodeName": "五七五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -4658,7 +4658,7 @@
     "ModelNumber": "APHR-NT [MP]577-*****",
     "CodeName": "五七七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -4738,8 +4738,8 @@
     "ModelNumber": "APHR-NT [MP]585-*****",
     "CodeName": "五八五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.A"
   },
   {
     "Num": 586,
@@ -4768,8 +4768,8 @@
     "ModelNumber": "APHR-NT [MP]588-*****",
     "CodeName": "五八八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 589,
@@ -4838,7 +4838,7 @@
     "ModelNumber": "APHR-NT [MP]595-*****",
     "CodeName": "五九五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -4878,7 +4878,7 @@
     "ModelNumber": "APHR-NT [MP]599-*****",
     "CodeName": "五九九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -4998,7 +4998,7 @@
     "ModelNumber": "APHR-NT [MP]611-*****",
     "CodeName": "六一一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -5048,7 +5048,7 @@
     "ModelNumber": "APHR-NT [MP]616-*****",
     "CodeName": "六一六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -5108,7 +5108,7 @@
     "ModelNumber": "APHR-NT [MP]622-*****",
     "CodeName": "六二二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -5148,7 +5148,7 @@
     "ModelNumber": "APHR-NT [MP]626-*****",
     "CodeName": "六二六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -5218,8 +5218,8 @@
     "ModelNumber": "APHR-NT [MP]633-*****",
     "CodeName": "六三三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.A"
   },
   {
     "Num": 634,
@@ -5250,8 +5250,8 @@
     "ModelNumber": "APHR-NT [MP]636-*****",
     "CodeName": "六三六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B"
   },
   {
     "Num": 637,
@@ -5330,7 +5330,7 @@
     "ModelNumber": "APHR-NT [MP]644-*****",
     "CodeName": "六四四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -5350,7 +5350,7 @@
     "ModelNumber": "APHR-NT [MP]646-*****",
     "CodeName": "六四六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -5440,7 +5440,7 @@
     "ModelNumber": "APHR-NT [MP]655-*****",
     "CodeName": "六五五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -5450,7 +5450,7 @@
     "ModelNumber": "APHR-NT [MP]656-*****",
     "CodeName": "六五六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -5500,7 +5500,7 @@
     "ModelNumber": "APHR-NT [MP]661-*****",
     "CodeName": "六六一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A"
   },
   {
@@ -5510,7 +5510,7 @@
     "ModelNumber": "APHR-NT [MP]662-*****",
     "CodeName": "六六二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -5520,8 +5520,8 @@
     "ModelNumber": "APHR-NT [MP]663-*****",
     "CodeName": "六六三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B"
   },
   {
     "Num": 664,
@@ -5530,7 +5530,7 @@
     "ModelNumber": "APHR-NT [MP]664-*****",
     "CodeName": "六六四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -5540,7 +5540,7 @@
     "ModelNumber": "APHR-NT [MP]665-*****",
     "CodeName": "六六五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {
@@ -5566,7 +5566,7 @@
     "ModelNumber": "APHR-NT [MP]667-*****",
     "CodeName": "六六七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -5576,7 +5576,7 @@
     "ModelNumber": "APHR-NT [MP]668-*****",
     "CodeName": "六六八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
@@ -5586,8 +5586,8 @@
     "ModelNumber": "APHR-NT [MP]669-*****",
     "CodeName": "六六九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.A"
   },
   {
     "Num": 670,
@@ -5656,7 +5656,7 @@
     "ModelNumber": "APHR-NT [MP]676-*****",
     "CodeName": "六七六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -5666,7 +5666,7 @@
     "ModelNumber": "APHR-NT [MP]677-*****",
     "CodeName": "六七七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -5756,7 +5756,7 @@
     "ModelNumber": "APHR-NT [MP]686-*****",
     "CodeName": "六八六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -5776,7 +5776,7 @@
     "ModelNumber": "APHR-NT [MP]688-*****",
     "CodeName": "六八八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -5860,8 +5860,8 @@
     "SPCodeName": "轆轤",
     "SPCodeName_EN": "Rotaly Cup Maker",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III",
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.A",
     "Backgrounds": "「69(ロック)」「96(クルリ)」「969(クロック)」とは、姉妹関係ではなく従姉妹関係がある"
   },
   {
@@ -5891,8 +5891,8 @@
     "ModelNumber": "APHR-NT [MP]699-*****",
     "CodeName": "六九九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B"
   },
   {
     "Num": 700,
@@ -6011,8 +6011,8 @@
     "ModelNumber": "APHR-NT [MP]711-*****",
     "CodeName": "七一一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.A"
   },
   {
     "Num": 712,
@@ -6071,8 +6071,8 @@
     "ModelNumber": "APHR-NT [MP]717-*****",
     "CodeName": "七一七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B"
   },
   {
     "Num": 718,
@@ -6121,7 +6121,7 @@
     "ModelNumber": "APHR-NT [MP]722-*****",
     "CodeName": "七二二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -6171,7 +6171,7 @@
     "ModelNumber": "APHR-NT [MP]727-*****",
     "CodeName": "七二七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -6231,7 +6231,7 @@
     "ModelNumber": "APHR-NT [MP]733-*****",
     "CodeName": "七三三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -6271,7 +6271,7 @@
     "ModelNumber": "APHR-NT [MP]737-*****",
     "CodeName": "七三七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -6341,8 +6341,8 @@
     "ModelNumber": "APHR-NT [MP]744-*****",
     "CodeName": "七四四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 745,
@@ -6371,8 +6371,8 @@
     "ModelNumber": "APHR-NT [MP]747-*****",
     "CodeName": "七四七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 748,
@@ -6463,7 +6463,7 @@
     "ModelNumber": "APHR-NT [MP]755-*****",
     "CodeName": "七五五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -6483,7 +6483,7 @@
     "ModelNumber": "APHR-NT [MP]757-*****",
     "CodeName": "七五七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -6573,7 +6573,7 @@
     "ModelNumber": "APHR-NT [MP]766-*****",
     "CodeName": "七六六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -6583,7 +6583,7 @@
     "ModelNumber": "APHR-NT [MP]767-*****",
     "CodeName": "七六七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -6623,8 +6623,8 @@
     "ModelNumber": "APHR-NT [MP]771-*****",
     "CodeName": "七七一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B"
   },
   {
     "Num": 772,
@@ -6633,7 +6633,7 @@
     "ModelNumber": "APHR-NT [MP]772-*****",
     "CodeName": "七七二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -6643,7 +6643,7 @@
     "ModelNumber": "APHR-NT [MP]773-*****",
     "CodeName": "七七三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {
@@ -6657,8 +6657,8 @@
     "SPCodeName": "名無",
     "SPCodeName_EN": "Non-Named",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 775,
@@ -6667,7 +6667,7 @@
     "ModelNumber": "APHR-NT [MP]775-*****",
     "CodeName": "七七五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -6677,7 +6677,7 @@
     "ModelNumber": "APHR-NT [MP]776-*****",
     "CodeName": "七七六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
@@ -6716,7 +6716,7 @@
     "ModelNumber": "APHR-NT [MP]778-*****",
     "CodeName": "七七八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A"
   },
   {
@@ -6726,7 +6726,7 @@
     "ModelNumber": "APHR-NT [MP]779-*****",
     "CodeName": "七七九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -6808,7 +6808,7 @@
     "ModelNumber": "APHR-NT [MP]787-*****",
     "CodeName": "七八七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -6818,7 +6818,7 @@
     "ModelNumber": "APHR-NT [MP]788-*****",
     "CodeName": "七八八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -6908,7 +6908,7 @@
     "ModelNumber": "APHR-NT [MP]797-*****",
     "CodeName": "七九七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -6928,7 +6928,7 @@
     "ModelNumber": "APHR-NT [MP]799-*****",
     "CodeName": "七九九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -7052,7 +7052,7 @@
     "ModelNumber": "APHR-NT [MP]811-*****",
     "CodeName": "八一一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -7122,7 +7122,7 @@
     "ModelNumber": "APHR-NT [MP]818-*****",
     "CodeName": "八一八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -7162,8 +7162,8 @@
     "ModelNumber": "APHR-NT [MP]822-*****",
     "CodeName": "八二二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.A"
   },
   {
     "Num": 823,
@@ -7222,8 +7222,8 @@
     "ModelNumber": "APHR-NT [MP]828-*****",
     "CodeName": "八二八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 829,
@@ -7274,7 +7274,7 @@
     "ModelNumber": "APHR-NT [MP]833-*****",
     "CodeName": "八三三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -7324,7 +7324,7 @@
     "ModelNumber": "APHR-NT [MP]838-*****",
     "CodeName": "八三八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -7384,7 +7384,7 @@
     "ModelNumber": "APHR-NT [MP]844-*****",
     "CodeName": "八四四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -7424,7 +7424,7 @@
     "ModelNumber": "APHR-NT [MP]848-*****",
     "CodeName": "八四八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -7494,8 +7494,8 @@
     "ModelNumber": "APHR-NT [MP]855-*****",
     "CodeName": "八五五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.A"
   },
   {
     "Num": 856,
@@ -7524,8 +7524,8 @@
     "ModelNumber": "APHR-NT [MP]858-*****",
     "CodeName": "八五八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 859,
@@ -7604,7 +7604,7 @@
     "ModelNumber": "APHR-NT [MP]866-*****",
     "CodeName": "八六六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -7624,7 +7624,7 @@
     "ModelNumber": "APHR-NT [MP]868-*****",
     "CodeName": "八六八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -7714,7 +7714,7 @@
     "ModelNumber": "APHR-NT [MP]877-*****",
     "CodeName": "八七七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -7724,7 +7724,7 @@
     "ModelNumber": "APHR-NT [MP]878-*****",
     "CodeName": "八七八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -7754,7 +7754,7 @@
     "ModelNumber": "APHR-NT [MP]881-*****",
     "CodeName": "八八一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {
@@ -7764,8 +7764,8 @@
     "ModelNumber": "APHR-NT [MP]882-*****",
     "CodeName": "八八二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9型",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型乙組",
+    "Class_EN": "Duet Triples IX.B"
   },
   {
     "Num": 883,
@@ -7774,7 +7774,7 @@
     "ModelNumber": "APHR-NT [MP]883-*****",
     "CodeName": "八八三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -7784,7 +7784,7 @@
     "ModelNumber": "APHR-NT [MP]884-*****",
     "CodeName": "八八四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
@@ -7794,8 +7794,8 @@
     "ModelNumber": "APHR-NT [MP]885-*****",
     "CodeName": "八八五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 886,
@@ -7804,7 +7804,7 @@
     "ModelNumber": "APHR-NT [MP]886-*****",
     "CodeName": "八八六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A"
   },
   {
@@ -7814,7 +7814,7 @@
     "ModelNumber": "APHR-NT [MP]887-*****",
     "CodeName": "八八七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -7837,7 +7837,7 @@
     "ModelNumber": "APHR-NT [MP]889-*****",
     "CodeName": "八八九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -7927,7 +7927,7 @@
     "ModelNumber": "APHR-NT [MP]898-*****",
     "CodeName": "八九八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -7937,7 +7937,7 @@
     "ModelNumber": "APHR-NT [MP]899-*****",
     "CodeName": "八九九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -8057,7 +8057,7 @@
     "ModelNumber": "APHR-NT [MP]911-*****",
     "CodeName": "九一一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型乙",
+    "Class": "デュオトリプル2型乙組",
     "Class_EN": "Duet Triples II.B"
   },
   {
@@ -8137,7 +8137,7 @@
     "ModelNumber": "APHR-NT [MP]919-*****",
     "CodeName": "九一九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型丙",
+    "Class": "デュオトリプル1型丙組",
     "Class_EN": "Duet Triples I.C"
   },
   {
@@ -8167,7 +8167,7 @@
     "ModelNumber": "APHR-NT [MP]922-*****",
     "CodeName": "九二二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型乙",
+    "Class": "デュオトリプル4型乙組",
     "Class_EN": "Duet Triples IV.B"
   },
   {
@@ -8237,7 +8237,7 @@
     "ModelNumber": "APHR-NT [MP]929-*****",
     "CodeName": "九二九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型丙",
+    "Class": "デュオトリプル2型丙組",
     "Class_EN": "Duet Triples II.C"
   },
   {
@@ -8277,8 +8277,8 @@
     "ModelNumber": "APHR-NT [MP]933-*****",
     "CodeName": "九三三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 934,
@@ -8337,8 +8337,8 @@
     "ModelNumber": "APHR-NT [MP]939-*****",
     "CodeName": "九三九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 940,
@@ -8387,7 +8387,7 @@
     "ModelNumber": "APHR-NT [MP]944-*****",
     "CodeName": "九四四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型乙",
+    "Class": "デュオトリプル8型乙組",
     "Class_EN": "Duet Triples VIII.B"
   },
   {
@@ -8437,7 +8437,7 @@
     "ModelNumber": "APHR-NT [MP]949-*****",
     "CodeName": "九四九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型丙",
+    "Class": "デュオトリプル4型丙組",
     "Class_EN": "Duet Triples IV.C"
   },
   {
@@ -8497,7 +8497,7 @@
     "ModelNumber": "APHR-NT [MP]955-*****",
     "CodeName": "九五五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型乙",
+    "Class": "デュオトリプル1型乙組",
     "Class_EN": "Duet Triples I.B"
   },
   {
@@ -8537,7 +8537,7 @@
     "ModelNumber": "APHR-NT [MP]959-*****",
     "CodeName": "九五九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型丙",
+    "Class": "デュオトリプル5型丙組",
     "Class_EN": "Duet Triples V.C"
   },
   {
@@ -8609,8 +8609,8 @@
     "ModelNumber": "APHR-NT [MP]966-*****",
     "CodeName": "九六六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型甲組",
+    "Class_EN": "Duet Triples III.A"
   },
   {
     "Num": 967,
@@ -8642,8 +8642,8 @@
     "CodeName": "九六九",
     "SPCodeName_EN": "Clock",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI",
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B",
     "Backgrounds": "「69(ロック)」「96(クルリ)」と姉妹関係があり、「696(ロクロ)」と従妹関係がある"
   },
   {
@@ -8723,7 +8723,7 @@
     "ModelNumber": "APHR-NT [MP]977-*****",
     "CodeName": "九七七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型乙",
+    "Class": "デュオトリプル5型乙組",
     "Class_EN": "Duet Triples V.B"
   },
   {
@@ -8743,7 +8743,7 @@
     "ModelNumber": "APHR-NT [MP]979-*****",
     "CodeName": "九七九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型丙",
+    "Class": "デュオトリプル7型丙組",
     "Class_EN": "Duet Triples VII.C"
   },
   {
@@ -8833,7 +8833,7 @@
     "ModelNumber": "APHR-NT [MP]988-*****",
     "CodeName": "九八八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型乙",
+    "Class": "デュオトリプル7型乙組",
     "Class_EN": "Duet Triples VII.B"
   },
   {
@@ -8843,7 +8843,7 @@
     "ModelNumber": "APHR-NT [MP]989-*****",
     "CodeName": "九八九",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型丙",
+    "Class": "デュオトリプル8型丙組",
     "Class_EN": "Duet Triples VIII.C"
   },
   {
@@ -8863,7 +8863,7 @@
     "ModelNumber": "APHR-NT [MP]991-*****",
     "CodeName": "九九一",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1型甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -8873,7 +8873,7 @@
     "ModelNumber": "APHR-NT [MP]992-*****",
     "CodeName": "九九二",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2型甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
@@ -8883,8 +8883,8 @@
     "ModelNumber": "APHR-NT [MP]993-*****",
     "CodeName": "九九三",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル3型",
-    "Class_EN": "Duet Triples III"
+    "Class": "デュオトリプル3型乙組",
+    "Class_EN": "Duet Triples III.B"
   },
   {
     "Num": 994,
@@ -8893,7 +8893,7 @@
     "ModelNumber": "APHR-NT [MP]994-*****",
     "CodeName": "九九四",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4型甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A"
   },
   {
@@ -8903,7 +8903,7 @@
     "ModelNumber": "APHR-NT [MP]995-*****",
     "CodeName": "九九五",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5型甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -8913,8 +8913,8 @@
     "ModelNumber": "APHR-NT [MP]996-*****",
     "CodeName": "九九六",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6型",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型乙組",
+    "Class_EN": "Duet Triples VI.B"
   },
   {
     "Num": 997,
@@ -8923,7 +8923,7 @@
     "ModelNumber": "APHR-NT [MP]997-*****",
     "CodeName": "九九七",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7型甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -8933,7 +8933,7 @@
     "ModelNumber": "APHR-NT [MP]998-*****",
     "CodeName": "九九八",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8型甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {

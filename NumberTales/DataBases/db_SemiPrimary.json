@@ -260,7 +260,7 @@
     "CodeName": "一一二",
     "SPCodeName_EN": "Eleventy Two",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル4組甲",
+    "Class": "デュオトリプル4型甲組",
     "Class_EN": "Duet Triples IV.A",
     "Backgrounds": "「12(トウジ)」の類似個体で、こちらは販売用\n以下「119(ハクトク)」まで同様（下2桁に対応）"
   },
@@ -275,7 +275,7 @@
     "CodeName": "一一三",
     "SPCodeName_EN": "Eleventy Three",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル5組甲",
+    "Class": "デュオトリプル5型甲組",
     "Class_EN": "Duet Triples V.A"
   },
   {
@@ -289,8 +289,8 @@
     "CodeName": "一一四",
     "SPCodeName_EN": "Eleventy Four",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル6組",
-    "Class_EN": "Duet Triples VI"
+    "Class": "デュオトリプル6型甲組",
+    "Class_EN": "Duet Triples VI.A"
   },
   {
     "Num": 115,
@@ -303,7 +303,7 @@
     "CodeName": "一一五",
     "SPCodeName_EN": "Eleventy Five",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル7組甲",
+    "Class": "デュオトリプル7型甲組",
     "Class_EN": "Duet Triples VII.A"
   },
   {
@@ -317,7 +317,7 @@
     "CodeName": "一一六",
     "SPCodeName_EN": "Eleventy Six",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル8組甲",
+    "Class": "デュオトリプル8型甲組",
     "Class_EN": "Duet Triples VIII.A"
   },
   {
@@ -331,8 +331,8 @@
     "CodeName": "一一七",
     "SPCodeName_EN": "Eleventy Seven",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル9組",
-    "Class_EN": "Duet Triples IX"
+    "Class": "デュオトリプル9型甲組",
+    "Class_EN": "Duet Triples IX.A"
   },
   {
     "Num": 118,
@@ -345,7 +345,7 @@
     "CodeName": "一一八",
     "SPCodeName_EN": "Eleventy Eight",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル1組甲",
+    "Class": "デュオトリプル1型甲組",
     "Class_EN": "Duet Triples I.A"
   },
   {
@@ -359,7 +359,7 @@
     "CodeName": "一一九",
     "SPCodeName_EN": "Eleventy Nine",
     "GenderType": "Neutral",
-    "Class": "デュオトリプル2組甲",
+    "Class": "デュオトリプル2型甲組",
     "Class_EN": "Duet Triples II.A"
   },
   {
