@@ -1,6 +1,10 @@
 [
   {
     "BeastType": { "Beast": "Mouse" },
+    "Progress": "stillTentative",
+    "Images": {
+      "concept_PNGName": "cnsp_imgEZ1"
+    },
     "Name": "易.爾姫(ヰ.アルヂ/ヰ.アルセ゚)",
     "Name_EN": "Yì.Ěr jī",
     "CodeName": "子刻ハッカ",
@@ -26,6 +30,7 @@
   },
   {
     "BeastType": { "Beast": "Tiger" },
+    "Progress": "notProceeded",
     "Name": "姚.魁(ヤオ.クァイ)",
     "Name_EN": "Yáo.Kuí",
     "CodeName": "寅刻コーガ",
@@ -51,6 +56,7 @@
   },
   {
     "BeastType": { "Beast": "Rabbit" },
+    "Progress": "released",
     "CodeName": "卯刻ハネゝカ",
     "CodeName_EN": "Boundy Rabbitimes",
     "GenderType": "Female",
@@ -74,6 +80,7 @@
   },
   {
     "BeastType": { "Beast": "Dragon" },
+    "Progress": "released",
     "Name": "劉.元画(リウ.ユァンファ)",
     "Name_EN": "Liú.Yuán huà",
     "CodeName": "辰刻リウロン(劉龍)",
@@ -99,6 +106,7 @@
   },
   {
     "BeastType": { "Beast": "Snake" },
+    "Progress": "released",
     "Name": "花.花琳(ホゥア.フアリン)",
     "Name_EN": "huā.Huā lín",
     "CodeName": "巳刻カミツ",
@@ -124,6 +132,10 @@
   },
   {
     "BeastType": { "Beast": "Cat" },
+    "Progress": "released",
+    "Images": {
+      "concept_PNGName": "cnsp_imgEZ13"
+    },
     "Name": "姚.恋華(ヤオ.リアンファ)",
     "Name_EN": "Yáo.Liàn huá",
     "CodeName": "寅刻ネゝコ",

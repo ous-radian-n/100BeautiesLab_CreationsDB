@@ -1,16 +1,17 @@
 [
   {
+    "Drc": "N",
+    "Progress": "released",
     "_DBLink": {
       "title": "NumberTales",
       "file": "db_Primary",
       "_Search": { "hashTag": "Num", "key": "0" }
     },
-    "Drc": "N",
     "Name": "千歳 玲(れい)",
     "Name_EN": "Zeena Thouser",
     "FormalName": "零(かずない) 零(れい)",
     "FormalName_EN": "Zera Norumber",
-    "CodeName": "色欲の零時",
+    "CodeName": "色欲の正子",
     "CodeName_EN": "Lust o'clock in Midnight",
     "GenderType": "Female",
     "Class": "",
@@ -34,8 +35,12 @@
   },
   {
     "Drc": "NE",
+    "Progress": "released",
+    "Images": {
+      "concept_PNGName": "cnsp_imgNE"
+    },
     "Name": "扇 三春(みはる).ロールプラン",
-    "Name_EN": "Thirthal Arch.Rollplan",
+    "Name_EN": "Arch Thirthal.Rollplan",
     "FormalName": "扇 三春(ミハイル)",
     "FormalName_EN": "Mikhail Arch",
     "CodeName": "暴食の未明",
@@ -59,6 +64,7 @@
   },
   {
     "Drc": "E",
+    "Progress": "notProceeded",
     "Name": "六花 ルノ",
     "Name_EN": "Luno Hexacrys",
     "FormalName": null,
@@ -83,13 +89,40 @@
     "AbilityStats": ""
   },
   {
+    "Drc": "SW",
+    "Progress": "notProceeded",
+    "Name": "ミル.NuXV(ニュクスフ)",
+    "Name_EN": "Lamill.NuXV",
+    "FormalName": "獣爾余剰体 巳-拾伍",
+    "FormalName_EN": "Shou'arSurpluses VI-15",
+    "CodeName": "嫉妬の午後",
+    "CodeName_EN": "Envy o'clock in Afternoon",
+    "GenderType": "Female",
+    "Class": "",
+    "Class_EN": "",
+    "Height_cm": 159,
+    "Weight_kg": { "HideText": "非公開" },
+    "Age": { "value": 24, "about": "推定" },
+    "BirthDay": { "about": "不詳" },
+    "Character": "",
+    "Hobby": "",
+    "SpetialSkill": "",
+    "Favor": "",
+    "Unlike": "",
+    "FirstPersonCalling": "",
+    "SecondPersonCalling": "",
+    "ThirdPersonCalling": "",
+    "AbilityStats": ""
+  },
+  {
     "Drc": "W",
+    "Progress": "notProceeded",
     "Name": "神夜崎 ユノ",
     "Name_EN": "Juno Theolessnight",
     "FormalName": null,
     "FormalName_EN": null,
-    "CodeName": "虚無の夕方",
-    "CodeName_EN": "Wrath o'clock in Sunsetting",
+    "CodeName": "原罪の夕方",
+    "CodeName_EN": "Original Sin o'clock in Sunsetting",
     "GenderType": "Female",
     "Class": "",
     "Class_EN": "",
@@ -109,6 +142,10 @@
   },
   {
     "Drc": "NW",
+    "Progress": "released",
+    "Images": {
+      "concept_PNGName": "cnsp_imgNW"
+    },
     "Name": "終藤(すどう) こさと",
     "Name_EN": "Formar Endrof",
     "FormalName": "財前 小里",

@@ -1,10 +1,10 @@
 [
   {
+    "Num": "3x11",
     "Progress": "released",
     "Images": {
       "concept_PNGName": "cnsp_img3x11"
     },
-    "Num": "3x11",
     "Name": "トレッド",
     "Name_EN": "Treidre'",
     "ModelName": "ナンバーテールズ仮説11号3倍機(3x11番機(仮称))",
@@ -37,6 +37,7 @@
   },
   {
     "Num": 100,
+    "Progress": "notProceeded",
     "Name": "モモ",
     "Name_EN": "Centa",
     "ModelName": "ナンバーテールズ改良型10号機(100番機)",
@@ -61,6 +62,7 @@
   },
   {
     "Num": 101,
+    "Progress": "notProceeded",
     "Name": "ヒノマルイ",
     "Name_EN": "Sunrizer=Origin",
     "ModelName": "ナンバーテールズ試作正規型1+10号機(101番機)",
@@ -77,6 +79,7 @@
   },
   {
     "Num": 102,
+    "Progress": "notProceeded",
     "Name": "ヒノマルフ",
     "Name_EN": "Sunrizer=Twens",
     "ModelName": "ナンバーテールズ試作正規型2+10号機(102番機)",
@@ -93,6 +96,7 @@
   },
   {
     "Num": 103,
+    "Progress": "notProceeded",
     "Name": "ヒノマルミ",
     "Name_EN": "Sunrizer=Treiya",
     "ModelName": "ナンバーテールズ3+10号機(103番機)",
@@ -109,6 +113,7 @@
   },
   {
     "Num": 104,
+    "Progress": "notProceeded",
     "Name": "ヒノマルヨ",
     "Name_EN": "Sunrizer=Forna",
     "ModelName": "ナンバーテールズ4+10号機(104番機)",
@@ -124,6 +129,7 @@
   },
   {
     "Num": 105,
+    "Progress": "notProceeded",
     "Name": "ヒノマルゴ",
     "Name_EN": "Sunrizer=Fifa",
     "ModelName": "ナンバーテールズ5+10号機(105番機)",
@@ -139,6 +145,7 @@
   },
   {
     "Num": 106,
+    "Progress": "notProceeded",
     "Name": "ヒノマルム",
     "Name_EN": "Sunrizer=Sics",
     "ModelName": "ナンバーテールズ6+10号機(106番機)",
@@ -154,6 +161,7 @@
   },
   {
     "Num": 107,
+    "Progress": "notProceeded",
     "Name": "ヒノマルナ",
     "Name_EN": "Sunrizer=Sevan",
     "ModelName": "ナンバーテールズ7+10号機(107番機)",
@@ -169,6 +177,7 @@
   },
   {
     "Num": 108,
+    "Progress": "notProceeded",
     "Name": "ヒノマルヤ",
     "Name_EN": "Sunrizer=Eighas",
     "ModelName": "ナンバーテールズ8+10号機(108番機)",
@@ -184,6 +193,7 @@
   },
   {
     "Num": 109,
+    "Progress": "notProceeded",
     "Name": "ヒノマルク",
     "Name_EN": "Sunrizer=Nina",
     "ModelName": "ナンバーテールズ9+10号機(109番機)",
@@ -199,6 +209,7 @@
   },
   {
     "Num": 110,
+    "Progress": "notProceeded",
     "Name": "ハクト",
     "Name_EN": "Elevantis",
     "ModelName": "ナンバーテールズ汎用型11号機(110番機)",
@@ -251,6 +262,7 @@
   },
   {
     "Num": 112,
+    "Progress": "notProceeded",
     "Name": "ハクトウジ",
     "Name_EN": "Hudres=Twelva",
     "ModelName": "ナンバーテールズ2+11号機(112番機)",
@@ -266,6 +278,7 @@
   },
   {
     "Num": 113,
+    "Progress": "notProceeded",
     "Name": "ハクトミ",
     "Name_EN": "Hudres=Thirteena",
     "ModelName": "ナンバーテールズ3+11号機(113番機)",
@@ -280,6 +293,7 @@
   },
   {
     "Num": 114,
+    "Progress": "notProceeded",
     "Name": "ハクトヨ",
     "Name_EN": "Hudres=Forteels",
     "ModelName": "ナンバーテールズ4+11号機(114番機)",
@@ -294,6 +308,7 @@
   },
   {
     "Num": 115,
+    "Progress": "notProceeded",
     "Name": "ハクトウゴ",
     "Name_EN": "Hudres=Fifteeld",
     "ModelName": "ナンバーテールズ5+11号機(115番機)",
@@ -308,6 +323,7 @@
   },
   {
     "Num": 116,
+    "Progress": "notProceeded",
     "Name": "ハクソロク",
     "Name_EN": "Hudres=Sixteely",
     "ModelName": "ナンバーテールズ6+11号機(116番機)",
@@ -322,6 +338,7 @@
   },
   {
     "Num": 117,
+    "Progress": "notProceeded",
     "Name": "ハクトナ",
     "Name_EN": "Hudres=Sevteena",
     "ModelName": "ナンバーテールズ7+11号機(117番機)",
@@ -336,6 +353,7 @@
   },
   {
     "Num": 118,
+    "Progress": "notProceeded",
     "Name": "ハクトウヤ",
     "Name_EN": "Hudres=Eighteeld",
     "ModelName": "ナンバーテールズ8+11号機(118番機)",
@@ -350,6 +368,7 @@
   },
   {
     "Num": 119,
+    "Progress": "notProceeded",
     "Name": "ハクトク",
     "Name_EN": "Hudres=Ninteels",
     "ModelName": "ナンバーテールズ9+11号機(119番機)",
@@ -364,6 +383,7 @@
   },
   {
     "Num": 200,
+    "Progress": "notProceeded",
     "ModelName": "ナンバーテールズ汎用型2号機改(200番機)",
     "ModelNumber": "APHR-NT [MP]II.R",
     "FormalName": "ナンバーテールズ200番機",
@@ -383,6 +403,7 @@
   },
   {
     "Num": 222,
+    "Progress": "notProceeded",
     "Name": "ドッペル",
     "Name_EN": "Doppelgäns",
     "ModelName": "ナンバーテールズ仮説111番2倍機または3倍型2号機(222番機)",
@@ -397,6 +418,7 @@
   },
   {
     "Num": 333,
+    "Progress": "notProceeded",
     "Name": "トリニティア",
     "Name_EN": "Trinitia",
     "ModelName": "ナンバーテールズ3倍型3号機(333番機)",
@@ -411,6 +433,7 @@
   },
   {
     "Num": 400,
+    "Progress": "notProceeded",
     "Name": "マタウルウ",
     "Name_EN": "Leap-againer",
     "FormalName": "ナンバーテールズ400番機",
@@ -423,6 +446,7 @@
   },
   {
     "Num": 444,
+    "Progress": "notProceeded",
     "Name": "シテン",
     "Name_EN": "Quad-emperone",
     "ModelName": "ナンバーテールズ3倍型4号機(444番機)",
@@ -436,6 +460,7 @@
   },
   {
     "Num": 555,
+    "Progress": "notProceeded",
     "Name": "ハイファイブ",
     "Name_EN": "High-Fiver",
     "ModelName": "ナンバーテールズ3倍型5号機(555番機)",
@@ -522,12 +547,13 @@
     "Backgrounds": "「喜」の旧字体（「㐂」）が由来"
   },
   {
+    "Num": "777.Jackpot",
+    "Progress": "released",
     "_DBLink": {
       "title": "NumberTales",
       "file": "db_SemiPrimary",
       "_Search": { "hashTag": "Num", "key": 777 }
     },
-    "Num": "777.Jackpot",
     "ModelName": "ナンバーテールズ特殊個体[ラッキーセブンアール](777番機-ジャックポット)",
     "ModelNumber": "APHR-NT VIIx3.R",
     "FormalName": "ナンバーテールズ777番機-ジャックポット",
@@ -541,6 +567,7 @@
   },
   {
     "Num": 888,
+    "Progress": "notProceeded",
     "Name": "ムゲン",
     "Name_EN": "Infy",
     "ModelName": "ナンバーテールズ3倍型8号機(888番機)",
@@ -557,6 +584,7 @@
   },
   {
     "Num": 999,
+    "Progress": "notProceeded",
     "Name": "カンスト",
     "Name_EN": "Counstop",
     "ModelName": "ナンバーテールズ最終型9号機(999番機)",

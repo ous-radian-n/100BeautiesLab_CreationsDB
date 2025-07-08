@@ -4,6 +4,7 @@
       "Stoat": "major",
       "Num": 0
     },
+    "Progress": "stillTentative",
     "Name": "フェニクス",
     "Name_EN": "Tripper",
     "FormalName": "愚かな旅人\nフェニクス.ゼロウス",
@@ -69,6 +70,7 @@
       "Stoat": "major",
       "Num": 1
     },
+    "Progress": "stillTentative",
     "Name": "オリジン",
     "Name_EN": "Dr.Origin",
     "FormalName": "四元の魔術師\nオリジン.マギカルテット",
@@ -133,6 +135,7 @@
   },
   {
     "Card": { "Stoat": "major", "Num": 2 },
+    "Progress": "notProceeded",
     "Name": "ヨハネ",
     "Name_EN": "John",
     "FormalName": "四法の女教皇\nヨハネ.ヴィンコスティ",
@@ -197,6 +200,7 @@
   },
   {
     "Card": { "Stoat": "major", "Num": 3 },
+    "Progress": "notProceeded",
     "Name": "ウェヌス",
     "Name_EN": "Venus",
     "FormalName": "九星の女帝\nウェヌス.ハピネス",

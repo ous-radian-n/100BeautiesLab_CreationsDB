@@ -1,16 +1,18 @@
 [
   {
+    "Num": "0xA",
+    "Progress": "accepted\nremadeReleased",
     "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
-    "Num": "0xA",
     "Images": {
       "concept_PNGName": "cnsp_img0xA"
     },
     "Name": "エース",
     "Name_EN": "Ace",
     "FormalName": "ヘキサデミカル-テールズ仮説A番機",
-    "ModelNumber": "AVCR-HxT 0xA\nHexademicalTales #0xA",
+    "FormalName_EN": "HexademicalTales #0xA",
+    "ModelNumber": "AVCR-HxT 0xA",
     "GenderType": "Neutral",
     "Height_cm": [{ "value": 147, "about": "推定" }],
     "ConceptAge": { "value": 15, "about": "推定" },
@@ -80,17 +82,19 @@
     }
   },
   {
+    "Num": "0xB",
+    "Progress": "accepted\nremadeReleased",
     "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
-    "Num": "0xB",
     "Images": {
       "concept_PNGName": "cnsp_img0xB"
     },
     "Name": "ベータ",
     "Name_EN": "Beta",
     "FormalName": "ヘキサデミカル-テールズ仮説B番機",
-    "ModelNumber": "AVCR-HxT 0xB\nHexademicalTales #0xB",
+    "FormalName_EN": "HexademicalTales #0xB",
+    "ModelNumber": "AVCR-HxT 0xB",
     "GenderType": "Female",
     "Height_cm": [{ "value": 144, "about": "推定" }],
     "ConceptAge": { "value": 14, "about": "推定" },
@@ -171,17 +175,19 @@
     }
   },
   {
+    "Num": "0xC",
+    "Progress": "accepted\nremadeReleased",
     "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
-    "Num": "0xC",
     "Images": {
       "concept_PNGName": "cnsp_img0xC"
     },
     "Name": "セレス",
     "Name_EN": "Ceres",
     "FormalName": "ヘキサデミカル-テールズ仮説C番機",
-    "ModelNumber": "AVCR-HxT 0xC\nHexademicalTales #0xC",
+    "ModelNumber": "AVCR-HxT 0xC",
+    "FormalName_EN": "HexademicalTales #0xC",
     "GenderType": "Male",
     "Height_cm": [{ "value": 151, "about": "推定" }],
     "ConceptAge": { "value": 17, "about": "推定" },
@@ -262,17 +268,19 @@
     }
   },
   {
+    "Num": "0xD",
+    "Progress": "accepted\nremadeReleased",
     "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
-    "Num": "0xD",
     "Images": {
       "concept_PNGName": "cnsp_img0xD"
     },
     "Name": "デプス",
     "Name_EN": "Depth",
     "FormalName": "ヘキサデミカル-テールズ仮説D番機",
-    "ModelNumber": "AVCR-HxT 0xD\nHexademicalTales #0xD",
+    "FormalName_EN": "HexademicalTales #0xD",
+    "ModelNumber": "AVCR-HxT 0xD",
     "GenderType": "Female",
     "Height_cm": [{ "value": 130, "about": "推定" }],
     "ConceptAge": { "value": 12, "about": "推定" },
@@ -354,17 +362,19 @@
     }
   },
   {
+    "Num": "0xE",
+    "Progress": "accepted\nremadeReleased",
     "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
-    "Num": "0xE",
     "Images": {
       "concept_PNGName": "cnsp_img0xE"
     },
     "Name": "エネ",
     "Name_EN": "Enè",
     "FormalName": "ヘキサデミカル-テールズ仮説E番機",
-    "ModelNumber": "AVCR-HxT 0xE\nHexademicalTales #0xE",
+    "FormalName_EN": "HexademicalTales #0xE",
+    "ModelNumber": "AVCR-HxT 0xE",
     "GenderType": "Neutral",
     "Height_cm": [{ "value": 143, "about": "推定" }],
     "ConceptAge": { "value": 18, "about": "推定" },
@@ -436,17 +446,19 @@
     }
   },
   {
+    "Num": "0xF",
+    "Progress": "accepted\nremadeReleased",
     "SecondaryDesignedBy": "散狐アタスト\n@atast@misskey.io",
     "SecondaryCategory": "公式公認うちよそ企画",
     "SecondarySeriesTitle": "ヘキサデミカル・テールズ",
-    "Num": "0xF",
     "Images": {
       "concept_PNGName": "cnsp_img0xF"
     },
     "Name": "フォルテ",
     "Name_EN": "Forte",
     "FormalName": "ヘキサデミカル-テールズ仮説F番機",
-    "ModelNumber": "AVCR-HxT 0xF\nHexademicalTales #0xF",
+    "FormalName_EN": "HexademicalTales #0xF",
+    "ModelNumber": "AVCR-HxT 0xF",
     "GenderType": "Female",
     "Height_cm": [{ "value": 160, "about": "推定" }],
     "ConceptAge": { "about": "不詳" },
